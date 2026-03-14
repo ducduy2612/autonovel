@@ -1,10 +1,23 @@
-eval_logs/
-edit_logs/
-briefs/
+# Python
 __pycache__/
 *.pyc
-.env
 .venv/
-typeset/*.pdf
-typeset/chapters_content.tex
+
+# Secrets
+.env
+
+# Generated binaries (regenerable)
+*.mp3
 *.pdf
+*.epub
+*.png
+*.svg
+typeset/chapters_content.tex
+
+# Logs
+eval_logs/
+edit_logs/
+
+# OS
+.DS_Store
+briefs/

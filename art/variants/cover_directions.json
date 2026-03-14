@@ -1,0 +1,50 @@
+[
+  {
+    "num": 1,
+    "direction": "Diagrammatic",
+    "concept": "A precise technical cross-section of a bell's interior rendered as a scientific illustration, with standing wave geometries mapped inside the void like a cartographer charting grief.",
+    "medium": "Copper-plate engraving style with single warm ink wash accent",
+    "file": "cover_01.png",
+    "size": 2272349
+  },
+  {
+    "num": 2,
+    "direction": "Intimate",
+    "concept": "A boy's hands seen from directly above, resting palm-up on a stone workbench covered in bronze filings, a pitch-fork, and a single folded letter \u2014 the hands too still, the stillness saying everything.",
+    "medium": "Photorealistic oil painting, shallow depth of field, single candle source",
+    "file": "cover_02.png",
+    "size": 1495804
+  },
+  {
+    "num": 3,
+    "direction": "Typographic",
+    "concept": "The novel's title constructed entirely from the interference patterns of two overlapping sound waves, the letterforms emerging from resonance geometry rather than being drawn.",
+    "medium": "Pure vector geometry, black on cream, no illustration",
+    "file": "cover_03.png",
+    "size": 1931703
+  },
+  {
+    "num": 4,
+    "direction": "Atmospheric",
+    "concept": "A vast limestone bowl-city seen from its rim at blue pre-dawn, impossibly miniaturized and detailed, the single bell tower rising as the only vertical in a horizontal world of curved stone.",
+    "medium": "Watercolor with fine ink linework overlay, Piranesi spatial scale",
+    "file": "cover_04.png",
+    "size": 2515475
+  },
+  {
+    "num": 5,
+    "direction": "Abstract",
+    "concept": "The moment of a bell's casting as pure abstract expressionism \u2014 molten bronze meeting cold mold as a collision of warm and cold color fields, the violence of transformation rendered as geometry.",
+    "medium": "Reduction linocut, three-color, architectural geometry meets gestural mark",
+    "file": "cover_05.png",
+    "size": 2190783
+  },
+  {
+    "num": 6,
+    "direction": "Uncanny",
+    "concept": "A long stone corridor of the foundry seen in forced perspective, every bell in storage hung in perfect institutional rows, and one empty hook at the corridor's vanishing point where the largest bell should be.",
+    "medium": "Ink wash with obsessive fine-line architectural drafting, Shaun Tan emotional register",
+    "file": "cover_06.png",
+    "size": 2594639
+  }
+]

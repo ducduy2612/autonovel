@@ -17,7 +17,6 @@
             overflow-x: hidden;
         }
 
-        /* Background art — fixed, covers the viewport */
         .bg-art {
             position: fixed;
             top: 0; left: 0;
@@ -27,7 +26,7 @@
             z-index: 0;
         }
 
-        /* Main layout — CSS grid, two columns, centered in viewport */
+        /* Desktop: full viewport, two columns, vertically centered */
         .main-layout {
             position: relative;
             z-index: 1;
@@ -38,30 +37,32 @@
         }
 
         .main-inner {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            grid-template-rows: 1fr auto;
-            align-items: end;
+            display: flex;
             width: 100%;
             max-width: 1400px;
+            align-items: flex-end;
         }
 
-        /* Hero section (left column) */
+        /* Left column */
         .hero {
-            grid-column: 1;
-            grid-row: 1;
-            display: flex;
-            flex-direction: column;
-            justify-content: flex-end;
+            flex: 1;
             padding: 0 4rem 0 6rem;
-            gap: 2rem;
         }
 
+        /* Right column */
+        .explainer {
+            flex: 1;
+            padding: 0 6rem 0 4rem;
+            border-left: 1px solid #2a2820;
+        }
+
+        /* Title block */
         .hero-title {
             max-width: 420px;
+            margin-bottom: 2rem;
         }
 
-        .hero-title .the { 
+        .hero-title .the {
             font-family: 'Bebas Neue', sans-serif;
             font-size: 1.4rem;
             color: #b8943e;
@@ -102,9 +103,10 @@
             margin: 1.5rem 0;
         }
 
+        /* Tagline + created by */
         .hero-content {
-            flex: 1;
             max-width: 520px;
+            margin-bottom: 2rem;
         }
 
         .hero-content .tagline {
@@ -112,25 +114,19 @@
             font-style: italic;
             color: #c8c0b0;
             line-height: 1.6;
-            margin-bottom: 2rem;
+            margin-bottom: 1.5rem;
         }
 
         .hero-content .created-by {
             font-size: 1.05rem;
             color: #999080;
-            margin-bottom: 2.5rem;
         }
 
         .hero-content .created-by strong {
             color: #c8c0b0;
         }
 
-        .download-buttons {
-            display: flex;
-            gap: 1rem;
-            flex-wrap: wrap;
-        }
-
+        /* Buttons — shared style */
         .btn {
             display: inline-block;
             padding: 0.8rem 1.8rem;
@@ -161,36 +157,17 @@
             border-color: #c8941e;
         }
 
-        /* Explainer section (right column) */
-        .explainer {
-            grid-column: 2;
-            grid-row: 1;
+        .download-buttons,
+        .cta-buttons {
             display: flex;
-            flex-direction: column;
-            justify-content: flex-end;
-            padding: 0 6rem 0 4rem;
-            border-left: 1px solid #2a2820;
+            gap: 1rem;
+            flex-wrap: wrap;
         }
 
-        /* Shared button row — both columns have buttons at the same height */
-        .button-row {
-            grid-column: 1 / -1;
-            grid-row: 2;
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            padding: 2.5rem 0 0 0;
-        }
-
-        .button-row .left-buttons {
-            padding-left: 6rem;
-        }
-
-        .button-row .right-buttons {
-            padding-left: 4rem;
-        }
-
+        /* Explainer content */
         .explainer-inner {
             max-width: 520px;
+            margin-bottom: 2rem;
         }
 
         .explainer h2 {
@@ -212,14 +189,7 @@
             color: #e8e4db;
         }
 
-        .explainer .cta-buttons {
-            display: flex;
-            gap: 1rem;
-            margin-top: 2rem;
-            flex-wrap: wrap;
-        }
-
-        /* Responsive */
+        /* Responsive — stack vertically */
         @media (max-width: 1100px) {
             .main-layout {
                 height: auto;
@@ -227,36 +197,42 @@
                 align-items: flex-start;
             }
             .main-inner {
-                display: flex;
                 flex-direction: column;
+                align-items: stretch;
             }
             .hero {
                 padding: 3rem 2rem;
                 text-align: center;
             }
-            .hero-title { max-width: 100%; }
+            .hero-title {
+                max-width: 100%;
+                margin-left: auto;
+                margin-right: auto;
+            }
             .hero-title .title-main { font-size: 3rem; }
             .hero-title .divider { margin: 1.5rem auto; }
-            .hero-content { max-width: 100%; }
-            .explainer { 
-                padding: 4rem 2rem;
+            .hero-content {
+                max-width: 100%;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            .download-buttons {
+                justify-content: center;
+            }
+            .explainer {
+                padding: 3rem 2rem;
                 border-left: none;
                 border-top: 1px solid #2a2820;
-            }
-            .explainer-inner { max-width: 100%; }
-            .button-row {
-                display: flex;
-                flex-direction: column;
-                gap: 2rem;
-                padding: 2rem;
                 text-align: center;
             }
-            .button-row .left-buttons,
-            .button-row .right-buttons {
-                padding-left: 0;
+            .explainer-inner {
+                max-width: 100%;
+                margin-left: auto;
+                margin-right: auto;
             }
-            .download-buttons { justify-content: center; }
-            .cta-buttons { justify-content: center; }
+            .cta-buttons {
+                justify-content: center;
+            }
         }
     </style>
 </head>
@@ -288,6 +264,11 @@
         </p>
     </div>
 
+    <div class="download-buttons">
+        <a href="about:empty" class="btn btn-primary">Download PDF</a>
+        <a href="about:empty" class="btn">ePub</a>
+        <a href="about:empty" class="btn">Audiobook</a>
+    </div>
 </section>
 
 <section class="explainer">
@@ -301,32 +282,16 @@
             cycles of adversarial editing and professional-level review, typesets in LaTeX, 
             generates cover art, and produces audiobook scripts — all autonomously.
         </p>
-        <p>
-            The novel went through six rounds of revision, guided by an AI literary critic 
-            and professor of fiction. The final manuscript received ★★★★½ and a recommendation 
-            for publication. Every word, every edit, every ornament was produced by the agent.
-        </p>
+    </div>
+
+    <div class="cta-buttons">
+        <a href="about:empty" class="btn btn-primary">Hermes Agent</a>
+        <a href="about:empty" class="btn">autonovel on GitHub</a>
     </div>
 </section>
 
-<div class="button-row">
-    <div class="left-buttons">
-        <div class="download-buttons">
-            <a href="about:empty" class="btn btn-primary">Download PDF</a>
-            <a href="about:empty" class="btn">ePub</a>
-            <a href="about:empty" class="btn">Audiobook</a>
-        </div>
-    </div>
-    <div class="right-buttons">
-        <div class="cta-buttons">
-            <a href="about:empty" class="btn btn-primary">Hermes Agent</a>
-            <a href="about:empty" class="btn">autonovel on GitHub</a>
-        </div>
-    </div>
 </div>
-
-</div><!-- end main-inner -->
-</div><!-- end main-layout -->
+</div>
 
 </body>
 </html>

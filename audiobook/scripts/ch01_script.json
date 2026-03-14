@@ -1,0 +1,661 @@
+{
+  "chapter": 1,
+  "title": "Chapter One: The Morning Pitch",
+  "segments": [
+    {
+      "speaker": "NARRATOR",
+      "text": "[slowly] Chapter One: The Morning Pitch"
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "Cass was awake before the signal bell."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "He lay on his cot in the dark and listened to his father moving through the workshop below \u2014 the scrape of the forge rake, the clink of a pitch-gauge set down on stone. The sounds came up through the floorboards without effort. This close to the Bell Tower, everything carried."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "He pulled on his trousers and went down."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "The workshop was warm. His father had been there for an hour at least, maybe two \u2014 the forge coals were already settled from orange to red, and the air held the density of a space that had been breathed in for a while. Linseed oil and cold bronze, and underneath it the char of yesterday's casting that never quite left the stonework."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "Eddan Bellwright stood at the lathe, turning a clapper. He did not look up."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "Cass crossed to the tool bench and began laying out the pitch-gauges in order of diameter, smallest to largest. He knew what his father would need. They had done this together since Cass was eight years old, and the routine had its own grammar, as clear as a well-composed interval: this before that, here before there."
+    },
+    {
+      "speaker": "CASS",
+      "text": "Seventh of Ash Street?"
+    },
+    {
+      "speaker": "EDDAN",
+      "text": "Mm."
+    },
+    {
+      "speaker": "CASS",
+      "text": "Still a quarter-flat?"
+    },
+    {
+      "speaker": "EDDAN",
+      "text": "More like three-sixteenths."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "His father tilted the clapper on the lathe, eyeing the curve."
+    },
+    {
+      "speaker": "EDDAN",
+      "text": "Fish market's been complaining since autumn."
+    },
+    {
+      "speaker": "CASS",
+      "text": "[frustrated] I heard it in autumn. I told you in autumn."
+    },
+    {
+      "speaker": "EDDAN",
+      "text": "You tell me a lot of things."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "Cass picked up the nearest gauge and checked it for burrs."
+    },
+    {
+      "speaker": "CASS",
+      "text": "I'm just saying I was right."
+    },
+    {
+      "speaker": "EDDAN",
+      "text": "You're often right. It's one of your more irritating qualities."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "Eddan's voice had the quality it got in the workshop \u2014 flattened, focused, most of his attention on the metal."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "Cass set the gauge down. He wasn't sure if that was a compliment. With his father, the two were close enough together that it was usually easier not to investigate."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "The bells in progress hung along the iron frames that lined the eastern wall \u2014 seven of them at various stages, each one a different district's voice. Not truly silent. If Cass pressed his palm flat against the largest, the Third of the Weavers' Quarter, he could feel a faint tremor in the metal that never quite settled. The bells hummed to themselves, the accumulated vibration of two hundred years of being struck."
+    },
+    {
+      "speaker": "EDDAN",
+      "text": "Gauge."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "Cass handed him the third one along. Their fingers met on the brass handle, and Eddan held it against the half-formed clapper, reading the measurement by touch and lamplight."
+    },
+    {
+      "speaker": "EDDAN",
+      "text": "Close."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "He set the gauge down and went back to the lathe."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "Cass pulled a stool to the bench and began cleaning the smaller gauges with a strip of oiled cloth. Outside, the bakeries on the south side of Civic Square were already working \u2014 the rhythmic knock of dough against stone, the creak of oven doors. Sound traveled far at this hour."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "He had stepped wide around the door on the left when he came through the kitchen, without deciding to, like favoring a bad knee."
+    },
+    {
+      "speaker": "CASS",
+      "text": "The Third's tremor is worse. The Weavers' Quarter one. You can feel it if you put your hand on the frame."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "He said it because the silence had shifted into the kind that felt like it wanted filling. His father didn't answer immediately. The lathe turned."
+    },
+    {
+      "speaker": "EDDAN",
+      "text": "I know."
+    },
+    {
+      "speaker": "CASS",
+      "text": "Are we going to do something about it?"
+    },
+    {
+      "speaker": "EDDAN",
+      "text": "After the Seventh."
+    },
+    {
+      "speaker": "CASS",
+      "text": "The Seventh's been after for two months."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "The lathe stopped. Eddan set the clapper down on the stone bench with a sound like a period at the end of a sentence, and looked at Cass for the first time since he'd come downstairs. His face in the lamplight was unreadable in the way it had been for years \u2014 not closed, exactly, just worn smooth, like a step where the detail had been walked off."
+    },
+    {
+      "speaker": "EDDAN",
+      "text": "[firmly] After the Seventh. Hand me the fine cloth."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "Cass handed him the fine cloth."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "That was the whole argument. Here in the workshop, in the hour before the Civic Pitch, the silence between them had a different quality than the silence at the dinner table. The dinner table silence was a held breath. This one was a rest in a measure \u2014 intentional, structural, part of the composition."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "He had learned not to push past it. Pushing past it never got him anywhere, and it made his father's hands shake, and then Cass felt guilty about the shaking, and the whole thing was exhausting."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "Forty-five minutes after sunrise, his father put down his tools."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "They went out into the Square together, Eddan with his strike-hammer and the small tuning bell he carried for pitch reference, Cass a half-step behind. The Square was already filling. Not crowded \u2014 the Civic Pitch drew witnesses, not performers, and most people kept to the edges, the south arcade and the bakery steps, standing with their morning bread or their hands in their pockets, waiting."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "The Bell Tower rose at the Square's center, limestone gone gray-white with age, the bells invisible from below except as dark shapes in the open arches. Cass had climbed up there twice \u2014 once with his father, once with Perin, who had held the edge of the arch with one hand and leaned out over the city and laughed at something. He couldn't remember what. The memory had that quality: the laugh clear, the content gone."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "His father struck the signal note on the tuning bell. A single clean A. The city's first word of the day."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "Then the Tower answered."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "The Civic Pitch began with the Anchor, that low foundational tone that settled in Cass's back teeth, and built from there in the sequence Aldric Bellwright had composed two hundred years ago and no one had altered since. Seven bells in the first phrase, a rising progression that resolved on the fifth degree. Twelve bells in the second, more complex, a series of overlapping intervals that created standing harmonics in the Square's stone walls. He felt it in his back teeth first, then his jaw, then the bones behind his ears."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "He stood with his hands at his sides and let it happen."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "The Pitch was not beautiful. That was what he always had to remind himself, watching the faces of people who had traveled in from outside the city \u2014 standing in the Square with their mouths slightly open, expressions soft with something that looked like awe. It wasn't beautiful. It was correct. The difference between a painting of a doorway and an actual door. The one you could walk through."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "He tracked the intervals automatically. Third, fifth, octave, descending fourth. Resolution to the root. The sequence was patterned into him like the workshop's smell, and he let it move through his chest and ribs and the small bones behind his ears without fighting it."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "[slowly] There. In the third phrase."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "He had been hearing it for six months. A low resonance, older than the bells themselves seemed to be, a pressure in his sternum that was not pain and was not pleasure but something that occupied the space where those two things met. It sat beneath the Pitch the way a current sits beneath still water \u2014 present to anything that went deep enough."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "A question. That was the closest he could come to describing it, and he had never described it to anyone, so the description had stayed rough and unrefined in his own thinking. A question shaped like a sound."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "He pressed his tongue to the roof of his mouth. Held it there."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "The Pitch moved through its final phrase \u2014 all forty-seven bells, the full sequence, the resolution chord that landed like a hand flat on a table. Done. Certain."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "For thirty seconds, nothing moved. The birds went silent \u2014 the sparrows and the starlings that nested in the Tower's lower arches simply stopped. Not startled-stopped. They stopped the way a held note stops: complete, intentional, as though they were waiting for something. He had counted it once. Thirty seconds, give or take. Then they started again, and the Square filled with the ordinary sounds of morning."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "He had not mentioned it to anyone."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "The pressure in his chest faded slowly. He breathed out."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "His father was already walking back toward the workshop, the tuning bell in his left hand. From behind, you couldn't see the tremor in his hands. From behind, he was just a man walking across a square in the early morning, carrying his tools home."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "[pause]"
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "The Academy was a twenty-minute walk from the Bell Quarter, east along the Square's arcade and then up the slope through the merchant streets where the song-brokers set up their morning stations. Cass took the longer route past the grain market most days. He told himself it was because the light was better on the east side of the slope. This was partly true."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "He heard the under-note before he saw the stall."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "A faint pressure behind his left eye, there and then almost gone \u2014 a small thing, social-grade, the kind of minor evasion that happened a hundred times a day in any city where words had weight. He slowed without thinking and scanned the market."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "Two merchants at a grain stall, a song-broker between them, composing a delivery contract in real time. The broker was good \u2014 her phrasing was clean, her intervals precisely placed, the three-clause structure clear enough that Cass could follow the architecture from fifteen feet away. First clause: quantity and grade. Second clause: payment terms. Third clause: delivery dates."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "The second merchant \u2014 a short man with a gray coat and a counting board under his arm \u2014 sang the ratification note a half-beat late. Not late enough to void anything. Late enough that Cass's ear caught it."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "The under-note was already fading by the time he identified the source. The man wasn't lying about the money or the grain. He was lying about the dates \u2014 the soft evasion of someone who had not yet arranged his carts and was hoping the problem would resolve itself before the contract came due. Small stakes. The needle behind Cass's eye was already gone."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "The sharp kind. A clean signal \u2014 someone saying something they knew wasn't true. It was the easiest kind to read. The other kinds were harder."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "He adjusted his route by three stalls' width and walked past quickly. The flux merchant on the corner had set up a new display of solder bars, and a small handwritten sign that read CERTIFIED PITCH-CLEAN, which was either true or the most optimistic claim on the street."
+    },
+    {
+      "speaker": "CASS",
+      "text": "How certified?"
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "The merchant \u2014 a stout woman with blue-stained fingers and the slightly aggressive cheerfulness of someone who had been doing this since before dawn \u2014 looked up."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "Tested against the morning Pitch. Every bar."
+    },
+    {
+      "speaker": "CASS",
+      "text": "Which bell?"
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "She blinked."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "What?"
+    },
+    {
+      "speaker": "CASS",
+      "text": "Which bell did you test them against. The Anchor? The Seventh? They're not all the same reference."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "A pause. She had not expected this question. Most people didn't ask this question."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "The \u2014 the Anchor. The big one."
+    },
+    {
+      "speaker": "CASS",
+      "text": "Right. That's fine, then."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "He kept walking. The bars were probably fine. The Anchor was the most stable bell in the sequence. But the sign still bothered him \u2014 certified implied a process, and a process implied someone had thought it through, and he was not convinced anyone had."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "The tongue-to-roof habit was a reflex now. He knew it didn't help. Perin had taught it to him when Cass was nine, the summer before the contract, sitting in the workshop with their legs hanging off the edge of the casting table."
+    },
+    {
+      "speaker": "PERIN",
+      "text": "[softly] Press your tongue up. Like you're trying to touch your own skull from the inside. It doesn't do anything, but it gives your body something to do besides panic."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "He'd said it like he said most things: matter-of-fact, a little dry, as though the advice being useless was part of the point. You stayed in your body. You didn't float out of it just because something hurt."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "The slope steepened toward the Academy District. The streets changed character as he climbed \u2014 broader, better paved, the buildings set back behind small arcaded walkways. He passed three other students in gray wool, walking in pairs, not speaking. Morning. The Academy did not encourage casual conversation before classes. Words had legal weight; casual use was considered wasteful. Good bronze spent on a practice pour."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "Cass had his own feelings about this."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "The Academy smelled of chalk and resin \u2014 sharp enough that after three months of enrollment it had embedded itself in the gray wool of his uniform. Something between pine and turpentine. He sometimes caught it on himself at the workshop and felt the two worlds overlap in a way that was mostly unpleasant."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "He found his seat in the theory hall, third row from the front, left side. Laid out his notation paper and his pitch-stylus. The room filled around him \u2014 twenty students in gray, settling into chairs, talking in the careful, measured way people talked when they'd been trained to think of speech as currency."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "A girl named Lenne Ashvale dropped into the seat to his right. She had a stack of notation paper so thick it was bound with a leather strap, and she set it on the desk with the confidence of someone who had done all the reading and wanted the room to know it without having to say so."
+    },
+    {
+      "speaker": "CASS",
+      "text": "You're in my row."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "The row doesn't have your name on it."
+    },
+    {
+      "speaker": "CASS",
+      "text": "I sit there every day."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "And yet."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "She unknotted the leather strap and spread her papers with the particular neatness of someone who had a system."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "Proctor Fen is going to demonstrate binding intervals again. I can tell."
+    },
+    {
+      "speaker": "CASS",
+      "text": "He does it every third session."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "He did it last session. And the one before."
+    },
+    {
+      "speaker": "CASS",
+      "text": "That's twice in a row."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "Yes."
+    },
+    {
+      "speaker": "CASS",
+      "text": "So either he's lost count of his own sessions, or he thinks we're all still getting it wrong."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "We are all still getting it wrong. Ossian ratified in the wrong key last week and didn't notice for six measures."
+    },
+    {
+      "speaker": "CASS",
+      "text": "I noticed."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "What key was it actually in?"
+    },
+    {
+      "speaker": "CASS",
+      "text": "D-flat. He thought he was in C."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "How far off was the interval?"
+    },
+    {
+      "speaker": "CASS",
+      "text": "Far enough."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "He picked up his pitch-stylus and turned it over."
+    },
+    {
+      "speaker": "CASS",
+      "text": "The resin smell is worse today. Is it always this bad, or did someone refinish a floor?"
+    },
+    {
+      "speaker": "LENNE",
+      "text": "Practice room three. They refinished it over the weekend. It'll be like this for a week."
+    },
+    {
+      "speaker": "CASS",
+      "text": "A week."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "Minimum."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "She paused, stylus hovering."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "Do you actually find it worse, or are you just complaining?"
+    },
+    {
+      "speaker": "CASS",
+      "text": "Both. Those aren't mutually exclusive."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "A boy named Ossian appeared at the end of the row, looked at the available seats, and decided to sit two rows back instead, which Cass considered the first good decision he'd seen Ossian make. Ossian settled in and immediately began telling someone beside him about a contract he'd witnessed at the market."
+    },
+    {
+      "speaker": "OSSIAN",
+      "text": "[excited] The ratification was clean. Perfect third, held for a full six seconds."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "He said it with the confidence of someone who had been right about something recently and wanted the room to know."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "Cass's eye twitched."
+    },
+    {
+      "speaker": "CASS",
+      "text": "[quietly] Six seconds."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "Was it not?"
+    },
+    {
+      "speaker": "CASS",
+      "text": "Four. Maybe four and a half."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "You were there?"
+    },
+    {
+      "speaker": "CASS",
+      "text": "I walked past. I heard it."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "Lenne considered this. She had the expression she sometimes got when she was working something out \u2014 a slight tension around the eyes, her stylus moving in small absent arcs against her palm, fingering intervals."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "A four-second ratification is still valid. The minimum's four."
+    },
+    {
+      "speaker": "CASS",
+      "text": "I know it's valid. I'm saying he's wrong about the six."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "Why does it matter if he's wrong about the six?"
+    },
+    {
+      "speaker": "CASS",
+      "text": "Because he's going to go through his whole career telling clients their ratifications held for six seconds when they held for four, and the difference matters when someone challenges the contract, and he won't even know to check. He's performing certainty he doesn't have."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "You could tell him."
+    },
+    {
+      "speaker": "CASS",
+      "text": "I could. I'm not going to."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "Why not?"
+    },
+    {
+      "speaker": "CASS",
+      "text": "Because then I'd have to explain how I know, and that conversation takes longer than I have this morning."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "She opened her mouth, closed it, and turned back to her notes. He had the sense she was filing the question away for later. One of Lenne's more predictable qualities. She didn't let things go. She just agreed to table them."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "Proctor Fen arrived without ceremony, set his leather case on the desk, and looked at the class with the expression of a man who had been disappointed by rooms full of people before and saw no reason to expect today would be different."
+    },
+    {
+      "speaker": "PROCTOR_FEN",
+      "text": "[matter-of-factly] We're doing binding intervals."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "Lenne didn't say I told you so. She didn't have to. Cass could hear it in the way she straightened her stack of papers."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "The morning's primary exercise was a three-clause grain contract. Apparently what the Academy considered suitable for beginners. Cass drafted it in the assigned key, noticed the lame chord in the third clause that no one else seemed to hear \u2014 a binding that gripped one party without gripping the other \u2014 a handshake where only one hand squeezed, and composed a corrected version in a different key on a separate sheet."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "He submitted the assigned version. The correct one he folded into his coat pocket."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "Some fights weren't worth the conversation they'd start."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "On the way out, Lenne fell into step beside him in the corridor, which was either coincidence or not."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "The third clause."
+    },
+    {
+      "speaker": "CASS",
+      "text": "What about it."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "You wrote it in F. Fen asked for D."
+    },
+    {
+      "speaker": "CASS",
+      "text": "I know what Fen asked for."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "The third clause in D has a diminished seventh that doesn't resolve cleanly. If you extend the contract past thirty days, the interval goes lame."
+    },
+    {
+      "speaker": "CASS",
+      "text": "Yes."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "So you wrote it in F because F resolves cleanly over thirty days."
+    },
+    {
+      "speaker": "CASS",
+      "text": "F resolves cleanly over sixty."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "She was quiet for a few steps. The corridor did its Academy trick of carrying sound wrong \u2014 a conversation twenty feet ahead arrived too clearly, something about a dinner and someone's mother."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "You should have submitted the F version."
+    },
+    {
+      "speaker": "CASS",
+      "text": "Then I'd have to explain it to Fen."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "Yes."
+    },
+    {
+      "speaker": "CASS",
+      "text": "And Fen would want to know why I heard the diminished seventh as lame when no one else did, and then we'd be having a different conversation than the one about grain contracts."
+    },
+    {
+      "speaker": "LENNE",
+      "text": "What kind of conversation would we be having?"
+    },
+    {
+      "speaker": "CASS",
+      "text": "[tense] The kind I'm not having."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "And he pushed through the outer door into the gray morning air."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "[pause]"
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "He left by the eastern gate."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "The habit was recent \u2014 two weeks, maybe three. He didn't examine it too closely. The eastern gate faced away from the Bell Quarter, away from the Civic Square, which meant that when he turned back toward home he had to turn around, had to make the choice to look."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "He turned around."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "The Bell Tower was visible above the roofline, limestone pale against the morning sky. He could see the arches where the bells hung, dark shapes in the light. He could see the ring of old-growth trees along the bowl's rim, hornbeam and oak, their branches just beginning to show the first thin green of the season."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "The harmonic was still in his chest. Fading like the Pitch's tone \u2014 the sound gone but the vibration persisting. He had been feeling it for six months. He had no name for it. He had not told his father, because his father's hands shook worst on mornings when the Pitch ran long, and the two things felt connected in a way Cass could not yet articulate."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "This was not the under-note. The under-note had texture \u2014 greasy, curdled, the sound of a mouth shaping words the throat wanted to refuse. This was the opposite. Clean. Something that rang without dissonance, that had been sitting in the Pitch since before he was born. Waiting, maybe. Or just there, like the limestone, like the bowl itself."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "Behind him, two students were arguing about the resolution of a diminished chord, their voices carrying in the Academy's odd acoustics \u2014 the words arriving too clearly, as though the building wanted him to hear. He let them pass."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "[softly] The morning sun had cleared the bowl's rim. Long gold across the limestone arcades. He stood at the gate and let the harmonic finish fading, as he would wait for a bell's tone to finish before striking the next. You gave it space to be complete."
+    },
+    {
+      "speaker": "NARRATOR",
+      "text": "Then he shouldered his bag and walked home."
+    }
+  ],
+  "total_segments": 161,
+  "speakers": [
+    "CASS",
+    "LENNE",
+    "NARRATOR",
+    "PROCTOR_FEN",
+    "PERIN",
+    "EDDAN",
+    "OSSIAN"
+  ],
+  "total_chars": 19194
+}

@@ -4,6 +4,10 @@ version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.12"
 dependencies = [
+    "cairosvg>=2.8.2",
+    "elevenlabs>=2.39.0",
     "httpx>=0.28.1",
+    "pillow>=12.1.1",
     "python-dotenv>=1.2.2",
+    "qrcode>=8.2",
 ]

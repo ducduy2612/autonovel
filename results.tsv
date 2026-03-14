@@ -1,1 +1,17 @@
-timestamp	phase	score	words	keep_discard	description
+commit	phase	score	word_count	status	description
+c13e7d8	foundation	9	0	pass	second eval pass: outline+mystery+contradictions fixed
+6003b34	ch01	8.0	3106	keep	Chapter 1: The Morning Pitch
+c6370a3	ch02	8.32	4016	keep	Chapter 2: Song-Broker Weather
+0eecde4	ch03	8.0	3562	keep	Chapter 3: The Forty-Seven
+4fdca61	ch04	8.0	2958	keep	Chapter 4: What the Codex Doesn't Say
+2adb3d7	ch05	8.0	3495	keep	Chapter 5: Founding Day
+a40b355	ch06	8.58	3252	keep	Chapter 6: The Corda Summons (Catalyst)
+e6617ab	ch07	6.09	3670	keep	Chapter 7: What a Lame Chord Sounds Like
+3e49f8d	ch08	6.0	3438	keep	Chapter 8: Tally-Songs
+c5ce365	ch09	6.0	3138	keep	Chapter 9: The Bellwright-Corda Agreement
+c5ce365	ch10	7.0	3089	keep	Chapter 10: The Composer in the Compound
+8065094	ch11-24	-	42647	drafted	Batch draft Ch 11-24, all above 6.0
+8065094	ch13-eval	6.21	3015	keep	Ch 13: The Acoustician's Report (Midpoint)
+8065094	ch17-eval	7.24	2833	keep	Ch 17: Maret Corda (highest Act II)
+8065094	ch20-eval	6.40	3258	keep	Ch 20: Break Into Three
+8065094	ch24-eval	7.21	3019	keep	Ch 24: The Morning Pitch (Final Image)
