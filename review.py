@@ -11,22 +11,16 @@ Usage:
   python review.py --output reviews.md  # Also save human-readable copy
   python review.py --parse            # Parse last review into actionable items
 """
-import os
 import sys
 import json
 import re
 import argparse
 from pathlib import Path
 from datetime import datetime
-from dotenv import load_dotenv
+
+from config import API_KEY, API_BASE, REVIEW_MODEL, analysis_language_note
 
 BASE_DIR = Path(__file__).parent
-load_dotenv(BASE_DIR / ".env", override=True)
-
-# Use Opus for reviews — it's the best at literary analysis
-REVIEW_MODEL = os.environ.get("AUTONOVEL_REVIEW_MODEL", "claude-opus-4-6")
-API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-API_BASE = os.environ.get("AUTONOVEL_API_BASE_URL", "https://api.anthropic.com")
 
 CHAPTERS_DIR = BASE_DIR / "chapters"
 LOGS_DIR = BASE_DIR / "edit_logs"
@@ -49,6 +43,10 @@ def call_opus(prompt, max_tokens=8000):
         "model": REVIEW_MODEL,
         "max_tokens": max_tokens,
         "temperature": 0.3,
+        "system": (
+            "You are a literary reviewer providing dual-perspective manuscript analysis."
+            + analysis_language_note()
+        ),
         "messages": [{"role": "user", "content": prompt}],
     }
     print(f"Sending to {REVIEW_MODEL} ({len(prompt):,} chars)...", file=sys.stderr)

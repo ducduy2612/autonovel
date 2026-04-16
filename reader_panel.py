@@ -6,20 +6,15 @@ The disagreements between readers are where editorial decisions live.
 
 Usage: python reader_panel.py
 """
-import os
 import sys
 import json
 import re
 from pathlib import Path
 from datetime import datetime
-from dotenv import load_dotenv
+
+from config import API_KEY, API_BASE, JUDGE_MODEL, analysis_language_note
 
 BASE_DIR = Path(__file__).parent
-load_dotenv(BASE_DIR / ".env")
-
-JUDGE_MODEL = os.environ.get("AUTONOVEL_JUDGE_MODEL", "claude-opus-4-6")
-API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-API_BASE = os.environ.get("AUTONOVEL_API_BASE_URL", "https://api.anthropic.com")
 
 READERS = {
     "editor": {
@@ -33,6 +28,7 @@ READERS = {
             "earned. You are not cruel but you are precise. You've seen enough "
             "competent prose to know the difference between good and alive. "
             "You respond with valid JSON only."
+            + analysis_language_note()
         ),
     },
     "genre_reader": {
@@ -46,6 +42,7 @@ READERS = {
             "world than their story. You compare everything to Sanderson, Le Guin, "
             "Jemisin, Rothfuss, Hobb. You are generous with what you love and "
             "blunt about what bores you. You respond with valid JSON only."
+            + analysis_language_note()
         ),
     },
     "writer": {
@@ -59,6 +56,7 @@ READERS = {
             "thing you can say is 'I can see the outline.' You care about the gap "
             "between what a novel attempts and what it achieves. You respond with "
             "valid JSON only."
+            + analysis_language_note()
         ),
     },
     "first_reader": {
@@ -72,6 +70,7 @@ READERS = {
             "like 'I didn't care about this part' and 'I had to put the book down "
             "after this scene because I needed a minute.' Your feedback is emotional "
             "and honest, not analytical. You respond with valid JSON only."
+            + analysis_language_note()
         ),
     },
 }

@@ -10,24 +10,18 @@ Usage:
 
 import argparse
 import json
-import os
 import sys
-from pathlib import Path
-from dotenv import load_dotenv
 
-BASE_DIR = Path(__file__).parent
-load_dotenv(BASE_DIR / ".env")
+from config import language_instruction, API_KEY, API_BASE, WRITER_MODEL, BASE_DIR
 
-WRITER_MODEL = os.environ.get("AUTONOVEL_WRITER_MODEL", "claude-sonnet-4-6-20250217")
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-API_BASE_URL = os.environ.get("AUTONOVEL_API_BASE_URL", "https://api.anthropic.com")
+
 ANTHROPIC_BETA = "context-1m-2025-08-07"
 
 
 def call_writer(prompt, max_tokens=4000):
     import httpx
     headers = {
-        "x-api-key": ANTHROPIC_API_KEY,
+        "x-api-key": API_KEY,
         "anthropic-version": "2023-06-01",
         "anthropic-beta": ANTHROPIC_BETA,
         "content-type": "application/json",
@@ -43,11 +37,12 @@ def call_writer(prompt, max_tokens=4000):
             "novel concepts that are SPECIFIC, SURPRISING, and STRUCTURALLY "
             "SOUND. You never propose generic medieval Europe + elves. Each "
             "concept should make a reader think 'I've never seen THAT before.'"
+            + language_instruction()
         ),
         "messages": [{"role": "user", "content": prompt}],
     }
     resp = httpx.post(
-        f"{API_BASE_URL}/v1/messages",
+        f"{API_BASE}/v1/messages",
         headers=headers,
         json=payload,
         timeout=120,
@@ -123,7 +118,7 @@ def main():
                         help="Riff on an existing idea")
     args = parser.parse_args()
 
-    if not ANTHROPIC_API_KEY:
+    if not API_KEY:
         print("ERROR: Set ANTHROPIC_API_KEY in .env first")
         sys.exit(1)
 

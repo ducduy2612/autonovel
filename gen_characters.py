@@ -3,17 +3,9 @@
 One-shot characters.md generator for foundation phase.
 Reads seed.txt + voice.md + world.md + CRAFT.md, calls writer model.
 """
-import os
 import sys
-from pathlib import Path
-from dotenv import load_dotenv
 
-BASE_DIR = Path(__file__).parent
-load_dotenv(BASE_DIR / ".env")
-
-WRITER_MODEL = os.environ.get("AUTONOVEL_WRITER_MODEL", "claude-sonnet-4-6")
-API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-API_BASE = os.environ.get("AUTONOVEL_API_BASE_URL", "https://api.anthropic.com")
+from config import language_instruction, API_KEY, API_BASE, WRITER_MODEL, BASE_DIR
 
 def call_writer(prompt, max_tokens=16000):
     import httpx
@@ -32,6 +24,7 @@ def call_writer(prompt, max_tokens=16000):
             "distinctiveness. You create characters who feel like real people with "
             "contradictions, secrets, and speech patterns you can hear. "
             "You never use AI slop words. You write in clean, direct prose."
+            + language_instruction()
         ),
         "messages": [{"role": "user", "content": prompt}],
     }

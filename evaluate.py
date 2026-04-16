@@ -15,7 +15,6 @@ to tune what "good" means. The agent treats it as a black box.
 
 import argparse
 import json
-import os
 import sys
 import glob
 import re
@@ -23,21 +22,19 @@ from datetime import datetime
 from pathlib import Path
 
 # --- Configuration ---
+from config import (
+    API_KEY as ANTHROPIC_API_KEY,
+    API_BASE as API_BASE_URL,
+    JUDGE_MODEL,
+    CHAPTERS_DIR,
+    analysis_language_note,
+    get_language,
+)
+
 BASE_DIR = Path(__file__).parent
-
-# Load .env file if present
-from dotenv import load_dotenv
-load_dotenv(BASE_DIR / ".env")
-
-# Judge uses Opus 4.6 (harsh, critical). Writer uses Sonnet 4.6 (fast, long context).
-# Intentionally different to avoid self-congratulation.
-JUDGE_MODEL = os.environ.get("AUTONOVEL_JUDGE_MODEL", "claude-opus-4-6")
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-API_BASE_URL = os.environ.get("AUTONOVEL_API_BASE_URL", "https://api.anthropic.com")
 
 # Beta header to unlock 1M context window on both Opus 4.6 and Sonnet 4.6
 ANTHROPIC_BETA = "context-1m-2025-08-07"
-CHAPTERS_DIR = BASE_DIR / "chapters"
 EVAL_LOG_DIR = BASE_DIR / "eval_logs"
 EVAL_LOG_DIR.mkdir(exist_ok=True)
 
@@ -130,43 +127,51 @@ def slop_score(text):
       - sentence_length_cv: coefficient of variation (higher = more human)
       - transition_opener_ratio: fraction of paragraphs starting with transitions
       - slop_penalty: 0-10 deduction (0 = clean, 10 = pure slop)
+      - language: the language code used to select the evaluation path
     """
     words = text.lower().split()
     word_count = len(words) or 1
+    lang = get_language()
+
+    # --- English-specific pattern matching (skipped for non-English) ---
+    is_en = lang == "en"
 
     # Tier 1
     tier1_hits = []
-    for w in TIER1_BANNED:
-        c = sum(1 for token in words if token.strip(".,;:!?\"'()") == w)
-        if c > 0:
-            tier1_hits.append((w, c))
+    if is_en:
+        for w in TIER1_BANNED:
+            c = sum(1 for token in words if token.strip(".,;:!?\"'()") == w)
+            if c > 0:
+                tier1_hits.append((w, c))
 
     # Tier 2 -- count per paragraph, flag clusters
     paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
     tier2_hits = []
     tier2_cluster_count = 0
-    for w in TIER2_SUSPICIOUS:
-        c = sum(1 for token in words if token.strip(".,;:!?\"'()") == w)
-        if c > 0:
-            tier2_hits.append((w, c))
-    for para in paragraphs:
-        para_lower = para.lower()
-        hits_in_para = sum(1 for w in TIER2_SUSPICIOUS if w in para_lower)
-        if hits_in_para >= 3:
-            tier2_cluster_count += 1
+    if is_en:
+        for w in TIER2_SUSPICIOUS:
+            c = sum(1 for token in words if token.strip(".,;:!?\"'()") == w)
+            if c > 0:
+                tier2_hits.append((w, c))
+        for para in paragraphs:
+            para_lower = para.lower()
+            hits_in_para = sum(1 for w in TIER2_SUSPICIOUS if w in para_lower)
+            if hits_in_para >= 3:
+                tier2_cluster_count += 1
 
     # Tier 3
     tier3_hits = []
-    for pattern in TIER3_FILLER:
-        matches = re.findall(pattern, text, re.IGNORECASE | re.MULTILINE)
-        if matches:
-            tier3_hits.append((pattern, len(matches)))
+    if is_en:
+        for pattern in TIER3_FILLER:
+            matches = re.findall(pattern, text, re.IGNORECASE | re.MULTILINE)
+            if matches:
+                tier3_hits.append((pattern, len(matches)))
 
-    # Em dash density
+    # Em dash density  (language-agnostic)
     em_dashes = text.count("—") + text.count("--")
     em_dash_density = (em_dashes / word_count) * 1000
 
-    # Sentence length variation (coefficient of variation)
+    # Sentence length variation (coefficient of variation)  (language-agnostic)
     sentences = re.split(r'[.!?]+', text)
     sentences = [s.strip() for s in sentences if len(s.strip().split()) > 2]
     if len(sentences) > 2:
@@ -180,47 +185,53 @@ def slop_score(text):
 
     # Transition opener ratio
     transition_starts = 0
-    for para in paragraphs:
-        first_word = para.split()[0].lower().strip(".,;:!?\"'()") if para.split() else ""
-        if first_word in TRANSITION_OPENERS:
-            transition_starts += 1
+    if is_en:
+        for para in paragraphs:
+            first_word = para.split()[0].lower().strip(".,;:!?\"'()") if para.split() else ""
+            if first_word in TRANSITION_OPENERS:
+                transition_starts += 1
     transition_ratio = transition_starts / len(paragraphs) if paragraphs else 0
 
     # Fiction AI tells
     fiction_tells = []
-    for pattern in FICTION_AI_TELLS:
-        matches = re.findall(pattern, text, re.IGNORECASE)
-        if matches:
-            fiction_tells.append((pattern[:40], len(matches)))
+    if is_en:
+        for pattern in FICTION_AI_TELLS:
+            matches = re.findall(pattern, text, re.IGNORECASE)
+            if matches:
+                fiction_tells.append((pattern[:40], len(matches)))
     fiction_tell_count = sum(c for _, c in fiction_tells)
 
     # Show-don't-tell violations
     telling_count = 0
-    for pattern in TELLING_PATTERNS:
-        telling_count += len(re.findall(pattern, text, re.IGNORECASE))
+    if is_en:
+        for pattern in TELLING_PATTERNS:
+            telling_count += len(re.findall(pattern, text, re.IGNORECASE))
 
     # Structural AI tics (rhetorical formulas)
     structural_tics = []
-    for pattern in STRUCTURAL_AI_TICS:
-        matches = re.findall(pattern, text, re.IGNORECASE)
-        if matches:
-            structural_tics.append((pattern[:40], len(matches)))
+    if is_en:
+        for pattern in STRUCTURAL_AI_TICS:
+            matches = re.findall(pattern, text, re.IGNORECASE)
+            if matches:
+                structural_tics.append((pattern[:40], len(matches)))
     structural_tic_count = sum(c for _, c in structural_tics)
 
     # Composite penalty (0 = clean, 10 = disaster)
     penalty = 0.0
-    penalty += min(len(tier1_hits) * 1.5, 4.0)       # tier1: up to 4 pts
-    penalty += min(tier2_cluster_count * 1.0, 2.0)    # tier2 clusters: up to 2 pts
-    penalty += min(sum(c for _, c in tier3_hits) * 0.3, 2.0)  # tier3: up to 2 pts
+    if is_en:
+        penalty += min(len(tier1_hits) * 1.5, 4.0)       # tier1: up to 4 pts
+        penalty += min(tier2_cluster_count * 1.0, 2.0)    # tier2 clusters: up to 2 pts
+        penalty += min(sum(c for _, c in tier3_hits) * 0.3, 2.0)  # tier3: up to 2 pts
     if em_dash_density > 15:
         penalty += min((em_dash_density - 15) * 0.3, 1.0)  # em dashes: up to 1 pt (threshold raised for voice)
     if sentence_length_cv < 0.3:
         penalty += 1.0  # uniform sentence length: 1 pt
-    if transition_ratio > 0.3:
-        penalty += min(transition_ratio * 2, 1.0)  # transition abuse: up to 1 pt
-    penalty += min(fiction_tell_count * 0.3, 2.0)     # fiction AI tells: up to 2 pts
-    penalty += min(telling_count * 0.2, 1.5)          # show-don't-tell: up to 1.5 pts
-    penalty += min(structural_tic_count * 0.5, 2.0)   # structural AI tics: up to 2 pts
+    if is_en:
+        if transition_ratio > 0.3:
+            penalty += min(transition_ratio * 2, 1.0)  # transition abuse: up to 1 pt
+        penalty += min(fiction_tell_count * 0.3, 2.0)     # fiction AI tells: up to 2 pts
+        penalty += min(telling_count * 0.2, 1.5)          # show-don't-tell: up to 1.5 pts
+        penalty += min(structural_tic_count * 0.5, 2.0)   # structural AI tics: up to 2 pts
 
     penalty = min(penalty, 10.0)
 
@@ -236,6 +247,7 @@ def slop_score(text):
         "sentence_length_cv": round(sentence_length_cv, 3),
         "transition_opener_ratio": round(transition_ratio, 3),
         "slop_penalty": round(penalty, 2),
+        "language": lang,
     }
 
 
@@ -288,7 +300,8 @@ def call_judge(prompt, max_tokens=2000):
         "temperature": 0.3,
         "system": "You are a literary critic and novel editor. "
                   "You evaluate fiction with precision. Always respond with valid JSON. "
-                  "No markdown fences, no preamble -- just the JSON object.",
+                  "No markdown fences, no preamble -- just the JSON object."
+                  + analysis_language_note(),
         "messages": [
             {"role": "user", "content": prompt},
         ],
@@ -346,6 +359,137 @@ def parse_json_response(text):
         return json.loads(fixed, strict=False)
 
 
+# --- Cross-check variants (English / Vietnamese) ---
+
+_EN_FOUNDATION_CROSS_CHECKS = """\
+CROSS-CHECKS (perform these before scoring):
+1. Check all example dialogue lines against ANTI-SLOP patterns:
+   - Look for structural formulas repeated across characters
+     ("not X, but Y" / "either X, or Y" / "there's a difference")
+   - Check for AI rhetorical tics disguised as character voice
+   - Deduct from character_distinctiveness if multiple characters
+     share the same sentence structures
+2. Check for missing NEGATIVE SPACE -- what's absent?
+   - Are there gaps in the magic system that would block a specific
+     plot scene? (e.g., can Cass hear lies in written documents?
+     What happens during the climax -- what rule resolves it?)
+   - Are there characters needed for the plot who don't exist?
+   - Are there scenes the outline demands that the world can't support?
+3. Check for CONVENIENT GAPS vs DELIBERATE MYSTERY:
+   - Convenient: "the details are unclear" where specifics are needed
+   - Deliberate: withholding information from the READER while the
+     AUTHOR knows the answer. If the planning docs dodge a question
+     that a writer would need answered to draft a scene, that's a gap,
+     not an iceberg.
+4. Check the canon for INTERNAL CONTRADICTIONS:
+   - Cross-reference dates, ages, and timelines
+   - Check if character abilities match magic system rules
+   - Look for factual conflicts between documents"""
+
+_VI_FOUNDATION_CROSS_CHECKS = """\
+CROSS-CHECKS (perform these before scoring):
+1. Detect Vietnamese AI clichés in all prose and dialogue examples:
+   - Look for repetitive sentence structures across characters
+     (uniform subject-verb-object patterns, lack of Vietnamese
+     sentence-final particles like "ạ", "nhỉ", "đấy")
+   - Check for translation artifacts: word-by-word English phrasing
+     carried into Vietnamese, unnatural collocations, missing
+     context-dependent pronoun forms (tao/mày, mình, ảnh, chị, etc.)
+   - Flag prose that sounds like machine-translated English rather than
+     native Vietnamese literary writing
+2. Check for missing CULTURAL SPECIFICITY:
+   - Are Vietnamese social dynamics (family hierarchy, forms of address,
+     indirect communication patterns) reflected where relevant?
+   - Does the world-building include cultural details that feel
+     authentically rooted rather than generically Western with
+     Vietnamese names pasted on?
+   - Are food, customs, superstitions, and daily-life details specific
+     or generic?
+3. Evaluate PROSE NATURALNESS in Vietnamese:
+   - Does dialogue sound like real Vietnamese speech patterns, with
+     appropriate particle usage and natural ellipsis?
+   - Are metaphors and idioms culturally authentic rather than
+     translated English idioms?
+   - Check for register consistency: literary Vietnamese should feel
+     elevated but not stilted or bureaucratic
+4. Check the canon for INTERNAL CONTRADICTIONS:
+   - Cross-reference dates, ages, and timelines
+   - Check if character abilities match magic system rules
+   - Look for factual conflicts between documents"""
+
+_EN_CHAPTER_CROSS_CHECKS = """\
+CROSS-CHECKS (perform before scoring):
+1. QUOTE TEST: Find the 3 best sentences and 3 weakest sentences.
+   If you can't find 3 weak ones, lower your standards -- every
+   chapter has weak moments. Look for: generic phrasing where
+   specificity was possible, rhythmic monotony in any paragraph,
+   metaphors that don't come from the character's experience,
+   emotional moments that tell instead of show, transitions that
+   summarize instead of dramatize.
+2. DIALOGUE REALISM: Read all dialogue aloud (mentally). Does it
+   sound like speech or like written prose? Do characters say things
+   a 14-year-old / 60-year-old / etc. would actually say?
+3. SCENE VS SUMMARY: How much of the chapter is in-scene (moment
+   by moment, with dialogue and action) vs summary (narrator
+   compressing time)? Chapters heavy on summary score lower on
+   engagement regardless of prose quality.
+4. AI PATTERN CHECK: Look for these common AI writing patterns:
+   - Every paragraph the same length
+   - Observations always in threes (X, Y, and Z)
+   - Emotional beats that arrive on schedule rather than surprising
+   - Characters who never say the wrong thing or talk past each other
+   - Description that catalogs instead of selecting (listing 5 sensory
+     details when 2 specific ones would be sharper)
+   - Internal monologue explaining what the scene already showed
+5. EARNED VS GIVEN: Is tension earned through scene work or handed to
+   the reader through the narrator's assertions? Is mystery maintained
+   through genuine withholding or through the character conveniently
+   not thinking about things they'd think about?"""
+
+_VI_CHAPTER_CROSS_CHECKS = """\
+CROSS-CHECKS (perform before scoring):
+1. QUOTE TEST: Find the 3 best sentences and 3 weakest sentences.
+   Look for: translation-sounding phrasing where natural Vietnamese
+   idiom was possible, rhythmic monotony across paragraphs, metaphors
+   that are calqued from English rather than rooted in Vietnamese
+   literary tradition, emotional moments that tell instead of show.
+2. DIALOGUE NATURALNESS: Read all dialogue aloud (mentally). Does it
+   sound like spoken Vietnamese or like written/formal Vietnamese?
+   Check for: natural use of sentence-final particles (ạ, nhỉ, chứ,
+   đấy, nhé), appropriate pronoun choices between speakers, realistic
+   ellipsis and incomplete sentences that mirror real speech.
+3. SCENE VS SUMMARY: How much of the chapter is in-scene (moment
+   by moment, with dialogue and action) vs summary (narrator
+   compressing time)? Chapters heavy on summary score lower on
+   engagement regardless of prose quality.
+4. VIETNAMESE AI PATTERN CHECK: Look for these common AI writing
+   patterns in Vietnamese prose:
+   - Uniform paragraph rhythm and length across the chapter
+   - Overly formal or bureaucratic word choices where casual register
+     would be more natural
+   - Translation-sounding constructions (literal English syntax
+     mapped to Vietnamese words)
+   - Characters who all speak in the same register without
+     differentiation based on age, status, or relationship
+   - Missing or incorrect use of Vietnamese pronoun system
+     (anh/chị/em/ông/bà/chú/cô selected without regard to
+     relative age and social status)
+5. EARNED VS GIVEN: Is tension earned through scene work or handed to
+   the reader through the narrator's assertions? Is mystery maintained
+   through genuine withholding or through the character conveniently
+   not thinking about things they'd think about?"""
+
+
+def _get_cross_checks(prefix):
+    """Return the appropriate cross-checks string for the current language.
+
+    *prefix* is one of "FOUNDATION" or "CHAPTER".
+    """
+    lang = get_language()
+    key = f"_{lang.upper()}_{prefix}_CROSS_CHECKS"
+    return globals().get(key, _EN_FOUNDATION_CROSS_CHECKS if prefix == "FOUNDATION" else _EN_CHAPTER_CROSS_CHECKS)
+
+
 # --- Foundation Evaluation ---
 
 FOUNDATION_PROMPT = """Evaluate these fantasy novel planning documents.
@@ -387,29 +531,7 @@ OUTLINE:
 CANON (established facts):
 {canon}
 
-CROSS-CHECKS (perform these before scoring):
-1. Check all example dialogue lines against ANTI-SLOP patterns:
-   - Look for structural formulas repeated across characters
-     ("not X, but Y" / "either X, or Y" / "there's a difference")
-   - Check for AI rhetorical tics disguised as character voice
-   - Deduct from character_distinctiveness if multiple characters
-     share the same sentence structures
-2. Check for missing NEGATIVE SPACE -- what's absent?
-   - Are there gaps in the magic system that would block a specific
-     plot scene? (e.g., can Cass hear lies in written documents?
-     What happens during the climax -- what rule resolves it?)
-   - Are there characters needed for the plot who don't exist?
-   - Are there scenes the outline demands that the world can't support?
-3. Check for CONVENIENT GAPS vs DELIBERATE MYSTERY:
-   - Convenient: "the details are unclear" where specifics are needed
-   - Deliberate: withholding information from the READER while the
-     AUTHOR knows the answer. If the planning docs dodge a question
-     that a writer would need answered to draft a scene, that's a gap,
-     not an iceberg.
-4. Check the canon for INTERNAL CONTRADICTIONS:
-   - Cross-reference dates, ages, and timelines
-   - Check if character abilities match magic system rules
-   - Look for factual conflicts between documents
+{cross_checks}
 
 Score these dimensions (gap + improvement required for each):
 
@@ -517,7 +639,8 @@ invent something during drafting, your score is too high. Revise down.
 
 def evaluate_foundation():
     layers = load_layer_files()
-    prompt = FOUNDATION_PROMPT.format(**layers)
+    cross_checks = _get_cross_checks("FOUNDATION")
+    prompt = FOUNDATION_PROMPT.format(cross_checks=cross_checks, **layers)
     raw = call_judge(prompt, max_tokens=16000)
     return parse_json_response(raw)
 
@@ -567,33 +690,7 @@ PREVIOUS CHAPTER (last 1500 words):
 THE CHAPTER TO EVALUATE:
 {chapter_text}
 
-CROSS-CHECKS (perform before scoring):
-1. QUOTE TEST: Find the 3 best sentences and 3 weakest sentences.
-   If you can't find 3 weak ones, lower your standards -- every
-   chapter has weak moments. Look for: generic phrasing where
-   specificity was possible, rhythmic monotony in any paragraph,
-   metaphors that don't come from the character's experience,
-   emotional moments that tell instead of show, transitions that
-   summarize instead of dramatize.
-2. DIALOGUE REALISM: Read all dialogue aloud (mentally). Does it
-   sound like speech or like written prose? Do characters say things
-   a 14-year-old / 60-year-old / etc. would actually say?
-3. SCENE VS SUMMARY: How much of the chapter is in-scene (moment
-   by moment, with dialogue and action) vs summary (narrator
-   compressing time)? Chapters heavy on summary score lower on
-   engagement regardless of prose quality.
-4. AI PATTERN CHECK: Look for these common AI writing patterns:
-   - Every paragraph the same length
-   - Observations always in threes (X, Y, and Z)
-   - Emotional beats that arrive on schedule rather than surprising
-   - Characters who never say the wrong thing or talk past each other
-   - Description that catalogs instead of selecting (listing 5 sensory
-     details when 2 specific ones would be sharper)
-   - Internal monologue explaining what the scene already showed
-5. EARNED VS GIVEN: Is tension earned through scene work or handed to
-   the reader through the narrator's assertions? Is mystery maintained
-   through genuine withholding or through the character conveniently
-   not thinking about things they'd think about?
+{cross_checks}
 
 Score these dimensions:
 
@@ -687,7 +784,9 @@ def evaluate_chapter(chapter_num):
     prev_text = load_chapter(chapter_num - 1) if chapter_num > 1 else "(first chapter)"
     prev_tail = prev_text[-3000:] if len(prev_text) > 3000 else prev_text
 
+    cross_checks = _get_cross_checks("CHAPTER")
     prompt = CHAPTER_PROMPT.format(
+        cross_checks=cross_checks,
         voice=layers["voice"],
         world=layers["world"][:4000],  # truncate world bible
         characters=layers["characters"],

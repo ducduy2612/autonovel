@@ -3,19 +3,11 @@
 Draft a single chapter using the writer model.
 Usage: python draft_chapter.py 1
 """
-import os
 import re
 import sys
 from pathlib import Path
-from dotenv import load_dotenv
 
-BASE_DIR = Path(__file__).parent
-load_dotenv(BASE_DIR / ".env")
-
-WRITER_MODEL = os.environ.get("AUTONOVEL_WRITER_MODEL", "claude-sonnet-4-6")
-API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-API_BASE = os.environ.get("AUTONOVEL_API_BASE_URL", "https://api.anthropic.com")
-CHAPTERS_DIR = BASE_DIR / "chapters"
+from config import language_instruction, API_KEY, API_BASE, WRITER_MODEL, BASE_DIR, CHAPTERS_DIR
 
 def call_writer(prompt, max_tokens=16000):
     import httpx
@@ -37,6 +29,7 @@ def call_writer(prompt, max_tokens=16000):
             "Your prose is specific, sensory, grounded. Metaphors come from the character's "
             "experience. You vary sentence length. You trust the reader. "
             "You write the FULL chapter -- do not truncate, summarize, or skip ahead."
+            + language_instruction()
         ),
         "messages": [{"role": "user", "content": prompt}],
     }

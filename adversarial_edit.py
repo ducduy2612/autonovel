@@ -6,20 +6,14 @@ What gets cut reveals what's weakest. The cut list IS the revision plan.
 Usage: python adversarial_edit.py 1        # single chapter
        python adversarial_edit.py all      # all chapters
 """
-import os
 import sys
 import json
 import re
 from pathlib import Path
-from dotenv import load_dotenv
+
+from config import API_KEY, API_BASE, JUDGE_MODEL, CHAPTERS_DIR, analysis_language_note
 
 BASE_DIR = Path(__file__).parent
-load_dotenv(BASE_DIR / ".env")
-
-JUDGE_MODEL = os.environ.get("AUTONOVEL_JUDGE_MODEL", "claude-opus-4-6")
-API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-API_BASE = os.environ.get("AUTONOVEL_API_BASE_URL", "https://api.anthropic.com")
-CHAPTERS_DIR = BASE_DIR / "chapters"
 EDIT_LOG_DIR = BASE_DIR / "edit_logs"
 EDIT_LOG_DIR.mkdir(exist_ok=True)
 
@@ -39,6 +33,7 @@ def call_judge(prompt, max_tokens=8000):
             "You have no sentiment about good-enough sentences -- if a sentence "
             "isn't earning its place, it goes. You quote exactly from the text. "
             "You never invent or paraphrase. Always respond with valid JSON."
+            + analysis_language_note()
         ),
         "messages": [{"role": "user", "content": prompt}],
     }

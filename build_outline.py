@@ -4,20 +4,14 @@ Rebuild outline.md from the actual chapters.
 Reads each chapter, calls the LLM for a structured summary,
 and assembles into an outline that reflects the novel as-written.
 """
-import os
 import sys
 import json
 import re
 from pathlib import Path
-from dotenv import load_dotenv
+
+from config import API_KEY, API_BASE, JUDGE_MODEL, CHAPTERS_DIR, analysis_language_note
 
 BASE_DIR = Path(__file__).parent
-load_dotenv(BASE_DIR / ".env")
-
-JUDGE_MODEL = os.environ.get("AUTONOVEL_JUDGE_MODEL", "claude-sonnet-4-6")
-API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-API_BASE = os.environ.get("AUTONOVEL_API_BASE_URL", "https://api.anthropic.com")
-CHAPTERS_DIR = BASE_DIR / "chapters"
 
 def call_model(prompt, max_tokens=1500):
     import httpx
@@ -34,6 +28,7 @@ def call_model(prompt, max_tokens=1500):
             "You produce structured outline entries for novel chapters. "
             "Be precise about what HAPPENS, what CHANGES, and what threads are planted/harvested. "
             "Output valid JSON only."
+            + analysis_language_note()
         ),
         "messages": [{"role": "user", "content": prompt}],
     }

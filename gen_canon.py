@@ -2,17 +2,9 @@
 """
 Generate canon.md by extracting all hard facts from world.md + characters.md.
 """
-import os
 import sys
-from pathlib import Path
-from dotenv import load_dotenv
 
-BASE_DIR = Path(__file__).parent
-load_dotenv(BASE_DIR / ".env")
-
-WRITER_MODEL = os.environ.get("AUTONOVEL_WRITER_MODEL", "claude-sonnet-4-6")
-API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-API_BASE = os.environ.get("AUTONOVEL_API_BASE_URL", "https://api.anthropic.com")
+from config import language_instruction, API_KEY, API_BASE, WRITER_MODEL, BASE_DIR
 
 def call_writer(prompt, max_tokens=16000):
     import httpx
@@ -30,6 +22,7 @@ def call_writer(prompt, max_tokens=16000):
             "planning documents. You are precise, exhaustive, and never invent facts "
             "that aren't in the source material. Every entry must be traceable to a "
             "specific statement in the source documents."
+            + language_instruction()
         ),
         "messages": [{"role": "user", "content": prompt}],
     }

@@ -1,16 +1,8 @@
 #!/usr/bin/env python3
 """Generate outline.md from seed + world + characters + mystery + craft."""
-import os
 import sys
-from pathlib import Path
-from dotenv import load_dotenv
 
-BASE_DIR = Path(__file__).parent
-load_dotenv(BASE_DIR / ".env")
-
-WRITER_MODEL = os.environ.get("AUTONOVEL_WRITER_MODEL", "claude-sonnet-4-6")
-API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-API_BASE = os.environ.get("AUTONOVEL_API_BASE_URL", "https://api.anthropic.com")
+from config import language_instruction, API_KEY, API_BASE, WRITER_MODEL, BASE_DIR
 
 def call_writer(prompt, max_tokens=16000):
     import httpx
@@ -30,6 +22,7 @@ def call_writer(prompt, max_tokens=16000):
             "You build outlines that an author can draft from without inventing structure "
             "on the fly. Every chapter has beats, emotional arc, and try-fail cycle type. "
             "You never use AI slop words. You write in clean, direct prose."
+            + language_instruction()
         ),
         "messages": [{"role": "user", "content": prompt}],
     }

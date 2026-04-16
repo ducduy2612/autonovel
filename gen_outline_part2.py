@@ -1,16 +1,8 @@
 #!/usr/bin/env python3
 """Generate remaining chapters + foreshadowing ledger."""
-import os
 import sys
-from pathlib import Path
-from dotenv import load_dotenv
 
-BASE_DIR = Path(__file__).parent
-load_dotenv(BASE_DIR / ".env")
-
-WRITER_MODEL = os.environ.get("AUTONOVEL_WRITER_MODEL", "claude-sonnet-4-6")
-API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-API_BASE = os.environ.get("AUTONOVEL_API_BASE_URL", "https://api.anthropic.com")
+from config import language_instruction, API_KEY, API_BASE, WRITER_MODEL, BASE_DIR
 
 def call_writer(prompt, max_tokens=16000):
     import httpx
@@ -28,6 +20,7 @@ def call_writer(prompt, max_tokens=16000):
             "as the preceding chapters. Every chapter needs: POV, Location, Save the Cat beat, "
             "% mark, Emotional arc, Try-fail cycle, Beats, Plants, Payoffs, Character movement, "
             "The lie, Word count target."
+            + language_instruction()
         ),
         "messages": [{"role": "user", "content": prompt}],
     }

@@ -24,6 +24,8 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
+from config import get_language
+
 # ---------------------------------------------------------------------------
 # Constants
 # ---------------------------------------------------------------------------
@@ -71,6 +73,7 @@ def default_state() -> dict:
         "novel_score": 0.0,
         "revision_cycle": 0,
         "debts": [],
+        "language": get_language(),
     }
 
 
@@ -251,19 +254,52 @@ def run_foundation(state: dict) -> dict:
 
         # 1. Generate planning documents
         step("Generating world bible...")
-        uv_run("gen_world.py", timeout=300)
+        r = uv_run("gen_world.py", timeout=300)
+        if r.returncode == 0 and r.stdout.strip():
+            path = BASE_DIR / "world.md"
+            path.write_text(r.stdout)
+            step(f"Saved {path.name} ({len(r.stdout)} chars)")
+        else:
+            step("WARNING: world bible generation failed or empty")
 
         step("Generating characters...")
-        uv_run("gen_characters.py", timeout=300)
+        r = uv_run("gen_characters.py", timeout=300)
+        if r.returncode == 0 and r.stdout.strip():
+            path = BASE_DIR / "characters.md"
+            path.write_text(r.stdout)
+            step(f"Saved {path.name} ({len(r.stdout)} chars)")
+        else:
+            step("WARNING: characters generation failed or empty")
 
         step("Generating outline (part 1)...")
-        uv_run("gen_outline.py", timeout=300)
+        r = uv_run("gen_outline.py", timeout=300)
+        if r.returncode == 0 and r.stdout.strip():
+            path = BASE_DIR / "outline.md"
+            path.write_text(r.stdout)
+            # Also write to /tmp for gen_outline_part2.py to read
+            Path("/tmp/outline_output.md").write_text(r.stdout)
+            step(f"Saved {path.name} ({len(r.stdout)} chars)")
+        else:
+            step("WARNING: outline part 1 generation failed or empty")
 
         step("Generating outline (part 2 — foreshadowing)...")
-        uv_run("gen_outline_part2.py", timeout=300)
+        r = uv_run("gen_outline_part2.py", timeout=300)
+        if r.returncode == 0 and r.stdout.strip():
+            path = BASE_DIR / "outline.md"
+            existing = path.read_text() if path.exists() else ""
+            path.write_text(existing + "\n\n" + r.stdout)
+            step(f"Appended to {path.name} (+{len(r.stdout)} chars)")
+        else:
+            step("WARNING: outline part 2 generation failed or empty")
 
         step("Generating canon...")
-        uv_run("gen_canon.py", timeout=300)
+        r = uv_run("gen_canon.py", timeout=300)
+        if r.returncode == 0 and r.stdout.strip():
+            path = BASE_DIR / "canon.md"
+            path.write_text(r.stdout)
+            step(f"Saved {path.name} ({len(r.stdout)} chars)")
+        else:
+            step("WARNING: canon generation failed or empty")
 
         step("Running voice fingerprint...")
         uv_run("voice_fingerprint.py", timeout=300)
