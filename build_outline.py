@@ -42,13 +42,23 @@ def call_model(prompt, max_tokens=1500):
         text = re.sub(r'\n?```$', '', text)
     return json.loads(text)
 
+def discover_chapters() -> list[int]:
+    """Return sorted list of chapter numbers from files on disk."""
+    nums = []
+    for p in sorted(CHAPTERS_DIR.glob("ch_*.md")):
+        m = re.match(r"ch_(\d+)", p.name)
+        if m:
+            nums.append(int(m.group(1)))
+    return sorted(nums)
+
+
 def main():
     # Load supporting docs for context
     characters = (BASE_DIR / "characters.md").read_text()[:3000]
     
     entries = []
     
-    for ch in range(1, 20):
+    for ch in discover_chapters():
         path = CHAPTERS_DIR / f"ch_{ch:02d}.md"
         text = path.read_text()
         wc = len(text.split())
@@ -81,15 +91,22 @@ JSON only, no other text."""
         entries.append(data)
         print(f"  {ch:2d}. {title_line} ({wc}w)")
     
-    # Load existing outline header info
-    old_outline = (BASE_DIR / "outline.md").read_text()
+    # Extract title from first chapter heading
+    novel_title = "Untitled Novel"
+    if entries:
+        first_ch = (CHAPTERS_DIR / f"ch_{entries[0]['num']:02d}.md").read_text()
+        for line in first_ch.split("\n"):
+            stripped = line.strip().lstrip("# ").strip()
+            if stripped:
+                novel_title = stripped
+                break
     
     # Build new outline
     lines = []
-    lines.append("# THE SECOND SON OF THE HOUSE OF BELLS")
+    lines.append(f"# {novel_title}")
     lines.append("## Chapter Outline (reflects actual novel as-written)")
     lines.append("")
-    lines.append(f"**23 chapters, {sum(e['words'] for e in entries):,} words**")
+    lines.append(f"**{len(entries)} chapters, {sum(e['words'] for e in entries):,} words**")
     lines.append("")
     lines.append("---")
     lines.append("")
@@ -153,7 +170,7 @@ JSON only, no other text."""
     lines.append("")
     lines.append("---")
     lines.append("")
-    lines.append("*Outline rebuilt from actual chapters, Cycle 5.*")
+    lines.append("*Outline rebuilt from actual chapters.*")
     
     out = '\n'.join(lines)
     (BASE_DIR / "outline.md").write_text(out)

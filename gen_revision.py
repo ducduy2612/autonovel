@@ -8,6 +8,13 @@ from pathlib import Path
 
 from config import language_instruction, API_KEY, API_BASE, WRITER_MODEL, BASE_DIR
 
+
+def load_file(path):
+    try:
+        return Path(path).read_text()
+    except FileNotFoundError:
+        return ""
+
 def call_writer(prompt, max_tokens=16000):
     import httpx
     headers = {
@@ -52,7 +59,16 @@ def main():
     old_path = BASE_DIR / "chapters" / f"ch_{ch_num:02d}.md"
     old_text = old_path.read_text() if old_path.exists() else "(no existing draft)"
     
-    prompt = f"""Rewrite Chapter {ch_num} of "The Second Son of the House of Bells."
+    # Extract title from outline
+    outline = load_file(BASE_DIR / "outline.md")
+    title = "Untitled"
+    for line in outline.split('\n'):
+        stripped = line.strip().lstrip('# ').strip()
+        if stripped:
+            title = stripped
+            break
+    
+    prompt = f"""Rewrite Chapter {ch_num} of "{title}."
 
 REVISION BRIEF (follow this exactly):
 {brief}

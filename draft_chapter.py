@@ -57,6 +57,28 @@ def extract_next_chapter_outline(outline_text, chapter_num):
     lines = next_entry.split('\n')[:10]
     return '\n'.join(lines)
 
+def extract_title(outline_text):
+    """Extract novel title from outline.md first line."""
+    for line in outline_text.split('\n'):
+        line = line.strip().lstrip('# ').strip()
+        if line:
+            return line
+    return "Untitled"
+
+def extract_pov_character(chapter_outline_text, characters_text):
+    """Extract POV character name from chapter outline entry.
+    Looks for 'POV: Name' or '(POV: Name)' in the chapter outline.
+    Falls back to first character name found in characters.md."""
+    # Try to find POV in chapter outline
+    m = re.search(r'\(?\s*POV\s*:\s*([^,\)]+)', chapter_outline_text, re.IGNORECASE)
+    if m:
+        return m.group(1).strip()
+    # Fallback: first ## Name in characters.md
+    m = re.search(r'^##\s+(.+?)(?:\s*\()', characters_text, re.MULTILINE)
+    if m:
+        return m.group(1).strip()
+    return "the protagonist"
+
 def main():
     chapter_num = int(sys.argv[1])
     
@@ -67,9 +89,11 @@ def main():
     outline = load_file(BASE_DIR / "outline.md")
     canon = load_file(BASE_DIR / "canon.md")
     
-    # Chapter-specific context
+    # Extract dynamic values
+    title = extract_title(outline)
     chapter_outline = extract_chapter_outline(outline, chapter_num)
     next_chapter = extract_next_chapter_outline(outline, chapter_num)
+    pov = extract_pov_character(chapter_outline, characters)
     
     # Previous chapter (if exists)
     prev_path = CHAPTERS_DIR / f"ch_{chapter_num - 1:02d}.md"
@@ -79,7 +103,19 @@ def main():
     else:
         prev_tail = "(first chapter -- no previous)"
     
-    prompt = f"""Write Chapter {chapter_num} of "The Second Son of the House of Bells."
+    # Load summaries of all previous chapters for continuity context
+    summaries_dir = BASE_DIR / "summaries"
+    prev_summaries = ""
+    if summaries_dir.exists() and chapter_num > 1:
+        parts = []
+        for i in range(1, chapter_num):
+            sfile = summaries_dir / f"summary_{i:02d}.md"
+            if sfile.exists():
+                parts.append(f"Chapter {i}: {sfile.read_text().strip()}")
+        if parts:
+            prev_summaries = "\n\n".join(parts)
+    
+    prompt = f"""Write Chapter {chapter_num} of "{title}."
 
 VOICE DEFINITION (follow this exactly):
 {voice}
@@ -90,6 +126,9 @@ THIS CHAPTER'S OUTLINE (hit every beat):
 NEXT CHAPTER'S OUTLINE (for continuity -- end this chapter so it flows into the next):
 {next_chapter}
 
+PREVIOUS CHAPTERS (summaries of what happened so far):
+{prev_summaries if prev_summaries else "(no previous chapters)"}
+
 PREVIOUS CHAPTER'S ENDING (continue from here):
 {prev_tail}
 
@@ -99,18 +138,23 @@ WORLD BIBLE (reference for worldbuilding details):
 CHARACTER REGISTRY (reference for speech patterns and behavior):
 {characters}
 
+CANON (established facts -- do not contradict):
+{canon}
+
 WRITING INSTRUCTIONS:
 1. Write the COMPLETE chapter. Target ~3,200 words. Do not truncate or summarize.
-2. Third-person limited, past tense, locked to Cass's POV.
+2. Third-person limited, past tense, locked to {pov}'s POV.
 3. Hit ALL numbered beats from the outline in order.
 4. Plant ALL foreshadowing elements listed under "Plants."
-5. Show sensory detail: what Cass hears, smells, feels physically.
-6. The under-note causes specific physical pain (needle behind left eye, not vague discomfort).
+5. Show sensory detail: what {pov} hears, smells, feels physically.
+6. Ground physical sensations in specifics — not vague discomfort but
+   precise, located sensation.
 7. Dialogue follows the speech patterns defined in characters.md.
 8. No banned words from voice.md Part 1 guardrails.
 9. No AI fiction tells: no "a sense of," no "couldn't help but feel," no "eyes widened."
 10. Vary sentence length. Short sentences for impact. Longer ones to build.
-11. Metaphors from Cass's experience: sound, bronze, craft, the body's response to pitch.
+11. Metaphors from the POV character's experience and world — drawn from
+    their occupation, history, and environment.
 12. Trust the reader. Don't explain what scenes mean. Let them land.
 13. Start the chapter in scene, not with exposition. End on a moment, not a summary.
 
@@ -130,9 +174,8 @@ PATTERNS TO AVOID (these have been flagged in previous chapters):
 20. VARY paragraph length deliberately. Never more than 3 consecutive
     paragraphs of similar length. Include at least one 1-2 sentence
     paragraph and one 6+ sentence paragraph.
-21. END the chapter differently from previous chapters. Do NOT end with
-    Cass outside listening to his father work. Find the ending that
-    belongs to THIS chapter specifically.
+21. END the chapter differently from previous chapters. Find the ending
+    that belongs to THIS chapter specifically.
 22. INCLUDE at least one moment that surprises -- a character saying
     the wrong thing, an emotional beat arriving early or late, a detail
     that doesn't fit the expected pattern. Predictable excellence is
@@ -142,7 +185,7 @@ PATTERNS TO AVOID (these have been flagged in previous chapters):
     summary (narrator compressing time).
 24. DIALOGUE should sound like speech, not prose. Characters should
     occasionally stumble, interrupt, trail off, or say something
-    slightly wrong. A 14-year-old does not speak in polished epigrams.
+    slightly wrong. No character speaks in polished epigrams.
 
 Write the chapter now. Full text, beginning to end.
 """

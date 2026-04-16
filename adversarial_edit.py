@@ -147,7 +147,16 @@ def main():
         sys.exit(1)
     
     if sys.argv[1] == "all":
-        chapters = list(range(1, 25))
+        # Discover chapters dynamically from files on disk
+        chapters = []
+        for p in sorted(Path(CHAPTERS_DIR).glob("ch_*.md")):
+            m = re.match(r"ch_(\d+)", p.name)
+            if m:
+                chapters.append(int(m.group(1)))
+        chapters.sort()
+        if not chapters:
+            print("No chapter files found in chapters/")
+            sys.exit(1)
     else:
         chapters = [int(sys.argv[1])]
     

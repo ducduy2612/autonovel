@@ -142,10 +142,15 @@ def analyze_chapter(path):
 
 def main():
     results = {}
-    for ch in range(1, 25):
-        path = CHAPTERS_DIR / f"ch_{ch:02d}.md"
-        if path.exists():
-            results[f"ch_{ch:02d}"] = analyze_chapter(path)
+    for ch_path in sorted(CHAPTERS_DIR.glob("ch_*.md")):
+        m = re.match(r"ch_(\d+)", ch_path.name)
+        if m:
+            ch_num = int(m.group(1))
+            results[f"ch_{ch_num:02d}"] = analyze_chapter(ch_path)
+    
+    if not results:
+        print("No chapters found. Run after drafting.")
+        return
     
     # Compute novel-wide averages
     all_vals = list(results.values())
@@ -177,9 +182,9 @@ def main():
     print("VOICE FINGERPRINT")
     print("=" * 70)
     print(f"{'Ch':<8} {'Words':<7} {'AvgSnt':<7} {'CV':<6} {'Frag%':<7} {'Long%':<7} {'Dial%':<7} {'Mus%':<6} {'Trd%':<6} {'Bod%':<6} {'AbsPK':<6} {'HeStrt':<7}")
-    for ch in range(1, 25):
-        key = f"ch_{ch:02d}"
-        r = results[key]
+    for ch_key in sorted(k for k in results if k != "novel_average"):
+        ch_num = int(ch_key.split("_")[1])
+        r = results[ch_key]
         print(f"  {ch:<6} {r['word_count']:<7} {r['avg_sentence_length']:<7} {r['sentence_length_cv']:<6} {r['fragments_pct']:<7} {r['long_sentences_pct']:<7} {r['dialogue_ratio']:<7} {r['well_musical_pct']:<6} {r['well_trade_pct']:<6} {r['well_body_pct']:<6} {r['abstract_per_1k']:<6} {r['he_start_pct']:<7}")
     
     r = results["novel_average"]

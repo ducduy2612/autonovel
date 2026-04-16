@@ -78,7 +78,6 @@ class TestPipelineFileWriting:
             self._fake_completed_process("# Outline\n\nChapter 1."),  # gen_outline
             self._fake_completed_process("# Foreshadowing"),  # gen_outline_part2
             self._fake_completed_process("# Canon\n\nFact 1."),  # gen_canon
-            self._fake_completed_process(""),  # voice_fingerprint (no write expected)
             # Evaluation call
             self._fake_completed_process("overall_score: 8.0\nlore_score: 7.5"),
         ])

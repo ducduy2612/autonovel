@@ -38,8 +38,8 @@ world = (BASE_DIR / "world.md").read_text()
 # Voice Part 2 only
 voice = (BASE_DIR / "voice.md").read_text()
 voice_lines = voice.split('\n')
-part2_start = next(i for i, l in enumerate(voice_lines) if 'Part 2' in l)
-voice_part2 = '\n'.join(voice_lines[part2_start:])
+part2_start = next((i for i, l in enumerate(voice_lines) if 'Part 2' in l), None)
+voice_part2 = '\n'.join(voice_lines[part2_start:]) if part2_start is not None else ""
 
 prompt = f"""Build a complete character registry for this fantasy novel. This is CHARACTERS.MD --
 the definitive reference for WHO exists in this story, what drives them, how they speak,
@@ -76,9 +76,9 @@ Rules: Want and Need must be IN TENSION. Lie statable in one sentence.
 7. Metaphor domain  8. Directness vs indirectness
 Test: Remove dialogue tags. Can you tell who's speaking?
 
-BUILD THE REGISTRY WITH AT LEAST THESE CHARACTERS:
+BUILD THE REGISTRY WITH AT LEAST THESE CHARACTER ROLES:
 
-1. **Cass Bellwright** (protagonist, POV character)
+1. **Protagonist** (POV character)
    - Full wound/want/need/lie chain
    - Three sliders with justification
    - Arc type (positive/negative/flat)
@@ -87,32 +87,32 @@ BUILD THE REGISTRY WITH AT LEAST THESE CHARACTERS:
    - At least 2 secrets
    - Key relationships mapped
 
-2. **Eddan Bellwright** (father)
-   - Same depth as Cass
-   - His relationship to the sealed journals, the shaking hands
-   - What he knows and what he's hiding
+2. **Central relationship** (parent, mentor, sibling, or partner)
+   - Same depth as protagonist
+   - What they know and what they're hiding
+   - How their relationship creates tension
 
-3. **Perin Bellwright** (brother) 
-   - Even though he's absent for much of the story, he needs full depth
-   - What actually happened with the Corda contract
-   - His presence through absence
+3. **Absent/missing figure** (someone whose absence drives the plot)
+   - Even though they may not appear much, they need full depth
+   - What actually happened to them
+   - Their presence through absence
 
-4. **Maret Corda** (antagonist)
-   - Not a villain -- someone whose interests conflicts with Cass's
-   - Her own wound/want/need/lie (she should be understandable)
+4. **Antagonist**
+   - Not a villain -- someone whose interests conflict with the protagonist
+   - Their own wound/want/need/lie (they should be understandable)
 
-5. **Rector Suvaine** (Academy Chancellor)
-   - The institutional antagonist -- the system personified
-   - She believes she's protecting Cantamura
+5. **Institutional figure** (system personified)
+   - Represents the power structure
+   - Believes they're protecting something
 
-6. **Torvald Hess** (Compact leader)
-   - The outsider perspective on the system
-   - What he represents thematically
+6. **Outsider/alternative perspective**
+   - Sees the system from outside
+   - What they represent thematically
 
 7. **At least 1-2 additional characters** that the story needs
-   - A peer/friend for Cass at the Academy?
-   - Someone at the House of Corda who knows Perin?
-   - A Court Singer with divided loyalties?
+   - A peer/friend for the protagonist?
+   - Someone connected to the central conflict?
+   - A figure with divided loyalties?
 
 FOR EACH CHARACTER INCLUDE:
 - Name, age, role
@@ -127,12 +127,13 @@ FOR EACH CHARACTER INCLUDE:
 - Thematic role (what question does this character embody?)
 
 IMPORTANT:
+- Derive character names, roles, and relationships ENTIRELY from the seed concept
+  and world bible above. Do not reuse names or roles from any other story.
 - Characters must INTERCONNECT. Their wants should conflict with each other.
 - Every secret should be something that would CHANGE the story if revealed.
 - Speech patterns must be distinct enough to pass the no-tags test.
-- Give Cass habits that come from his gift (the pain, the constant listening).
-- The father's shaking hands should connect to something specific.
-- Maret Corda should be as fully realized as Cass -- a worthy antagonist.
+- Give the protagonist habits that come from their specific circumstances and abilities.
+- The antagonist should be as fully realized as the protagonist -- a worthy opponent.
 - Target ~3000-4000 words. Dense character work, not padding.
 """
 

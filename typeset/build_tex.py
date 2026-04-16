@@ -152,6 +152,18 @@ def generate_latex_header(lang: str | None = None) -> str:
     return "\n".join(lines) + "\n\n"
 
 
+def discover_chapters() -> list[int]:
+    """Return sorted list of chapter numbers from files on disk."""
+    import re as _re
+    nums = []
+    chapters_glob = sorted(Path(CHAPTERS_DIR).glob("ch_*.md"))
+    for p in chapters_glob:
+        m = _re.match(r"ch_(\d+)", p.name)
+        if m:
+            nums.append(int(m.group(1)))
+    return sorted(nums)
+
+
 def main():
     """Build chapters_content.tex from chapter markdown files."""
     chapters_tex = []
@@ -159,7 +171,7 @@ def main():
     # Patch epub metadata language before generating content
     patch_epub_metadata()
 
-    for n in range(1, 20):
+    for n in discover_chapters():
         path = os.path.join(CHAPTERS_DIR, f"ch_{n:02d}.md")
         with open(path) as f:
             text = f.read()

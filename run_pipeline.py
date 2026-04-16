@@ -37,6 +37,7 @@ CHAPTERS_DIR = BASE_DIR / "chapters"
 BRIEFS_DIR = BASE_DIR / "briefs"
 EDIT_LOGS_DIR = BASE_DIR / "edit_logs"
 EVAL_LOGS_DIR = BASE_DIR / "eval_logs"
+SUMMARIES_DIR = BASE_DIR / "summaries"
 
 FOUNDATION_THRESHOLD = 7.5
 CHAPTER_THRESHOLD = 6.0
@@ -47,6 +48,118 @@ MAX_REVISION_CYCLES = 6
 PLATEAU_DELTA = 0.3
 
 PHASE_ORDER = ["foundation", "drafting", "revision", "export"]
+
+
+# ---------------------------------------------------------------------------
+# Helpers: canon growth
+# ---------------------------------------------------------------------------
+
+def append_new_canon_entries(eval_stdout: str, chapter_num: int):
+    """Parse new_canon_entries from evaluate output and append to canon.md."""
+    # Try JSON-style: "new_canon_entries": ["fact1", "fact2"]
+    entries_block = re.findall(
+        r'"new_canon_entries"\s*:\s*\[(.*?)\]', eval_stdout, re.DOTALL)
+    facts = []
+    if entries_block:
+        facts = re.findall(r'"(.*?)"', entries_block[0])
+    
+    # Try YAML-style: new_canon_entries:
+    #   - fact1
+    #   - fact2
+    if not facts:
+        in_block = False
+        for line in eval_stdout.splitlines():
+            stripped = line.strip()
+            if stripped.startswith("new_canon_entries"):
+                in_block = True
+                continue
+            if in_block:
+                if stripped.startswith("- "):
+                    fact = stripped[2:].strip().strip('"').strip("'")
+                    if fact:
+                        facts.append(fact)
+                elif stripped and not stripped.startswith("#"):
+                    break
+    
+    if not facts:
+        return 0
+    
+    canon_path = BASE_DIR / "canon.md"
+    existing = canon_path.read_text() if canon_path.exists() else ""
+    new_section = f"\n\n## From Chapter {chapter_num}\n"
+    for fact in facts:
+        new_section += f"- {fact} (ch_{chapter_num:02d})\n"
+    
+    canon_path.write_text(existing + new_section)
+    return len(facts)
+
+
+def generate_chapter_summary(chapter_num: int) -> bool:
+    """Generate a ~200 word summary of a chapter and save to summaries/."""
+    ch_file = CHAPTERS_DIR / f"ch_{chapter_num:02d}.md"
+    if not ch_file.exists():
+        return False
+
+    chapter_text = ch_file.read_text()
+    if len(chapter_text.strip()) < 100:
+        return False
+
+    SUMMARIES_DIR.mkdir(exist_ok=True)
+
+    # Use a lightweight LLM call to summarize
+    import httpx
+    from config import API_KEY, API_BASE, WRITER_MODEL, get_language, language_instruction
+
+    if not API_KEY:
+        # Fallback: use first 200 words
+        summary = " ".join(chapter_text.split()[:200])
+        out_path = SUMMARIES_DIR / f"summary_{chapter_num:02d}.md"
+        out_path.write_text(summary)
+        return True
+
+    lang_note = ""
+    if get_language() != "en":
+        lang_note = " If the chapter is in Vietnamese, write the summary in Vietnamese."
+
+    prompt = (
+        f"Summarize this novel chapter in ~200 words. "
+        f"Include: key events, character developments, emotional beats, "
+        f"any important facts or reveals, and how the chapter ends."
+        f"{lang_note}\n\n"
+        f"CHAPTER:\n{chapter_text}"
+    )
+
+    headers = {
+        "x-api-key": API_KEY,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
+    }
+    payload = {
+        "model": WRITER_MODEL,
+        "max_tokens": 600,
+        "temperature": 0.3,
+        "system": (
+            "You summarize novel chapters concisely for use as context "
+            "when writing subsequent chapters. Focus on plot, character "
+            "changes, and established facts."
+            + language_instruction()
+        ),
+        "messages": [{"role": "user", "content": prompt}],
+    }
+
+    try:
+        resp = httpx.post(
+            f"{API_BASE}/v1/messages", headers=headers,
+            json=payload, timeout=120)
+        resp.raise_for_status()
+        summary = resp.json()["content"][0]["text"]
+    except Exception as e:
+        step(f"Summary generation failed: {e}, using first 200 words")
+        summary = " ".join(chapter_text.split()[:200])
+
+    out_path = SUMMARIES_DIR / f"summary_{chapter_num:02d}.md"
+    out_path.write_text(summary)
+    return True
 
 
 # ---------------------------------------------------------------------------
@@ -204,6 +317,92 @@ def parse_lore_score(stdout: str) -> float:
     return parse_score(stdout, "lore_score")
 
 
+def parse_weakest_dimension(stdout: str) -> tuple:
+    """Parse weakest dimension name and score from foundation eval output.
+    Returns (dimension_name, score) or ("", -1) if not found."""
+    # Look for "weakest_dimension: ..." in the eval output
+    for line in stdout.splitlines():
+        stripped = line.strip()
+        if stripped.startswith("weakest_dimension:"):
+            dim = stripped.split(":", 1)[1].strip().strip('"').strip("'")
+            # Try to find the score for this dimension
+            for l2 in stdout.splitlines():
+                s2 = l2.strip()
+                if s2.startswith(f"{dim}:") or s2.startswith(f'"{dim}"'):
+                    score_match = re.search(r'(\d+\.?\d*)', s2)
+                    if score_match:
+                        return (dim, float(score_match.group(1)))
+            return (dim, -1)
+    return ("", -1)
+
+
+def refine_foundation_doc(doc_name: str, doc_path: Path, weakest_info: str,
+                          eval_stdout: str) -> bool:
+    """Refine a single foundation document based on evaluation feedback.
+    Uses the LLM to improve the weakest aspect while preserving the rest."""
+    if not doc_path.exists():
+        return False
+
+    existing = doc_path.read_text()
+    if not existing.strip():
+        return False
+
+    import httpx
+    from config import API_KEY, API_BASE, WRITER_MODEL, get_language, language_instruction
+
+    if not API_KEY:
+        return False
+
+    lang_note = ""
+    if get_language() != "en":
+        lang_note = " The document is in Vietnamese. Keep all Vietnamese text, only revise the content."
+
+    prompt = (
+        f"You are refining a {doc_name} for a fantasy novel. "
+        f"The foundation evaluation scored it and found the weakest point:\n\n"
+        f"{weakest_info}\n\n"
+        f"Here is the evaluator's full feedback:\n"
+        f"{eval_stdout[:3000]}\n\n"
+        f"Here is the current {doc_name}:\n"
+        f"---\n{existing}\n---\n\n"
+        f"IMPROVE the weakest aspect while preserving everything else that works. "
+        f"Do NOT regress on other dimensions. Output the COMPLETE revised document."
+        f"{lang_note}"
+    )
+
+    headers = {
+        "x-api-key": API_KEY,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
+    }
+    payload = {
+        "model": WRITER_MODEL,
+        "max_tokens": 16000,
+        "temperature": 0.6,
+        "system": (
+            "You refine fantasy novel planning documents. You improve the "
+            "weakest aspect identified by the evaluator while keeping "
+            "everything that already works. You never use AI slop words. "
+            "You output the complete revised document, not patches."
+            + language_instruction()
+        ),
+        "messages": [{"role": "user", "content": prompt}],
+    }
+
+    try:
+        resp = httpx.post(
+            f"{API_BASE}/v1/messages", headers=headers,
+            json=payload, timeout=300)
+        resp.raise_for_status()
+        revised = resp.json()["content"][0]["text"]
+        if revised.strip():
+            doc_path.write_text(revised)
+            return True
+    except Exception as e:
+        step(f"Refinement failed for {doc_name}: {e}")
+    return False
+
+
 def count_words_in_chapters() -> int:
     """Sum word count across all chapter files."""
     total = 0
@@ -235,74 +434,358 @@ def get_total_chapters(state: dict) -> int:
 
 
 # ---------------------------------------------------------------------------
+# Helpers: mystery and voice generation
+# ---------------------------------------------------------------------------
+
+def _generate_mystery() -> str | None:
+    """Generate MYSTERY.md content from seed + world + characters."""
+    import httpx
+    from config import API_KEY, API_BASE, WRITER_MODEL, get_language, language_instruction
+
+    if not API_KEY:
+        return None
+
+    seed = (BASE_DIR / "seed.txt").read_text() if (BASE_DIR / "seed.txt").exists() else ""
+    world = (BASE_DIR / "world.md").read_text() if (BASE_DIR / "world.md").exists() else ""
+    characters = (BASE_DIR / "characters.md").read_text() if (BASE_DIR / "characters.md").exists() else ""
+
+    prompt = f"""Define the CENTRAL MYSTERY for this fantasy novel. This is the secret
+the reader discovers at the climax — the recontextualization that makes
+everything before it mean something different.
+
+SEED CONCEPT:
+{seed}
+
+WORLD BIBLE:
+{world}
+
+CHARACTER REGISTRY:
+{characters}
+
+The mystery MUST have:
+- A question that can be asked in one sentence
+- An answer that recontextualizes the entire story
+- No simple right answer (moral ambiguity)
+- A physical manifestation in the world (not just information)
+- A choice the protagonist must make that has real cost
+
+Format:
+# THE CENTRAL MYSTERY
+### Author's Eyes Only
+
+## The Question
+[One sentence question]
+
+## The Answer
+[What's really going on — the truth the reader discovers]
+
+## The Recontextualization
+[How knowing the answer changes everything before it]
+
+## The Choice
+[The impossible decision the protagonist faces at the climax]
+
+## Clues to Plant
+[List 5-8 specific clues that should be planted across the novel]
+
+## Red Herrings
+[2-3 misleading clues that point away from the truth]
+"""
+
+    headers = {
+        "x-api-key": API_KEY,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
+    }
+    payload = {
+        "model": WRITER_MODEL,
+        "max_tokens": 4000,
+        "temperature": 0.7,
+        "system": (
+            "You are a mystery architect for fantasy novels. You create central "
+            "mysteries that are surprising, thematically resonant, and have real "
+            "costs for the protagonist. The answer should recontextualize the "
+            "entire story, not just add a twist."
+            + language_instruction()
+        ),
+        "messages": [{"role": "user", "content": prompt}],
+    }
+
+    try:
+        resp = httpx.post(f"{API_BASE}/v1/messages", headers=headers, json=payload, timeout=300)
+        resp.raise_for_status()
+        return resp.json()["content"][0]["text"]
+    except Exception as e:
+        step(f"Mystery generation failed: {e}")
+        return None
+
+
+def _generate_voice_part2() -> str | None:
+    """Generate voice.md Part 2 content from seed + world + characters."""
+    import httpx
+    from config import API_KEY, API_BASE, WRITER_MODEL, get_language, language_instruction
+
+    if not API_KEY:
+        return None
+
+    seed = (BASE_DIR / "seed.txt").read_text() if (BASE_DIR / "seed.txt").exists() else ""
+    world = (BASE_DIR / "world.md").read_text() if (BASE_DIR / "world.md").exists() else ""
+
+    prompt = f"""Define the VOICE IDENTITY for this fantasy novel. This is Part 2 of voice.md —
+the specific prose style for THIS story.
+
+SEED CONCEPT:
+{seed}
+
+WORLD BIBLE:
+{world}
+
+Define the voice with these sections:
+
+## Part 2: Voice Identity (novel-specific)
+
+### Tone
+[2-3 sentences on the overall tonal register — e.g., "spare and observational,
+letting dread accumulate through what's not said"]
+
+### Sentence Rhythm
+[Describe the dominant rhythm — e.g., "Short declarative sentences for action.
+Longer, perception-heavy sentences for stillness. Fragments for pain."]
+
+### Vocabulary Wells
+[Where does the metaphor language come from? List 2-3 domains specific to
+this world — e.g., "music/sound", "metalwork", "botanical decay"]
+
+### Body Before Emotion
+[Rule: emotions arrive as physical sensation first. Give 3 examples of how
+this novel's characters manifest feelings physically.]
+
+### Dialogue Register
+[How do people speak in this world? Register, formality, subtext level.
+Give 2 example lines that demonstrate the voice.]
+
+### What This Voice Does NOT Do
+[3-5 anti-exemplars — things this specific voice avoids]
+
+### Exemplar Passage
+[Write a 100-150 word passage in this voice — a moment of the protagonist
+noticing something wrong. This is the benchmark passage.]
+"""
+
+    headers = {
+        "x-api-key": API_KEY,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
+    }
+    payload = {
+        "model": WRITER_MODEL,
+        "max_tokens": 4000,
+        "temperature": 0.7,
+        "system": (
+            "You are a prose stylist defining a novel's voice. You write voice "
+            "definitions that are specific, actionable, and emerge from the "
+            "story's world and themes. The voice should be distinctive enough "
+            "that a writer could reproduce it from this document alone."
+            + language_instruction()
+        ),
+        "messages": [{"role": "user", "content": prompt}],
+    }
+
+    try:
+        resp = httpx.post(f"{API_BASE}/v1/messages", headers=headers, json=payload, timeout=300)
+        resp.raise_for_status()
+        return resp.json()["content"][0]["text"]
+    except Exception as e:
+        step(f"Voice Part 2 generation failed: {e}")
+        return None
+
+
+# ---------------------------------------------------------------------------
 # PHASE 1 — FOUNDATION
 # ---------------------------------------------------------------------------
 
 def run_foundation(state: dict) -> dict:
     """
     Build planning documents (world, characters, outline, voice, canon).
+    Iteration 1: generate from scratch. Iterations 2+: refine weakest.
     Loop until foundation_score > threshold or max iterations reached.
     """
     banner("PHASE 1: FOUNDATION", "=")
 
     best_score = state.get("foundation_score", 0.0)
+    best_eval = ""
     iteration = state.get("iteration", 0)
+    consecutive_eval_failures = 0
 
     for i in range(iteration + 1, MAX_FOUNDATION_ITERS + 1):
         banner(f"Foundation Iteration {i}", "-")
         state["iteration"] = i
 
-        # 1. Generate planning documents
-        step("Generating world bible...")
-        r = uv_run("gen_world.py", timeout=300)
-        if r.returncode == 0 and r.stdout.strip():
-            path = BASE_DIR / "world.md"
-            path.write_text(r.stdout)
-            step(f"Saved {path.name} ({len(r.stdout)} chars)")
-        else:
-            step("WARNING: world bible generation failed or empty")
+        if i == 1 or (best_score == 0 and i <= 2):
+            # First iteration (or second if first scored 0): generate from scratch
 
-        step("Generating characters...")
-        r = uv_run("gen_characters.py", timeout=300)
-        if r.returncode == 0 and r.stdout.strip():
-            path = BASE_DIR / "characters.md"
-            path.write_text(r.stdout)
-            step(f"Saved {path.name} ({len(r.stdout)} chars)")
-        else:
-            step("WARNING: characters generation failed or empty")
+            # Generate voice.md Part 2 FIRST — other scripts consume it
+            voice_path = BASE_DIR / "voice.md"
+            voice_text = voice_path.read_text() if voice_path.exists() else ""
+            if "Part 2" in voice_text:
+                lines = voice_text.split('\n')
+                part2_start = next(
+                    (i for i, l in enumerate(lines) if 'Part 2' in l),
+                    None,
+                )
+                if part2_start is not None:
+                    part2 = '\n'.join(lines[part2_start:])
+                    stripped = re.sub(
+                        r'<!--.*?-->', '', part2, flags=re.DOTALL
+                    ).strip()
+                    if len(stripped) < 500:
+                        step("Generating voice identity (voice.md Part 2)...")
+                        r = _generate_voice_part2()
+                        if r:
+                            new_voice = (
+                                '\n'.join(lines[:part2_start]) + '\n\n' + r
+                            )
+                            voice_path.write_text(new_voice)
+                            step(
+                                f"Updated voice.md Part 2 ({len(r)} chars)"
+                            )
+                        else:
+                            step("WARNING: voice Part 2 generation failed — "
+                                 "downstream scripts will run with incomplete voice identity")
 
-        step("Generating outline (part 1)...")
-        r = uv_run("gen_outline.py", timeout=300)
-        if r.returncode == 0 and r.stdout.strip():
-            path = BASE_DIR / "outline.md"
-            path.write_text(r.stdout)
-            # Also write to /tmp for gen_outline_part2.py to read
-            Path("/tmp/outline_output.md").write_text(r.stdout)
-            step(f"Saved {path.name} ({len(r.stdout)} chars)")
-        else:
-            step("WARNING: outline part 1 generation failed or empty")
+            step("Generating world bible...")
+            r = uv_run("gen_world.py", timeout=300)
+            if r.returncode == 0 and r.stdout.strip():
+                path = BASE_DIR / "world.md"
+                path.write_text(r.stdout)
+                step(f"Saved {path.name} ({len(r.stdout)} chars)")
+            else:
+                step("WARNING: world bible generation failed or empty")
 
-        step("Generating outline (part 2 — foreshadowing)...")
-        r = uv_run("gen_outline_part2.py", timeout=300)
-        if r.returncode == 0 and r.stdout.strip():
-            path = BASE_DIR / "outline.md"
-            existing = path.read_text() if path.exists() else ""
-            path.write_text(existing + "\n\n" + r.stdout)
-            step(f"Appended to {path.name} (+{len(r.stdout)} chars)")
-        else:
-            step("WARNING: outline part 2 generation failed or empty")
+            step("Generating characters...")
+            r = uv_run("gen_characters.py", timeout=300)
+            if r.returncode == 0 and r.stdout.strip():
+                path = BASE_DIR / "characters.md"
+                path.write_text(r.stdout)
+                step(f"Saved {path.name} ({len(r.stdout)} chars)")
+            else:
+                step("WARNING: characters generation failed or empty")
 
-        step("Generating canon...")
-        r = uv_run("gen_canon.py", timeout=300)
-        if r.returncode == 0 and r.stdout.strip():
-            path = BASE_DIR / "canon.md"
-            path.write_text(r.stdout)
-            step(f"Saved {path.name} ({len(r.stdout)} chars)")
-        else:
-            step("WARNING: canon generation failed or empty")
+            # Generate MYSTERY.md BEFORE outline — gen_outline.py reads it
+            mystery_path = BASE_DIR / "MYSTERY.md"
+            mystery_text = mystery_path.read_text() if mystery_path.exists() else ""
+            if "<!--" in mystery_text or len(mystery_text.strip()) < 100:
+                step("Generating central mystery (MYSTERY.md)...")
+                r = _generate_mystery()
+                if r:
+                    mystery_path.write_text(r)
+                    step(f"Saved MYSTERY.md ({len(r)} chars)")
 
-        step("Running voice fingerprint...")
-        uv_run("voice_fingerprint.py", timeout=300)
+            step("Generating outline (part 1)...")
+            r = uv_run("gen_outline.py", timeout=300)
+            outline_ok = False
+            if r.returncode == 0 and r.stdout.strip():
+                path = BASE_DIR / "outline.md"
+                path.write_text(r.stdout)
+                Path("/tmp/outline_output.md").write_text(r.stdout)
+                step(f"Saved {path.name} ({len(r.stdout)} chars)")
+                outline_ok = True
+            else:
+                step("WARNING: outline part 1 generation failed or empty")
+
+            if outline_ok:
+                step("Generating outline (part 2 — foreshadowing)...")
+                r = uv_run("gen_outline_part2.py", timeout=300)
+                if r.returncode == 0 and r.stdout.strip():
+                    path = BASE_DIR / "outline.md"
+                    existing = path.read_text() if path.exists() else ""
+                    path.write_text(existing + "\n\n" + r.stdout)
+                    step(f"Appended to {path.name} (+{len(r.stdout)} chars)")
+                else:
+                    step("WARNING: outline part 2 generation failed or empty")
+
+            step("Generating canon...")
+            r = uv_run("gen_canon.py", timeout=300)
+            if r.returncode == 0 and r.stdout.strip():
+                path = BASE_DIR / "canon.md"
+                path.write_text(r.stdout)
+                step(f"Saved {path.name} ({len(r.stdout)} chars)")
+            else:
+                step("WARNING: canon generation failed or empty")
+
+        else:
+            # Iterations 2+: refine the weakest dimension instead of regenerating
+            weakest_dim, weakest_score = parse_weakest_dimension(best_eval)
+            if weakest_dim:
+                step(f"Refining weakest dimension: {weakest_dim} (score: {weakest_score})")
+                # Map dimension to the most relevant document
+                dim_to_doc = {
+                    "world_depth": "world.md",
+                    "magic_system": "world.md",
+                    "lore_integration": "world.md",
+                    "geography": "world.md",
+                    "history": "world.md",
+                    "character_depth": "characters.md",
+                    "character_voice": "characters.md",
+                    "character_arcs": "characters.md",
+                    "outline_completeness": "outline.md",
+                    "beat_structure": "outline.md",
+                    "foreshadowing_balance": "outline.md",
+                    "pacing_plan": "outline.md",
+                    "voice_definition": "voice.md",
+                    "voice_clarity": "voice.md",
+                    "internal_consistency": "canon.md",
+                    "canon_coverage": "canon.md",
+                }
+                target_file = dim_to_doc.get(weakest_dim, "world.md")
+                target_path = BASE_DIR / target_file
+                step(f"Refining {target_file} to improve {weakest_dim}...")
+                refined = refine_foundation_doc(
+                    target_file, target_path,
+                    f"Weakest dimension: {weakest_dim} (score: {weakest_score})",
+                    best_eval)
+                if refined:
+                    step(f"Refined {target_file}")
+                    # Regenerate canon if world or characters changed
+                    if target_file in ("world.md", "characters.md"):
+                        step("Regenerating canon after changes...")
+                        rc = uv_run("gen_canon.py", timeout=300)
+                        if rc.returncode == 0 and rc.stdout.strip():
+                            (BASE_DIR / "canon.md").write_text(rc.stdout)
+                else:
+                    step(f"Refinement failed, falling back to full regeneration")
+                    # Fall back to regenerating just the weakest doc's source
+                    if target_file == "world.md":
+                        r = uv_run("gen_world.py", timeout=300)
+                        if r.returncode == 0 and r.stdout.strip():
+                            (BASE_DIR / "world.md").write_text(r.stdout)
+                    elif target_file == "characters.md":
+                        r = uv_run("gen_characters.py", timeout=300)
+                        if r.returncode == 0 and r.stdout.strip():
+                            (BASE_DIR / "characters.md").write_text(r.stdout)
+            else:
+                step("No weakest dimension found, running full regeneration")
+                r = uv_run("gen_world.py", timeout=300)
+                if r.returncode == 0 and r.stdout.strip():
+                    (BASE_DIR / "world.md").write_text(r.stdout)
+                r = uv_run("gen_characters.py", timeout=300)
+                if r.returncode == 0 and r.stdout.strip():
+                    (BASE_DIR / "characters.md").write_text(r.stdout)
+                r = uv_run("gen_outline.py", timeout=300)
+                outline_ok = False
+                if r.returncode == 0 and r.stdout.strip():
+                    (BASE_DIR / "outline.md").write_text(r.stdout)
+                    Path("/tmp/outline_output.md").write_text(r.stdout)
+                    outline_ok = True
+                if outline_ok:
+                    r = uv_run("gen_outline_part2.py", timeout=300)
+                    if r.returncode == 0 and r.stdout.strip():
+                        path = BASE_DIR / "outline.md"
+                        existing = path.read_text() if path.exists() else ""
+                        path.write_text(existing + "\n\n" + r.stdout)
+                r = uv_run("gen_canon.py", timeout=300)
+                if r.returncode == 0 and r.stdout.strip():
+                    (BASE_DIR / "canon.md").write_text(r.stdout)
 
         # 2. Evaluate
         step("Evaluating foundation...")
@@ -312,8 +795,29 @@ def run_foundation(state: dict) -> dict:
 
         step(f"Foundation score: {score}  (lore: {lore}, prev best: {best_score})")
 
+        # Handle unparseable eval scores (API errors, malformed responses)
+        if score < 0:
+            consecutive_eval_failures += 1
+            step(f"WARNING: eval returned unparseable score "
+                 f"({consecutive_eval_failures} consecutive failures)")
+            if consecutive_eval_failures >= 3:
+                step("ERROR: 3 consecutive eval failures — "
+                     "keeping generated docs and moving on")
+                if best_score == 0:
+                    best_score = 0.1  # Set minimal score to allow progress
+                    state["foundation_score"] = best_score
+                    save_state(state)
+                break
+            # Still commit the generated docs so we don't lose them
+            commit_hash = git_add_commit(
+                f"foundation iter {i}: eval parse failure, keeping docs")
+            continue
+
+        consecutive_eval_failures = 0  # Reset on successful parse
+
         # 3. Keep or discard
         if score > best_score:
+            best_eval = eval_result.stdout  # save for refinement next iter
             commit_hash = git_add_commit(
                 f"foundation iter {i}: score {score} (lore {lore})")
             log_result(commit_hash, "foundation", score, 0, "keep",
@@ -324,6 +828,7 @@ def run_foundation(state: dict) -> dict:
             save_state(state)
         else:
             step(f"Score did not improve ({score} <= {best_score}), discarding")
+            # Keep best_eval from previous iteration for refinement context
             git_reset_hard("HEAD")
             log_result("discarded", "foundation", score, 0, "discard",
                        f"Iteration {i}: no improvement ({score} <= {best_score})")
@@ -365,6 +870,7 @@ def run_drafting(state: dict) -> dict:
     for ch in range(start_chapter, total + 1):
         banner(f"Drafting Chapter {ch}/{total}", "-")
         drafted = False
+        eval_result = None  # track last eval for force-keep path
 
         for attempt in range(1, MAX_CHAPTER_ATTEMPTS + 1):
             step(f"Attempt {attempt}/{MAX_CHAPTER_ATTEMPTS}")
@@ -390,8 +896,14 @@ def run_drafting(state: dict) -> dict:
             step(f"Chapter {ch} score: {score}")
 
             if score >= CHAPTER_THRESHOLD:
+                # Grow canon with new facts from this chapter
+                n_facts = append_new_canon_entries(eval_result.stdout, ch)
+                if n_facts:
+                    step(f"Added {n_facts} new facts to canon.md")
+                # Generate chapter summary for future context
+                generate_chapter_summary(ch)
                 commit_hash = git_add_commit(
-                    f"ch{ch:02d}: score {score}, {word_count}w")
+                    f"ch{ch:02d}: score {score}, {word_count}w, +{n_facts} canon")
                 log_result(commit_hash, f"ch{ch:02d}", score, word_count,
                            "keep", f"Chapter {ch} (attempt {attempt})")
                 state["chapters_drafted"] = ch
@@ -412,6 +924,12 @@ def run_drafting(state: dict) -> dict:
             # Keep whatever we have and commit it
             ch_file = CHAPTERS_DIR / f"ch_{ch:02d}.md"
             if ch_file.exists():
+                # Try to grow canon even from force-kept chapters
+                if eval_result is not None:
+                    n_facts = append_new_canon_entries(eval_result.stdout, ch)
+                    if n_facts:
+                        step(f"Added {n_facts} new facts to canon.md (force-kept chapter)")
+                generate_chapter_summary(ch)
                 word_count = len(ch_file.read_text().split())
                 commit_hash = git_add_commit(
                     f"ch{ch:02d}: best-effort after {MAX_CHAPTER_ATTEMPTS} attempts")
@@ -428,6 +946,8 @@ def run_drafting(state: dict) -> dict:
     save_state(state)
 
     total_words = count_words_in_chapters()
+    step("Running voice fingerprint across all chapters...")
+    uv_run("voice_fingerprint.py", timeout=300)
     banner(f"DRAFTING COMPLETE — {total} chapters, {total_words} words")
     return state
 
@@ -529,7 +1049,43 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
         else:
             step("apply_cuts.py not found, skipping mechanical cuts")
 
-        # -- Step 3: Reader panel --
+        # -- Step 3: Build arc summary (required by reader panel) --
+        arc_summary_path = BASE_DIR / "arc_summary.md"
+        build_arc = BASE_DIR / "build_arc_summary.py"
+        if build_arc.exists() and not arc_summary_path.exists():
+            step("Building arc summary for reader panel...")
+            uv_run("build_arc_summary.py", timeout=600)
+        elif not arc_summary_path.exists():
+            step("WARNING: arc_summary.md missing and build_arc_summary.py not found, "
+                 "skipping reader panel")
+            consensus_items = []
+            # Skip to step 6
+            step("Skipping reader panel — no arc summary available")
+
+            # -- Step 6: Full novel evaluation --
+            step("Running full novel evaluation...")
+            full_eval = uv_run("evaluate.py --full", timeout=600)
+            novel_score = parse_score(full_eval.stdout, "novel_score")
+            if novel_score < 0:
+                novel_score = parse_score(full_eval.stdout, "overall_score")
+            total_words = count_words_in_chapters()
+            step(f"Novel score: {novel_score}  (prev: {prev_score}, words: {total_words})")
+            commit_hash = git_add_commit(
+                f"revision cycle {cycle} complete: novel_score {novel_score}")
+            log_result(commit_hash, f"revision-cycle-{cycle}", novel_score,
+                       total_words, "cycle",
+                       f"Cycle {cycle}: novel_score {prev_score}->{novel_score}")
+            state["novel_score"] = novel_score
+            state["revision_cycle"] = cycle
+            save_state(state)
+            if cycle >= MIN_REVISION_CYCLES and abs(novel_score - prev_score) < PLATEAU_DELTA:
+                step(f"Plateau detected (delta {abs(novel_score - prev_score):.2f} "
+                     f"< {PLATEAU_DELTA}) after {cycle} cycles — stopping")
+                break
+            prev_score = novel_score
+            continue
+
+        # -- Step 3b: Reader panel --
         step("Running reader panel evaluation...")
         uv_run("reader_panel.py", timeout=600)
 
@@ -820,6 +1376,29 @@ def run_pipeline(args):
         if not seed_file.exists():
             print("ERROR: seed.txt not found. Cannot start from scratch without a seed.")
             sys.exit(1)
+        # Clean old generated artifacts so the pipeline starts truly fresh
+        for artifact in [
+            "world.md", "characters.md", "outline.md", "canon.md",
+            "manuscript.md", "arc_summary.md", "MYSTERY.md",
+        ]:
+            p = BASE_DIR / artifact
+            if p.exists() or p.is_symlink():
+                p.unlink()
+                step(f"Removed old {artifact}")
+        # Clean chapter files
+        if CHAPTERS_DIR.exists():
+            for ch in CHAPTERS_DIR.glob("ch_*.md"):
+                ch.unlink()
+        # Clean generated logs and briefs
+        for dir_path in [BRIEFS_DIR, EDIT_LOGS_DIR, EVAL_LOGS_DIR, SUMMARIES_DIR]:
+            if dir_path.exists():
+                for f in dir_path.iterdir():
+                    if f.is_file():
+                        f.unlink()
+        # Clean temp outline
+        tmp_outline = Path("/tmp/outline_output.md")
+        if tmp_outline.exists():
+            tmp_outline.unlink()
         state = default_state()
         save_state(state)
     else:

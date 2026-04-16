@@ -77,8 +77,7 @@ READERS = {
 
 READER_PROMPT = """You have just read a complete fantasy novel in summary form.
 The summaries include chapter-by-chapter events, opening and closing passages
-from each chapter, and key dialogue. The full novel is 72,422 words across
-24 chapters.
+from each chapter, and key dialogue. {novel_stats}
 
 {arc_summary}
 
@@ -89,7 +88,7 @@ Respond with JSON:
 {{
   "momentum_loss": "Where does the story lose momentum? Name the specific chapter(s) and what causes the drag. If it never loses momentum, say so and explain why.",
   
-  "earned_ending": "Does the ending feel earned by everything before it? Does Cass's choice in Ch 22 land? Does the final image in Ch 24 mirror Ch 1 in a way that satisfies? What, if anything, feels unearned?",
+  "earned_ending": "Does the ending feel earned by everything before it? Does the protagonist's climactic choice land? Does the final image mirror the opening in a way that satisfies? What, if anything, feels unearned?",
   
   "cut_candidate": "If the novel had to be 10% shorter (~7,000 words), which chapter or section would you cut first? Why? What would be lost?",
   
@@ -109,7 +108,7 @@ Respond with JSON:
 }}
 """
 
-def call_reader(reader_key, arc_summary):
+def call_reader(reader_key, arc_summary, novel_stats=""):
     import httpx
     reader = READERS[reader_key]
     headers = {
@@ -122,7 +121,7 @@ def call_reader(reader_key, arc_summary):
         "max_tokens": 4000,
         "temperature": 0.7,  # Higher temp for personality
         "system": reader["system"],
-        "messages": [{"role": "user", "content": READER_PROMPT.format(arc_summary=arc_summary)}],
+        "messages": [{"role": "user", "content": READER_PROMPT.format(arc_summary=arc_summary, novel_stats=novel_stats)}],
     }
     resp = httpx.post(f"{API_BASE}/v1/messages", headers=headers, json=payload, timeout=300)
     resp.raise_for_status()
@@ -183,7 +182,25 @@ def find_disagreements(results):
     return disagreements
 
 def main():
-    arc_summary = (BASE_DIR / "arc_summary.md").read_text()
+    arc_path = BASE_DIR / "arc_summary.md"
+    if not arc_path.exists():
+        print("ERROR: arc_summary.md not found. Run build_arc_summary.py first.",
+              file=sys.stderr)
+        sys.exit(1)
+    arc_summary = arc_path.read_text()
+    
+    # Extract actual novel stats from arc_summary header
+    novel_stats = ""
+    import re as _re
+    # arc_summary.md has a line like "Total novel: 72,422 words."
+    m = _re.search(r'Total novel:\s*([\d,]+)\s*words', arc_summary)
+    if m:
+        total_wc = m.group(1)
+        # Count chapter sections
+        ch_count = len(_re.findall(r'^### Chapter \d+', arc_summary, _re.MULTILINE))
+        novel_stats = f"The full novel is {total_wc} words across {ch_count} chapters."
+    else:
+        novel_stats = "The full novel is summarized below."
     
     results = {}
     for reader_key, reader_info in READERS.items():
@@ -192,7 +209,7 @@ def main():
         print(f"{'='*50}")
         
         try:
-            result = call_reader(reader_key, arc_summary)
+            result = call_reader(reader_key, arc_summary, novel_stats)
             results[reader_key] = result
             
             # Print highlights

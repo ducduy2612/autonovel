@@ -371,8 +371,8 @@ CROSS-CHECKS (perform these before scoring):
      share the same sentence structures
 2. Check for missing NEGATIVE SPACE -- what's absent?
    - Are there gaps in the magic system that would block a specific
-     plot scene? (e.g., can Cass hear lies in written documents?
-     What happens during the climax -- what rule resolves it?)
+     plot scene? (e.g., can the protagonist use their ability in this
+     situation? What happens during the climax -- what rule resolves it?)
    - Are there characters needed for the plot who don't exist?
    - Are there scenes the outline demands that the world can't support?
 3. Check for CONVENIENT GAPS vs DELIBERATE MYSTERY:
@@ -707,8 +707,8 @@ Score these dimensions:
 
 - character_voice: Remove all dialogue tags mentally. Can you tell who's
   speaking? Do characters ever sound alike? Does dialogue read as speech
-  or as written prose? Does Cass sound like a specific 14-year-old, or
-  like "young protagonist"? Does anyone say something surprising -- not
+  or as written prose? Does the POV character sound like a specific
+  person with a distinct voice, or like "generic protagonist"? Does anyone say something surprising -- not
   just the right thing, but a REAL thing? Characters who never stumble,
   hesitate, or say something slightly wrong are AI-pattern characters.
 
@@ -718,7 +718,7 @@ Score these dimensions:
 
 - prose_quality: Sentence variety (measure: do 3+ consecutive sentences
   start the same way?). Specificity (concrete nouns > abstract).
-  Metaphors from Cass's experience, not from a thesaurus. Show-don't-tell
+  Metaphors from the POV character's experience, not from a thesaurus. Show-don't-tell
   at emotional peaks. QUOTE the weakest sentence and explain why. Also
   check for: repeated phrases, leaned-on constructions, paragraphs that
   could be cut without loss.

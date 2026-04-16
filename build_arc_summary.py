@@ -43,10 +43,21 @@ def extract_key_passages(text):
     
     return opening, closing, top_dialogue
 
+def discover_chapters() -> list[int]:
+    """Return sorted list of chapter numbers from files on disk."""
+    import re as _re
+    nums = []
+    for p in sorted(CHAPTERS_DIR.glob("ch_*.md")):
+        m = _re.match(r"ch_(\d+)", p.name)
+        if m:
+            nums.append(int(m.group(1)))
+    return sorted(nums)
+
+
 def main():
     summaries = []
     
-    for ch in range(1, 20):
+    for ch in discover_chapters():
         path = CHAPTERS_DIR / f"ch_{ch:02d}.md"
         text = path.read_text()
         wc = len(text.split())
@@ -74,24 +85,25 @@ def main():
         print(f"Ch {ch}: summarized ({wc}w)")
     
     # Calculate total word count
-    total_wc = sum(len((CHAPTERS_DIR / f"ch_{c:02d}.md").read_text().split()) for c in range(1, 20))
+    chapter_nums = discover_chapters()
+    total_wc = sum(len((CHAPTERS_DIR / f"ch_{c:02d}.md").read_text().split()) for c in chapter_nums)
     
     # Assemble
-    full = f"""# THE SECOND SON OF THE HOUSE OF BELLS
+    # Extract title from outline
+    title = "Untitled Novel"
+    outline_path = BASE_DIR / "outline.md"
+    if outline_path.exists():
+        for line in outline_path.read_text().split('\n'):
+            stripped = line.strip().lstrip('# ').strip()
+            if stripped:
+                title = stripped
+                break
+    
+    full = f"""# {title.upper()}
 ## Full-Arc Summary for Reader Panel
 
 This document contains chapter summaries, opening/closing passages,
-and key dialogue for all 23 chapters. Total novel: {total_wc:,} words.
-
-PREMISE: In Cantamura, a city where law is sung into binding through
-specific musical intervals, 14-year-old Cass Bellwright can hear when
-someone is lying -- a quarter-tone between F and F-sharp that causes
-him physical pain. His older brother Perin has been bound to service
-in the House of Corda for 10 years through a contract their father
-allowed. The bells their family maintains contain a secret: a question
-("Do you consent to be bound?") embedded in the sub-harmonics by the
-city's founder 200 years ago. No one has ever heard it. No one has
-ever answered. Every binding in Cantamura is technically void.
+and key dialogue for all chapters. Total novel: {total_wc:,} words.
 
 ---
 

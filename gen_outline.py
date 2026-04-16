@@ -39,8 +39,8 @@ craft = (BASE_DIR / "CRAFT.md").read_text()
 # Voice Part 2 only
 voice = (BASE_DIR / "voice.md").read_text()
 voice_lines = voice.split('\n')
-part2_start = next(i for i, l in enumerate(voice_lines) if 'Part 2' in l)
-voice_part2 = '\n'.join(voice_lines[part2_start:])
+part2_start = next((i for i, l in enumerate(voice_lines) if 'Part 2' in l), None)
+voice_part2 = '\n'.join(voice_lines[part2_start:]) if part2_start is not None else ""
 
 prompt = f"""Build a complete chapter outline for this fantasy novel. Target: 22-26 chapters,
 ~80,000 words total (~3,000-4,000 words per chapter).
@@ -67,14 +67,14 @@ BUILD THE OUTLINE WITH:
 
 ## Act Structure
 Map out Act I (0-23%), Act II Part 1 (23-50%), Act II Part 2 (50-77%), Act III (77-100%).
-State the percentage marks for the key novel.
+State the percentage marks for the key beats.
 
 ## Chapter-by-Chapter Outline
 
 For EACH chapter, provide:
 ### Ch N: [Title]
-- **POV:** (always Cass, third-person limited)
-- **Location:** Which districts/locations
+- **POV:** (specify which character, typically one consistent POV in third-person limited)
+- **Location:** Which locations appear
 - **Save the Cat beat:** Which beat this chapter serves (Opening Image, Setup, Catalyst, etc.)
 - **% mark:** Where this falls in the novel
 - **Emotional arc:** Starting emotion → ending emotion
@@ -82,9 +82,8 @@ For EACH chapter, provide:
 - **Beats:** 3-5 specific scene beats that must happen
 - **Plants:** Foreshadowing elements planted in this chapter
 - **Payoffs:** Foreshadowing elements that pay off here
-- **Character movement:** What changes for Cass (or other characters) by chapter's end
-- **The lie:** How Cass's lie ("if I master the system, I can fix things from inside") is
-  reinforced or challenged in this chapter
+- **Character movement:** What changes for the protagonist (or other characters) by chapter's end
+- **The lie:** How the protagonist's core false belief is reinforced or challenged
 - **~Word count target:** for pacing
 
 ## Foreshadowing Ledger
@@ -95,31 +94,34 @@ A table tracking every planted thread:
 Include at LEAST 15 threads. Types: object, dialogue, action, symbolic, structural.
 
 KEY PLOT ARCHITECTURE:
+Derive the plot structure entirely from the seed concept, world bible, and characters above.
+Follow these structural principles:
 
-Act I (Ch 1-6ish): Establish Cass's world, his pain, his gift, the Academy, his family.
-Plant the mystery early (the locked room, the forbidden bells, father's tremor).
-Catalyst: something forces Cass to investigate Perin's contract.
+Act I: Establish the protagonist's world, their pain, their ability, their relationships.
+Plant the central mystery/conflict early.
+Catalyst: something forces the protagonist into the main conflict.
 
-Act II Part 1 (Ch 7-12ish): Investigation. Cass digs into the Corda contract, encounters
-Maret, allies with Torvald and Lenne, begins hearing the harmonic more clearly.
-Midpoint: Cass learns a partial truth that changes his approach (false victory or defeat).
+Act II Part 1: Investigation/deepening. The protagonist engages with the conflict,
+encounters opposition, begins to understand the stakes.
+Midpoint: The protagonist learns a partial truth that changes their approach (false victory or defeat).
 
-Act II Part 2 (Ch 13-18ish): Pressure mounts. Maret moves against the Bellwrights.
-Father's secrets begin to surface. Cass's lie is increasingly unsustainable.
-All Is Lost: Cass confronts his father and learns the full truth.
+Act II Part 2: Pressure mounts. Opposition intensifies.
+Allies and enemies reveal their true natures. The protagonist's false belief becomes unsustainable.
+All Is Lost: The protagonist confronts a devastating truth.
 
-Act III (Ch 19-24ish): Cass understands the question. Must choose how to answer.
-The climax plays out using the established intervals of Tonal Law.
-The resolution shows the aftermath of his choice.
+Act III: The protagonist understands the real question. Must choose how to answer.
+The climax draws on the world's established rules and the character's growth.
+The resolution shows the aftermath — with real cost.
 
 CONSTRAINTS:
-- The climax must be mechanically resolvable using established Tonal Law intervals
-- Cass's investigation should feel like a mystery plot overlaid on a coming-of-age arc
+- The climax must use the world's established rules and systems
+- The protagonist's journey should feel like a mystery overlaid on a character arc
 - The Stability Trap: bad things must stay bad. Not everything resolves cleanly.
-- Perin must appear in person at some point (not just in memory/letters)
+- Key figures must appear in person at critical moments (not just in memory/letters)
 - At least 3 chapters should be "quiet" -- character-focused, low-action, emotionally rich
 - Vary the try-fail types: 60%+ should be "yes-but" or "no-and"
 - The foreshadowing ledger must have plant-to-payoff distances of at least 3 chapters
+- Derive ALL plot details from the seed concept and world bible. Do not reuse plot elements from any other story.
 """
 
 print("Calling writer model...", file=sys.stderr)

@@ -1,6 +1,7 @@
 eval_logs/
 edit_logs/
 briefs/
+summaries/
 __pycache__/
 *.pyc
 .env
@@ -8,3 +9,29 @@ __pycache__/
 typeset/*.pdf
 typeset/chapters_content.tex
 *.pdf
+
+# ── GSD baseline (auto-generated) ──
+.gsd
+.gsd-id
+.bg-shell/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.code-workspace
+.env.*
+!.env.example
+node_modules/
+.next/
+dist/
+build/
+venv/
+target/
+vendor/
+*.log
+coverage/
+.cache/
+tmp/
