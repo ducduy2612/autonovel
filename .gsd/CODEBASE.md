@@ -1,10 +1,10 @@
 # Codebase Map
 
-Generated: 2026-04-16T18:59:42Z | Files: 63 | Described: 0/63
-<!-- gsd:codebase-meta {"generatedAt":"2026-04-16T18:59:42Z","fingerprint":"bb2119657ee1d721f6f7539f6f7349c1169fdd78","fileCount":63,"truncated":false} -->
+Generated: 2026-04-16T19:48:08Z | Files: 65 | Described: 0/65
+<!-- gsd:codebase-meta {"generatedAt":"2026-04-16T19:48:08Z","fingerprint":"a8371c585bc3be6c04e9cf938119a2560da7a8a2","fileCount":65,"truncated":false} -->
 
 ### (root)/
-- *(53 files: 32 .py, 13 .md, 2 (no ext), 2 .json, 1 .example, 1 .toml, 1 .tsv, 1 .txt)*
+- *(55 files: 33 .py, 13 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
 
 ### chapters/
 - `chapters/.gitkeep`

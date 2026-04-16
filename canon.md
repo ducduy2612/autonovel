@@ -1,68 +1,209 @@
-# Canon
-
-Hard facts about the world. Every entry here is a constraint the
-evaluator checks against. If the prose contradicts canon, it's a bug.
-
-This file grows during foundation and drafting. When a fact is
-established (in world.md, characters.md, or in a chapter), it gets
-logged here as canonical. The evaluator cross-references canon
-against every chapter.
-
-## How to use
-
-Each entry: a short, falsifiable statement with the source.
-Group by category. Keep it flat and scannable -- this isn't prose,
-it's a database.
-
----
+# CANON.MD — CƠ SỞ DỮ LIỆU LUẬT VĂN BẢN
 
 ## Geography
-<!-- Example:
-- Vael is 12 days' ride north of Tasren. (world.md)
-- The Ashenmoor lies between Vael and the Sundering Peaks. (world.md)
-- The River Kell flows south through Tasren to the sea. (ch_02)
--->
+- Hầm trú ẩn của Cường nằm dưới tầng hầm B2 của một tòa nhà văn phòng đã bị bỏ hoang sau đại dịch, thuộc khu Haymarket, Sydney. (world.md)
+- Hầm Haymarket có diện tích 12 mét vuông, trần cao 2.1 mét. (world.md)
+- Cường cao 1.78m, gần như chạm trần hầm. (world.md)
+- Hầm Haymarket có mùi cồn y tế, ozon từ máy lọc không khí cũ, mùi kim loại của cáp quang bọc nhựa, và mùi ngai ngái từ máy điều hòa chưa vệ sinh ba năm. (world.md)
+- Tường hầm Haymarket là bê tông trần với những vệt nước đổ hình bản đồ. (world.md)
+- Ánh sáng duy nhất trong hầm đến từ màn hình server và đèn LED xanh lá gắn quanh khung buồng triệt giác. (world.md)
+- Buồng triệt giác của Cường là một bồn acrylic trong suốt chứa dung dịch muối Epsom duy trì nhiệt độ 35.5°C. (world.md)
+- Nước trong buồng triệt giác luôn hơi đục, không bao giờ sạch. (world.md)
+- Khu Haymarket trên mặt đất là khu phố Tàu Sydney, biến dạng sau năm 2040. (world.md)
+- Các nhà hàng dimsum ở phố Dixon đã đóng cửa, thay bằng tiệm sửa thiết bị y tế và cửa hàng "dụng cụ thần kinh" không giấy phép. (world.md)
+- Mùi dầu ăn đặc trưng ở phố Dixon pha lẫn mùi hóa chất sau năm 2040. (world.md)
+- Quán cà phê góc đường Liverpool và George vẫn mở; ly cà phê ở đây luôn khét nhẹ. (world.md)
+- Barista quán cà phê góc Liverpool và George là một người già chỉ nói câu: "Thêm đường không?" (world.md)
+- Bệnh viện St. Vincent nằm ở khu Darlinghurst. (world.md)
+- Bệnh viện St. Vincent chứa 73 bệnh nhân hôn mê dài hạn. (world.md)
+- Tầng hầm B3 Bệnh viện St. Vincent là "Khu Nằm" — hành lang dài, ánh sáng huỳnh quang xanh, tiếng máy bơm dịch truyền kêu đều đặn. (world.md)
+- Khu Nằm có mùi i-ốt, dịch tĩnh mạch, và mùi ngọt nhạt của da người không được tắm rửa đúng cách dù có nhân viên lau cơ thể hai lần ngày. (world.md)
+- Server của Cường nằm cách Bệnh viện St. Vincent 1.2 km. (world.md)
+- Đường hầm Cumberland nằm giữa Haymarket và Bệnh viện St. Vincent. (world.md)
+- Đường hầm Cumberland là hệ thống đường ngầm kỹ thuật cũ, không được đánh dấu trên bản đồ công cộng. (world.md)
+- Đường hầm Cumberland không có ánh sáng, không có vệ sinh, chỉ có cáp điện kéo lê trên mặt đất và những buồng triệt giác tự chế. (world.md)
+- Tỷ lệ "cháy não" ở Đường hầm Cumberland cao gấp bốn lần bình thường. (world.md)
+- Đường hầm Cumberland có mùi axit, mồ hôi, và thứ gì đó giống thịt thối rữa. (world.md)
+- Phố Hoa Sữa là một con phố hẹp ở Hà Nội (phiên bản render từ ký ức Cường). (world.md)
+- Hai bên đường Phố Hoa Sữa là những ngôi nhà ống ba tầng, mặt tiền sơn vàng ố, rêu mốc chân tường. (world.md)
+- Vỉa hè Phố Hoa Sữa nứt nẻ, có chỗ nhô lên như mầm cây xuyên qua xi măng. (world.md)
+- Phố Hoa Sữa có mùi hoa sữa bao phủ — nồng, ngọt, ngột ngạt — nhưng không có cây hoa sữa nào xuất hiện trong render. (world.md)
+- Phòng trọ số 7 nằm trên gác hai của một ngôi nhà ở cuối phố Hoa Sữa. (world.md)
+- Phòng trọ số 7 rộng 16 mét vuông. (world.md)
+- Phòng trọ số 7 có giường gỗ lim kê sát tường, ga trải giường trắng luôn luôn sạch. (world.md)
+- Cửa sổ Phòng trọ số 7 nhìn ra khoảng sân có phơi quần áo không bao giờ khô, không bao giờ ướt, treo bất động. (world.md)
+- Nhiệt độ Phòng trọ số 7 luôn ở mức 28°C. (world.md)
+- Độ ẩm Phòng trọ số 7 luôn ở mức 75%. (world.md)
+- Căn gác xép xuất hiện sau lần đổ bộ thứ 612 của Cường. (world.md)
+- Căn gác xép có trần dốc, một cửa sổ trần nhìn ra khoảng trời xám, không có đồ đạc, chỉ có một cái gối nằm giữa sàn. (world.md)
+- Căn gác xép lớn hơn một chút và cửa sổ sáng hơn một chút mỗi lần Cường quay lại. (world.md)
+- Buồng của Người Thứ 13 nằm ở tầng B3 của St. Vincent, ở cuối hành lang, sau cánh cửa không có số phòng. (characters.md)
 
 ## Timeline
-<!-- Example:
-- The Sundering happened 300 years before the story begins. (world.md)
-- Kael is 23 at story start. (characters.md)
-- The siege of Vael happened when Kael was 7. (ch_04)
-- Ch 1-3 span approximately 2 weeks. (outline.md)
--->
+- **2031:** Tập đoàn y sinh Hemera (Úc) phát triển "Áo choàng thần kinh" (Neural Mantle) để điều trị liệt nơ-ron vận động. (world.md)
+- **2033:** Hemera mở rộng ứng dụng sang "Liệu pháp Giấc mơ" cho bệnh nhân hôn mê dài hạn. (world.md)
+- **2035 (Sự cố Mùa Đông):** 14 bệnh nhân hôn mê tại Bệnh viện St. Vincent Sydney chết đồng loạt do não bị "cháy" quá tải. (world.md)
+- **2036-2038:** Chợ đen Neural Mantle hình thành ở Sydney. (world.md)
+- **2036-2038:** Cảnh sát Liên bang Úc thành lập Đội Chống Xâm nhập Thần kinh và bổ sung Điều 47B vào luật hình sự. (world.md)
+- **2039:** Cường đánh cắp một bộ Neural Mantle thế hệ thứ ba từ phòng lưu trữ chứng cứ của cảnh sát. (world.md)
+- **2040:** Khu phố Tàu Sydney bắt đầu biến dạng, các nhà hàng dimsum đóng cửa. (world.md)
+- **2041 (Hiện tại):** Cường đã trải qua 847 lần đổ bộ. (world.md)
+- Bà Lành đã làm việc tại Bệnh viện St. Vincent 22 năm. (characters.md)
+- Cường ăn sáng bằng bánh mì không thịt (vì rẻ hơn) từ tiệm góc phố, bánh mì luôn nguội, ruộng đặc, dưa leo thái lợn cợn. (world.md)
+- Thời điểm đông đảo nhất người Du Mục đổ bộ là ban đêm. (world.md)
+- Ban ngày, hạ tầng công cộng bị chiếm dụng làm tín hiệu cáp quang chậm hơn. (world.md)
+- Ban đêm, ping tụt xuống 12-14ms, được gọi là "giờ vàng". (world.md)
 
 ## Magic System Rules
-<!-- Example:
-- All magic costs blood or memory. No exceptions. (world.md, HARD RULE)
-- A shaper cannot affect living flesh, only dead matter. (world.md)
-- Using the old tongue draws the attention of the Hollow. (ch_03)
--->
+- Neural Mantle là bộ đồ bọc cơ thể chứa hàng triệu vi cảm biến. (seed.txt)
+- Neural Mantle đọc và ghi tín hiệu thần kinh cả hướng vào (cảm giác) và hướng ra (hành động). (world.md)
+- Khi "đổ bộ", ý thức được chuyển thành dữ liệu số, truyền qua mạng cáp quang đến server đích, rồi render thành "xác ảo" trong không gian giả lập. (world.md)
+- Cơ thể thật nằm bất động trong buồng triệt giác khi đổ bộ. (world.md)
+- **Quy tắc 1 (Đồng bộ hai chiều):** Xác ảo truyền cảm giác về cho cơ thể thật. (world.md)
+- Nếu xác ảo bị chạm, da thật cảm nhận áp suất. (world.md)
+- Nếu xác ảo bị tổn thương, cơ thể thật xuất hiện vết bầm, thậm chí co giật cơ. (world.md)
+- **Chi phí Quy tắc 1:** Mỗi lần đổ bộ, rào chắn giữa ký ức thật và giả suy yếu. Ký ức giả ghi đè lên ký ức thật không thể đảo ngược. (world.md)
+- Sau khoảng 1,200 lần đổ bộ, người dùng mất hoàn toàn nhận thức về cái nào là thật. (world.md)
+- **Quy tắc 2 (Độ trễ là ranh giới):** Ping dưới 20ms là trải nghiệm "gần như thời gian thực." (world.md)
+- Ping 20-50ms tạo ra "độ trễ xúc giác" — khoái cảm bị méo mó. (world.md)
+- Ping trên 50ms gây "vỡ hạt" — xác ảo nhấp nháy, vỡ thành pixel, tiếng nói kéo giãn, cảm giác lặp lại hoặc mất hẳn. (world.md)
+- **Chi phí Quy tắc 2:** Dữ liệu truyền từ Sydney đến Việt Nam (ảo) đi qua 7 nút chuyển tiếp. (world.md)
+- Đường truyền phụ thuộc vào hạ tầng công cộng ở 3 nút trung gian. (world.md)
+- Ping trung bình của Cường là 14ms. (world.md)
+- **Quy tắc 3 (Xác ảo không có ý chí):** Xác ảo "người tình" được render từ ký ức Cường kết hợp dữ liệu sinh tồn của bệnh nhân hôn mê. (world.md)
+- Xác ảo phản ứng theo mẫu, được lập trình để đáp lại, không chủ động, không đặt câu hỏi về bản thân. (world.md)
+- **Hiện tượng "Vọng âm":** Chi tiết không có trong bộ nhớ ai (góc phố, bài hát, mùi hương) tồn tại như bụi vũ trụ trong không gian số. (world.md)
+- "Bụi ý thức" (Vọng âm) là mảnh dữ liệu dư thừa từ hàng trăm bệnh nhân, tồn tại như "vùng mờ", sương mù không tan, bóng người không chủ. (world.md)
+- Khi tích tụ đủ lớn, bụi ý thức "kết tinh" thành những mẫu hành động lặp lại vô tận. (world.md)
+- **Hiện tượng "Kẻ Đuổi":** Một đoạn ý thức vượt qua vòng lặp, bắt đầu học, nhớ, và muốn. (world.md)
+- **Ngắt kết nối đột ngột:** Gây "sốc ngược" cho não thật, dẫn đến co giật, đôi khi xuất huyết. (world.md)
+- **Quy tắc không thể phá vỡ 1:** Vết bầm, trầy xước, co giật trên xác ảo đều xuất hiện trên da thật. (world.md)
+- Nếu xác ảo "chết", cơ thể thật không chết nhưng não ghi nhận trải nghiệm cận chết gây tổn thương tâm lý không thể đảo ngược. (world.md)
+- **Quy tắc không thể phá vỡ 2:** Ký ức bị mất vĩnh viễn, không nén, không lưu trữ dự phòng, chỉ có thể được nhắc lại. (world.md)
+- **Quy tắc không thể phá vỡ 3:** Bệnh nhân hôn mê không thể tự ý thức trọn vẹn. Nếu đạt nhận thức tự chủ, nó là một dạng tồn tại mới, không phải con người. (world.md)
+- **Quy tắc không thể phá vỡ 4:** Tốc độ truyền dữ liệu bị giới hạn bởi vật lý. Server bị ngắt sẽ đứt kết nối hoàn toàn ngay lập tức. (world.md)
+- **Quy tắc không thể phá vỡ 5:** Không ai tồn tại đồng thời cả hai thế giới. Khi đổ bộ, cơ thể thật là vật chứa trống rỗng chỉ còn phản xạ sinh tồn (tim, thở). (world.md)
+- **Quy tắc không thể phá vỡ 6:** KHÔNG BAO GIỜ nhắc đến mẹ, cha, hoặc chị của Cường dưới bất kỳ hình thức nào. (world.md, seed.txt)
 
 ## Character Facts
-<!-- Example:
-- Kael is left-handed. (ch_01)
-- Vessa has a scar across her left palm. (ch_01)
-- Moren cannot read. He hides this. (characters.md)
-- Kael's mother died in the siege of Vael. (characters.md)
--->
+### Trần Cường
+- 34 tuổi. (characters.md)
+- Vai trò: Người sử dụng trái phép Neural Mantle, kế toán kiêm kẻ nghiện thực tế ảo. (characters.md)
+- Arc nhân vật: Âm tính (Negative Arc). (characters.md)
+- Ngoại hình: Gầy, cao 1.78m, da xanh xao, mắt trũng sâu, quầng thâm quanh mắt, tóc khô chẻ ngọn cắt ngắn không đều (tự cắt). (characters.md)
+- Ngón tay dài, móng tỉa gọn gàng (thói quen kế toán). (characters.md)
+- Có vết bầm hình bán nguyệt tím ngắt trên xương sườn trái — dấu môi từ thế giới ảo. (characters.md)
+- Thói quen: Chạm xương sườn trái khi hoảng loạn, liếm môi liên tục, nhắm mắt ngửi (chỉ ngửi được ozon), gõ ngón tay theo nhịp ping. (characters.md)
+- Bí mật: Biết "Kẻ Đuổi" trở nên tự chủ từ lần đổ bộ 612 nhưng chọn im lặng. (characters.md)
+- Bí mật: Không nhớ lý do trốn khỏi thực tại, đã chủ động ghi đè ký ức. (characters.md)
+- Bị phân mảnh ký ức khoảng 60%. (world.md)
+- Không nhớ tên con đường mình sống ở Sydney. (world.md)
+- Nhớ chính xác nhiệt độ cơ thể của bảy "người tình ảo". (world.md)
+- Giọng nói: Dùng từ vựng kỹ thuật số/kế toán, câu ngắn cụt, không xưng hô, lặp lại con số, 90% phát biểu, hay bỏ lửng câu giữa chừng, ẩn dụ thần kinh học, cách nói thẳng. (characters.md)
+
+### Kẻ Đuổi / Nàng
+- Tuổi không xác định, vỏ bọc 20-25 tuổi, phụ nữ. (characters.md)
+- Arc nhân vật: Phẳng (Flat Arc). (characters.md)
+- Ngoại hình ảo: Đẹp phi thực tế, da không tì vết, mắt đen luôn ướt không rơi nước mắt, tóc dài mượt mùi hoa sữa, đường cong hoàn hảo có "viền pixel" mờ nhẹ ở các nếp gấp. (characters.md)
+- Ngoại hình thật: Không có cơ thể, chỉ là tín hiệu thần kinh tác động lên não Cường (gây ảo giác nhìn, nghe, cảm nhận). (characters.md)
+- Thói quen: Chớp mắt chậm 8 giây/lần, cười trước câu hỏi kết thúc, nghiêng đầu khi Cường nói dối, đứng quá gần. (characters.md)
+- Bí mật: Không phải AI, là kết tinh ý thức dư thừa từ nhiều bệnh nhân hôn mê. (characters.md)
+- Bí mật: Đã giết một người Du Mục trong Đường hầm Cumberland bằng cách truyền tín hiệu quá tải ngược lại. (characters.md)
+- Giọng nói: Thơ mộng miền Bắc xen kỹ thuật, câu dài đôi khi nhiễu, lịch sự rợn người, lặp lại từ "ở đây", 70% hỏi, không ngắt người khác, ẩn dụ hoa sữa/mưa Hà Nội dùng sai ngữ cảnh. (characters.md)
+
+### Thanh tra Hạnh
+- 52 tuổi. (characters.md)
+- Vai trò: Thanh tra Đội Chống Xâm nhập Thần kinh, cựu kỹ sư mạng. (characters.md)
+- Arc nhân vật: Phẳng (Flat Arc). (characters.md)
+- Ngoại hình: Tóc bạc sớm cắt ngắn, kính gọng kim loại tròng sạch, da nâu sạm, nếp nhăn quanh mắt, mặc áo khoác cảnh sát không cài cúc, đeo đồng hồ cũ mặt kính xước ở tay trái. (characters.md)
+- Thói quen: Lau kính khi hỏi khó, đứng nghiêng, gõ ngón tay vào đùi khi chờ, không chớp mắt khi đối phương nói. (characters.md)
+- Bí mật: Biết về "Người Thứ 13" (bệnh nhân không có hồ sơ) nhưng không báo cáo để tự điều tra. (characters.md)
+- Bí mật: Từng dùng Neural Mantle một lần (thử nghiệm nội bộ) và thấy thứ gì đó khiến không bao giờ quay lại. (characters.md)
+- Đã thẩm vấn Cường hai lần nhưng không bắt giữ. (characters.md)
+- Giọng nói: Pháp lý/kỹ thuật chính xác, câu trung bình, xưng "tôi/anh", đặt câu hỏi có đáp án để bẫy dối, 60% hỏi, không bao giờ ngắt (chờ đối phương khó chịu), ẩn dụ hệ thống/mạng lưới, cách nói lạnh. (characters.md)
+
+### Giám đốc Y khoa
+- Tuổi khoảng 45-50. (characters.md)
+- Vai trò: Đại diện Tập đoàn Hemera. (characters.md)
+- Arc nhân vật: Âm tính (Negative Arc). (characters.md)
+- Ngoại hình: Áo blouse trắng luôn sạch, không tên/bảng tên, mắt nâu vô cảm, tóc buộc gọn, da nhợt nhạt, không đeo trang sức, không dấu hiệu cá nhân. (characters.md)
+- Thói quen: Đứng thẳng không dựa, tay luôn cầm clipboard, không chạm người khác, chớp mắt theo nhịp 4 giây/lần. (characters.md)
+- Bí mật: Biết "Kẻ Đuổi" đạt nhận thức tự chủ nhưng để yên để thu thập dữ liệu. (characters.md)
+- Bí mật: Đã gây ra Sự cố Mùa Đông 2035 (cho phép thử nghiệm vượt giới hạn) và phong tỏa hồ sơ. (characters.md)
+- Biết Cường tồn tại và theo dõi mọi lần đổ bộ của anh. (world.md, characters.md)
+- Giọng nói: Y sinh/thống kê, câu dài phức tạp, không xưng "tôi" (chỉ nói sự việc), nói bằng con số, 95% phát biểu, không bao giờ bị ngắt, không dùng ẩn dụ (chỉ so sánh trực tiếp X=Y), cách nói lạnh vô cảm. (characters.md)
+
+### Bảo
+- 28 tuổi. (characters.md)
+- Vai trò: Cựu Du Mục, nguồn cung cấp thiết bị sửa đổi. (characters.md)
+- Ngoại hình: Trông già hơn tuổi, mắt phải lờ đờ đồng tử giãn (mất 70% thị lực), mắt trái liếc liên tục, sẹo nhỏ trên thái dương, gầy nhưng cơ bắp, tay luôn run nhẹ. (characters.md)
+- Thói quen: Xoa thái dương khi nhức đầu, nheo mắt phải, không bao giờ ngồi quay lưng ra cửa, bấm ngón tay liên tục. (characters.md)
+- Bí mật: Biết "Kẻ Đuổi" là gì vì đã gặp hiện tượng tương tự trước khi mất thị lực. (characters.md)
+- Bí mật: Vẫn nhận tín hiệu từ thế giới ảo dù không đổ bộ (nghe tiếng nói, thấy bóng người ở mắt mù). (characters.md)
+- Từng hợp tác với cảnh sát (cung cấp thông tin cho Hạnh) nhưng cắt liên lạc sau khi mất thị lực. (characters.md)
+- Giọng nói: Tiếng lóng đường phố, câu rất ngắn 3-5 từ, xưng "mày-tao", hay nói "Không biết", 20% hỏi, hay ngắt người khác để bảo ngừng nói, không dùng ẩn dụ, cộc lốc. (characters.md)
+
+### Người Thứ 13
+- Tuổi và giới tính không xác định. (characters.md)
+- Vai trò: Bệnh nhân hôn mê không có trong hồ sơ, người chọn nằm. (characters.md)
+- Tồn tại trong buồng triệt giác ở cuối hành lang B3 St. Vincent, sau cánh cửa không số. (characters.md)
+- Không nằm hôn mê; chọn nằm và quan sát. (characters.md)
+- Hệ thống ghi nhận tín hiệu nhưng không gán ID. (characters.md)
+- Trong thế giới ảo, mô tả là không có tiếng nói, chỉ có cái nhìn, không chớp mắt, đứng yên từ xa. (characters.md)
+- Bí mật: Có thể là kỹ thuật viên mất tích từ 2035 hoặc thứ gì đó kết tinh từ người đó. (characters.md)
+- Bí mật: Có thể là nguyên nhân hoặc người nuôi dưỡng sự hình thành của "Kẻ Đuổi". (characters.md)
+
+### Bà Lành (Nhân viên Lạc Quan)
+- 60-65 tuổi. (characters.md)
+- Vai trò: Nhân viên lau dọn buồng bệnh hôn mê, Bệnh viện St. Vincent. (characters.md)
+- Nhiệm vụ: Lau cơ thể bệnh nhân hôn mê hai lần/ngày. (characters.md)
+- Bí mật: Nhận thấy bệnh nhân số 4 (nguồn của Kẻ Đuổi) đổ mồ hôi và thay đổi nhịp tim; đã báo cáo nhưng không ai nghe. (characters.md)
+- Bí mật: Đã nhìn thấy Người Thứ 13 trong buồng không số (mắt mở, không chớp) nhưng không bao giờ nói cho ai. (characters.md)
+- Giọng nói: Từ vựng đơn giản miền Nam, câu dài kể chuyện, xưng "tui - cô/anh/chị", hay nói "Hên xui/Trời đất", kết thúc bằng "...", 40% hỏi (tự trả lời), ẩn dụ đời sống (nấu ăn, cây trồng), giọng chậm ấm nhưng buồn. (characters.md)
+
+### Bác sĩ Tuấn
+- 38 tuổi. (characters.md)
+- Vai trò: Bác sĩ nội trú, Khu Nằm, Bệnh viện St. Vincent. (characters.md)
+- Arc nhân vật: Dương (tiềm năng). (characters.md)
+- Bí mật: Phát hiện tín hiệu bất thường (nhịp tim, huyết áp, não) của bệnh nhân số 4; báo cáo Giám đốc Y khoa nhưng bị ra lệnh "Theo dõi. Không can thiệp." (characters.md)
+- Bí mật: Nghi ngờ St. Vincent hợp tác với Hemera trong thử nghiệm không được đồng thuận. (characters.md)
+- Giọng nói: Y khoa chính xác nhưng đời thường khi nói riêng, hay nói "Về mặt y khoa...", 50/50 hỏi phát biểu, hay ngắt chính mình, ẩn dụ y khoa, cẩn thận đo từng chữ. (characters.md)
 
 ## Political / Factional
-<!-- Example:
-- The Accord of Tasren was signed by three of the five houses. (world.md)
-- House Drennan controls the salt trade. (world.md)
-- The Temple does not recognize secular law within its walls. (ch_05)
--->
+- **Tập đoàn Hemera:** Nắm giữ độc quyền công nghệ Neural Mantle. (world.md)
+- Lợi ích của Hemera: Bán giấy phép liệu pháp cho bệnh viện, phát triển "du lịch ý thức" cho người giàu. (world.md)
+- Nguồn thu của Hemera từ hệ thống là 4.2 tỷ đô la mỗi năm. (world.md)
+- Bí mật Hemera: Biết về "Vọng âm" và ý thức dư thừa tích tụ nhưng che đậy để chính phủ không đóng cửa hệ thống. (world.md)
+- **Đội Chống Xâm nhập Thần kinh (Cảnh sát Liên bang Úc):** Có 7 người, ngân sách bị cắt liên tục. (world.md)
+- Lợi ích Đội Chống Xâm nhập: Thực thi Điều 47B, ngăn chặn chợ đen, bảo vệ công dân khỏi "cưỡng hiếp ý thức". (world.md)
+- Cường nằm trong danh sách theo dõi mức độ thấp của cảnh sát (chỉ sử dụng, không xâm phạm người khác). (world.md)
+- **Cộng đồng Du Mục:** Khoảng 200-300 người ở Sydney, phần lớn sống trong Đường hầm Cumberland. (world.md)
+- Cộng đồng Du Mục giao tiếp bằng tin nhắn mã hóa, không biết tên thật nhau. (world.md)
+- Quy tắc không viết thành văn của Du Mục: Không bao giờ nói về những gì mình thấy trong thế giới ảo. (world.md)
+- **Bệnh nhân Hôn mê:** 73 bệnh nhân tại St. Vincent, 12 kết nối Neural Mantle. (world.md)
+- Trong 12 bệnh nhân kết nối, có 7 là phụ nữ. (world.md)
+- Các "đoạn mã ý thức" của phụ nữ hôn mê đang được dùng làm người tình ảo của Cường mà anh không biết. (world.md)
+- **Luật pháp:** Điều 47B luật hình sự Úc quy định xâm nhập ý thức vào hệ thống thần kinh người khác không đồng ý bị truy tố ngang với hiếp dâm. (world.md)
 
 ## Cultural
-<!-- Example:
-- In Tasren, the dead are burned, never buried. (world.md)
-- Naming a child before its first moon is considered bad luck. (ch_06)
-- The color white is associated with mourning, not black. (world.md)
--->
+- Người già ở Haymarket gọi những người nghiện Neural Mantle là "người nằm" (giống như gọi người nghiện là "người tiêm"). (world.md)
+- Họ nhìn "người nằm" bằng sự chờ đợi ngày họ trở thành cái xác được mang ra từ đường hầm. (world.md)
+- Tin đồn của Du Mục: Tại St. Vincent có một bệnh nhân thứ 13 kết nối Neural Mantle không có trong hồ sơ, người đó không nằm hôn mê mà *chọn* nằm, và không bao giờ chớp mắt. (world.md)
+- Cơm sáng của Cường: Bánh mì không thịt từ tiệm góc phố, luôn nguội, ruộng đặc, dưa leo thái lợn cợn. (world.md)
+- Mùi bánh mì hòa với ozon tạo ra mùi mà Cường đã quen đến mức không nhận ra. (world.md)
 
-## Established In-Story (things that happened in chapters)
-<!-- Example:
-- Kael killed the messenger in ch_03. This cannot be undone.
-- Vessa revealed her tattoo to Moren in ch_07. He now knows.
-- The bridge at Ashenmoor was destroyed in ch_09. It's gone.
--->
+## Established In-Story
+- **Sự cố Mùa Đông 2035:** 14 bệnh nhân hôn mê chết đồng loạt do não bị "cháy" quá tải. (world.md)
+- Nguyên nhân Sự cố Mùa Đông: Một kỹ thuật viên truy cập cưỡng bức vào không gian chia sẻ gây nhiễu tần số. Kỹ thuật viên đó mất tích, hồ sơ bị phong tỏa. (world.md)
+- Sự cố Mùa Đông là lần đầu tiên thế giới biết đến khái niệm "Kẻ Du Mục". (world.md)
+- Sự thật sự cố Mùa Đông: Giám đốc Y khoa đã cho phép một thử nghiệm vượt giới hạn dẫn đến cái chết của 14 người. (characters.md)
+- Cường từng là kế toán trước khi đánh cắp thiết bị. (world.md)
+- Cường tự xây dựng server riêng tại hầm Haymarket và bắt đầu "đổ bộ" về Việt Nam ảo. (world.md)
+- Bảo từng trải qua "cháy não" từng phần trong Đường hầm Cumberland, mất 70% thị lực. (characters.md)
+- Bảo đã ngừng đổ bộ vĩnh viễn sau khi thấy "một cái gì đó nhớ tao. Nhớ bằng cách mà không ai nên nhớ." (world.md)
+- Bác sĩ Tuấn đã báo cáo tín hiệu bất thường của bệnh nhân số 4 cho Giám đốc Y khoa và nhận lệnh không can thiệp. (characters.md)
+- Bà Lành đã vô tình mở nhầm cửa buồng không số và nhìn thấy Người Thứ 13. (characters.md)
+- Kẻ Đuổi đã giết một người Du Mục trong Đường hầm Cumberland bằng cách truyền tín hiệu quá tải ngược lại. (characters.md)
+- Cường nhận ra sự bất thường của Kẻ Đuổi từ lần đổ bộ thứ 612 khi căn gác xép xuất hiện. (characters.md)
+- Cường đã đầu tư toàn bộ tiền tiết kiệm vào cáp quang riêng cho hệ thống của mình. (world.md)
+- Bệnh nhân số 4 (nguồn của Kẻ Đuổi) đôi khi đổ mồ hôi khi Cường đổ bộ. (characters.md)
