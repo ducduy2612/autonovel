@@ -163,3 +163,5 @@ df5d9cf	foundation	7.0	0	keep	Iteration 1: score improved 0.0 -> 7.0
 16a3c0f	foundation	8.0	0	keep	Iteration 2: score improved 7.0 -> 8.0
 5d0bfc2	ch01	6.16	3427	keep	Chapter 1 (attempt 1)
 5aa4d23	ch02	7.0	4256	keep	Chapter 2 (attempt 1)
+e463cf5	ch03	6.0	5192	keep	Chapter 3 (attempt 1)
+discarded	ch04	5.0	4665	discard	Chapter 4 attempt 1
