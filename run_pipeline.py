@@ -223,21 +223,61 @@ def step(text: str):
 
 def run_tool(cmd: str, timeout: int | None = None, check: bool = False) -> subprocess.CompletedProcess:
     """
-    Run a tool as a subprocess, capturing output.
+    Run a tool as a subprocess.
     Uses shell=True so callers can pass full command strings.
     Returns CompletedProcess; never raises unless check=True.
-    
+
+    stdout is captured (the main output, e.g. world.md content).
+    stderr is streamed to the parent's stderr in real-time so LLM
+    progress logging from call_writer() is visible during thinking mode.
+
     Timeout defaults to SUBPROCESS_TIMEOUT * thinking scale factor,
     so LLM-heavy subprocesses get enough room when thinking mode is on.
     """
+    import threading
+
     effective_timeout = (timeout if timeout is not None
                          else SUBPROCESS_TIMEOUT * _THINKING_TIMEOUT_SCALE)
     step(f"RUN: {cmd}")
     try:
-        result = subprocess.run(
-            cmd, shell=True, capture_output=True, text=True,
-            timeout=effective_timeout, cwd=str(BASE_DIR),
+        proc = subprocess.Popen(
+            cmd, shell=True,
+            stdout=subprocess.PIPE, stderr=subprocess.PIPE,
+            text=True, cwd=str(BASE_DIR),
         )
+
+        # Forward stderr lines to our stderr in real-time so
+        # writer.py progress logs are visible immediately.
+        stderr_lines: list[str] = []
+
+        def drain_stderr():
+            assert proc.stderr is not None
+            for line in proc.stderr:
+                stderr_lines.append(line)
+                sys.stderr.write(line)
+                sys.stderr.flush()
+
+        stderr_thread = threading.Thread(target=drain_stderr, daemon=True)
+        stderr_thread.start()
+
+        try:
+            stdout, _ = proc.communicate(timeout=effective_timeout)
+        except subprocess.TimeoutExpired:
+            proc.kill()
+            proc.wait()
+            stderr_thread.join(timeout=5)
+            print(f"    ERROR: timed out after {effective_timeout}s")
+            return subprocess.CompletedProcess(
+                cmd, returncode=-1, stdout="", stderr="TIMEOUT")
+
+        stderr_thread.join(timeout=5)
+        stderr_text = "".join(stderr_lines)
+
+        result = subprocess.CompletedProcess(
+            cmd, returncode=proc.returncode,
+            stdout=stdout or "", stderr=stderr_text,
+        )
+
         if result.returncode != 0:
             print(f"    WARN: exit code {result.returncode}")
             stderr_preview = (result.stderr or "")[:300]
@@ -247,11 +287,12 @@ def run_tool(cmd: str, timeout: int | None = None, check: bool = False) -> subpr
             raise subprocess.CalledProcessError(
                 result.returncode, cmd, result.stdout, result.stderr)
         return result
-    except subprocess.TimeoutExpired:
-        print(f"    ERROR: timed out after {timeout}s")
-        # Return a fake CompletedProcess for graceful handling
-        fake = subprocess.CompletedProcess(cmd, returncode=-1, stdout="", stderr="TIMEOUT")
-        return fake
+    except Exception as exc:
+        if isinstance(exc, subprocess.CalledProcessError):
+            raise
+        print(f"    ERROR: {exc}")
+        return subprocess.CompletedProcess(
+            cmd, returncode=-1, stdout="", stderr=str(exc))
 
 
 def uv_run(script: str, timeout: int = 600) -> subprocess.CompletedProcess:
@@ -589,6 +630,7 @@ def run_foundation(state: dict) -> dict:
             # Generate voice.md Part 2 FIRST — other scripts consume it
             voice_path = BASE_DIR / "voice.md"
             voice_text = voice_path.read_text() if voice_path.exists() else ""
+            needs_part2 = True
             if "Part 2" in voice_text:
                 lines = voice_text.split('\n')
                 part2_start = next(
@@ -600,20 +642,32 @@ def run_foundation(state: dict) -> dict:
                     stripped = re.sub(
                         r'<!--.*?-->', '', part2, flags=re.DOTALL
                     ).strip()
-                    if len(stripped) < 500:
-                        step("Generating voice identity (voice.md Part 2)...")
-                        r = _generate_voice_part2()
-                        if r:
+                    if len(stripped) >= 500:
+                        needs_part2 = False
+
+            if needs_part2:
+                step("Generating voice identity (voice.md Part 2)...")
+                r = _generate_voice_part2()
+                if r:
+                    if "Part 2" in voice_text:
+                        lines = voice_text.split('\n')
+                        part2_start = next(
+                            (i for i, l in enumerate(lines) if 'Part 2' in l),
+                            None,
+                        )
+                        if part2_start is not None:
                             new_voice = (
                                 '\n'.join(lines[:part2_start]) + '\n\n' + r
                             )
-                            voice_path.write_text(new_voice)
-                            step(
-                                f"Updated voice.md Part 2 ({len(r)} chars)"
-                            )
                         else:
-                            step("WARNING: voice Part 2 generation failed — "
-                                 "downstream scripts will run with incomplete voice identity")
+                            new_voice = voice_text + '\n\n' + r
+                    else:
+                        new_voice = voice_text.rstrip() + '\n\n' + r
+                    voice_path.write_text(new_voice)
+                    step(f"Updated voice.md Part 2 ({len(r)} chars)")
+                else:
+                    step("WARNING: voice Part 2 generation failed — "
+                         "downstream scripts will run with incomplete voice identity")
 
             step("Generating world bible...")
             r = uv_run("gen_world.py", timeout=SUBPROCESS_TIMEOUT)
@@ -1272,6 +1326,21 @@ def run_pipeline(args):
             if p.exists() or p.is_symlink():
                 p.unlink()
                 step(f"Removed old {artifact}")
+
+        # Strip voice.md Part 2 (keep Part 1 guardrails) so it
+        # regenerates for the current seed. Part 2 is novel-specific.
+        voice_path = BASE_DIR / "voice.md"
+        if voice_path.exists():
+            vtext = voice_path.read_text()
+            if "Part 2" in vtext:
+                vlines = vtext.split('\n')
+                p2idx = next(
+                    (i for i, l in enumerate(vlines) if 'Part 2' in l), None
+                )
+                if p2idx is not None:
+                    kept = "\n".join(vlines[:p2idx]).rstrip() + "\n"
+                    voice_path.write_text(kept)
+                    step("Stripped old voice.md Part 2 (will regenerate)")
         # Clean chapter files
         if CHAPTERS_DIR.exists():
             for ch in CHAPTERS_DIR.glob("ch_*.md"):

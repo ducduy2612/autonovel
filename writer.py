@@ -167,18 +167,26 @@ def _call_streaming(
             now = time.monotonic()
             if now - last_log >= _PROGRESS_INTERVAL:
                 elapsed = int(now - started)
-                phase = "thinking" if not full_content else "generating"
-                tokens = thinking_chunks if phase == "thinking" else output_chunks
-                _log(
-                    f"  [writer] ...{phase} ({tokens} chunks, "
-                    f"{elapsed}s elapsed)..."
-                )
+                if not full_content:
+                    words_est = len(full_reasoning.split())
+                    _log(
+                        f"  [writer] ...thinking (~{words_est:,} words, "
+                        f"{elapsed}s)"
+                    )
+                else:
+                    words_est = len(full_content.split())
+                    _log(
+                        f"  [writer] ...generating (~{words_est:,} words, "
+                        f"{elapsed}s)"
+                    )
                 last_log = now
 
     elapsed = int(time.monotonic() - started)
+    think_words = len(full_reasoning.split())
+    out_words = len(full_content.split())
     _log(
         f"  [writer] Stream complete: "
-        f"{thinking_chunks} thinking + {output_chunks} output chunks "
+        f"{think_words:,} words thinking + {out_words:,} words output "
         f"in {elapsed}s"
     )
 
