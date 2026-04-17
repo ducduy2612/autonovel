@@ -113,6 +113,84 @@ TELLING_PATTERNS = [
     r"\b(?:angrily|sadly|happily|nervously|excitedly|desperately|furiously|anxiously|guiltily|bitterly|wearily|miserably)\b",
 ]
 
+# --- Vietnamese-specific slop patterns ---
+
+# English words that should NEVER appear in Vietnamese literary prose.
+# These are translation artifacts — the LLM reaching for an English concept
+# instead of finding the Vietnamese equivalent.
+VI_ENGLISH_LEAKS = [
+    # Bare English words dropped into Vietnamese text
+    r"\b(?:pity|regret|guilt|shame|pride|grief|dread|awe|bliss|rage|fury|hope|despair|sorrow|anguish|trauma|closure|resilience|nostalgia|melancholy|serenity| catharsis|solitude|empathy|intuition|vulnerability|authenticity|presence|awareness|mindfulness|resolve|denial|acceptance)\b",
+    # Common English words that leak into Vietnamese AI prose
+    r"\b(?:somehow|anyway|meanwhile|therefore|indeed|perhaps|somehow|rather|quite|fairly|somewhat)\b",
+    # English punctuation/symbols that don't belong in Vietnamese literary text
+    r"[<>]"
+]
+
+# Translation-syntax patterns — Vietnamese text with English grammar structure.
+# These are calques: English idioms or sentence patterns translated word-by-word.
+VI_TRANSLATION_CALQUES = [
+    # "không chỉ X mà còn Y" is fine in nonfiction, suspicious in fiction
+    r"không chỉ .{3,50} mà còn",
+    # English "either X or Y" structure
+    r"hoặc là .{3,40} hoặc là",
+    # "It goes without saying" calque
+    r"không cần phải nói",
+    # "Not only... but also" — English rhetorical pattern
+    r"không những .{3,40} mà còn",
+    # "It's worth noting" calque
+    r"đáng chú ý là",
+    # "make sense" calque
+    r"có ý nghĩa(?!Tra)",
+    # English-style hedging in Vietnamese
+    r"điều đó có thể có nghĩa là",
+    # "In other words" calque
+    r"nói cách khác",
+    # "The fact that" calque
+    r"thực tế là",
+    # "=" symbol used as prose connector (spreadsheet thinking)
+    r"\w+\s*=\s*\w+",
+]
+
+# Vietnamese fiction AI tells — patterns common in AI-generated Vietnamese
+# literary text that don't appear in human-written Vietnamese fiction.
+VI_FICTION_AI_TELLS = [
+    # Overwrought emotion labels
+    r"cảm xúc trào dâng",
+    r"nỗi buồn bao trùm",
+    r"tim anh? (?:đau|thắt|nhói|đập nhanh)",
+    r"(?:một |cơn )?(?:sóng|làn sóng) (?:cảm xúc|buồn|đau) ập đến",
+    r"không thể (?:ngăn được|kìm được|giữ được) (?:nước mắt|cảm xúc)",
+    # Generic AI openings/descriptions
+    r"không khí (?:trở nên|đột nhiên trở nên) (?:lặng lẽ|im lặng| nặng nề)",
+    r"ánh mắt (?:ánh lên|lấp lánh|toát lên) (?:sự|nỗi|vẻ) \w+",
+    r"đôi mắt (?:sâu thẳm|biết nói|ánh lên)",
+    # "breath they didn't know they were holding" Vietnamese calque
+    r"thở (?:ra|một) hơi (?:mà|đã) (?:không|chưa) (?:nhận ra|biết) (?:mình )?(?:đang|đã) nín",
+    # Generic metaphor patterns
+    r"như (?:một )?(?:bức tranh|cuốn phim|bản nhạc)",
+    # Summary/emotional exposition instead of scene
+    r"đó là (?:lúc |khoảnh khắc )(?:anh|cô|tôi) nhận ra",
+    r"(?:trong )(?:lúc |khoảnh khắc )đó.*?(?:hiểu|nhận ra|mọi thứ)",
+]
+
+# Vietnamese-specific telling patterns (show-don't-tell violations)
+VI_TELLING_PATTERNS = [
+    # "(Someone) cảm thấy (emotion)" — direct emotion label
+    r"\b(?:anh|cô|tôi|tui|hắn|nó|người ta) cảm thấy (?:buồn|vui|giận|sợ|lo lắng|hạnh phúc|đau khổ|mệt mỏi|cô đơn|bối rối|xót xa|nhớ nhung|bất an|chấn động)\b",
+    # "A sense of X" Vietnamese equivalent
+    r"\bcảm giác \w+ (?:lan tỏa|trào dâng|dâng lên|bao trùm)\b",
+    # Emotion as noun subject
+    r"\bnỗi \w+ (?:đổ ập đến|tràn ngập|bao trùm|chen chúc)\b",
+]
+
+# Vietnamese transition crutches — words AI overuses to connect paragraphs
+VI_TRANSITION_CRUTCHES = [
+    "tuy nhiên", "hơn nữa", "thêm vào đó", "ngoài ra",
+    "mặt khác", "tóm lại", "nhìn chung", "thật vậy",
+    "đồng thời", "cũng chính vì", "sau đó", "tiếp theo",
+]
+
 
 def slop_score(text):
     """
@@ -213,6 +291,53 @@ def slop_score(text):
                 structural_tics.append((pattern[:40], len(matches)))
     structural_tic_count = sum(c for _, c in structural_tics)
 
+    # --- Vietnamese-specific slop detection ---
+    vi_english_leaks = []
+    vi_translation_calques = []
+    vi_fiction_tells = []
+    vi_telling = []
+    vi_transition_starts = 0
+
+    is_vi = lang == "vi"
+    if is_vi:
+        # English words in Vietnamese prose
+        for pattern in VI_ENGLISH_LEAKS:
+            matches = re.findall(pattern, text, re.IGNORECASE)
+            if matches:
+                vi_english_leaks.append((pattern[:50], len(matches)))
+        vi_english_leak_count = sum(c for _, c in vi_english_leaks)
+
+        # Translation calques
+        for pattern in VI_TRANSLATION_CALQUES:
+            matches = re.findall(pattern, text, re.IGNORECASE)
+            if matches:
+                vi_translation_calques.append((pattern[:50], len(matches)))
+        vi_calque_count = sum(c for _, c in vi_translation_calques)
+
+        # Fiction AI tells
+        for pattern in VI_FICTION_AI_TELLS:
+            matches = re.findall(pattern, text, re.IGNORECASE)
+            if matches:
+                vi_fiction_tells.append((pattern[:50], len(matches)))
+        vi_fiction_tell_count = sum(c for _, c in vi_fiction_tells)
+
+        # Telling patterns
+        for pattern in VI_TELLING_PATTERNS:
+            vi_telling += re.findall(pattern, text, re.IGNORECASE)
+
+        # Transition crutches
+        for para in paragraphs:
+            first_words = " ".join(para.split()[:3]).lower().strip(".,;:!?\"'()")
+            for tc in VI_TRANSITION_CRUTCHES:
+                if first_words.startswith(tc):
+                    vi_transition_starts += 1
+                    break
+    else:
+        vi_english_leak_count = 0
+        vi_calque_count = 0
+        vi_fiction_tell_count = 0
+        vi_telling_count = 0
+
     # Composite penalty (0 = clean, 10 = disaster)
     penalty = 0.0
     if is_en:
@@ -229,6 +354,14 @@ def slop_score(text):
         penalty += min(fiction_tell_count * 0.3, 2.0)     # fiction AI tells: up to 2 pts
         penalty += min(telling_count * 0.2, 1.5)          # show-don't-tell: up to 1.5 pts
         penalty += min(structural_tic_count * 0.5, 2.0)   # structural AI tics: up to 2 pts
+    if is_vi:
+        penalty += min(vi_english_leak_count * 2.0, 4.0)   # English leaks: severe, up to 4 pts
+        penalty += min(vi_calque_count * 0.5, 2.0)         # translation calques: up to 2 pts
+        penalty += min(vi_fiction_tell_count * 0.5, 2.0)   # Vietnamese AI tells: up to 2 pts
+        penalty += min(len(vi_telling) * 0.3, 1.5)         # Vietnamese telling: up to 1.5 pts
+        vi_transition_ratio = vi_transition_starts / len(paragraphs) if paragraphs else 0
+        if vi_transition_ratio > 0.2:
+            penalty += min(vi_transition_ratio * 2, 1.0)   # transition abuse: up to 1 pt
 
     penalty = min(penalty, 10.0)
 
@@ -245,6 +378,11 @@ def slop_score(text):
         "transition_opener_ratio": round(transition_ratio, 3),
         "slop_penalty": round(penalty, 2),
         "language": lang,
+        # Vietnamese-specific
+        "vi_english_leaks": vi_english_leaks if is_vi else [],
+        "vi_translation_calques": vi_translation_calques if is_vi else [],
+        "vi_fiction_ai_tells": vi_fiction_tells if is_vi else [],
+        "vi_telling_violations": len(vi_telling) if is_vi else 0,
     }
 
 
