@@ -1,0 +1,104 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "Anh ng\u1ed3i xu\u1ed1ng beside c\u00f4, tr\u00ean c\u00e1t \u1ea9m.",
+    "fix": "Replace with: 'Anh ng\u1ed3i xu\u1ed1ng c\u1ea1nh c\u00f4, tr\u00ean c\u00e1t \u1ea9m.' The English word 'beside' appears twice (also 'Ph\u01b0\u01a1ng ng\u1ed3i beside anh') and shatters the Vietnamese literary register entirely.",
+    "note": "The voice largely nails the prescribed tone\u2014melancholic smoke, salt-water metaphors, body-before-emotion ('L\u1ed3ng ng\u1ef1c anh n\u1eb7ng,' 'H\u1ecdng m\u1eb7n'). Sentence rhythm varies appropriately: long rolling descriptions of island life, short staccato for Ph\u01b0\u01a1ng's fading. The vocabulary wells are hit (mu\u1ed1i, kh\u00f3i, ch\u00ecm, m\u1edd). But the two English intrusions are catastrophic voice breaks, and a few passages edge toward explaining the theme rather than living it."
+  },
+  "beat_coverage": {
+    "score": 8,
+    "weakest_moment": "Beat 3 (L\u1ecbch ghi v\u00e0o s\u1ed5, nh\u1eadn ra n\u00e9t b\u00fat r\u00f5 h\u01a1n) is executed but rushed: 'Anh kh\u00f4ng so s\u00e1nh. Ch\u1ec9 ghi nh\u1eadn.' The moment of discovery\u2014that his handwriting resists the fading\u2014is the seed of his entire project and the chapter's central question. It deserves more weight than a throwaway line.",
+    "fix": "Let L\u1ecbch pause on the contrast. Show him opening Ch\u1ecb T\u01b0's book, seeing her letters blur, then looking at his own. Let the observation land before he moves on. One beat of genuine wonder or unease.",
+    "note": "All five beats are present and mostly dramatized rather than summarized. The garden-counting opening is evocative. The th\u00edm Hai conversation captures the horror of forgetting well. Ph\u01b0\u01a1ng's scene is the strongest beat\u2014physically specific, emotionally restrained. The house-counting and gray flowers close the chapter effectively."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "Nh\u01b0ng c\u00f3 t\u00ednh kh\u00f4ng? K\u00fd \u1ee9c t\u1eeb s\u1ed5 ghi ch\u00e9p c\u00f3 t\u00ednh kh\u00f4ng? Ph\u00e9p thu\u1eadt n\u00f3i: k\u00fd \u1ee9c ph\u1ea3i th\u1eadt, t\u1eeb tr\u00e1i tim. Anh c\u00f3 th\u1eadt s\u1ef1 nh\u1edb b\u00e0 N\u0103m, hay anh ch\u1ec9 nh\u1edb v\u00ec \u0111\u00e3 ghi?",
+    "fix": "Cut this passage entirely. The question is already alive in the reader's mind from the contrast between his clear handwriting and the fading text. Let the silence after he closes the book carry the weight. Or reduce to one sentence: 'Anh nh\u00ecn d\u00f2ng ch\u1eef m\u00ecnh v\u1eeba vi\u1ebft. R\u00f5 qu\u00e1.' Let the reader ask the question L\u1ecbch is afraid to.",
+    "note": "L\u1ecbch's voice is mostly consistent with his profile\u2014analytical, precise, breaking into simpler emotion at stress points. Th\u00edm Hai's 'nghen' and speech patterns feel authentically Ngh\u1ec7 An. Ph\u01b0\u01a1ng's short, weighted sentences match her character doc. The problem is that L\u1ecbch's internal monologue sometimes becomes too articulate about the novel's themes, spelling out questions that should haunt beneath the surface."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "The contrast between L\u1ecbch's clear handwriting and Ch\u1ecb T\u01b0 H\u1ed3ng's fading ink is mentioned three times in increasingly explicit ways. By the third mention ('ch\u1eef m\u1edbi \u0111\u00e8 l\u00ean, gi\u1eef l\u1ea1i h\u00ecnh d\u00e1ng t\u1eeb \u0111ang tan bi\u1ebfn'), the plant has become exposition.",
+    "fix": "Trust the first instance. When L\u1ecbch notes his clear ink versus her fading script, that's enough. The reader will remember. Later references should be oblique\u2014a glance at the page, a moment of hesitation before writing\u2014not statements about what the writing means.",
+    "note": "The gray flowers near house 21 are planted perfectly\u2014observed, noted with confusion ('leans'), not explained. Ph\u01b0\u01a1ng's fading is shown through concrete physical detail (hand transparency, voice volume) rather than stated. The counting ritual establishes itself naturally through action. These are well-integrated plants."
+  },
+  "prose_quality": {
+    "score": 6,
+    "weakest_sentence": "Anh ng\u1ed3i xu\u1ed1ng beside c\u00f4, tr\u00ean c\u00e1t \u1ea9m.",
+    "fix": "Anh ng\u1ed3i xu\u1ed1ng c\u1ea1nh c\u00f4. C\u00e1t \u1ea9m d\u01b0\u1edbi anh.",
+    "strongest_sentence": "Ch\u1eef 'N' c\u00f2n r\u00f5, nh\u01b0ng '\u0103m' nh\u1ea1t d\u1ea7n, nh\u01b0 ai \u0111ang t\u1ea9y t\u1eeb cu\u1ed1i l\u00ean \u0111\u1ea7u.",
+    "note": "The strongest passages achieve a haunting specificity\u2014the fading letters erased from end to beginning, a garden bed smoothed flat as if no one ever planted there, Ph\u01b0\u01a1ng's voice like someone turning down a volume knob. But the chapter has problems: two English words ('beside' x2) that are outright errors; repetitive paragraph openings (six consecutive paragraphs starting with 'Anh' mid-chapter); and several sentences that explain what they should simply show. The prose is competent but not yet consistent."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "This is the first chapter, so continuity primarily means internal consistency and proper setup. The emotional arc tracks as planned: th\u00f3i quen \u2192 b\u00e0ng ho\u00e0ng \u2192 im l\u1eb7ng n\u1eb7ng. L\u1ecbch's morning routine establishes naturally. His relationships to other characters (Ph\u01b0\u01a1ng, th\u00edm Hai, Ch\u1ecb T\u01b0) are introduced without exposition dumps. The chapter's ending state\u2014L\u1ecbch questioning whether his writing counts as memory\u2014sets up his arc conflict correctly. No contradictions with the previous chapter (none exists)."
+  },
+  "canon_compliance": {
+    "score": 7,
+    "violations": [
+      "The English word 'beside' appears twice in the Vietnamese prose. While not a canon violation per se, these are text-generation errors that break the established linguistic register.",
+      "The chapter writes: 'B\u00e0 N\u0103m h\u00e0ng x\u00f3m' and 'b\u00e0 N\u0103m tr\u1ed3ng rau r\u0103m' but also references her in context of 'V\u01b0\u1eddn B\u00e0 N\u0103m' from world.md. This is consistent.",
+      "The exemplar passage in voice.md has slightly different dialogue for th\u00edm Hai\u2014sparser, more haunting. The chapter version adds explanatory lines ('N\u0103m n\u00e0o tui kh\u00f4ng nh\u1edb m\u1eb7t b\u00e0 n\u1eefa') that soften the impact."
+    ],
+    "note": "Canon facts are largely respected: Ph\u01b0\u01a1ng's description matches her character sheet (face clear, fading from neck down, left hand transparent, \u00e1o b\u00e0 ba t\u00edm, voice diminishing). The garden bed count (six, formerly seven) matches the world bible. House count (twenty, formerly twenty-one) is consistent. L\u1ecbch's notebook, habits, and left-hand tremor are all present. The hoa d\u1eb7m description is accurate. No major worldbuilding violations detected."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "The passage explaining L\u1ecbch's counting habit: '\u0110\u1ebfm l\u00e0 th\u00f3i quen. Kh\u00f4ng ph\u1ea3i ai b\u1ea3o anh. Ch\u1ec9 l\u00e0 c\u00e1ch anh gi\u1eef.' This tells rather than shows and frames the magic system's logic in overly neat terms.",
+    "fix": "Cut the explanation. The reader has already seen him count garden beds, then houses. The pattern is clear. Let the action speak. If you must have reflection, make it more visceral: 'Anh \u0111\u1ebfm. \u0110\u1ebfm t\u1eeb ng\u00e0y n\u00e0o anh kh\u00f4ng nh\u1edb n\u1eefa.'",
+    "note": "The lore does genuine work here. The disappearing garden bed isn't set dressing\u2014it's proof of the magic system's central rule. Ph\u01b0\u01a1ng's asymmetric fading (left hand gone, legs still solid) demonstrates how memory shapes physical form. The gray flowers function as both atmosphere and diagnostic tool. The food (c\u00e1 trui n\u01b0\u1edbng) isn't generic\u2014it's culturally specific and ties to the island's ecology. This is integrated worldbuilding, not decoration."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The stretch between leaving Ph\u01b0\u01a1ng and arriving at house 21\u2014L\u1ecbch walking, counting houses one by one, describing each\u2014loses momentum. 'H\u00e0ng nh\u00e0 b\u00ean tr\u00e1i: m\u1ed9t, hai, ba, b\u1ed1n, n\u0103m\u2014nh\u00e0 c\u00f4 N\u0103m Th\u1ea3o, kh\u00f3i b\u1ebfp l\u00f2 bay ra, m\u00f9i c\u00e1 kho th\u01a1m\u2014s\u00e1u, b\u1ea3y, t\u00e1m, ch\u00edn, m\u01b0\u1eddi.' The cataloguing rhythm is flattening when it should be building dread.",
+    "fix": "Compress the house-counting. Skip the middle numbers. Jump from the sensory (N\u0103m Th\u1ea3o's kitchen smoke) to the end: 'Anh \u0111\u1ebfm. M\u01b0\u1eddi ch\u00edn. R\u1ed3i d\u1eebng.' Let the absence of twenty speak louder than the presence of one through nineteen.",
+    "note": "The chapter opens with genuine hook\u2014a man counting garden beds and finding one missing. The th\u00edm Hai scene is the emotional peak, the moment where forgetting becomes visceral. Ph\u01b0\u01a1ng's scene sustains tension through physical detail. But the pacing sags in the house-counting middle section, and the closing reflection edges toward over-explaining what the reader already feels."
+  },
+  "three_weakest_sentences": [
+    "Anh ng\u1ed3i xu\u1ed1ng beside c\u00f4, tr\u00ean c\u00e1t \u1ea9m.",
+    "Ph\u01b0\u01a1ng ng\u1ed3i beside anh, hai ch\u00e2n du\u1ed7i ra c\u00e1t, ch\u00e2n c\u00f4 v\u1eabn ch\u1eafc \u2014 m\u1eb9 c\u00f4 nh\u1edb con \u0111i b\u1ed9 b\u1edd bi\u1ec3n \u2014 nh\u01b0ng t\u1eeb g\u1ed1i tr\u1edf l\u00ean, nh\u1ea1t d\u1ea7n, nh\u1ea1t d\u1ea7n.",
+    "\u0110\u00f3 l\u00e0 \u0111i\u1ec1u anh l\u00e0m. Ghi nh\u1eadn. Ghi l\u1ea1i. Gi\u1eef."
+  ],
+  "three_strongest_sentences": [
+    "Tr\u00ean \u0111\u1ea5t li\u1ec1n, ai \u0111\u00f3 v\u1eeba ngu\u00f4i. Ho\u1eb7c ai \u0111\u00f3 v\u1eeba ch\u1ebft \u2014 ng\u01b0\u1eddi duy nh\u1ea5t c\u00f2n nh\u1edb. \u1ede \u0111\u00e2y, m\u1ed9t lu\u1ed1ng rau th\u00f4i c\u0169ng \u0111\u1ee7 l\u00e0m ch\u1ee9ng.",
+    "Ch\u1eef 'N' c\u00f2n r\u00f5, nh\u01b0ng '\u0103m' nh\u1ea1t d\u1ea7n, nh\u01b0 ai \u0111ang t\u1ea9y t\u1eeb cu\u1ed1i l\u00ean \u0111\u1ea7u.",
+    "Gi\u1ecdng c\u00f4 nh\u1ecf. Nh\u1ecf h\u01a1n tu\u1ea7n tr\u01b0\u1edbc. Nh\u01b0 ai \u0111ang xoay n\u00fat \u00e2m l\u01b0\u1ee3ng xu\u1ed1ng."
+  ],
+  "ai_patterns_detected": [
+    "Two uncorrected English words ('beside') in Vietnamese prose\u2014a classic machine-generation artifact where the model code-switches without intent.",
+    "Repetitive paragraph openings: six consecutive paragraphs starting with 'Anh' in the mid-section, creating a mechanical rhythm.",
+    "The triple-beat structure 'Ghi nh\u1eadn. Ghi l\u1ea1i. Gi\u1eef.' is neat to a fault\u2014too symmetric, too rhetorically balanced for natural interiority.",
+    "The final three paragraphs progressively explain the chapter's theme in increasingly explicit terms, as if ensuring the reader 'gets it.' A human writer would trust the images more.",
+    "Multiple paragraphs follow the same template: observation \u2192 simile/metaphor \u2192 emotional reaction. The pattern repeats without enough variation."
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "prose_quality",
+  "top_3_revisions": [
+    "Fix all English intrusions immediately: 'beside' \u2192 'c\u1ea1nh' (appears twice). Also verify 'leans' is intentional as character's vocabulary choice\u2014if so, add a beat where L\u1ecbch acknowledges using the foreign word, making it diegetically motivated rather than accidentally generated.",
+    "Compress the house-counting passage. Cut from nineteen individually numbered houses to a shorter, more dread-inducing count. Example: 'Anh \u0111\u1ebfm. M\u01b0\u1eddi ch\u00edn. Nh\u00e0 s\u1ed1 hai m\u01b0\u01a1i \u2014 tr\u1ed1ng.' The absence should hit harder than the catalog.",
+    "Delete the final thematic exposition ('Nh\u01b0ng c\u00f3 t\u00ednh kh\u00f4ng? K\u00fd \u1ee9c t\u1eeb s\u1ed5 ghi ch\u00e9p c\u00f3 t\u00ednh kh\u00f4ng?...'). End the chapter on L\u1ecbch closing the book, hand trembling. The question is already alive in every scene that preceded it. Stating it aloud kills the hum."
+  ],
+  "new_canon_entries": [
+    "L\u1ecbch's house is number 17 in the village layout.",
+    "House 21 was occupied as recently as last month; its occupant has since faded. Clothes remain folded on the bed.",
+    "Fading text in Ch\u1ecb T\u01b0 H\u1ed3ng's book erases from the end of words backward (e.g., 'N\u0103m' loses '\u0103m' before 'N').",
+    "L\u1ecbch attempts to preserve fading entries by writing over them with his own clearer handwriting.",
+    "Th\u00edm Hai washes clothes daily at the stream near Gi\u1ebfng L\u00e0ng."
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 24.81,
+    "sentence_length_cv": 0.798,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 7
+}

@@ -305,3 +305,11 @@
 ---
 
 *Cơ sở dữ liệu này compiled từ seed.txt, world.md, và characters.md. Mỗi sự thật đều truy nguyên được nguồn. Mâu thuẫn nội bộ về thời gian Cụ Ba đã giải quyết: cụ chết 1954, ở đảo ≈61 năm, thấy hơn trăm người tan biến trong sáu thập kỷ — nhất quán với mọi chi tiết khác. Ký ức gián tiếp và bất thường từ trường đã thêm như hiện tượng chưa giải thích, gắn ngoại угроз với hệ thống phép thuật.*
+
+
+## From Chapter 1
+- Nhà Lịch nằm ở vị trí số 17 trong sơ đồ ngôi làng. (ch_01)
+- Nhà 21 vẫn còn người ở vào tháng trước, nhưng nay người đó đã tan biến. Trên giường vẫn để lại quần áo được gấp gọn. (ch_01)
+- Chữ viết trong cuốn sổ của chị Tư Hồng mờ dần từ cuối từ lùi về trước (ví dụ: từ 'Năm' sẽ mất 'ăm' trước khi mất 'N'). (ch_01)
+- Lịch cố gắng lưu giữ những ghi chép đang mờ nhạt bằng cách viết đè lên chúng bằng chính nét chữ rõ ràng của mình. (ch_01)
+- Hàng ngày, thím Hai giặt quần áo ở con suối gần Giếng Làng. (ch_01)

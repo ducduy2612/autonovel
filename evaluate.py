@@ -738,6 +738,8 @@ Respond with JSON:
   "new_canon_entries": ["any new facts established in this chapter"]
 }}
 
+CRITICAL: new_canon_entries MUST be written in the same language as the chapter text. If the chapter is in Vietnamese, write all canon entries in Vietnamese.
+
 FINAL CHECK: If your overall_score is above 7, re-read your weakest_moment
 quotes. If any of them describe a problem that an editor would flag, your
 score is too high. The median AI chapter is a 6. An 8 is exceptional. A 9

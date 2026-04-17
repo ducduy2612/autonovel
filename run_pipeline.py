@@ -113,7 +113,7 @@ def generate_chapter_summary(chapter_num: int) -> bool:
 
     # Use a lightweight LLM call to summarize
     from writer import call_writer
-    from config import WRITER_MODEL, get_language, language_instruction
+    from config import API_KEY, WRITER_MODEL, get_language, language_instruction
 
     if not API_KEY:
         # Fallback: use first 200 words
@@ -912,6 +912,20 @@ def run_drafting(state: dict) -> dict:
             step(f"Chapter {ch} score: {score}")
 
             if score >= CHAPTER_THRESHOLD:
+                # Fix slop surgically if penalty > 0
+                slop_match = re.search(r'slop_penalty:\s*([\d.]+)', eval_result.stdout)
+                slop_penalty = float(slop_match.group(1)) if slop_match else 0
+                if slop_penalty >= 1.0:
+                    step(f"Slop penalty {slop_penalty} — running surgical fix...")
+                    fix_result = uv_run(f"fix_slop.py {ch}", timeout=SUBPROCESS_TIMEOUT)
+                    if fix_result.returncode == 0:
+                        # Re-evaluate after fix
+                        step(f"Re-evaluating after slop fix...")
+                        eval_result = uv_run(f"evaluate.py --chapter={ch}", timeout=SUBPROCESS_TIMEOUT)
+                        score = parse_score(eval_result.stdout, "overall_score")
+                        step(f"Chapter {ch} score after fix: {score}")
+                        word_count = len(ch_file.read_text().split())
+
                 # Grow canon with new facts from this chapter
                 n_facts = append_new_canon_entries(eval_result.stdout, ch)
                 if n_facts:
