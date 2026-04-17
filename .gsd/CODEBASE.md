@@ -1,13 +1,13 @@
 # Codebase Map
 
-Generated: 2026-04-16T19:48:08Z | Files: 65 | Described: 0/65
-<!-- gsd:codebase-meta {"generatedAt":"2026-04-16T19:48:08Z","fingerprint":"a8371c585bc3be6c04e9cf938119a2560da7a8a2","fileCount":65,"truncated":false} -->
+Generated: 2026-04-17T00:50:06Z | Files: 102 | Described: 0/102
+<!-- gsd:codebase-meta {"generatedAt":"2026-04-17T00:50:06Z","fingerprint":"6e47c1dd15ffaef791bf14ad0dade7fc4fa2d5a4","fileCount":102,"truncated":false} -->
 
 ### (root)/
 - *(55 files: 33 .py, 13 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
 
 ### chapters/
-- `chapters/.gitkeep`
+- *(38 files: 37 .md, 1 (no ext))*
 
 ### landing/
 - `landing/index.html`
