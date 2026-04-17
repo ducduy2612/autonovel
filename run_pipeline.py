@@ -60,31 +60,55 @@ PHASE_ORDER = ["foundation", "drafting", "revision", "export"]
 # ---------------------------------------------------------------------------
 
 def append_new_canon_entries(eval_stdout: str, chapter_num: int):
-    """Parse new_canon_entries from evaluate output and append to canon.md."""
-    # Try JSON-style: "new_canon_entries": ["fact1", "fact2"]
-    entries_block = re.findall(
-        r'"new_canon_entries"\s*:\s*\[(.*?)\]', eval_stdout, re.DOTALL)
-    facts = []
-    if entries_block:
-        facts = re.findall(r'"(.*?)"', entries_block[0])
+    """Parse new_canon_entries from evaluate output and append to canon.md.
     
-    # Try YAML-style: new_canon_entries:
-    #   - fact1
-    #   - fact2
+    Tries to parse from eval JSON log first (reliable), then falls back
+    to regex on stdout (fragile).
+    """
+    facts = []
+
+    # --- Try JSON eval log (reliable) ---
+    eval_logs = sorted(
+        EVAL_LOGS_DIR.glob(f"*_ch{chapter_num:02d}.json"),
+        key=lambda p: p.stat().st_mtime,
+    )
+    if eval_logs:
+        try:
+            data = json.loads(eval_logs[-1].read_text())
+            facts = [f for f in data.get("new_canon_entries", []) if f]
+        except (json.JSONDecodeError, OSError):
+            pass
+
+    # --- Fallback: regex on stdout ---
     if not facts:
-        in_block = False
-        for line in eval_stdout.splitlines():
-            stripped = line.strip()
-            if stripped.startswith("new_canon_entries"):
-                in_block = True
-                continue
-            if in_block:
-                if stripped.startswith("- "):
-                    fact = stripped[2:].strip().strip('"').strip("'")
-                    if fact:
-                        facts.append(fact)
-                elif stripped and not stripped.startswith("#"):
-                    break
+        # Python repr style: new_canon_entries: ['fact1', 'fact2']
+        entries_block = re.findall(
+            r'new_canon_entries:\s*\[(.*?)\]', eval_stdout, re.DOTALL)
+        if entries_block:
+            facts = re.findall(r"'([^']*)'", entries_block[0])
+
+        # JSON style: "new_canon_entries": ["fact1", "fact2"]
+        if not facts:
+            entries_block = re.findall(
+                r'"new_canon_entries"\s*:\s*\[(.*?)\]', eval_stdout, re.DOTALL)
+            if entries_block:
+                facts = re.findall(r'"(.*?)"', entries_block[0])
+
+        # YAML style: new_canon_entries:\n  - fact1
+        if not facts:
+            in_block = False
+            for line in eval_stdout.splitlines():
+                stripped = line.strip()
+                if stripped.startswith("new_canon_entries"):
+                    in_block = True
+                    continue
+                if in_block:
+                    if stripped.startswith("- "):
+                        fact = stripped[2:].strip().strip('"').strip("'")
+                        if fact:
+                            facts.append(fact)
+                    elif stripped and not stripped.startswith("#"):
+                        break
     
     if not facts:
         return 0
@@ -913,8 +937,17 @@ def run_drafting(state: dict) -> dict:
 
             if score >= CHAPTER_THRESHOLD:
                 # Fix slop surgically if penalty > 0
-                slop_match = re.search(r'slop_penalty:\s*([\d.]+)', eval_result.stdout)
-                slop_penalty = float(slop_match.group(1)) if slop_match else 0
+                slop_penalty = 0
+                eval_logs = sorted(
+                    EVAL_LOGS_DIR.glob(f"*_ch{ch:02d}.json"),
+                    key=lambda p: p.stat().st_mtime,
+                )
+                if eval_logs:
+                    try:
+                        edata = json.loads(eval_logs[-1].read_text())
+                        slop_penalty = edata.get("slop", {}).get("slop_penalty", 0)
+                    except (json.JSONDecodeError, OSError):
+                        pass
                 if slop_penalty >= 1.0:
                     step(f"Slop penalty {slop_penalty} — running surgical fix...")
                     fix_result = uv_run(f"fix_slop.py {ch}", timeout=SUBPROCESS_TIMEOUT)

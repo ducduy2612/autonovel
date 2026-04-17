@@ -313,3 +313,11 @@
 - Chữ viết trong cuốn sổ của chị Tư Hồng mờ dần từ cuối từ lùi về trước (ví dụ: từ 'Năm' sẽ mất 'ăm' trước khi mất 'N'). (ch_01)
 - Lịch cố gắng lưu giữ những ghi chép đang mờ nhạt bằng cách viết đè lên chúng bằng chính nét chữ rõ ràng của mình. (ch_01)
 - Hàng ngày, thím Hai giặt quần áo ở con suối gần Giếng Làng. (ch_01)
+
+
+## From Chapter 2
+- Lịch liếm môi liên tục khi sinh — phản xạ tìm nước mặn, không phải bầu ngực. (ch_02)
+- Bờ sông Rhein nơi mẹ chết: đá lát, rêu xám, đất đen bùn, đất đóng băng nông bên trên bùn mềm. (ch_02)
+- Phản chiếu của Lịch trong Giếng Làng đang mờ — không rõ nguyên nhân — bất thường vì anh là người sống. (ch_02)
+- Lịch thấy một bóng mờ phía sau mình trong phản chiếu giếng, nhưng quay lại thì không có ai. (ch_02)
+- Phương dùng gàu nhựa cũ của nhà số 19 (người trước tan biến để lại). (ch_02)

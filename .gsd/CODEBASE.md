@@ -1,10 +1,10 @@
 # Codebase Map
 
-Generated: 2026-04-17T19:16:45Z | Files: 77 | Described: 0/77
-<!-- gsd:codebase-meta {"generatedAt":"2026-04-17T19:16:45Z","fingerprint":"0bde3bdcae84b36f3e411dfcba256c438076b9dd","fileCount":77,"truncated":false} -->
+Generated: 2026-04-17T19:28:05Z | Files: 85 | Described: 0/85
+<!-- gsd:codebase-meta {"generatedAt":"2026-04-17T19:28:05Z","fingerprint":"4176c14da9f94c667be50c2407246a7b9ceb5f1b","fileCount":85,"truncated":false} -->
 
 ### (root)/
-- *(57 files: 35 .py, 13 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
+- *(60 files: 38 .py, 13 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
 
 ### art/
 - `art/picks.json`
@@ -17,17 +17,24 @@ Generated: 2026-04-17T19:16:45Z | Files: 77 | Described: 0/77
 ### chapters/
 - `chapters/.gitkeep`
 - `chapters/ch_01.md`
+- `chapters/ch_02.md`
 
 ### eval_logs/
 - `eval_logs/20260417_180610_foundation.json`
 - `eval_logs/20260417_181855_foundation.json`
 - `eval_logs/20260417_182910_foundation.json`
+- `eval_logs/20260417_184140_ch01.json`
+- `eval_logs/20260417_192453_ch02.json`
 
 ### landing/
 - `landing/index.html`
 
 ### scripts/
 - `scripts/verify_vi_pipeline.sh`
+
+### summaries/
+- `summaries/summary_01.md`
+- `summaries/summary_02.md`
 
 ### typeset/
 - `typeset/build_tex.py`
