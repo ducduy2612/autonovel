@@ -1,9 +1,9 @@
 {
   "magic_system": {
     "score": 9,
-    "gap": "The distinction between 'genuine memory' and 'life-force writing' needs sharper definition at the boundary. The documents say Lịch's notebook works via sinh kh\u00ed, not genuine memory\u2014but the world rules state memory must be 't\u1eeb tr\u00e1i tim.' The author knows the answer internally, but the exact threshold where 'attentive remembering' becomes 'mechanical recording' could trap a writer in edge cases during drafting.",
+    "gap": "The distinction between 'genuine memory' and 'life-force writing' needs sharper definition at the boundary. The documents say Khoa's notebook works via sinh kh\u00ed, not genuine memory\u2014but the world rules state memory must be 't\u1eeb tr\u00e1i tim.' The author knows the answer internally, but the exact threshold where 'attentive remembering' becomes 'mechanical recording' could trap a writer in edge cases during drafting.",
     "fix": "Add one concrete canonical example of what DOESN'T work\u2014a case where someone attempted to preserve memory through writing and it failed\u2014so the boundary is clearly marked. For instance: clarify whether Ch\u1ecb T\u01b0's fading notebook proves that non-sinh-kh\u00ed writing is inert, or whether her writing works partially but decays because she's already dead.",
-    "note": "Extraordinary system. Rules are testable across courtroom, contract, and confrontation scenarios. Costs are plot-driving (Lịch's life force). Three-plus societal implications explored with specificity (political hierarchy by remembered-ness, feudal economy, distorted family love). Climax resolves via established rules (burning notebook = severing conduit)."
+    "note": "Extraordinary system. Rules are testable across courtroom, contract, and confrontation scenarios. Costs are plot-driving (Khoa's life force). Three-plus societal implications explored with specificity (political hierarchy by remembered-ness, feudal economy, distorted family love). Climax resolves via established rules (burning notebook = severing conduit)."
   },
   "world_history": {
     "score": 8,
@@ -33,23 +33,23 @@
     "score": 8,
     "gap": "C\u00f4 N\u0103m Th\u1ea3o and Th\u1ea7y Tu\u1ea5n lack wound/want/need/lie chains. For named characters with secrets and thematic roles, this is a gap. Th\u1ea7y Tu\u1ea5n in particular has rich thematic potential (faith without evidence on an evidence-based island) but is a sketch rather than a portrait.",
     "fix": "Add full psychological chains for both. Th\u1ea7y Tu\u1ea5n's wound writes itself: arrived expecting afterlife, found a bureaucratic waiting room, lost faith but kept the habit of listening. His lie might be 'comforting others = purpose' when his need is to find his own reason to exist or to leave. C\u00f4 N\u0103m Th\u1ea3o's secret (smelling oil) suggests a wound about sensing danger but not acting.",
-    "note": "The five major characters (Lịch, C\u1ee5 Ba, Ph\u01b0\u01a1ng, Li\u00ean, Ch\u1ecb T\u01b0) have logically tight Ghost\u2192Wound\u2192Lie\u2192Want\u2192Need chains. Lịch's chain is exemplary: lie logically follows wound, want is the wrong solution, need directly opposes want. No causal gaps in the primary cast."
+    "note": "The five major characters (Khoa, C\u1ee5 Ba, Ph\u01b0\u01a1ng, Li\u00ean, Ch\u1ecb T\u01b0) have logically tight Ghost\u2192Wound\u2192Lie\u2192Want\u2192Need chains. Khoa's chain is exemplary: lie logically follows wound, want is the wrong solution, need directly opposes want. No causal gaps in the primary cast."
   },
   "character_distinctiveness": {
     "score": 8,
     "gap": "C\u1ee5 Ba's speech tic 'ru\u1ed3i' appears in his character doc but is not a recognizable Ngh\u1ec7 An speech feature. If this is meant as 'ru\u1ed7i' (a genuine Ngh\u1ec7 An variant of '\u0111i'), it should be standardized. If intentional, it needs explanation. Additionally, some outline narration prose (not dialogue) has uniform descriptive rhythm across chapters.",
     "fix": "Standardize C\u1ee5 Ba's tic to a documented Ngh\u1ec7 An speech feature (options: 'nghen,' 'ru\u1ed7i,' 't\u1ec1u,' or the sentence-final 'ch\u1eeb' for 'b\u00e2y gi\u1edd'). Ensure his dialogue in the outline uses the corrected form consistently.",
-    "note": "Removing dialogue tags, speakers are identifiable: Ph\u01b0\u01a1ng's terse kitchen-metaphor lines ('H\u00f4m nay canh h\u01a1i nh\u1ea1t'), Luy\u1ec7n's confrontational questions, C\u1ee5 Ba's declarative brevity, Lịch's academic defensiveness ('C\u00f4 kh\u00f4ng th\u1ea5y sao?'), Ch\u1ecb T\u01b0's pauses and Nam-accent switches. Metaphor domains are non-overlapping (Lịch=water, Ph\u01b0\u01a1ng=cooking, Luy\u1ec7n=sea/combat, C\u1ee5 Ba=earth)."
+    "note": "Removing dialogue tags, speakers are identifiable: Ph\u01b0\u01a1ng's terse kitchen-metaphor lines ('H\u00f4m nay canh h\u01a1i nh\u1ea1t'), Luy\u1ec7n's confrontational questions, C\u1ee5 Ba's declarative brevity, Khoa's academic defensiveness ('C\u00f4 kh\u00f4ng th\u1ea5y sao?'), Ch\u1ecb T\u01b0's pauses and Nam-accent switches. Metaphor domains are non-overlapping (Khoa=water, Ph\u01b0\u01a1ng=cooking, Luy\u1ec7n=sea/combat, C\u1ee5 Ba=earth)."
   },
   "character_secrets": {
     "score": 8,
-    "gap": "Hai Luy\u1ec7n's secrets are weak. 'Knows Lịch has a radio' is observation, not revelation. 'Tried to swim away three times' is already known to the Council. He lacks a secret that would change the plot's trajectory if revealed.",
-    "fix": "Give Luy\u1ec7n a secret with teeth: perhaps he's been collecting objects from the mainland that wash ashore, building a makeshift signal device. Or he knows about a second way off the island (a narrow channel where water doesn't thicken) but it requires a living person to navigate it\u2014making Lịch the key to his escape. This would create genuine moral conflict when Lịch learns the truth.",
-    "note": "Lịch's, C\u1ee5 Ba's, Li\u00ean's, and Ph\u01b0\u01a1ng's secrets are all specific and plot-altering. Li\u00ean's secret (already contacted journalist) is particularly strong\u2014it removes Lịch's agency and creates an unstoppable external force. C\u1ee5 Ba's 17-person incident is the backstory bomb that justifies everything."
+    "gap": "Hai Luy\u1ec7n's secrets are weak. 'Knows Khoa has a radio' is observation, not revelation. 'Tried to swim away three times' is already known to the Council. He lacks a secret that would change the plot's trajectory if revealed.",
+    "fix": "Give Luy\u1ec7n a secret with teeth: perhaps he's been collecting objects from the mainland that wash ashore, building a makeshift signal device. Or he knows about a second way off the island (a narrow channel where water doesn't thicken) but it requires a living person to navigate it\u2014making Khoa the key to his escape. This would create genuine moral conflict when Khoa learns the truth.",
+    "note": "Khoa's, C\u1ee5 Ba's, Li\u00ean's, and Ph\u01b0\u01a1ng's secrets are all specific and plot-altering. Li\u00ean's secret (already contacted journalist) is particularly strong\u2014it removes Khoa's agency and creates an unstoppable external force. C\u1ee5 Ba's 17-person incident is the backstory bomb that justifies everything."
   },
   "outline_completeness": {
     "score": 9,
-    "gap": "The single-POV structure (Lịch only) means Ph\u01b0\u01a1ng's acceptance of fading\u2014the novel's emotional climax\u2014is witnessed externally rather than experienced internally. The writer will need to convey her internal state through gesture, action, and silence alone.",
+    "gap": "The single-POV structure (Khoa only) means Ph\u01b0\u01a1ng's acceptance of fading\u2014the novel's emotional climax\u2014is witnessed externally rather than experienced internally. The writer will need to convey her internal state through gesture, action, and silence alone.",
     "fix": "Add 'sensory detail' notes to Ch 22-23 indicating specifically how Ph\u01b0\u01a1ng's acceptance should be shown through body language and action (what she touches, what she doesn't, how she moves differently than before). The voice doc's 'Body Before Emotion' principle applies strongly here.",
     "note": "Exceptionally thorough. 24 chapters with every required element: POV, location, Save the Cat beat at correct % marks, emotional arc, try-fail cycle type, detailed beats (5 per chapter), plants/payoffs, character movement, the lie, word count. 15/24 chapters have active try-fail cycles (63%). Three designated quiet chapters. Opening Image mirrors Final Image."
   },
@@ -63,7 +63,7 @@
     "score": 5,
     "gap": "MAJOR: C\u1ee5 Ba's time on the island is stated as 'ba tr\u0103m n\u0103m' in multiple places (characters.md wound, Ch 14 dialogue, Ch 19 opening, Ch 23-24 narration) but he died in 1954\u2014only ~61 years before the present (~2015). 300 years is the island's total history, not C\u1ee5 Ba's tenure. This contradiction would force any writer to stop and determine which number is correct.",
     "fix": "Decide: is C\u1ee5 Ba the island's oldest resident (arrived ~1954, ~61 years) or has he been there since near-founding (~1700-1750)? Either works, but the documents must be consistent. If 61 years, replace all 'ba tr\u0103m n\u0103m' references with 's\u00e1u m\u01b0\u01a1i n\u0103m' or 'h\u01a1n n\u1eeda th\u1ebf k\u1ef7.' If 300 years, change his death date to the founding era. Then sweep all documents for consistency.",
-    "note": "Secondary issues: (1) Island visibility rules are unclear\u2014world doc says anyone 2 nautical miles away can see it, but characters ask why Lịch could see it as if this is unusual. (2) 'Ch\u1ebft th\u1ee9 hai l\u00e0 ch\u1ebft m\u00e3i' in world rules partially contradicts Ch 19's reincarnation reveal\u2014needs reconciliation (most reincarnate, only identity-clingers truly end). (3) Mixed-script artifacts: 'xd\u016f\u017ene' (Ch 18), '\u773c\u91cc\u6c34' (voice doc), 'left' and 'filled lungs' in exemplars."
+    "note": "Secondary issues: (1) Island visibility rules are unclear\u2014world doc says anyone 2 nautical miles away can see it, but characters ask why Khoa could see it as if this is unusual. (2) 'Ch\u1ebft th\u1ee9 hai l\u00e0 ch\u1ebft m\u00e3i' in world rules partially contradicts Ch 19's reincarnation reveal\u2014needs reconciliation (most reincarnate, only identity-clingers truly end). (3) Mixed-script artifacts: 'xd\u016f\u017ene' (Ch 18), '\u773c\u91cc\u6c34' (voice doc), 'left' and 'filled lungs' in exemplars."
   },
   "voice_clarity": {
     "score": 8,
@@ -73,8 +73,8 @@
   },
   "canon_coverage": {
     "score": 7,
-    "gap": "Two critical revealed truths are absent from the canon: (1) The island is a 'ph\u00f2ng ch\u1edd' where souls are trapped by memory; fading = liberation, most reincarnate, identity-clingers truly end. (2) Lịch's notebook drains sinh kh\u00ed (life force), not genuine memory. These are the novel's two biggest revelations but a writer couldn't verify them against the canon.",
-    "fix": "Add a 'Revealed Truths' section to canon with entries marked by reveal chapter: 'B\u00e3i Ch\u1edd = ph\u00f2ng ch\u1edd, not salvation (revealed Ch 19)' and 'Lịch's notebook operates via sinh kh\u00ed drain, not memory (revealed Ch 19).' Include warnings about when each truth can be referenced or foreshadowed.",
+    "gap": "Two critical revealed truths are absent from the canon: (1) The island is a 'ph\u00f2ng ch\u1edd' where souls are trapped by memory; fading = liberation, most reincarnate, identity-clingers truly end. (2) Khoa's notebook drains sinh kh\u00ed (life force), not genuine memory. These are the novel's two biggest revelations but a writer couldn't verify them against the canon.",
+    "fix": "Add a 'Revealed Truths' section to canon with entries marked by reveal chapter: 'B\u00e3i Ch\u1edd = ph\u00f2ng ch\u1edd, not salvation (revealed Ch 19)' and 'Khoa's notebook operates via sinh kh\u00ed drain, not memory (revealed Ch 19).' Include warnings about when each truth can be referenced or foreshadowed.",
     "note": "Otherwise comprehensive. Every fact is sourced. Geography, timeline, magic rules, events, character facts, politics, culture, sensory details, writer constraints, and relationship cross-reference are all present. The sourcing system (document name in parentheses) enables verification."
   },
   "slop_in_planning_docs": {
@@ -90,7 +90,7 @@
     "MAJOR: C\u1ee5 Ba's time on island stated as 'ba tr\u0103m n\u0103m' (characters.md wound, Ch 14 dialogue, Ch 19/23/24 narration) but he died in 1954 = only ~61 years on island. 300 years is the island's total history. Appears in 6+ locations across documents.",
     "MODERATE: Island visibility rules\u2014world.md says '\u0111\u1ee9ng tr\u00ean thuy\u1ec1n c\u00e1ch hai h\u1ea3i l\u00fd, b\u1ea1n th\u1ea5y n\u00f3' (anyone can see it from nearby), but Ch 8 has C\u1ee5 Ba asking 'nh\u00ecn th\u1ea5y v\u00ec sao' as if Koha's ability to see/arrive is unusual. Needs clarification on whether living people can normally perceive the island.",
     "MODERATE: World rule 'S\u1ef1 tan bi\u1ebfn kh\u00f4ng th\u1ec3 \u0111\u1ea3o ng\u01b0\u1ee3c... Ch\u1ebft th\u1ee9 hai l\u00e0 ch\u1ebft m\u00e3i' partially contradicts Ch 19 revelation that most faded souls reincarnate. If reincarnation is common, 'ch\u1ebft m\u00e3i' is misleading. Needs reconciliation: most escape, only identity-clingers truly end.",
-    "MINOR: Lịch's arrival mechanism\u2014world.md says he found island through research (satellite anomalies, ghost-ship reports), but outline implies magic drew him ('n\u01b0\u1edbc nh\u1edb anh,' the island chose him). These can coexist but need explicit reconciliation.",
+    "MINOR: Khoa's arrival mechanism\u2014world.md says he found island through research (satellite anomalies, ghost-ship reports), but outline implies magic drew him ('n\u01b0\u1edbc nh\u1edb anh,' the island chose him). These can coexist but need explicit reconciliation.",
     "MINOR: Mixed-script artifacts throughout (\u773c\u91cc\u6c34, Matho\u00e1ng, left, filled lungs, xd\u016f\u017ene) appear to be drafting errors requiring cleanup."
   ],
   "overall_score": 7,
@@ -99,6 +99,6 @@
   "top_3_improvements": [
     "Fix C\u1ee5 Ba timeline: Decide whether he's been on the island ~61 years (died 1954) or ~300 years (died ~1700s), then sweep all documents for consistency. This single error appears in 6+ locations and would block any writer at first mention of 'ba tr\u0103m n\u0103m.'",
     "Add revealed truths to canon: The island-as-waiting-room revelation and the sinh-kh\u00eda-drain mechanism are the novel's two biggest secrets but absent from the canon. Add them with chapter-specific revelation warnings so writers can verify foreshadowing without spoiling reveals.",
-    "Clarify island visibility/arrival rules: Reconcile 'anyone 2 nautical miles away can see it' with 'why could Lịch see it?' Either living people CAN see it (making his arrival unremarkable) or the '2 nautical miles' rule only applies to the dead (making his arrival miraculous). Pick one and propagate."
+    "Clarify island visibility/arrival rules: Reconcile 'anyone 2 nautical miles away can see it' with 'why could Khoa see it?' Either living people CAN see it (making his arrival unremarkable) or the '2 nautical miles' rule only applies to the dead (making his arrival miraculous). Pick one and propagate."
   ]
 }

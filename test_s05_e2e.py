@@ -606,7 +606,7 @@ class TestEndToEndVietnameseFoundationChain:
     VI_WORLD = textwrap.dedent("""\
         # Kinh Thánh Thế Giới
 
-        ## Vũ Trụ và Lịch Sử
+        ## Vũ Trụ và Khoa Sử
         Cantamura là một thành phố cổ xưa nằm trong một thung lũng tự nhiên.
         Những tiếng chuông ngân vang khắp nơi, mỗi hồi chuông mang một ý nghĩa.
 
