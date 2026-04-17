@@ -391,3 +391,11 @@
 - Cụ Ba cảnh báo Khoa: 'Anh đừng nhìn giếng nhiều. Nước nhìn lại.' — nói lúc cụ ngồi sân nhà Hội Đồng hút thuốc lào, không nhìn Khoa. (ch_10)
 - Khoa nhớ cha mình lần đầu tiên trong hai năm — khi thấy Cụ Ba giữ khói thuốc lào giống cách cha anh giữ tách cà phê không uống ở Berlin. (ch_10)
 - Chị Tư thấy mẹ thím Hai trong giếng — 'Bảy mươi năm rồi. Bà còn sống. Bà còn ăn cơm.' — phản chiếu đặc (rõ nét), nghĩa là thím Hai còn được nhớ kỹ. (ch_10)
+
+
+## From Chapter 11
+- Khoa ngủ lại nhà Phương trên phản gỗ kê sát vách, cách giường cô một khoảng — thói quen hình thành tự nhiên. (ch_11)
+- Phương dạy Khoa nấu canh chua — anh không biết nấu trước đó. (ch_11)
+- Khi Khoa ghi chi tiết cụ thể về Phương vào sổ ('mắt lớn, mi dài, nấu canh chua ngon nhất đảo'), cô rõ hơn một chút ngay sau đó — chân đặc hơn, lúm đồng tiền sâu hơn. (ch_11)
+- Khoa nói mẹ và cha anh 'ru bằng im lặng' — không hát, chỉ im lặng. (ch_11)
+- Đũa gốm Phương dùng rơi khi cô cầm bằng tay trái trong suốt — cô không nhặt. (ch_11)
