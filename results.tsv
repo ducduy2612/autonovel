@@ -220,3 +220,4 @@ discarded	ch37	5.0	3494	discard	Chapter 37 attempt 1
 daf5248	ch37	6.0	4252	keep	Chapter 37 (attempt 2)
 reverted	rev-ch18	5.47	1907	discard	Cycle 1: momentum_loss regressed 5.67->5.47
 f6d44b4	rev-ch21	6.0	2649	keep	Cycle 1: worst_scene improved -1.0->6.0
+9dea369	revision-cycle-1	8.0	143616	cycle	Cycle 1: novel_score 0.0->8.0

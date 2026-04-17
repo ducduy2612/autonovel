@@ -1,0 +1,34 @@
+[
+  {
+    "num": 1,
+    "direction": "macro",
+    "concept": "A microscopic cross-section of an artificial tear duct leaking fiber-optic cables and dead pixels into a metallic eye socket.",
+    "medium": "Gritty impasto oil painting",
+    "file": "cover_01.png",
+    "size": 1154552
+  },
+  {
+    "num": 2,
+    "direction": "atmospheric",
+    "concept": "A vast, decaying server-farm necropolis where massive cooling towers exhale toxic amber mist into a glitching, desolate landscape.",
+    "medium": "Digital matte painting",
+    "file": "cover_02.png",
+    "size": 835869
+  },
+  {
+    "num": 3,
+    "direction": "symbolic",
+    "concept": "A shattered anatomical heart reconstructed using tangled network cables, hovering over a clinical steel examination tray.",
+    "medium": "Constructivist collage",
+    "file": "cover_03.png",
+    "size": 924658
+  },
+  {
+    "num": 4,
+    "direction": "abstract",
+    "concept": "A pure waveform visualization of a dying human consciousness depicted as jagged, decaying audio peaks.",
+    "medium": "Cyanotype and linocut",
+    "file": "cover_04.png",
+    "size": 1355151
+  }
+]

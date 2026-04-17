@@ -1,13 +1,21 @@
 # Codebase Map
 
-Generated: 2026-04-17T05:37:17Z | Files: 233 | Described: 0/233
-<!-- gsd:codebase-meta {"generatedAt":"2026-04-17T05:37:17Z","fingerprint":"980658180ffd804af2cb1b9490976868bfbeb77e","fileCount":233,"truncated":false} -->
+Generated: 2026-04-17T06:00:23Z | Files: 244 | Described: 0/244
+<!-- gsd:codebase-meta {"generatedAt":"2026-04-17T06:00:23Z","fingerprint":"45bafbaed859aee32bb9a1ceca12ed6cb24c7b85","fileCount":244,"truncated":false} -->
 
 ### (root)/
-- *(55 files: 33 .py, 13 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
+- *(56 files: 33 .py, 14 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
+
+### art/
+- `art/picks.json`
+- `art/visual_style.json`
+
+### art/variants/
+- `art/variants/ornament_directions.json`
 
 ### briefs/
 - `briefs/ch16_panel.md`
+- `briefs/ch18_panel.md`
 - `briefs/ch21_panel.md`
 - `briefs/ch25_panel.md`
 - `briefs/ch26_panel.md`
@@ -20,7 +28,7 @@ Generated: 2026-04-17T05:37:17Z | Files: 233 | Described: 0/233
 - *(22 files: 22 .json)*
 
 ### eval_logs/
-- *(67 files: 67 .json)*
+- *(73 files: 73 .json)*
 
 ### landing/
 - `landing/index.html`
