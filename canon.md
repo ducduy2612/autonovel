@@ -339,3 +339,13 @@
 - Hoa dặm trên Mũi Chờ nở trắng dưới ánh sao, Khoa ngửi mùi cà phê rang xay — thứ không thuộc đảo. (ch_04)
 - Liên đã liên hệ nhà báo (không nói Khoa) — gợi ý qua câu 'tui đi xin nhà xuất bản, đi xin nhà báo' nhưng chưa xác nhận rõ trong chương này. (ch_04)
 - Liên kể Khoa và cô từng ngồi phòng nghiên viện Berlin uống cà phê đặc đen khi cô kể về chị và anh kể về mẹ — trước khi anh biết Bãi Chờ tồn tại. (ch_04)
+
+
+## From Chapter 5
+- Nhà Phương nằm sát mép nước phía bờ biển, nhỏ hơn nhà Khoa, có hiên rộng và một gian trong. (ch_05)
+- Lúm đồng tiền má trái của Phương đang mờ dần — tuần trước còn sâu hơn, giờ chỉ còn vết hõm nhẹ. (ch_05)
+- Mẹ Phương gọi cô bằng tên 'Dì Nga' (em của mẹ) khi lẫn lộn. (ch_05)
+- Phương từng nói bếp là nơi cô 'đặc' nhất, nơi mẹ nhớ rõ nhất về con gái. (ch_05)
+- Khoa ngồi ghế tre sát cột hiên nhà Phương mỗi chiều — thói quen hình thành tự nhiên từ gần ba tháng nay. (ch_05)
+- Hoa dặm gần cửa nhà Phương đã bắt đầu chuyển sang xám nhạt. (ch_05)
+- Phương rút tay lại khi Khoa nắm tay cô — phản ứng 'nhanh, dứt khoát, như người vừa chạm vào than nóng.' (ch_05)
