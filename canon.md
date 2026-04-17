@@ -374,3 +374,11 @@
 - Cụ Ba hỏi Khoa trực tiếp: 'Anh nhìn thấy vì sao?' — lần đầu cụ nói dài hơn hai câu với Khoa. (ch_08)
 - Cô Năm Thảo ủng hộ xuất bản — muốn người ngoài biết tên, mặt, chuyện cô nấu canh chua giỏi nhất làng. (ch_08)
 - Thầy Tuấn phản đối xuất bản — sợ quân sự, bảo tàng, phòng thí nghiệm. (ch_08)
+
+
+## From Chapter 9
+- Bác Khải — chết đuối 1972, tàu ngư dân bị bão lật ngoài khơi, hay ngồi bờ đá Mũi Chờ hút thuốc lào bằng ống điếu tre, tan biến giữa Ch 8 và Ch 9. (ch_09)
+- Người còn sống đôi khi lặp lại lời người đã tan biến mà không biết mình lặp — như ký ức đang tìm chỗ neo trong miệng người còn sống. (ch_09)
+- Chữ trong sổ Khoa về người đã tan biến mờ hơn chữ về người còn sống — mực nằm lơ lửng trên bề mặt giấy thay vì thấm sâu. (ch_09)
+- Hoa dặm quanh nhà người đã tan biến cũng chuyển sang xám nhạt (không chỉ người sắp tan biến). (ch_09)
+- Khoa ghi nhận quy luật: đảo teo theo số người (47→46), nhàstanding teo theo (20→19), luống vườn teo theo (7→6). (ch_09)

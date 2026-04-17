@@ -1,0 +1,106 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "G\u1ea5p s\u1ed5 l\u1ea1i. B\u1ecf t\u00fai. Tay tr\u00e1i run.",
+    "fix": "The voice profile explicitly forbids 3+ short sentences in sequence. Rewrite as one flowing sentence: 'G\u1ea5p s\u1ed5 l\u1ea1i b\u1ecf t\u00fai, tay tr\u00e1i run, run t\u1eeb h\u1ed3i m\u01b0\u1eddi tu\u1ed5i.' Similarly, 'B\u00e1c Kh\u1ea3i kh\u00f4ng c\u00f2n. Ch\u1eef v\u1ec1 b\u00e1c Kh\u1ea3i \u0111ang m\u1edd. Nh\u00e0 b\u00e1c Kh\u1ea3i s\u1ebd s\u1eadp. T\u00ean b\u00e1c Kh\u1ea3i s\u1ebd b\u1ecb qu\u00ean.' violates the same rule \u2014 compress into one long cascading sentence with commas.",
+    "note": "The long flowing sentences are generally excellent, and the tone captures the 'kh\u00f3i b\u1ebfp l\u00f2 ch\u1edd t\u00e0n' quality beautifully. The salt/smoke imagery wells are used effectively. Body-before-emotion mostly respected. But the short-sentence clusters in the second half are direct violations of the #1 rule."
+  },
+  "beat_coverage": {
+    "score": 7,
+    "weakest_moment": "Beat 3 \u2014 th\u00edm Hai's speech and its aftermath: 'Khoa nh\u1eadn ra \u2014 ch\u1eadm, nh\u1eadn ra sau v\u00e0i gi\u00e2y \u2014 r\u1eb1ng l\u1eddi th\u00edm v\u1eeba n\u00f3i kh\u00f4ng thu\u1ed9c v\u1ec1 th\u00edm, r\u1eb1ng c\u00e2u n\u00f3i \u0111\u00f3 thu\u1ed9c v\u1ec1 b\u00e1c Kh\u1ea3i, r\u1eb1ng tu\u1ea7n tr\u01b0\u1edbc c\u00f3 ai \u0111\u00f3 k\u1ec3 b\u00e1c Kh\u1ea3i hay n\u00f3i \"chi\u1ec1u nay tui kh\u00f4ng th\u1ea5y ai ng\u1ed3i b\u1edd \u0111\u00e1\" khi \u0111\u1ebfm ng\u01b0\u1eddi tr\u00ean M\u0169i Ch\u1edd, v\u00e0 b\u00e2y gi\u1edd th\u00edm l\u1eb7p l\u1ea1i l\u1eddi ng\u01b0\u1eddi \u0111\u00e3 \u0111i m\u00e0 kh\u00f4ng bi\u1ebft m\u00ecnh l\u1eb7p, nh\u01b0 k\u00fd \u1ee9c \u0111ang t\u00ecm ch\u1ed7 neo m\u00e0 ch\u1ec9 t\u00ecm \u0111\u01b0\u1ee3c mi\u1ec7ng ng\u01b0\u1eddi c\u00f2n s\u1ed1ng.'",
+    "fix": "Cut the entire explanatory sentence. Let Khoa notice the echo with a single physical detail \u2014 his hand pausing mid-air, a coldness \u2014 and let the reader make the connection. The th\u00edm's dialogue itself is perfect; the explanation kills the mystery.",
+    "note": "All five beats are present and mostly well-dramatized. Beat 1 (the meal) is the strongest \u2014 vivid, specific, lived-in. Beat 5 (the empty house with folded clothes) is also beautifully rendered. Only beat 3 suffers from over-explanation."
+  },
+  "character_voice": {
+    "score": 6,
+    "weakest_moment": "'Nh\u00e0 b\u00e1c Kh\u1ea3i tr\u1ed1ng,' Khoa n\u00f3i nh\u1ecf, nghi\u00eang v\u1ec1 ph\u00eda Ch\u1ecb T\u01b0.",
+    "fix": "Give Khoa a speech pattern consistent with his profile \u2014 he speaks academically but becomes simple when emotional. Something like: 'Ch\u1ecb T\u01b0 \u2014 ch\u1ed7 gh\u1ebf m\u01b0\u1eddi m\u1ed9t. B\u00e1c Kh\u1ea3i.' Short, factual, the way someone who catalogs things would report an absence. The current line is generic.",
+    "note": "Very little dialogue in this chapter, making it hard to assess differentiation. What exists is functional but not distinctive. Th\u00edm Hai's speech is the strongest \u2014 the flat, quotidian tone matches her character. Ch\u1ecb T\u01b0's response ('S\u00e1ng nay tui gh\u00e9. C\u1eeda m\u1edf. Kh\u00f4ng ai.') is appropriately clipped. Khoa's single line could belong to anyone."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "The handwriting-fading revelation is explicitly stated: 'r\u1eb1ng ch\u1eef v\u1ec1 ng\u01b0\u1eddi c\u00f2n s\u1ed1ng th\u00ec \u0111\u1eadm, ch\u1eef v\u1ec1 ng\u01b0\u1eddi \u0111\u00e3 tan bi\u1ebfn th\u00ec m\u1edd, v\u00e0 ch\u1eef v\u1ec1 ng\u01b0\u1eddi \u0111ang tan bi\u1ebfn th\u00ec \u0111ang m\u1edd \u0111i, nh\u01b0 ng\u00f4n ng\u1eef c\u0169ng \u0111ang qu\u00ean, nh\u01b0 ch\u1eef vi\u1ebft c\u0169ng l\u00e0 ng\u01b0\u1eddi'",
+    "fix": "Instead of stating the rule so directly, have Khoa flip between two pages \u2014 one about someone alive, one about someone gone \u2014 and simply observe the difference in ink without naming the pattern. Let the reader deduce.",
+    "note": "The Saturday meal ritual, the counting, the garden shrinking, the folded clothes \u2014 all integrated naturally without feeling like bullet points. The th\u00edm-repeating-words detail is a genuinely interesting new lore element. The flower color shift is handled well. Strong overall despite the over-explanation of the handwriting rule."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "\u0110\u1ea3o \u0111ang teo, \u0111ang thu m\u00ecnh l\u1ea1i, \u0111ang co c\u1ee5m nh\u01b0 con th\u00fa b\u1ecb th\u01b0\u01a1ng ch\u1edd ch\u1ebft, v\u00e0 Khoa \u0111\u1ee9ng gi\u1eefa con \u0111\u01b0\u1eddng \u0111\u1ea5t \u0111\u1ecf, gi\u1eefa hai h\u00e0ng nh\u00e0 tranh m\u00e1i l\u00e1 d\u1eeba, gi\u1eefa hoa d\u1eb7m tr\u1eafng v\u00e0 hoa d\u1eb7m x\u00e1m, v\u00e0 anh kh\u00f4ng bi\u1ebft m\u00ecnh \u0111ang \u0111\u1ebfm \u0111\u1ec3 gi\u1eef hay \u0111\u1ebfm \u0111\u1ec3 ch\u1ee9ng ki\u1ebfn.",
+    "fix": "The 'wounded animal waiting to die' simile is clich\u00e9 and feels calqued from English. The triple 'gi\u1eefa' repetition is mechanical. Rewrite grounded in the island's own imagery: '\u0110\u1ea3o \u0111ang teo, \u0111ang h\u1ee5t \u0111i t\u1eebng m\u00e9t \u0111\u1ea5t nh\u01b0 ng\u01b0\u1eddi r\u1ee5ng t\u1eebng c\u00e1i r\u0103ng, v\u00e0 Khoa \u0111\u1ee9ng gi\u1eefa con \u0111\u01b0\u1eddng \u0111\u1ea5t \u0111\u1ecf ng\u1eadp hoa d\u1eb7m tr\u1eafng v\u00e0 x\u00e1m, kh\u00f4ng bi\u1ebft m\u00ecnh \u0111\u1ebfm \u0111\u1ec3 gi\u1eef hay \u0111\u1ebfm \u0111\u1ec3 ch\u1ee9ng ki\u1ebfn.'",
+    "strongest_sentence": "th\u00edm kh\u00f4ng g\u1eafp ra, \u0111\u1ec3 \u0111\u00f3, \u0103n c\u01a1m qua c\u00e1nh hoa",
+    "note": "Best moments are the quiet, specific observations \u2014 the petal falling into the rice bowl, the counting rhythm, the folded clothes. Weakest moments are the ones that explain what they should evoke. There's a recurring problem with sentences that over-articulate their metaphor ('nh\u01b0 ng\u00f4n ng\u1eef c\u0169ng \u0111ang qu\u00ean, nh\u01b0 ch\u1eef vi\u1ebft c\u0169ng l\u00e0 ng\u01b0\u1eddi'). Sentence variety is generally good but some paragraphs repeat the same opening structure."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Strong continuity from Chapter 8. Reference to 'm\u00e1u anh t\u1ed1i h\u00f4m tr\u01b0\u1edbc' connects to the blood reveal. C\u1ee5 Ba's question from the previous chapter lingers in Khoa's consciousness. The Saturday meal follows naturally from the tense political meeting. Emotional state is consistent \u2014 Khoa is in processing/observation mode. The 46 count (down from 47) tracks correctly."
+  },
+  "canon_compliance": {
+    "score": 8,
+    "violations": [
+      "Minor: 'm\u1eaft nh\u00ecn v\u00f4 somewhere xa xa' \u2014 English word inserted into Vietnamese narration. While Khoa is Western-educated, this feels jarring rather than intentional in an islander's description."
+    ],
+    "note": "No major violations. B\u00e1c Kh\u1ea3i is a new character (not previously named) but fits established patterns \u2014 death year 1972 is within expected range. The flower-color behavior around an already-faded person's house is slightly ambiguous (canon says gray flowers appear when someone is 's\u1eafp tan bi\u1ebfn') but doesn't outright contradict. The th\u00edm-repeating-words phenomenon is new lore that extends rather than violates established rules."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "The passage explaining why the folded clothes remain: 'Khoa bi\u1ebft \u2014 nh\u01b0 anh bi\u1ebft m\u1eb7t tr\u1eddi l\u1eb7n, nh\u01b0 anh bi\u1ebft n\u01b0\u1edbc m\u1eb7n \u2014 r\u1eb1ng tu\u1ea7n sau ho\u1eb7c tu\u1ea7n sau n\u1eefa, m\u00e1i s\u1ebd r\u00e1ch, v\u00e1ch s\u1ebd m\u1ee5c, s\u00e2n s\u1ebd m\u1ecdc c\u1ecf, v\u00e0 b\u1ed9 qu\u1ea7n \u00e1o g\u1ecdn g\u00e0ng tr\u00ean gi\u01b0\u1eddng s\u1ebd n\u1eb1m \u0111\u00f3 cho \u0111\u1ebfn khi ai \u0111\u00f3 d\u1ecdn, nh\u01b0ng kh\u00f4ng ai d\u1ecdn, v\u00ec d\u1ecdn b\u1eb1ng th\u1eeba nh\u1eadn ng\u01b0\u1eddi kh\u00f4ng c\u00f2n'",
+    "fix": "Cut the explanation about why no one cleans. The image of the folded clothes speaks for itself \u2014 the reader understands. The triple simile 'nh\u01b0 anh bi\u1ebft... nh\u01b0 anh bi\u1ebft...' is also unnecessary padding.",
+    "note": "The chapter makes the world WORK \u2014 the Saturday meal ritual, the counting, the connection between memory and physical reality, the way language itself fades. The handwriting revelation is powerful despite being over-explained. This couldn't happen in any other fantasy setting; the lore is inseparable from the scene."
+  },
+  "engagement": {
+    "score": 6,
+    "weakest_moment": "The final two paragraphs, which summarize what the chapter already showed: 'B\u00e1c Kh\u1ea3i kh\u00f4ng c\u00f2n. Ch\u1eef v\u1ec1 b\u00e1c Kh\u1ea3i \u0111ang m\u1edd. Nh\u00e0 b\u00e1c Kh\u1ea3i s\u1ebd s\u1eadp. T\u00ean b\u00e1c Kh\u1ea3i s\u1ebd b\u1ecb qu\u00ean. Ch\u1ec9 c\u00f2n qu\u1ea7n \u00e1o g\u1ecdn tr\u00ean gi\u01b0\u1eddng, ch\u1ec9 c\u00f2n m\u00f9i thu\u1ed1c l\u00e0o trong m\u0169i th\u00edm Hai, ch\u1ec9 c\u00f2n c\u00e1nh hoa d\u1eb7m x\u00e1m r\u1ee5ng quanh c\u1eeda s\u1ed5. V\u00e0 r\u1ed3i m\u00f9i thu\u1ed1c l\u00e0o c\u0169ng bay \u0111i, r\u1ed3i th\u00edm c\u0169ng qu\u00ean...'",
+    "fix": "End on the image, not the explanation. Cut the entire catalog of what will fade. Stop at: 'Khoa b\u01b0\u1edbc v\u00e0o nh\u00e0, \u0111\u00f3ng c\u1eeda, ng\u1ed3i xu\u1ed1ng gi\u01b0\u1eddng, l\u1ea5y s\u1ed5 da n\u00e2u ra, m\u1edf trang m\u1edbi.' Let the silence after the period do the work. The chapter has already shown all of this \u2014 repeating it in abstract dilutes the impact.",
+    "note": "This is a quiet chapter by design, and the tension comes from accumulation rather than event. The strongest moment is th\u00edm Hai's unconscious repetition \u2014 genuinely eerie and surprising. The weakest is the ending, which explains the chapter's themes instead of embodying them. A reader would turn the page, but more from habit than from a hook."
+  },
+  "three_weakest_sentences": [
+    "\u0110\u1ea3o \u0111ang teo, \u0111ang thu m\u00ecnh l\u1ea1i, \u0111ang co c\u1ee5m nh\u01b0 con th\u00fa b\u1ecb th\u01b0\u01a1ng ch\u1edd ch\u1ebft, v\u00e0 Khoa \u0111\u1ee9ng gi\u1eefa con \u0111\u01b0\u1eddng \u0111\u1ea5t \u0111\u1ecf, gi\u1eefa hai h\u00e0ng nh\u00e0 tranh m\u00e1i l\u00e1 d\u1eeba, gi\u1eefa hoa d\u1eb7m tr\u1eafng v\u00e0 hoa d\u1eb7m x\u00e1m, v\u00e0 anh kh\u00f4ng bi\u1ebft m\u00ecnh \u0111ang \u0111\u1ebfm \u0111\u1ec3 gi\u1eef hay \u0111\u1ebfm \u0111\u1ec3 ch\u1ee9ng ki\u1ebfn.",
+    "Khoa nh\u1eadn ra \u2014 ch\u1eadm, nh\u1eadn ra sau v\u00e0i gi\u00e2y \u2014 r\u1eb1ng l\u1eddi th\u00edm v\u1eeba n\u00f3i kh\u00f4ng thu\u1ed9c v\u1ec1 th\u00edm, r\u1eb1ng c\u00e2u n\u00f3i \u0111\u00f3 thu\u1ed9c v\u1ec1 b\u00e1c Kh\u1ea3i, r\u1eb1ng tu\u1ea7n tr\u01b0\u1edbc c\u00f3 ai \u0111\u00f3 k\u1ec3 b\u00e1c Kh\u1ea3i hay n\u00f3i \"chi\u1ec1u nay tui kh\u00f4ng th\u1ea5y ai ng\u1ed3i b\u1edd \u0111\u00e1\" khi \u0111\u1ebfm ng\u01b0\u1eddi tr\u00ean M\u0169i Ch\u1edd, v\u00e0 b\u00e2y gi\u1edd th\u00edm l\u1eb7p l\u1ea1i l\u1eddi ng\u01b0\u1eddi \u0111\u00e3 \u0111i m\u00e0 kh\u00f4ng bi\u1ebft m\u00ecnh l\u1eb7p, nh\u01b0 k\u00fd \u1ee9c \u0111ang t\u00ecm ch\u1ed7 neo m\u00e0 ch\u1ec9 t\u00ecm \u0111\u01b0\u1ee3c mi\u1ec7ng ng\u01b0\u1eddi c\u00f2n s\u1ed1ng.",
+    "r\u1eb1ng ch\u1eef v\u1ec1 ng\u01b0\u1eddi c\u00f2n s\u1ed1ng th\u00ec \u0111\u1eadm, ch\u1eef v\u1ec1 ng\u01b0\u1eddi \u0111\u00e3 tan bi\u1ebfn th\u00ec m\u1edd, v\u00e0 ch\u1eef v\u1ec1 ng\u01b0\u1eddi \u0111ang tan bi\u1ebfn th\u00ec \u0111ang m\u1edd \u0111i, nh\u01b0 ng\u00f4n ng\u1eef c\u0169ng \u0111ang qu\u00ean, nh\u01b0 ch\u1eef vi\u1ebft c\u0169ng l\u00e0 ng\u01b0\u1eddi, c\u0169ng s\u1ed1ng \u0111\u01b0\u1ee3c nh\u1edb th\u00ec s\u1eafc n\u00e9t, kh\u00f4ng ai nh\u1edb th\u00ec nh\u1ea1t nh\u00f2a."
+  ],
+  "three_strongest_sentences": [
+    "th\u00edm kh\u00f4ng g\u1eafp ra, \u0111\u1ec3 \u0111\u00f3, \u0103n c\u01a1m qua c\u00e1nh hoa",
+    "Qu\u1ea7n \u00e1o tr\u00ean gi\u01b0\u1eddng kh\u00f4ng nh\u00fac nh\u00edch trong gi\u00f3, v\u00ec gi\u00f3 kh\u00f4ng l\u1ecdt v\u00e0o trong, v\u00ec c\u1eeda \u0111\u00f3ng, v\u00ec nh\u00e0 c\u00f2n k\u00edn, nh\u01b0ng Khoa bi\u1ebft \u2014 nh\u01b0 anh bi\u1ebft m\u1eb7t tr\u1eddi l\u1eb7n, nh\u01b0 anh bi\u1ebft n\u01b0\u1edbc m\u1eb7n \u2014 r\u1eb1ng tu\u1ea7n sau ho\u1eb7c tu\u1ea7n sau n\u1eefa, m\u00e1i s\u1ebd r\u00e1ch, v\u00e1ch s\u1ebd m\u1ee5c, s\u00e2n s\u1ebd m\u1ecdc c\u1ecf",
+    "B\u00e1c Kh\u1ea3i ch\u1ebft \u0111u\u1ed1i n\u0103m 1972, t\u00e0u ng\u01b0 d\u00e2n b\u1ecb b\u00e3o l\u1eadt ngo\u00e0i kh\u01a1i, v\u1ee3 b\u00e1c \u1edf \u0111\u1ea5t li\u1ec1n th\u1eafp h\u01b0\u01a1ng ba m\u01b0\u01a1i n\u0103m, r\u1ed3i ch\u1ebft, r\u1ed3i con b\u00e1c chuy\u1ec3n th\u00e0nh ph\u1ed1, r\u1ed3i nhang th\u1eafp \u00edt \u0111i, r\u1ed3i t\u00ean b\u00e1c trong s\u1ed5 Ch\u1ecb T\u01b0 m\u1edd d\u1ea7n, ch\u1eef \"Kh\u1ea3i\" m\u1ea5t n\u00e9t tr\u01b0\u1edbc, r\u1ed3i \"b\u00e1c\" c\u0169ng nh\u1ea1t, v\u00e0 t\u1ed1i nay ch\u1ed7 b\u00e1c ng\u1ed3i tr\u1ed1ng, b\u00e1t b\u00e1c \u0111\u1ec3 s\u1eb5n tr\u00ean b\u00e0n kh\u00f4ng ai d\u00f9ng."
+  ],
+  "ai_patterns_detected": [
+    "Rule-of-three repetition used mechanically: 'gi\u1eefa con \u0111\u01b0\u1eddng... gi\u1eefa hai h\u00e0ng... gi\u1eefa hoa d\u1eb7m...' and 'ch\u1ec9 c\u00f2n... ch\u1ec9 c\u00f2n... ch\u1ec9 c\u00f2n...'",
+    "Over-explanation of narrative significance after showing it effectively (th\u00edm's speech, handwriting fading, folded clothes)",
+    "Explicit metaphor articulation: 'nh\u01b0 ng\u00f4n ng\u1eef c\u0169ng \u0111ang qu\u00ean, nh\u01b0 ch\u1eef vi\u1ebft c\u0169ng l\u00e0 ng\u01b0\u1eddi' \u2014 states the metaphor instead of letting it emerge",
+    "Summary catalog at chapter end listing what will fade \u2014 common AI pattern of 'tying up themes' explicitly",
+    "Some paragraphs follow identical structure: long descriptive sentence \u2192 emotional realization sentence \u2192 shorter punctuation beat"
+  ],
+  "overall_score": 7.0,
+  "weakest_dimension": "engagement",
+  "top_3_revisions": [
+    "Fix all short-sentence clusters to comply with voice profile. 'G\u1ea5p s\u1ed5 l\u1ea1i. B\u1ecf t\u00fai. Tay tr\u00e1i run.' becomes 'G\u1ea5p s\u1ed5 l\u1ea1i b\u1ecf t\u00fai, tay tr\u00e1i run, run t\u1eeb h\u1ed3i m\u01b0\u1eddi tu\u1ed5i.' 'B\u00e1c Kh\u1ea3i kh\u00f4ng c\u00f2n. Ch\u1eef v\u1ec1 b\u00e1c Kh\u1ea3i \u0111ang m\u1edd. Nh\u00e0 b\u00e1c Kh\u1ea3i s\u1ebd s\u1eadp. T\u00ean b\u00e1c Kh\u1ea3i s\u1ebd b\u1ecb qu\u00ean.' becomes one flowing sentence with commas.",
+    "Cut the explanatory sentences after th\u00edm Hai's speech and after the handwriting observation. Trust the reader to make the connection. Replace with a single physical detail (cold running down spine, hand pausing) that implies the realization without stating it.",
+    "Rewrite the final two paragraphs. Delete the 'B\u00e1c Kh\u1ea3i kh\u00f4ng c\u00f2n...' catalog entirely. End on Khoa writing in the s\u1ed5, with the final uncertainty about whether he's recording or witnessing. Stop at 'v\u00e0 anh kh\u00f4ng bi\u1ebft hai th\u1ee9 \u0111\u00f3 kh\u00e1c g\u00ec nhau' \u2014 that line is perfect, but it's buried under the preceding catalog."
+  ],
+  "new_canon_entries": [
+    "B\u00e1c Kh\u1ea3i \u2014 ch\u1ebft \u0111u\u1ed1i 1972, t\u00e0u ng\u01b0 d\u00e2n b\u1ecb b\u00e3o l\u1eadt ngo\u00e0i kh\u01a1i, hay ng\u1ed3i b\u1edd \u0111\u00e1 M\u0169i Ch\u1edd h\u00fat thu\u1ed1c l\u00e0o b\u1eb1ng \u1ed1ng \u0111i\u1ebfu tre, tan bi\u1ebfn gi\u1eefa Ch 8 v\u00e0 Ch 9.",
+    "Ng\u01b0\u1eddi c\u00f2n s\u1ed1ng \u0111\u00f4i khi l\u1eb7p l\u1ea1i l\u1eddi ng\u01b0\u1eddi \u0111\u00e3 tan bi\u1ebfn m\u00e0 kh\u00f4ng bi\u1ebft m\u00ecnh l\u1eb7p \u2014 nh\u01b0 k\u00fd \u1ee9c \u0111ang t\u00ecm ch\u1ed7 neo trong mi\u1ec7ng ng\u01b0\u1eddi c\u00f2n s\u1ed1ng.",
+    "Ch\u1eef trong s\u1ed5 Khoa v\u1ec1 ng\u01b0\u1eddi \u0111\u00e3 tan bi\u1ebfn m\u1edd h\u01a1n ch\u1eef v\u1ec1 ng\u01b0\u1eddi c\u00f2n s\u1ed1ng \u2014 m\u1ef1c n\u1eb1m l\u01a1 l\u1eedng tr\u00ean b\u1ec1 m\u1eb7t gi\u1ea5y thay v\u00ec th\u1ea5m s\u00e2u.",
+    "Hoa d\u1eb7m quanh nh\u00e0 ng\u01b0\u1eddi \u0111\u00e3 tan bi\u1ebfn c\u0169ng chuy\u1ec3n sang x\u00e1m nh\u1ea1t (kh\u00f4ng ch\u1ec9 ng\u01b0\u1eddi s\u1eafp tan bi\u1ebfn).",
+    "Khoa ghi nh\u1eadn quy lu\u1eadt: \u0111\u1ea3o teo theo s\u1ed1 ng\u01b0\u1eddi (47\u219246), nh\u00e0standing teo theo (20\u219219), lu\u1ed1ng v\u01b0\u1eddn teo theo (7\u21926)."
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 11.65,
+    "sentence_length_cv": 1.118,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 0.0,
+    "language": "vi",
+    "vi_english_leaks": [],
+    "vi_translation_calques": [],
+    "vi_fiction_ai_tells": [],
+    "vi_telling_violations": 0
+  },
+  "raw_judge_score": 7
+}
