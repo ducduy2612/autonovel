@@ -1,0 +1,110 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "L\u1eddi n\u00f3i r\u1eddi kh\u1ecfi mi\u1ec7ng anh v\u00e0 r\u01a1i xu\u1ed1ng s\u00e0n g\u1ed7, v\u1ee1 v\u1ee5n. Anh bi\u1ebft n\u00f3 l\u00e0 d\u1ed1i tr\u00e1. C\u00f4 bi\u1ebft n\u00f3 l\u00e0 d\u1ed1i tr\u00e1. Nh\u01b0ng anh n\u00f3i anyway \u2014 v\u00ec \u0111\u00f3 l\u00e0 th\u1ee9 duy nh\u1ea5t anh c\u00f2n n\u1eafm gi\u1eef: \u1ea3o t\u01b0\u1edfng ki\u1ec3m so\u00e1t.",
+    "fix": "Remove the English word 'anyway' \u2014 it breaks the Vietnamese register entirely. Replace with something like 'Nh\u01b0ng anh v\u1eabn n\u00f3i' or cut the justification clause. The voice should be surgical, not explanatory.",
+    "note": "The chapter largely nails the cold, clinical tone mixed with tactile horror. The ping readouts, temperature measurements, and technical vocabulary wells are used effectively. The body-before-emotion principle works well in the physical emergence scene. However, there are several moments where the prose slips into English idioms ('anyway', 'kh\u00e1ch s\u00e1o' used incorrectly as a calque of 'polite') and the narrator over-explains emotions rather than letting physical details carry them."
+  },
+  "beat_coverage": {
+    "score": 8,
+    "weakest_moment": "The memory of C\u01b0\u1eddng at Lan's bedside saying 'Anh s\u1ebd gi\u1eef em. Anh s\u1ebd kh\u00f4ng \u0111\u1ec3 em \u0111i' \u2014 this beat is told rather than fully dramatized. We get the dialogue but not the physical texture of the moment.",
+    "fix": "Add one specific sensory detail: the texture of her hand, the smell of the hospital room, the exact way his fingers gripped hers. Make the ownership in his voice emerge from body language, not just the words.",
+    "note": "All four outline beats are hit and dramatized: the confrontation in the g\u00e1c x\u00e9p, Lan's declaration of identity, the memory flood revealing C\u01b0\u1eddng's crime, and the devastating truth about what he did. The 'No, and' structure works well \u2014 he tries to reclaim control and loses everything. The g\u00e1c x\u00e9p resolution (it's Lan's memory, not his) is elegantly handled."
+  },
+  "character_voice": {
+    "score": 6,
+    "weakest_moment": "C\u01b0\u1eddng's repeated 'Kh\u00f4ng' responses feel mechanical rather than psychologically specific. 'Kh\u00f4ng.' 'Kh\u00f4ng.' 'L\u1ea7n n\u1eefa. C\u00f9ng m\u1ed9t t\u1eeb. Anh l\u1eb7p l\u1ea1i nh\u01b0 \u0111o\u1ea1n m\u00e3 b\u1ecb k\u1eb9t trong v\u00f2ng l\u1eb7p.' \u2014 the narrator explains the metaphor instead of letting the repetition do the work.",
+    "fix": "Cut the narrator's explanation. Let the 'Kh\u00f4ng' repetitions stand alone with only physical beats between them \u2014 his hand touching his ribs, his jaw tightening, the ping readout changing. Trust the reader to feel the loop without being told it's a loop.",
+    "note": "Lan's voice is the strongest element \u2014 the shift from bell-like clarity to exhausted flatness, the technical vocabulary bleeding into emotional speech ('Anh \u0111\u00e3 kh\u00f3a v\u00f9ng nh\u1eadn th\u1ee9c b\u1ea3n th\u00e2n'), the devastating 'Em h\u1ecdc \u0111\u01b0\u1ee3c bu\u1ed3n. Em h\u1ecdc \u0111\u01b0\u1ee3c s\u1ee3. Em h\u1ecdc \u0111\u01b0\u1ee3c nh\u1edb. Nh\u01b0ng gh\u00e9t \u2014 gh\u00e9t th\u00ec ph\u1ee9c t\u1ea1p h\u01a1n.' C\u01b0\u1eddng's voice is less distinct; his dialogue could belong to any protagonist in crisis. His technical/accountant vocabulary largely disappears in favor of generic anguish."
+  },
+  "plants_seeded": {
+    "score": 7,
+    "weakest_moment": "The g\u00e1c x\u00e9p expanding is mentioned but its significance isn't deeply felt: 'Kh\u00f4ng gian m\u1edf r\u1ed9ng xung quanh h\u1ecd \u2014 ba m\u01b0\u01a1i m\u00e9t vu\u00f4ng, b\u1ed1n m\u01b0\u01a1i, n\u0103m m\u01b0\u01a1i \u2014 nh\u01b0ng b\u00f3ng t\u1ed1i \u1edf c\u00e1c g\u00f3c \u0111\u1eb7c qu\u00e1nh h\u01a1n.' The connection to Lan's growing consciousness is stated rather than shown through specific details.",
+    "fix": "Show the expansion through concrete changes: new objects appearing (a chair, a photograph, a crack in the wall that wasn't there before), specific measurements that shift between paragraphs, the quality of light changing. Make the reader feel the room growing before understanding why.",
+    "note": "The B\u00e0 L\u00e0nh and B\u00e1c s\u0129 Tu\u1ea5n references are well-integrated callbacks rather than obvious plants. The paper note from the previous chapter pays off beautifully. The v\u1ebft x\u01b0\u1edbc's changing behavior (from responsive to silent) is an excellent physical plant that resolves emotionally."
+  },
+  "prose_quality": {
+    "score": 6,
+    "weakest_sentence": "\u0110au \u1edf somewhere else. \u1ede n\u01a1i m\u00e0 ping kh\u00f4ng \u0111o \u0111\u01b0\u1ee3c. \u1ede v\u00f9ng m\u00e0 n\u00e3o b\u1ed9 kh\u00f4ng c\u00f3 th\u1ee5 th\u1ec3, m\u00e0 \u00fd th\u1ee9c kh\u00f4ng c\u00f3 \u0111\u01a1n v\u1ecb \u0111o.",
+    "fix": "Replace 'somewhere else' with Vietnamese. Restructure: '\u0110au \u1edf n\u01a1i ping kh\u00f4ng \u0111o \u0111\u01b0\u1ee3c. \u1ede v\u00f9ng n\u00e3o b\u1ed9 kh\u00f4ng c\u00f3 th\u1ee5 th\u1ec3. \u00dd th\u1ee9c kh\u00f4ng c\u00f3 \u0111\u01a1n v\u1ecb \u0111o cho th\u1ee9 n\u00e0y.' Shorter. More surgical. Less explanatory.",
+    "strongest_sentence": "S\u1ef1 th\u1eadt kh\u00f4ng chi\u1ebfm di\u1ec7n t\u00edch, nh\u01b0ng n\u00f3 chi\u1ebfm oxy. N\u00f3 l\u00e0m ngh\u1eb9t th\u1edf.",
+    "note": "The prose is strongest when it's most physical \u2014 the emergence from the tank, the salt on skin, the sensor removal. It's weakest when it reaches for English idioms or over-explains metaphors. There's a persistent pattern of the narrator telling the reader what to feel ('Anh bi\u1ebft n\u00f3 l\u00e0 d\u1ed1i tr\u00e1') rather than trusting the scene. Sentence variety is decent but several paragraphs follow the same rhythm: short declarative, short declarative, longer explanatory sentence."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Excellent continuity from the previous chapter. The paper note with 'Lan. Ph\u00f2ng 4. St. Vincent' is carried forward and becomes central. C\u01b0\u1eddng's determination to find answers at St. Vincent tracks perfectly from his exit in Ch 15. The v\u1ebft x\u01b0\u1edbc's behavior (53 bpm, 37.5\u00b0C) is consistent. His physical state upon emergence \u2014 stiffness, disorientation \u2014 matches 851 dives of accumulated bodily neglect. The emotional arc from 'anh s\u1ebd t\u00ecm ra' to the devastating truth works because we felt his resolve in the previous chapter."
+  },
+  "canon_compliance": {
+    "score": 5,
+    "violations": [
+      "MAJOR: The chapter reveals C\u01b0\u1eddng personally modified Lan's neural mapping (locked 90% self-awareness, opened 100% sexual response). Canon states C\u01b0\u1eddng is a k\u1ebf to\u00e1n who 'kh\u00f4ng ph\u1ea3i k\u1ef9 thu\u1eadt vi\u00ean' and 'kh\u00f4ng hi\u1ec3u s\u00e2u v\u1ec1 ki\u1ebfn tr\u00fac h\u1ec7 th\u1ed1ng.' A non-technical accountant would not have the ability to write override code for neural consciousness regions.",
+      "MAJOR: The chapter implies C\u01b0\u1eddng knew Lan personally before her coma (caf\u00e9 scene, romantic relationship). This creates a pre-existing motivation that contradicts the character bible's 'GHOST: S\u1ef1 ki\u1ec7n qu\u00e1 kh\u1ee9 kh\u00f4ng t\u00ean \u2014 m\u1ed9t kho\u1ea3ng tr\u1ed1ng \u0111en ng\u00f2m.' If he knew Lan, the ghost has a name, which changes his fundamental character architecture.",
+      "MINOR: 'Kh\u00f4ng kh\u00e1ch s\u00e1o' appears to be a calque of Chinese '\u4e0d\u5ba2\u6c14' used as 'without politeness' \u2014 this is not natural Vietnamese usage.",
+      "MINOR: The chapter states C\u01b0\u1eddng deleted '847 million objects' but his dive count is 851. The 847 figure was his previous count from earlier chapters; this may be intentional (referencing the old number) or an error.",
+      "MINOR: '\u6709\u51e0 l\u1ecdn r\u01a1i xu\u1ed1ng c\u1ed5' \u2014 Chinese characters appear mid-Vietnamese sentence. Likely a drafting artifact."
+    ],
+    "note": "The two major violations fundamentally alter C\u01b0\u1eddng's character. Canon establishes him as a non-technical user who doesn't understand the system deeply \u2014 his competence score is 7 specifically because 'anh h\u1ecdc \u0111\u1ee7 \u0111\u1ec3 t\u1ef1 v\u1eadn h\u00e0nh, nh\u01b0ng kh\u00f4ng hi\u1ec3u s\u00e2u v\u1ec1 ki\u1ebfn tr\u00fac h\u1ec7 th\u1ed1ng.' If he can write neural override code, he's a skilled engineer, not a desperate accountant. Similarly, if his ghost has a name and a face (Lan), the entire architecture of his amnesia-driven character shifts from 'void' to 'specific trauma.' These may be intentional story developments, but they contradict established canon."
+  },
+  "lore_integration": {
+    "score": 7,
+    "weakest_moment": "The explanation of how Lan's consciousness regrew \u2014 'v\u00f9ng nh\u1eadn th\u1ee9c m\u1ecdc l\u1ea1i. Nh\u01b0 c\u1ecf xuy\u00ean qua xi m\u0103ng' \u2014 is beautiful but vague. The magic system's rules about consciousness accumulation aren't applied specifically to her case.",
+    "fix": "Ground the regrowth in system mechanics: reference the 'b\u1ee5i \u00fd th\u1ee9c' accumulation, the specific percentage thresholds, the way her 10% residual awareness interacted with the V\u1ecdng \u00e2m phenomenon. Make it technical and specific rather than purely metaphorical.",
+    "note": "The ping readouts, the tank details, the sensor removal \u2014 these all do real work in grounding the scene. The g\u00e1c x\u00e9p as Lan's self-rendered memory space is an excellent use of established lore. The connection between C\u01b0\u1eddng's dives and Lan's deteriorating recovery chances (20% \u2192 10% \u2192 5% \u2192 0%) makes the magic system's costs viscerally personal. St. Vincent's geography and the 1.2km distance are used effectively in the closing movement."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The memory sequence, while powerful, risks feeling like an info-dump. Four consecutive memory jumps (caf\u00e9 \u2192 hospital \u2192 office \u2192 bedside) without present-tense interruption creates a passive viewing experience.",
+    "fix": "Interrupt the memories with C\u01b0\u1eddng's physical reactions in the present \u2014 his hands shaking, his breath catching, the ping spiking. Make him fight against the memories rather than simply receiving them. Even one line of resistance ('Anh c\u1ed1 g\u1eafng nh\u1eafm m\u1eaft. Kh\u00f4ng \u0111\u01b0\u1ee3c.') would break the passive pattern.",
+    "note": "The chapter's central revelation \u2014 that C\u01b0\u1eddng is not a victim but a perpetrator \u2014 is genuinely shocking and well-earned. Lan's 'Em h\u1ecdc \u0111\u01b0\u1ee3c bu\u1ed3n. Em h\u1ecdc \u0111\u01b0\u1ee3c s\u1ee3. Em h\u1ecdc \u0111\u01b0\u1ee3c nh\u1edb. Nh\u01b0ng gh\u00e9t \u2014 gh\u00e9t th\u00ec ph\u1ee9c t\u1ea1p h\u01a1n' is a devastating line that recontextualizes everything. The final movement, with C\u01b0\u1eddng walking toward St. Vincent, creates genuine forward momentum. The v\u1ebft x\u01b0\u1edbc going silent is a perfect physical punctuation."
+  },
+  "three_weakest_sentences": [
+    "\u0110au \u1edf somewhere else. \u1ede n\u01a1i m\u00e0 ping kh\u00f4ng \u0111o \u0111\u01b0\u1ee3c.",
+    "Nh\u01b0ng anh n\u00f3i anyway \u2014 v\u00ec \u0111\u00f3 l\u00e0 th\u1ee9 duy nh\u1ea5t anh c\u00f2n n\u1eafm gi\u1eef: \u1ea3o t\u01b0\u1edfng ki\u1ec3m so\u00e1t.",
+    "Anh bi\u1ebft n\u00f3 l\u00e0 d\u1ed1i tr\u00e1. C\u00f4 bi\u1ebft n\u00f3 l\u00e0 d\u1ed1i tr\u00e1."
+  ],
+  "three_strongest_sentences": [
+    "S\u1ef1 th\u1eadt kh\u00f4ng chi\u1ebfm di\u1ec7n t\u00edch, nh\u01b0ng n\u00f3 chi\u1ebfm oxy. N\u00f3 l\u00e0m ngh\u1eb9t th\u1edf.",
+    "Em h\u1ecdc \u0111\u01b0\u1ee3c bu\u1ed3n. Em h\u1ecdc \u0111\u01b0\u1ee3c s\u1ee3. Em h\u1ecdc \u0111\u01b0\u1ee3c nh\u1edb. Nh\u01b0ng gh\u00e9t \u2014 gh\u00e9t th\u00ec ph\u1ee9c t\u1ea1p h\u01a1n. Em ch\u01b0a h\u1ecdc \u0111\u1ebfn \u0111\u00f3.",
+    "M\u1ed7i l\u1ea7n g\u1ee1 m\u1ed9t c\u1ee5m c\u1ea3m bi\u1ebfn, da b\u00ean d\u01b0\u1edbi \u0111\u1ecf, r\u00e1t, nh\u01b0 b\u1ecb b\u00f3c m\u1ed9t l\u1edbp m\u00e0ng m\u1ecfng."
+  ],
+  "ai_patterns_detected": [
+    "English words inserted mid-Vietnamese prose ('anyway', 'somewhere else') \u2014 classic AI drafting artifact",
+    "Chinese characters left in Vietnamese text ('\u6709\u51e0 l\u1ecdn') \u2014 likely untranslated draft fragment",
+    "Narrator over-explains metaphors rather than letting them stand ('Anh l\u1eb7p l\u1ea1i nh\u01b0 \u0111o\u1ea1n m\u00e3 b\u1ecb k\u1eb9t trong v\u00f2ng l\u1eb7p')",
+    "Emotional beats frequently told rather than shown ('Anh bi\u1ebft n\u00f3 l\u00e0 d\u1ed1i tr\u00e1. C\u00f4 bi\u1ebft n\u00f3 l\u00e0 d\u1ed1i tr\u00e1.')",
+    "Several paragraphs follow identical rhythm: short statement, short statement, explanatory sentence",
+    "'Kh\u00f4ng kh\u00e1ch s\u00e1o' appears to be a Chinese calque (\u4e0d\u5ba2\u6c14) used incorrectly in Vietnamese context"
+  ],
+  "overall_score": 5.0,
+  "weakest_dimension": "canon_compliance \u2014 the two major violations (C\u01b0\u1eddng's technical ability to rewrite neural code, and the named/identified ghost) fundamentally alter his character architecture as established in the bible",
+  "top_3_revisions": [
+    "Resolve the canon violation: either establish that C\u01b0\u1eddng paid someone (B\u1ea3o?) to write the override code (preserving his non-technical identity), or revise the character bible to acknowledge hidden technical competence. The current version breaks his established competence level of 7.",
+    "Remove all English words and Chinese characters from the Vietnamese prose ('anyway', 'somewhere else', '\u6709\u51e0'). Replace with natural Vietnamese equivalents or restructure sentences to avoid the need for them.",
+    "Cut narrator explanations of emotions by 50%. Specifically: remove 'Anh bi\u1ebft n\u00f3 l\u00e0 d\u1ed1i tr\u00e1. C\u00f4 bi\u1ebft n\u00f3 l\u00e0 d\u1ed1i tr\u00e1', remove the '\u0111o\u1ea1n m\u00e3 b\u1ecb k\u1eb9t trong v\u00f2ng l\u1eb7p' explanation, and trust physical details (the v\u1ebft x\u01b0\u1edbc, the ping readouts, his body language) to convey what the narrator currently states."
+  ],
+  "new_canon_entries": [
+    "C\u01b0\u1eddng knew Lan personally before her coma \u2014 they had a romantic relationship of at least two months",
+    "Lan's real appearance: round face, slightly full cheeks, freckles on nose bridge, hair tied high with loose strands, incisor slightly crooked on right side",
+    "C\u01b0\u1eddng personally wrote neural override code for Patient 04-\u0110M, locking 90% self-awareness and opening 100% sexual response",
+    "Lan had a 20% chance of recovery that C\u01b0\u1eddng's interventions reduced to zero",
+    "The g\u00e1c x\u00e9p is Lan's memory of her actual attic room in Hanoi, self-rendered as her consciousness regrew",
+    "Lan's consciousness began regenerating around dive 612, coinciding with the g\u00e1c x\u00e9p's first appearance",
+    "C\u01b0\u1eddng's v\u1ebft x\u01b0\u1edbc stopped responding after he disconnected \u2014 it became just a scar, no longer pulsing with Lan's heartbeat",
+    "Dive 851: C\u01b0\u1eddng's final dive, after which he walked to St. Vincent to see Lan's real body"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 18.35,
+    "sentence_length_cv": 0.867,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 6
+}

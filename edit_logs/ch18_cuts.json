@@ -1,93 +1,108 @@
 {
-  "cuts": [
-    {
-      "quote": "M\u00f9i \u1ea5y c\u00f2n b\u00e1m tr\u00ean \u00e1o anh khi anh \u0111\u1ea9y c\u1eeda h\u1ea7m, m\u00f9i b\u1ec7nh vi\u1ec7n xen v\u1edbi m\u00f9i c\u1ed3n y t\u1ebf c\u0169 k\u1ef9, chui v\u00e0o l\u1ed7 m\u0169i c\u00f9ng v\u1edbi th\u1ee9 kh\u00f4ng kh\u00ed quen thu\u1ed9c \u2014 ozon, kim lo\u1ea1i oxy h\u00f3a, m\u00e1y \u0111i\u1ec1u h\u01b0\u01a1ng ba n\u0103m ch\u01b0a v\u1ec7 sinh.",
-      "type": "FAT",
-      "reason": "A single scent is overloaded with five different smell descriptors and a maintenance log. It kills the opening momentum.",
-      "action": "REWRITE",
-      "rewrite": "M\u00f9i i-\u1ed1t c\u00f2n b\u00e1m tr\u00ean \u00e1o anh khi anh \u0111\u1ea9y c\u1eeda h\u1ea7m, chui v\u00e0o l\u1ed7 m\u0169i c\u00f9ng v\u1edbi m\u00f9i ozon v\u00e0 kim lo\u1ea1i oxy h\u00f3a."
-    },
-    {
-      "quote": "Gh\u1ebf b\u1eb1ng g\u1ed7, m\u1eb7t gh\u1ebf l\u00f5m \u1edf gi\u1eefa \u2014 d\u1ea5u \u1ea5n c\u1ee7a h\u00e0ng tr\u0103m gi\u1edd ng\u1ed3i.",
-      "type": "GENERIC",
-      "reason": "A clich\u00e9 description of a worn chair that adds nothing to the character or the sci-fi dystopian setting.",
-      "action": "CUT",
-      "rewrite": null
-    },
+  "revisions": [
     {
       "quote": "M\u1ed9t \u00e2m thanh \u0111\u1ec1u \u0111\u1eb7n, c\u01a1 h\u1ecdc, v\u00f4 tri \u2014 nh\u01b0ng trong \u0111\u00eam nay, n\u00f3 nghe nh\u01b0 ti\u1ebfng th\u1edf kh\u00f2 kh\u00e8 c\u1ee7a th\u1ee9 g\u00ec \u0111ang ch\u1ebft ch\u1eadm.",
-      "type": "OVER-EXPLAIN",
-      "reason": "The dying mechanical sound is a decent concept, but explicitly telling the reader 'it sounds like something dying slowly' is heavy-handed foreshadowing.",
-      "action": "CUT",
-      "rewrite": null
-    },
-    {
-      "quote": "T\u01b0\u1eddng b\u00ea t\u00f4ng. V\u1ec7t n\u01b0\u1edbc \u0111\u1ed5 h\u00ecnh b\u1ea3n \u0111\u1ed3. Tr\u1ea7n th\u1ea5p hai m\u00e9t m\u1ed9t. Anh cao m\u1ed9t m\u00e9t b\u1ea3y t\u00e1m. \u0110\u1ea7u g\u1ea7n ch\u1ea1m tr\u1ea7n khi \u0111\u1ee9ng th\u1eb3ng.",
-      "type": "FAT",
-      "reason": "Reading like a real estate listing, this halts the pacing with unnecessary architectural math.",
-      "action": "CUT",
-      "rewrite": null
+      "type": "GENERIC",
+      "reason": "The 'sounds like something dying slowly' comparison is a clich\u00e9 in atmospheric writing. The passage already establishes decay through concrete details (bent blade, plastic casing). The simile flattens the unique sensory world into a generic horror trope.",
+      "rewrite": "M\u1ed9t \u00e2m thanh \u0111\u1ec1u \u0111\u1eb7n, c\u01a1 h\u1ecdc, v\u00f4 tri \u2014 nh\u01b0ng trong \u0111\u00eam nay, m\u1ed7i v\u00f2ng quay k\u00e9o d\u00e0i h\u01a1n v\u00f2ng tr\u01b0\u1edbc. Kho\u1ea3ng ngh\u1ec9 gi\u1eefa hai ti\u1ebfng r\u00e8 d\u00e0i th\u00eam. Nh\u01b0 nh\u1ecbp th\u1edf \u0111ang k\u00e9o d\u00e0i kho\u1ea3ng c\u00e1ch gi\u1eefa h\u01a1i v\u00e0o v\u00e0 h\u01a1i ra."
     },
     {
       "quote": "V\u1ebft s\u1eb9o. V\u1ebft x\u01b0\u1edbc c\u0169 \u2014 n\u01a1i t\u1eebng nh\u1ecbp \u0111\u1eadp \u0111\u1ed3ng \u0111i\u1ec7u v\u1edbi Lan \u2014 gi\u1edd ch\u1ec9 l\u00e0 m\u1ed9t \u0111\u01b0\u1eddng tr\u1eafng nh\u1ea1t tr\u00ean da. Kh\u00f4ng n\u00f3ng. Kh\u00f4ng l\u1ea1nh. Kh\u00f4ng \u0111\u1eadp. V\u00f4 tri.",
-      "type": "REDUNDANT",
-      "reason": "The text repeats the word 'v\u00f4 tri' (insentient) from the previous paragraph, and over-explains the absence of sensation.",
-      "action": "REWRITE",
-      "rewrite": "V\u1ebft s\u1eb9o \u2014 n\u01a1i t\u1eebng nh\u1ecbp \u0111\u1eadp \u0111\u1ed3ng \u0111i\u1ec7u v\u1edbi Lan \u2014 gi\u1edd ch\u1ec9 l\u00e0 m\u1ed9t \u0111\u01b0\u1eddng tr\u1eafng nh\u1ea1t tr\u00ean da."
+      "type": "TELL",
+      "reason": "The narrator explicitly names 'v\u00f4 tri' (insensate/meaningless) twice in this passage, once here and once earlier for the fan. The physical description (tr\u1eafng nh\u1ea1t, kh\u00f4ng n\u00f3ng, kh\u00f4ng l\u1ea1nh) already demonstrates the numbness. Stating 'v\u00f4 tri' tells the reader what to feel rather than letting the image work.",
+      "rewrite": "V\u1ebft s\u1eb9o. V\u1ebft x\u01b0\u1edbc c\u0169 \u2014 n\u01a1i t\u1eebng nh\u1ecbp \u0111\u1eadp \u0111\u1ed3ng \u0111i\u1ec7u v\u1edbi Lan \u2014 gi\u1edd ch\u1ec9 l\u00e0 m\u1ed9t \u0111\u01b0\u1eddng tr\u1eafng nh\u1ea1t tr\u00ean da. Kh\u00f4ng n\u00f3ng. Kh\u00f4ng l\u1ea1nh. Kh\u00f4ng \u0111\u1eadp. Anh \u1ea5n ng\u00f3n tay v\u00e0o. Da th\u1ecbt yielding d\u01b0\u1edbi \u00e1p l\u1ef1c, nh\u01b0ng kh\u00f4ng b\u00e1o l\u1ea1i \u0111i\u1ec1u g\u00ec."
     },
     {
-      "quote": "B\u1edfi v\u00ec Lan \u0111ang ch\u1ebft d\u1ea7n trong th\u1ebf gi\u1edbi th\u1ef1c. S\u00e1u m\u01b0\u01a1i ph\u1ea7n tr\u0103m n\u00e3o b\u1ed9 \u0111\u00e3 h\u1ecfng. C\u01a1 th\u1ec3 teo t\u00f3p. Da m\u1ecfng. X\u01b0\u01a1ng s\u01b0\u1eddn \u0111\u1ebfm \u0111\u01b0\u1ee3c. V\u00e0 v\u1ebft b\u1ea7m \u2014 d\u1ea5u \u1ea5n duy nh\u1ea5t ch\u1ee9ng minh s\u1ef1 \u0111\u1ed3ng b\u1ed9 gi\u1eefa h\u1ecd \u2014 \u0111ang m\u1edd \u0111i c\u00f9ng v\u1edbi s\u1ef1 s\u1ed1ng c\u00f2n l\u1ea1i c\u1ee7a c\u00f4.",
+      "quote": "V\u1ebft b\u1ea7m h\u00ecnh b\u00e1n nguy\u1ec7t v\u1eabn c\u00f2n, nh\u01b0ng nh\u1ea1t h\u01a1n anh nh\u1edb. T\u00edm ng\u1eaft gi\u1edd ch\u1ec9 c\u00f2n t\u00edm nh\u1ea1t. Vi\u1ec1n ngo\u00e0i m\u1edd \u0111i, nh\u01b0 m\u1ef1c b\u1ecb n\u01b0\u1edbc lau qua.",
+      "type": "GENERIC",
+      "reason": "The 'like ink washed by water' simile is generic and could appear in any novel. Given the chapter's deep integration of technology and body, the comparison could be more specific to this world's logic\u2014data degradation, signal loss, pixel bleed.",
+      "rewrite": "V\u1ebft b\u1ea7m h\u00ecnh b\u00e1n nguy\u1ec7t v\u1eabn c\u00f2n, nh\u01b0ng nh\u1ea1t h\u01a1n anh nh\u1edb. T\u00edm ng\u1eaft gi\u1edd ch\u1ec9 c\u00f2n t\u00edm nh\u1ea1t. Vi\u1ec1n ngo\u00e0i m\u1edd \u0111i, nh\u01b0 signal strength gi\u1ea3m t\u1eebng thanh \u2014 t\u1eeb b\u1ed1n v\u1ea1ch xu\u1ed1ng hai, xu\u1ed1ng m\u1ed9t, s\u1eafp m\u1ea5t ho\u00e0n to\u00e0n."
+    },
+    {
+      "quote": "V\u00e0 v\u1ebft b\u1ea7m \u2014 d\u1ea5u \u1ea5n duy nh\u1ea5t ch\u1ee9ng minh s\u1ef1 \u0111\u1ed3ng b\u1ed9 gi\u1eefa h\u1ecd \u2014 \u0111ang m\u1edd \u0111i c\u00f9ng v\u1edbi s\u1ef1 s\u1ed1ng c\u00f2n l\u1ea1i c\u1ee7a c\u00f4.",
       "type": "OVER-EXPLAIN",
-      "reason": "The fading bruise already perfectly symbolizes her dying. Narrating the exact medical breakdown and explaining the metaphor ruins the subtext.",
-      "action": "CUT",
-      "rewrite": null
+      "reason": "The dash-separated explanation ('d\u1ea5u \u1ea5n duy nh\u1ea5t ch\u1ee9ng minh s\u1ef1 \u0111\u1ed3ng b\u1ed9 gi\u1eefa h\u1ecd') tells the reader exactly what the bruise symbolizes. The connection between bruise fading and Lan dying is powerful enough to be felt without being annotated.",
+      "rewrite": "V\u00e0 v\u1ebft b\u1ea7m \u2014 nh\u1ea1t \u0111i m\u1ed7i ng\u00e0y, m\u1ed7i gi\u1edd, m\u1ed7i nh\u1ecbp tim c\u00f4 y\u1ebfu \u0111i m\u1ed9t ch\u00fat \u2014 \u0111ang m\u1edd \u0111i c\u00f9ng v\u1edbi s\u1ef1 s\u1ed1ng c\u00f2n l\u1ea1i c\u1ee7a c\u00f4."
     },
     {
-      "quote": "K\u1ebft qu\u1ea3: B\u1ea3y n\u00fat. N\u00fat 1: ch\u1ebft. N\u00fat 2: ch\u1ebft. N\u00fat 3: \u0111\u1ed9 tr\u1ec5 450ms. N\u00fat 4: ch\u1ebft. N\u00fat 5: kh\u00f4ng ph\u1ea3n h\u1ed3i. N\u00fat 6: nhi\u1ec5u 47.3 Hz. N\u00fat 7: ch\u1ebft.",
-      "type": "STRUCTURAL",
-      "reason": "We already saw the chaotic ping logs. Listing the status of all seven nodes is tedious repetition that stalls the plot.",
-      "action": "CUT",
-      "rewrite": null
+      "quote": "C\u00f4 s\u1ebd \u0111\u01b0\u1ee3c t\u1ef1 do. B\u1ed9 n\u00e3o c\u00f4 kh\u00f4ng c\u00f2n b\u1ecb x\u00e2m ph\u1ea1m. D\u1eef li\u1ec7u sinh t\u1ed3n c\u00f4 kh\u00f4ng c\u00f2n b\u1ecb h\u00fat ra \u0111\u1ec3 render th\u00e0nh ng\u01b0\u1eddi t\u00ecnh \u1ea3o. 90% nh\u1eadn th\u1ee9c b\u1ecb kh\u00f3a s\u1ebd kh\u00f4ng c\u00f2n b\u1ecb gi\u1eef kh\u00f3a. C\u01a1 th\u1ec3 c\u00f4 \u2014 th\u1ee9 c\u00f2n l\u1ea1i c\u1ee7a c\u01a1 th\u1ec3 c\u00f4 \u2014 s\u1ebd c\u00f3 c\u01a1 h\u1ed9i t\u1ef1 ph\u1ee5c h\u1ed3i. Ch\u1eadm. C\u00f3 th\u1ec3 kh\u00f4ng th\u00e0nh c\u00f4ng. Nh\u01b0ng \u0111\u00f3 s\u1ebd l\u00e0 qu\u00e1 tr\u00ecnh t\u1ef1 nhi\u00ean, kh\u00f4ng b\u1ecb can thi\u1ec7p.",
+      "type": "OVER-EXPLAIN",
+      "reason": "This passage explains in exhaustive detail what 'freedom' means for Lan. The technical breakdown (brain not violated, survival data not extracted, 90% cognition unlocked, body recovering naturally) reads like a manual. The emotional weight of 'C\u00f4 s\u1ebd \u0111\u01b0\u1ee3c t\u1ef1 do' gets buried under exposition.",
+      "rewrite": "C\u00f4 s\u1ebd \u0111\u01b0\u1ee3c t\u1ef1 do. Kh\u00f4ng c\u00f2n d\u1eef li\u1ec7u b\u1ecb h\u00fat ra. Kh\u00f4ng c\u00f2n nh\u1eadn th\u1ee9c b\u1ecb kh\u00f3a. C\u01a1 th\u1ec3 c\u00f4 \u2014 th\u1ee9 c\u00f2n l\u1ea1i \u2014 s\u1ebd t\u1ef1 ph\u1ee5c h\u1ed3i ho\u1eb7c kh\u00f4ng. Nh\u01b0ng \u0111\u00f3 s\u1ebd l\u00e0 l\u1ef1a ch\u1ecdn c\u1ee7a n\u00f3. Kh\u00f4ng b\u1ecb can thi\u1ec7p."
+    },
+    {
+      "quote": "S\u1ed1c ng\u01b0\u1ee3c. Ng\u1eaft k\u1ebft n\u1ed1i \u0111\u1ed9t ng\u1ed9t khi \u0111ang \u0111\u1ed5 b\u1ed9. Kh\u00f4ng ph\u1ea3i r\u00fat c\u00e1p t\u1eeb ngo\u00e0i \u2014 anh \u0111\u00e3 l\u00e0m th\u1ebf tr\u01b0\u1edbc \u0111\u00e2y, \u0111au \u0111\u1edbn nh\u01b0ng s\u1ed1ng s\u00f3t. Ng\u1eaft k\u1ebft n\u1ed1i v\u0129nh vi\u1ec5n t\u1eeb b\u00ean trong h\u1ec7 th\u1ed1ng khi \u0111ang \u1edf tr\u1ea1ng th\u00e1i \u0111\u1ed5 b\u1ed9 s\u00e2u. \u00dd th\u1ee9c b\u1ecb c\u1eaft \u0111\u1ee9t kh\u1ecfi c\u01a1 th\u1ec3 trong khi v\u1eabn c\u00f2n ho\u1ea1t \u0111\u1ed9ng. N\u00e3o th\u1eadt nh\u1eadn t\u00edn hi\u1ec7u gi\u1ebfng \u0111o\u1ea1n. Xu\u1ea5t huy\u1ebft. Ch\u00e1y.",
+      "type": "PACING",
+      "reason": "This exposition block arrives at an emotional high point\u2014right after C\u01b0\u1eddng decides to sacrifice himself. The detailed technical explanation of 'reverse shock' stalls the emotional momentum. The information could be integrated more organically or trimmed.",
+      "rewrite": "S\u1ed1c ng\u01b0\u1ee3c. Anh bi\u1ebft c\u01a1 ch\u1ebf: \u00fd th\u1ee9c b\u1ecb c\u1eaft \u0111\u1ee9t kh\u1ecfi c\u01a1 th\u1ec3 khi v\u1eabn \u0111ang ho\u1ea1t \u0111\u1ed9ng. N\u00e3o th\u1eadt nh\u1eadn t\u00edn hi\u1ec7u gi\u00e1n \u0111o\u1ea1n. Xu\u1ea5t huy\u1ebft. Ch\u00e1y. Anh \u0111\u00e3 \u0111\u1ecdc h\u1ed3 s\u01a1. M\u01b0\u1eddi b\u1ed1n b\u1ec7nh nh\u00e2n ch\u1ebft \u0111\u1ed3ng lo\u1ea1t. B\u1ea3o m\u1ea5t 70% th\u1ecb l\u1ef1c t\u1eeb m\u1ed9t l\u1ea7n s\u1ed1c ng\u01b0\u1ee3c t\u1eebng ph\u1ea7n."
     },
     {
       "quote": "N\u1ebfu h\u1ec7 th\u1ed1ng ch\u1ebft khi anh \u0111ang \u0111\u1ed5 b\u1ed9 \u2014 s\u1ed1c ng\u01b0\u1ee3c. N\u00e3o anh ch\u00e1y. N\u1ebfu anh ng\u1eaft k\u1ebft n\u1ed1i t\u1eeb ngo\u00e0i \u2014 an to\u00e0n cho anh. Nh\u01b0ng Lan s\u1ebd v\u1eabn b\u1ecb m\u1eafc k\u1eb9t. D\u1eef li\u1ec7u sinh t\u1ed3n c\u00f4 v\u1eabn b\u1ecb g\u1eafn v\u00e0o h\u1ec7 th\u1ed1ng. B\u00e1c s\u0129 Tu\u1ea5n s\u1ebd ti\u1ebfp t\u1ee5c ghi nh\u1eadn t\u00edn hi\u1ec7u b\u1ea5t th\u01b0\u1eddng. Gi\u00e1m \u0111\u1ed1c Y khoa s\u1ebd ti\u1ebfp t\u1ee5c quan s\u00e1t. V\u00e0 Lan s\u1ebd ti\u1ebfp t\u1ee5c n\u1eb1m \u0111\u00f3, m\u1edf m\u1eaft, nh\u00ecn tr\u1ea7n nh\u00e0, m\u1ed9t t\u00f9 nh\u00e2n kh\u00f4ng c\u00f3 c\u1eeda ra.",
       "type": "REDUNDANT",
-      "reason": "This entire paragraph reiterates the stakes and choices that have already been clearly established in previous paragraphs.",
-      "action": "CUT",
-      "rewrite": null
+      "reason": "This passage restates the three options C\u01b0\u1eddng faces, which have already been established earlier. The reader already knows: system death = brain burn, external disconnect = safe for him but Lan trapped, internal disconnect = Lan freed but he dies. Repeating the full logic here slows the chapter's push toward climax.",
+      "rewrite": "Ba l\u1ef1a ch\u1ecdn. H\u1ec7 th\u1ed1ng ch\u1ebft khi \u0111ang \u0111\u1ed5 b\u1ed9: n\u00e3o anh ch\u00e1y. Ng\u1eaft t\u1eeb ngo\u00e0i: an to\u00e0n cho anh, Lan v\u1eabn m\u1eafc k\u1eb9t. Ng\u1eaft t\u1eeb b\u00ean trong: Lan t\u1ef1 do, n\u00e3o anh ch\u00e1y. Kh\u00f4ng c\u00f3 l\u1ef1a ch\u1ecdn th\u1ee9 t\u01b0."
+    },
+    {
+      "quote": "Anh \u0111\u00e3 bi\u1ebft, ngay t\u1eeb \u0111\u1ea7u, r\u1eb1ng h\u1ec7 th\u1ed1ng n\u00e0y s\u1ebd ghi \u0111\u00e8 l\u00ean k\u00fd \u1ee9c. M\u1ed7i l\u1ea7n \u0111\u1ed5 b\u1ed9, r\u00e0o ch\u1eafn gi\u1eefa th\u1eadt v\u00e0 gi\u1ea3 suy y\u1ebfu th\u00eam. K\u00fd \u1ee9c gi\u1ea3 l\u1ea5p k\u00edn k\u00fd \u1ee9c th\u1eadt. Anh bi\u1ebft \u0111i\u1ec1u \u0111\u00f3. Anh \u0111\u00e3 \u0111\u1ecdc t\u00e0i li\u1ec7u. Anh hi\u1ec3u c\u01a1 ch\u1ebf. V\u00e0 anh ch\u1ecdn qu\u00ean.",
+      "type": "REDUNDANT",
+      "reason": "The passage explains the memory overwrite mechanism in repetitive sentences. 'Anh bi\u1ebft \u0111i\u1ec1u \u0111\u00f3. Anh \u0111\u00e3 \u0111\u1ecdc t\u00e0i li\u1ec7u. Anh hi\u1ec3u c\u01a1 ch\u1ebf' are three ways of saying the same thing. The final sentence ('V\u00e0 anh ch\u1ecdn qu\u00ean') is powerful but arrives after the reader has been dulled by repetition.",
+      "rewrite": "Anh \u0111\u00e3 bi\u1ebft, ngay t\u1eeb \u0111\u1ea7u, r\u1eb1ng h\u1ec7 th\u1ed1ng n\u00e0y s\u1ebd ghi \u0111\u00e8 l\u00ean k\u00fd \u1ee9c \u2014 r\u00e0o ch\u1eafn gi\u1eefa th\u1eadt v\u00e0 gi\u1ea3 suy y\u1ebfu th\u00eam sau m\u1ed7i l\u1ea7n \u0111\u1ed5 b\u1ed9. Anh hi\u1ec3u c\u01a1 ch\u1ebf. V\u00e0 anh ch\u1ecdn qu\u00ean."
     },
     {
       "quote": "Tay anh run. Kh\u00f4ng ph\u1ea3i run l\u1ea1nh. Run v\u00ec c\u01a1 th\u1ec3 \u0111ang ph\u1ea3n \u1ee9ng v\u1edbi th\u1ee9 n\u00e3o b\u1ed9 ch\u01b0a k\u1ecbp x\u1eed l\u00fd \u2014 m\u1ed9t c\u1ea3m x\u00fac qu\u00e1 l\u1edbn, qu\u00e1 nhanh, b\u1ecb \u0111\u1ea9y xu\u1ed1ng c\u01a1 th\u1ec3 tr\u01b0\u1edbc khi \u00fd th\u1ee9c k\u1ecbp \u0111\u1eb7t t\u00ean.",
       "type": "TELL",
-      "reason": "Over-analyzing why his hand is shaking. Naming the psychological mechanism strips the emotion of its raw power.",
-      "action": "REWRITE",
-      "rewrite": "Tay anh run."
+      "reason": "The passage names 'm\u1ed9t c\u1ea3m x\u00fac qu\u00e1 l\u1edbn, qu\u00e1 nhanh' and explains the physiological mechanism (body reacting before consciousness can name it). This is textbook telling. The trembling hand already shows the overwhelm; the explanation flattens it into clinical description.",
+      "rewrite": "Tay anh run. Kh\u00f4ng ph\u1ea3i run l\u1ea1nh. Run nh\u01b0 khi ch\u1ea1m v\u00e0o d\u00e2y \u0111i\u1ec7n tr\u1ea7n \u2014 c\u01a1 th\u1ec3 ph\u1ea3n \u1ee9ng tr\u01b0\u1edbc khi n\u00e3o k\u1ecbp \u0111\u0103ng k\u00fd."
     },
     {
-      "quote": "Nh\u01b0ng c\u00f4 \u0111\u00e3 thay \u0111\u1ed5i. C\u00f4 \u0111\u00e3 h\u1ecfi nh\u1eefng c\u00e2u kh\u00f4ng c\u00f3 trong m\u00e3 ngu\u1ed3n. C\u00f4 \u0111\u00e3 kh\u00f3c. C\u00f4 \u0111\u00e3 s\u1ee3. C\u00f4 \u0111\u00e3 nh\u1edb. C\u00f4 \u0111\u00e3 tr\u1edf n\u00ean t\u1ef1 ch\u1ee7.",
+      "quote": "C\u01b0\u1eddng nh\u00ecn m\u1ea3nh gi\u1ea5y. Nh\u00ecn m\u1ef1c nh\u1ea1t. V\u00e0 k\u00fd \u1ee9c tr\u00e0o l\u00ean \u2014 kh\u00f4ng ph\u1ea3i t\u1eebng m\u1ea3nh v\u1ee1, m\u00e0 l\u00e0 c\u1ea3 m\u1ed9t kh\u1ed1i, tr\u1ecdn v\u1eb9n, \u0111au \u0111\u1edbn.",
       "type": "TELL",
-      "reason": "A bullet-point list of character development. Show her autonomy through her actions and dialogue, don't just list abstract traits.",
-      "action": "CUT",
-      "rewrite": null
+      "reason": "'Tr\u1ecdn v\u1eb9n, \u0111au \u0111\u1edbn' tells the reader the memory is painful and complete. The physical action (looking at paper, looking at faded ink) could carry more weight if the emotion were embedded in the description rather than labeled.",
+      "rewrite": "C\u01b0\u1eddng nh\u00ecn m\u1ea3nh gi\u1ea5y. Nh\u00ecn m\u1ef1c nh\u1ea1t. V\u00e0 k\u00fd \u1ee9c tr\u00e0o l\u00ean \u2014 kh\u00f4ng ph\u1ea3i t\u1eebng m\u1ea3nh v\u1ee1, m\u00e0 l\u00e0 c\u1ea3 m\u1ed9t kh\u1ed1i. Tr\u1ecdn v\u1eb9n. Anh nh\u1edb \u0111\u00eam m\u00ecnh vi\u1ebft d\u00f2ng n\u00e0y."
+    },
+    {
+      "quote": "C\u00f4 s\u1ebd \u0111\u01b0\u1ee3c gi\u1ea3i ph\u00f3ng. K\u1ebft n\u1ed1i \u0111\u1ee9t v\u0129nh vi\u1ec5n. D\u1eef li\u1ec7u sinh t\u1ed3n ng\u1eebng truy\u1ec1n. C\u00f4 s\u1ebd \u0111\u01b0\u1ee3c ng\u1ee7 y\u00ean. C\u01a1 th\u1ec3 c\u00f4 s\u1ebd c\u00f3 c\u01a1 h\u1ed9i t\u1ef1 ph\u1ee5c h\u1ed3i, d\u00f9 nh\u1ecf.",
+      "type": "REDUNDANT",
+      "reason": "This restates what was already explained in the earlier 'C\u00f4 s\u1ebd \u0111\u01b0\u1ee3c t\u1ef1 do' passage. The reader already knows disconnecting from inside means Lan is freed, data stops, body may recover. This second explanation adds no new information.",
+      "rewrite": "C\u00f4 s\u1ebd \u0111\u01b0\u1ee3c ng\u1ee7 y\u00ean."
+    },
+    {
+      "quote": "Nh\u01b0ng c\u00f4 \u0111\u00e3 thay \u0111\u1ed5i. C\u00f4 \u0111\u00e3 h\u1ecfi nh\u1eefng c\u00e2u kh\u00f4ng c\u00f3 trong m\u00e3 ngu\u1ed3n. C\u00f4 \u0111\u00e3 kh\u00f3c. C\u00f4 \u0111\u00e3 s\u1ee3. C\u00f4 \u0111\u00e3 nh\u1edb. C\u00f4 \u0111\u00e3 tr\u1edf n\u00ean t\u1ef1 ch\u1ee7. V\u00e0 c\u00f4 x\u1ee9ng \u0111\u00e1ng \u0111\u01b0\u1ee3c t\u1ef1 do.",
+      "type": "TELL",
+      "reason": "A list of abstract qualities (asked questions, cried, feared, remembered, became autonomous) tells rather than shows. The chapter has already demonstrated these through specific scenes. Summarizing them in a list flattens the accumulated dramatic weight.",
+      "rewrite": "Nh\u01b0ng c\u00f4 \u0111\u00e3 thay \u0111\u1ed5i. T\u1eeb l\u1ea7n \u0111\u1ea7u c\u00f4 h\u1ecfi 'Anh nh\u1edb em kh\u00f4ng?' \u2014 c\u00e2u h\u1ecfi kh\u00f4ng c\u00f3 trong m\u00e3 ngu\u1ed3n \u2014 \u0111\u1ebfn l\u1ea7n c\u00f4 kh\u00f3c, l\u1ea7n c\u00f4 s\u1ee3 c\u00e1i t\u1ed1i, l\u1ea7n c\u00f4 nh\u1edb t\u00ean m\u00ecnh. C\u00f4 \u0111\u00e3 tr\u1edf n\u00ean t\u1ef1 ch\u1ee7. V\u00e0 c\u00f4 x\u1ee9ng \u0111\u00e1ng \u0111\u01b0\u1ee3c t\u1ef1 do."
     },
     {
       "quote": "N\u1ee5 c\u01b0\u1eddi \u1ea5y \u2014 l\u1ea7n \u0111\u1ea7u ti\u00ean ho\u00e0n to\u00e0n th\u1eadt. Kh\u00f4ng vi\u1ec1n pixel. Kh\u00f4ng \u0111\u1ed9 tr\u1ec5. Kh\u00f4ng l\u1eb7p l\u1ea1i. Ch\u1ec9 l\u00e0 n\u1ee5 c\u01b0\u1eddi c\u1ee7a m\u1ed9t ng\u01b0\u1eddi ph\u1ee5 n\u1eef \u0111ang \u0111\u1ed1i di\u1ec7n v\u1edbi s\u1ef1 k\u1ebft th\u00fac v\u00e0 ch\u1ea5p nh\u1eadn n\u00f3.",
       "type": "OVER-EXPLAIN",
-      "reason": "Explaining the philosophical meaning of her smile right before the climax dilutes the visual impact.",
-      "action": "REWRITE",
-      "rewrite": "N\u1ee5 c\u01b0\u1eddi \u1ea5y \u2014 l\u1ea7n \u0111\u1ea7u ti\u00ean ho\u00e0n to\u00e0n th\u1eadt. Kh\u00f4ng vi\u1ec1n pixel. Kh\u00f4ng \u0111\u1ed9 tr\u1ec5."
+      "reason": "The technical negations ('Kh\u00f4ng vi\u1ec1n pixel. Kh\u00f4ng \u0111\u1ed9 tr\u1ec5. Kh\u00f4ng l\u1eb7p l\u1ea1i') are effective, but the final sentence explains what the smile means ('\u0111\u1ed1i di\u1ec7n v\u1edbi s\u1ef1 k\u1ebft th\u00fac v\u00e0 ch\u1ea5p nh\u1eadn n\u00f3'). The smile itself, described as 'ho\u00e0n to\u00e0n th\u1eadt,' already conveys acceptance. The annotation dilutes it.",
+      "rewrite": "N\u1ee5 c\u01b0\u1eddi \u1ea5y \u2014 l\u1ea7n \u0111\u1ea7u ti\u00ean ho\u00e0n to\u00e0n th\u1eadt. Kh\u00f4ng vi\u1ec1n pixel. Kh\u00f4ng \u0111\u1ed9 tr\u1ec5. Kh\u00f4ng l\u1eb7p l\u1ea1i."
     },
     {
-      "quote": "C\u01a1 th\u1ec3 c\u00f4 b\u1eaft \u0111\u1ea7u m\u1edd \u0111i. T\u1eeb ch\u00e2n l\u00ean. \u0110\u1ea7u g\u1ed1i tan th\u00e0nh s\u01b0\u01a1ng. H\u00f4ng tan. Ng\u1ef1c tan.",
+      "quote": "M\u1eaft c\u00f4 m\u1edf. \u0110en. S\u00e2u. Kh\u00f4ng c\u00f2n \u01b0\u1edbt \u2014 n\u01b0\u1edbc m\u1eaft \u0111\u00e3 kh\u00f4. C\u00f4 nh\u00ecn anh b\u1eb1ng \u0111\u00f4i m\u1eaft c\u1ee7a ng\u01b0\u1eddi \u0111\u00e3 \u0111\u01b0\u1ee3c gi\u1ea3i ph\u00f3ng, d\u00f9 gi\u1ea3i ph\u00f3ng \u1ea5y c\u00f3 ngh\u0129a l\u00e0 kh\u00f4ng t\u1ed3n t\u1ea1i n\u1eefa.",
+      "type": "TELL",
+      "reason": "'\u0110\u00f4i m\u1eaft c\u1ee7a ng\u01b0\u1eddi \u0111\u00e3 \u0111\u01b0\u1ee3c gi\u1ea3i ph\u00f3ng' tells the reader what the gaze means. The physical description (open, black, deep, dry) is strong enough to carry the emotion without the explanatory gloss.",
+      "rewrite": "M\u1eaft c\u00f4 m\u1edf. \u0110en. S\u00e2u. Kh\u00f4ng c\u00f2n \u01b0\u1edbt \u2014 n\u01b0\u1edbc m\u1eaft \u0111\u00e3 kh\u00f4. C\u00f4 nh\u00ecn anh. Kh\u00f4ng ch\u1edbp."
+    },
+    {
+      "quote": "C\u00e1i g\u00ec \u0111\u00f3 gi\u1eadt trong \u0111\u1ea7u anh. \u0110au. T\u1eeb trong s\u1ecd t\u1ecfa ra. Nh\u01b0 c\u00f3 h\u00e0ng tri\u1ec7u c\u00e2y kim \u0111\u00e2m \u0111\u1ed3ng th\u1eddi v\u00e0o m\u1ed7i n\u01a1-ron. Th\u1ea5y l\u00f3e l\u00ean sau m\u00ed m\u1eaft \u2014 tr\u1eafng, \u0111\u1ecf, tr\u1eafng. C\u01a1 th\u1ec3 co gi\u1eadt. Kh\u00f4ng ki\u1ec3m so\u00e1t \u0111\u01b0\u1ee3c. Tay ch\u00e2n gi\u1eadt \u0111\u00f9ng \u0111\u00f9ng.",
       "type": "GENERIC",
-      "reason": "A standard, almost clinical description of a digital entity dissolving.",
-      "action": "REWRITE",
-      "rewrite": "C\u01a1 th\u1ec3 c\u00f4 b\u1eaft \u0111\u1ea7u m\u1edd \u0111i. T\u1eeb ch\u00e2n l\u00ean. \u0110\u1ea7u g\u1ed1i tan th\u00e0nh s\u01b0\u01a1ng, \u0111\u1ec3 l\u1ed9 nh\u1eefng \u0111\u01b0\u1eddng vi\u1ec1n pixel th\u00f4 r\u00e1p b\u00ean trong."
+      "reason": "The 'millions of needles stabbing every neuron' simile is a generic pain description. Given the chapter's established vocabulary (ping, latency, signal, data, render), the pain could be described in terms more specific to this world\u2014static, noise, signal corruption, data overflow.",
+      "rewrite": "C\u00e1i g\u00ec \u0111\u00f3 gi\u1eadt trong \u0111\u1ea7u anh. \u0110au. T\u1eeb trong s\u1ecd t\u1ecfa ra. Nh\u01b0 signal noise v\u01b0\u1ee3t ng\u01b0\u1ee1ng \u2014 static tr\u1eafng l\u1ea5p \u0111\u1ea7y m\u1ecdi t\u1ea7n s\u1ed1, m\u1ecdi k\u00eanh, m\u1ecdi n\u01a1-ron. Th\u1ea5y l\u00f3e l\u00ean sau m\u00ed m\u1eaft \u2014 tr\u1eafng, \u0111\u1ecf, tr\u1eafng. C\u01a1 th\u1ec3 co gi\u1eadt. Kh\u00f4ng ki\u1ec3m so\u00e1t \u0111\u01b0\u1ee3c. Tay ch\u00e2n gi\u1eadt \u0111\u00f9ng \u0111\u00f9ng."
     }
   ],
-  "total_cuttable_words": 650,
-  "tightest_passage": "Ping: 847ms. R\u01a1i xu\u1ed1ng 203ms. Nh\u1ea3y l\u00ean 1,204ms. R\u01a1i xu\u1ed1ng 89ms.",
-  "loosest_passage": "Run v\u00ec c\u01a1 th\u1ec3 \u0111ang ph\u1ea3n \u1ee9ng v\u1edbi th\u1ee9 n\u00e3o b\u1ed9 ch\u01b0a k\u1ecbp x\u1eed l\u00fd \u2014 m\u1ed9t c\u1ea3m x\u00fac qu\u00e1 l\u1edbn, qu\u00e1 nhanh, b\u1ecb \u0111\u1ea9y xu\u1ed1ng c\u01a1 th\u1ec3 tr\u01b0\u1edbc khi \u00fd th\u1ee9c k\u1ecbp \u0111\u1eb7t t\u00ean.",
-  "overall_fat_percentage": 16,
-  "one_sentence_verdict": "The chapter features a brilliant, high-stakes sci-fi premise with excellent sensory details, but it repeatedly stalls its own momentum by over-explaining character motivations and treating the reader like they cannot interpret metaphors."
+  "tightest_passage": "Ping: 847ms. R\u01a1i xu\u1ed1ng 203ms. Nh\u1ea3y l\u00ean 1,204ms. R\u01a1i xu\u1ed1ng 89ms. Anh nh\u00ecn con s\u1ed1 nh\u1ea3y lo\u1ea1n. T\u00edn hi\u1ec7u kh\u00f4ng \u1ed5n \u0111\u1ecbnh. \u0110\u01b0\u1eddng truy\u1ec1n \u0111ang s\u1ee5p \u0111\u1ed5 \u2014 t\u1eebng n\u00fat chuy\u1ec3n ti\u1ebfp \u0111\u1ee9t g\u00e3y nh\u01b0 x\u01b0\u01a1ng s\u1ed1ng b\u1ecb b\u1ebb g\u1eadp.",
+  "loosest_passage": "C\u00f4 s\u1ebd \u0111\u01b0\u1ee3c t\u1ef1 do. B\u1ed9 n\u00e3o c\u00f4 kh\u00f4ng c\u00f2n b\u1ecb x\u00e2m ph\u1ea1m. D\u1eef li\u1ec7u sinh t\u1ed3n c\u00f4 kh\u00f4ng c\u00f2n b\u1ecb h\u00fat ra \u0111\u1ec3 render th\u00e0nh ng\u01b0\u1eddi t\u00ecnh \u1ea3o. 90% nh\u1eadn th\u1ee9c b\u1ecb kh\u00f3a s\u1ebd kh\u00f4ng c\u00f2n b\u1ecb gi\u1eef kh\u00f3a. C\u01a1 th\u1ec3 c\u00f4 \u2014 th\u1ee9 c\u00f2n l\u1ea1i c\u1ee7a c\u01a1 th\u1ec3 c\u00f4 \u2014 s\u1ebd c\u00f3 c\u01a1 h\u1ed9i t\u1ef1 ph\u1ee5c h\u1ed3i. Ch\u1eadm. C\u00f3 th\u1ec3 kh\u00f4ng th\u00e0nh c\u00f4ng. Nh\u01b0ng \u0111\u00f3 s\u1ebd l\u00e0 qu\u00e1 tr\u00ecnh t\u1ef1 nhi\u00ean, kh\u00f4ng b\u1ecb can thi\u1ec7p.",
+  "recurring_patterns": [
+    "The narrator repeatedly explains the meaning of physical details (bruise = synchronization, smile = acceptance, eyes = liberation) rather than trusting the imagery to convey significance.",
+    "Technical exposition about system mechanics is stated multiple times\u2014the three options, the memory overwrite mechanism, the meaning of 'freedom' for Lan\u2014creating redundancy that stalls emotional momentum.",
+    "Emotions are labeled (\u0111au \u0111\u1edbn, v\u00f4 tri, c\u1ea3m x\u00fac qu\u00e1 l\u1edbn) rather than embedded in action, sensation, or specific metaphor."
+  ],
+  "missed_opportunities": [
+    "The paper note ('Lan. Ph\u00f2ng 4. St. Vincent.') is a powerful object but its discovery feels rushed. The moment C\u01b0\u1eddng finds it could carry more weight\u2014the tactile detail of paper degrading, the shock of recognizing his own handwriting, the temporal collapse of past-self warning future-self.",
+    "The final disconnect sequence (10%... 20%... 100%) is visually effective but emotionally mechanical. The percentage counter could be intercut with more sensory detail\u2014what C\u01b0\u1eddng hears, smells, feels as the world dissolves\u2014rather than just watching Lan's body disintegrate.",
+    "Lan's dialogue, while functional, could have more idiosyncratic voice. She speaks in clean, grammatical sentences even as her world collapses. Glitches in her speech patterns (repeated words, dropped syntax, phrases that loop) could make her deterioration more visceral."
+  ],
+  "revision_strategy": "Cut all passages where the narrator explains what physical details mean; trust the imagery of ping numbers, fading bruises, and crumbling architecture to carry significance. Consolidate the three technical exposition blocks (what happens if system dies, what freedom means for Lan, how memory overwrite works) into one lean passage each, placed at the moment of maximum dramatic need.",
+  "one_sentence_verdict": "The chapter builds extraordinary power through its central metaphor\u2014network latency as mortality\u2014but repeatedly dilutes that power by explaining what it has already shown."
 }

@@ -1,0 +1,34 @@
+[
+  {
+    "num": 1,
+    "direction": "Abstract geometric (monochrome, single motif)",
+    "concept": "A rigid, symmetrical hexagonal maze structure that is strictly bisected. The left side represents cold order, while the right side fractures into scattered geometric shards.",
+    "medium": "Pure black-and-white vector art.",
+    "file": "ornament_01.png",
+    "size": 210847
+  },
+  {
+    "num": 2,
+    "direction": "Figurative symbolic (colored, changing per chapter)",
+    "concept": "A stylized, surreal technological halo floating above a different decaying cybernetic organ for each chapter, representing the merger of the divine, the mechanical, and the mortal.",
+    "medium": "Realistic rendering with colored lighting.",
+    "file": "ornament_02.png",
+    "size": 586172
+  },
+  {
+    "num": 3,
+    "direction": "Minimal line (monochrome, changing per chapter)",
+    "concept": "A single, continuous, delicate fine line drawing that starts as a taut, straight wire and violently snaps into a messy, looping tangle representing a specific fractured bone.",
+    "medium": "Pure black-and-white minimal line art.",
+    "file": "ornament_03.png",
+    "size": 506477
+  },
+  {
+    "num": 4,
+    "direction": "Detailed engraving (monochrome, single motif)",
+    "concept": "A clinical, highly ornamental vignette combining a metallic syringe tip interwoven with decaying baroque anatomical flora.",
+    "medium": "Traditional woodcut printmaking with heavy stippling.",
+    "file": "ornament_04.png",
+    "size": 765084
+  }
+]

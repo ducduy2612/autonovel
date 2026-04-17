@@ -1022,7 +1022,9 @@ def parse_panel_consensus(panel_path: Path) -> list[dict]:
 
 def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
     """
-    Revision phase: adversarial editing, reader panel, targeted revisions.
+    Revision phase: reader panel → targeted adversarial edit → revise flagged
+    chapters → full novel eval. Merges the old Phase 3 + Phase 3b into one
+    loop. A single Opus review.py call runs at the end as a final quality check.
     """
     banner("PHASE 3: REVISION", "=")
 
@@ -1036,72 +1038,42 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
     for cycle in range(start_cycle, max_cycles + 1):
         banner(f"Revision Cycle {cycle}/{max_cycles}", "-")
 
-        # -- Step 1: Adversarial editing pass --
-        step("Running adversarial editing on all chapters...")
-        uv_run("adversarial_edit.py all", timeout=900)
-
-        # -- Step 2: Apply mechanical cuts (only if apply_cuts.py exists) --
-        apply_cuts = BASE_DIR / "apply_cuts.py"
-        if apply_cuts.exists():
-            step("Applying mechanical cuts (OVER-EXPLAIN, REDUNDANT)...")
-            run_tool("uv run python apply_cuts.py all "
-                     "--types OVER-EXPLAIN REDUNDANT --min-fat 15", timeout=300)
-        else:
-            step("apply_cuts.py not found, skipping mechanical cuts")
-
-        # -- Step 3: Build arc summary (required by reader panel) --
+        # -- Step 1: Build arc summary (required by reader panel) --
         arc_summary_path = BASE_DIR / "arc_summary.md"
         build_arc = BASE_DIR / "build_arc_summary.py"
         if build_arc.exists() and not arc_summary_path.exists():
             step("Building arc summary for reader panel...")
             uv_run("build_arc_summary.py", timeout=600)
-        elif not arc_summary_path.exists():
-            step("WARNING: arc_summary.md missing and build_arc_summary.py not found, "
+
+        # -- Step 2: Reader panel --
+        reader_panel_py = BASE_DIR / "reader_panel.py"
+        if not arc_summary_path.exists() or not reader_panel_py.exists():
+            step("WARNING: arc_summary.md or reader_panel.py missing, "
                  "skipping reader panel")
             consensus_items = []
-            # Skip to step 6
-            step("Skipping reader panel — no arc summary available")
-
-            # -- Step 6: Full novel evaluation --
-            step("Running full novel evaluation...")
-            full_eval = uv_run("evaluate.py --full", timeout=600)
-            novel_score = parse_score(full_eval.stdout, "novel_score")
-            if novel_score < 0:
-                novel_score = parse_score(full_eval.stdout, "overall_score")
-            total_words = count_words_in_chapters()
-            step(f"Novel score: {novel_score}  (prev: {prev_score}, words: {total_words})")
-            commit_hash = git_add_commit(
-                f"revision cycle {cycle} complete: novel_score {novel_score}")
-            log_result(commit_hash, f"revision-cycle-{cycle}", novel_score,
-                       total_words, "cycle",
-                       f"Cycle {cycle}: novel_score {prev_score}->{novel_score}")
-            state["novel_score"] = novel_score
-            state["revision_cycle"] = cycle
-            save_state(state)
-            if cycle >= MIN_REVISION_CYCLES and abs(novel_score - prev_score) < PLATEAU_DELTA:
-                step(f"Plateau detected (delta {abs(novel_score - prev_score):.2f} "
-                     f"< {PLATEAU_DELTA}) after {cycle} cycles — stopping")
-                break
-            prev_score = novel_score
-            continue
-
-        # -- Step 3b: Reader panel --
-        step("Running reader panel evaluation...")
-        uv_run("reader_panel.py", timeout=600)
-
-        # -- Step 4: Parse panel consensus --
-        panel_path = EDIT_LOGS_DIR / "reader_panel.json"
-        consensus_items = parse_panel_consensus(panel_path)
-
-        if consensus_items:
-            step(f"Found {len(consensus_items)} consensus items:")
-            for item in consensus_items:
-                print(f"    Ch {item['chapter']}: {item['question']} "
-                      f"(flagged by {item['count']} readers)")
         else:
-            step("No strong consensus items found from panel")
+            step("Running reader panel evaluation...")
+            uv_run("reader_panel.py", timeout=600)
 
-        # -- Step 5: Targeted revisions for consensus items --
+            # -- Step 3: Parse panel consensus --
+            panel_path = EDIT_LOGS_DIR / "reader_panel.json"
+            consensus_items = parse_panel_consensus(panel_path)
+
+            if consensus_items:
+                step(f"Found {len(consensus_items)} consensus items:")
+                for item in consensus_items:
+                    print(f"    Ch {item['chapter']}: {item['question']} "
+                          f"(flagged by {item['count']} readers)")
+            else:
+                step("No strong consensus items found from panel")
+
+        # -- Step 4: Targeted adversarial edit (flagged chapters only) --
+        for item in consensus_items:
+            ch_num = item["chapter"]
+            step(f"Running adversarial edit on Ch {ch_num}...")
+            uv_run(f"adversarial_edit.py {ch_num}", timeout=300)
+
+        # -- Step 5: Revise flagged chapters (brief → rewrite → eval → keep/revert) --
         for idx, item in enumerate(consensus_items):
             ch_num = item["chapter"]
             question = item["question"]
@@ -1198,85 +1170,38 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
         prev_score = novel_score
 
     # =========================================================
-    # PHASE 3b: OPUS REVIEW LOOP (deep, prose-level refinement)
+    # FINAL QUALITY CHECK: single Opus review
     # =========================================================
     review_py = BASE_DIR / "review.py"
     if review_py.exists():
-        banner("PHASE 3b: OPUS REVIEW LOOP", "=")
-        
-        max_review_rounds = 4
-        for rnd in range(1, max_review_rounds + 1):
-            banner(f"Opus Review Round {rnd}/{max_review_rounds}", "-")
-            
-            # Step 1: Generate the review
-            step("Sending manuscript to Opus for review...")
-            review_result = uv_run(
-                f"review.py --output reviews.md", timeout=900)
-            
-            # Step 2: Parse the review
-            step("Parsing review...")
-            parse_result = run_tool(
-                "uv run python review.py --parse", timeout=60)
-            print(parse_result.stdout if parse_result else "")
-            
-            # Step 3: Check stopping condition
-            review_logs = sorted(
-                (EDIT_LOGS_DIR).glob("*_review.json"), reverse=True)
-            if review_logs:
+        banner("FINAL QUALITY CHECK: Opus Review", "=")
 
-                review_data = json.loads(review_logs[0].read_text())
-                stars = review_data.get("stars", 0) or 0
-                total_items = review_data.get("total_items", 0)
-                major_items = review_data.get("major_items", 0)
-                qualified = review_data.get("qualified_items", 0)
-                
-                step(f"Stars: {stars}, Items: {total_items} "
-                     f"({major_items} major, {qualified} qualified)")
-                
-                # Stop if: ≥4★, no major unqualified items, or >half qualified
-                if stars >= 4.5 and major_items == 0:
-                    step("★★★★½ with no major items — novel is ready.")
-                    break
-                if stars >= 4 and total_items > 0 and qualified / total_items > 0.5:
-                    step(f"★{'★' * int(stars)} with majority qualified items — novel is ready.")
-                    break
-            
-            # Step 4: Generate briefs from review items and fix
-            step("Generating revision briefs from review...")
-            gen_brief_py = BASE_DIR / "gen_brief.py"
-            if gen_brief_py.exists():
-                # Auto mode: picks weakest chapter, cross-references all sources
-                run_tool("uv run python gen_brief.py --auto", timeout=300)
-                
-                # Find any generated briefs and apply the top one
-                recent_briefs = sorted(
-                    BRIEFS_DIR.glob("*_auto.md"),
-                    key=lambda p: p.stat().st_mtime, reverse=True)
-                if recent_briefs:
-                    brief = recent_briefs[0]
-                    # Extract chapter number from filename
-                    ch_match = re.search(r'ch(\d+)', brief.name)
-                    if ch_match:
-                        ch_num = int(ch_match.group(1))
-                        step(f"Revising Ch {ch_num} from review brief...")
-                        uv_run(f"gen_revision.py {ch_num} {brief}", timeout=600)
-                        git_add_commit(
-                            f"review round {rnd}: revise ch{ch_num:02d} from Opus feedback")
-            
-            # Step 5: Mechanical fixes from review
-            # Run slop pass on any mentioned patterns
-            step("Running mechanical cleanup pass...")
-            apply_cuts_py = BASE_DIR / "apply_cuts.py"
-            if apply_cuts_py.exists():
-                run_tool(
-                    "uv run python apply_cuts.py all --types OVER-EXPLAIN REDUNDANT --min-fat 15",
-                    timeout=300)
-                git_add_commit(f"review round {rnd}: mechanical cleanup")
-            
-            step(f"Review round {rnd} complete.")
-        
-        banner("OPUS REVIEW LOOP COMPLETE")
-    
+        step("Sending manuscript to Opus for final review...")
+        review_result = uv_run("review.py --output reviews.md", timeout=900)
+
+        # Parse the review
+        step("Parsing review...")
+        parse_result = run_tool("uv run python review.py --parse", timeout=60)
+        print(parse_result.stdout if parse_result else "")
+
+        # Check star rating and flag for user if needed
+        review_logs = sorted(
+            (EDIT_LOGS_DIR).glob("*_review.json"), reverse=True)
+        if review_logs:
+            review_data = json.loads(review_logs[0].read_text())
+            stars = review_data.get("stars", 0) or 0
+            total_items = review_data.get("total_items", 0)
+            major_items = review_data.get("major_items", 0)
+
+            step(f"Final review: {stars} stars, {total_items} items "
+                 f"({major_items} major)")
+
+            if stars < 4 or major_items > 0:
+                step("NOTE: Final review flags issues. "
+                     "Check reviews.md for details — manual review recommended.")
+
+        git_add_commit("final quality check: Opus review")
+
     state["phase"] = "export"
     state["current_focus"] = "export"
     save_state(state)

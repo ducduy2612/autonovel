@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Adversarial editing pass: ask the judge to CUT 500 words from each chapter.
-What gets cut reveals what's weakest. The cut list IS the revision plan.
+Adversarial editing pass: identify what to IMPROVE in a chapter.
+Every flagged passage gets a concrete rewrite suggestion.
 
 Usage: python adversarial_edit.py 1        # single chapter
        python adversarial_edit.py all      # all chapters
@@ -29,9 +29,10 @@ def call_judge(prompt, max_tokens=8000):
         "max_tokens": max_tokens,
         "temperature": 0.3,
         "system": (
-            "You are a ruthless literary editor. You cut fat from prose. "
-            "You have no sentiment about good-enough sentences -- if a sentence "
-            "isn't earning its place, it goes. You quote exactly from the text. "
+            "You are a revision editor who improves passages. "
+            "You find what's weak in prose and show how to fix it. "
+            "Every problem you identify comes with a concrete rewrite suggestion. "
+            "You quote exactly from the text. "
             "You never invent or paraphrase. Always respond with valid JSON."
             + analysis_language_note()
         ),
@@ -83,45 +84,49 @@ def parse_json(text):
         return json.loads(text[start:], strict=False)
 
 EDIT_PROMPT = """You are editing a fantasy novel chapter. Your job: identify exactly
-what to cut or rewrite to make this chapter tighter, sharper, more alive.
+what needs improvement and provide a concrete rewrite for each passage.
 
 THE CHAPTER ({word_count} words):
 {chapter_text}
 
 YOUR TASK:
-1. Find 10-20 specific passages that should be CUT or REWRITTEN.
+1. Find 10-20 specific passages that should be REVISED.
    For each, quote the EXACT text (minimum 10 words of the quote so
-   it's unambiguous), explain why it's weak, and classify it.
+   it's unambiguous), explain why it's weak, and provide a concrete rewrite.
 
-2. Classify each cut as one of:
-   - FAT: adds nothing, could be removed with no loss
-   - REDUNDANT: restates what a previous sentence/scene already showed
+2. Classify each issue as one of:
    - OVER-EXPLAIN: narrator explaining what the scene already demonstrated
-   - GENERIC: could appear in any novel, not specific to this world/character
+   - REDUNDANT: restates what a previous sentence/scene already showed
    - TELL: names an emotion or state instead of showing it
-   - STRUCTURAL: paragraph/section that disrupts pacing or rhythm
+   - GENERIC: could appear in any novel, not specific to this world/character
+   - FLAT_DIALOGUE: dialogue that lacks voice, subtext, or character specificity
+   - PACING: passage that disrupts the rhythm — too rushed or too slow
+   - WEAK_OPENING: chapter or scene opening that fails to hook
+   - PASSTHROUGH: narrator just moving characters between scenes without drama
 
-3. For REWRITE candidates (not cuts), provide a specific revision.
+3. Every item MUST have a concrete rewrite. No nulls.
 
-4. Estimate how many words could be cut total without losing anything
-   the chapter needs.
+4. After the individual revisions, provide:
+   - recurring_patterns: what weaknesses keep appearing
+   - missed_opportunities: moments in the chapter that could be stronger
+   - revision_strategy: a 1-2 sentence overall approach for revising this chapter
 
 Respond with JSON:
 {{
-  "cuts": [
+  "revisions": [
     {{
       "quote": "exact text from the chapter (10+ words)",
-      "type": "FAT|REDUNDANT|OVER-EXPLAIN|GENERIC|TELL|STRUCTURAL",
-      "reason": "why this should go",
-      "action": "CUT or REWRITE",
-      "rewrite": "replacement text if action is REWRITE, null if CUT"
+      "type": "OVER-EXPLAIN|REDUNDANT|TELL|GENERIC|FLAT_DIALOGUE|PACING|WEAK_OPENING|PASSTHROUGH",
+      "reason": "why this needs improvement",
+      "rewrite": "concrete replacement text — always provided, never null"
     }}
   ],
-  "total_cuttable_words": N,
   "tightest_passage": "quote the best 2-3 sentences in the chapter -- the ones you'd never touch",
   "loosest_passage": "quote the worst 2-3 sentences -- the ones that most need work",
-  "overall_fat_percentage": N,
-  "one_sentence_verdict": "what this chapter does well and what drags it down, in one sentence"
+  "recurring_patterns": ["pattern 1", "pattern 2"],
+  "missed_opportunities": ["opportunity 1", "opportunity 2"],
+  "revision_strategy": "1-2 sentence overall revision approach",
+  "one_sentence_verdict": "what this chapter does well and what needs work, in one sentence"
 }}
 """
 
@@ -171,21 +176,26 @@ def main():
             print(f"  ERROR: {e}")
             continue
         
-        cuts = result.get("cuts", [])
-        cuttable = result.get("total_cuttable_words", 0)
-        fat_pct = result.get("overall_fat_percentage", 0)
+        revisions = result.get("revisions", [])
         verdict = result.get("one_sentence_verdict", "")
+        strategy = result.get("revision_strategy", "")
+        patterns = result.get("recurring_patterns", [])
+        opportunities = result.get("missed_opportunities", [])
         
         # Count by type
         type_counts = {}
-        for c in cuts:
-            t = c.get("type", "?")
+        for r in revisions:
+            t = r.get("type", "?")
             type_counts[t] = type_counts.get(t, 0) + 1
         
         print(f"  Words: {wc}")
-        print(f"  Cuts found: {len(cuts)}")
-        print(f"  Cuttable words: ~{cuttable} ({fat_pct}% fat)")
+        print(f"  Revisions found: {len(revisions)}")
         print(f"  By type: {type_counts}")
+        print(f"  Strategy: {strategy}")
+        if patterns:
+            print(f"  Recurring patterns: {patterns}")
+        if opportunities:
+            print(f"  Missed opportunities: {opportunities}")
         print(f"  Verdict: {verdict}")
         print(f"  Tightest: {result.get('tightest_passage', '')[:100]}...")
         print(f"  Loosest:  {result.get('loosest_passage', '')[:100]}...")

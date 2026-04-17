@@ -498,21 +498,23 @@ def build_cuts_brief(ch: int) -> str:
     wc = word_count(text)
     voice_rules = extract_voice_rules()
 
-    cuts = cuts_data.get("cuts", [])
-    total_cuttable = cuts_data.get("total_cuttable_words", 0)
+    # Support both old format ("cuts") and new format ("revisions")
+    revisions = cuts_data.get("revisions", cuts_data.get("cuts", []))
     tightest = cuts_data.get("tightest_passage", "")
     loosest = cuts_data.get("loosest_passage", "")
-    fat_pct = cuts_data.get("overall_fat_percentage", 0)
     verdict = cuts_data.get("one_sentence_verdict", "")
+    strategy = cuts_data.get("revision_strategy", "")
+    recurring_patterns = cuts_data.get("recurring_patterns", [])
+    missed_opportunities = cuts_data.get("missed_opportunities", [])
 
-    # Categorize cuts by type
-    cut_types: dict[str, list[dict]] = {}
-    for c in cuts:
-        t = c.get("type", "OTHER")
-        cut_types.setdefault(t, []).append(c)
+    # Categorize revisions by type
+    rev_types: dict[str, list[dict]] = {}
+    for r in revisions:
+        t = r.get("type", "OTHER")
+        rev_types.setdefault(t, []).append(r)
 
     # Determine dominant pattern
-    type_counts = {t: len(cs) for t, cs in cut_types.items()}
+    type_counts = {t: len(rs) for t, rs in rev_types.items()}
     dominant = max(type_counts, key=type_counts.get) if type_counts else "MIXED"
 
     brief_type = "TIGHTEN"
@@ -520,24 +522,35 @@ def build_cuts_brief(ch: int) -> str:
     # PROBLEM
     problem_parts: list[str] = []
     problem_parts.append(
-        f"Adversarial edit found **{total_cuttable} cuttable words** "
-        f"({fat_pct}% fat) across {len(cuts)} passages."
+        f"Adversarial edit found **{len(revisions)} passages** to revise."
     )
     if verdict:
         problem_parts.append(f"Verdict: {verdict}")
+    if strategy:
+        problem_parts.append(f"**Revision strategy:** {strategy}")
 
-    problem_parts.append(f"\nDominant cut pattern: **{dominant}** ({type_counts.get(dominant, 0)} instances)")
+    problem_parts.append(f"\nDominant issue pattern: **{dominant}** ({type_counts.get(dominant, 0)} instances)")
     for t, count in sorted(type_counts.items(), key=lambda x: -x[1]):
         if t != dominant:
             problem_parts.append(f"- {t}: {count} instances")
 
+    if recurring_patterns:
+        problem_parts.append("\n**Recurring patterns:**")
+        for p in recurring_patterns:
+            problem_parts.append(f"- {p}")
+
+    if missed_opportunities:
+        problem_parts.append("\n**Missed opportunities:**")
+        for o in missed_opportunities:
+            problem_parts.append(f"- {o}")
+
     if loosest:
-        problem_parts.append(f'\n**Loosest passage:**\n> {loosest}')
+        problem_parts.append(f'\n**Weakest passage:**\n> {loosest}')
 
     # WHAT TO KEEP
     keep_parts: list[str] = []
     if tightest:
-        keep_parts.append(f'**Tightest passage** (do not touch):\n> {tightest}')
+        keep_parts.append(f'**Strongest passage** (do not touch):\n> {tightest}')
 
     # Also pull strongest sentences from eval if available
     ch_eval_path = latest_chapter_eval(ch)
@@ -552,21 +565,26 @@ def build_cuts_brief(ch: int) -> str:
     if not keep_parts:
         keep_parts.append("(Review chapter for strongest passages before revising.)")
 
-    # WHAT TO CHANGE — specific numbered items from each cut
+    # WHAT TO CHANGE — specific numbered items from each revision
     change_parts: list[str] = []
     change_num = 1
 
     # Group by type for clarity
-    for cut_type in ["REDUNDANT", "OVER-EXPLAIN", "FAT", "TELL", "GENERIC", "OTHER"]:
-        type_cuts = cut_types.get(cut_type, [])
-        if not type_cuts:
+    type_order = [
+        "OVER-EXPLAIN", "REDUNDANT", "TELL", "GENERIC",
+        "FLAT_DIALOGUE", "PACING", "WEAK_OPENING", "PASSTHROUGH", "OTHER",
+        # Legacy types from old format
+        "FAT", "STRUCTURAL",
+    ]
+    for rev_type in type_order:
+        type_revs = rev_types.get(rev_type, [])
+        if not type_revs:
             continue
-        change_parts.append(f"\n### {cut_type} ({len(type_cuts)} cuts)")
-        for c in type_cuts:
-            quote = c.get("quote", "")
-            reason = c.get("reason", "")
-            action = c.get("action", "CUT")
-            rewrite = c.get("rewrite")
+        change_parts.append(f"\n### {rev_type} ({len(type_revs)} issues)")
+        for r in type_revs:
+            quote = r.get("quote", "")
+            reason = r.get("reason", "")
+            rewrite = r.get("rewrite", "")
 
             # Truncate very long quotes
             if len(quote) > 200:
@@ -574,18 +592,20 @@ def build_cuts_brief(ch: int) -> str:
 
             entry = f'{change_num}. `"{quote}"`\n'
             entry += f"   Reason: {reason}\n"
-            if action == "REWRITE" and rewrite:
-                entry += f'   → Rewrite as: "{rewrite}"'
-            elif action == "CUT":
-                entry += "   → Cut entirely"
+            if rewrite:
+                # Truncate very long rewrites
+                rw_display = rewrite[:300] + "..." if len(rewrite) > 300 else rewrite
+                entry += f'   → Rewrite as: "{rw_display}"'
+            else:
+                # Old-format CUT action — convert to revision guidance
+                entry += "   → Revise or cut entirely"
             change_parts.append(entry)
             change_num += 1
 
     # Word count target
-    target_wc = wc - total_cuttable
     target_note = (
-        f"~{target_wc} words (cut ~{total_cuttable} from current {wc}). "
-        f"Tighten {fat_pct}% fat without losing the chapter's strongest beats."
+        f"~{wc} words (current: {wc}; revise in-place — length may change "
+        f"based on revision scope)."
     )
 
     brief = f"# Revision Brief: Chapter {ch} — {title} ({brief_type})\n\n"
@@ -721,36 +741,40 @@ def build_auto_brief() -> tuple[int, str]:
                 snippet = m[:400] + "..." if len(m) > 400 else m
                 keep_parts.append(f"Panel best scene mention: {snippet}")
 
-    # Cuts data
+    # Cuts/revision data
     cuts_data = load_cuts(ch)
     if cuts_data:
-        total_cuttable = cuts_data.get("total_cuttable_words", 0)
-        fat_pct = cuts_data.get("overall_fat_percentage", 0)
+        # Support both old and new adversarial edit format
+        revisions_list = cuts_data.get("revisions", cuts_data.get("cuts", []))
         tightest = cuts_data.get("tightest_passage", "")
         verdict = cuts_data.get("one_sentence_verdict", "")
+        strategy = cuts_data.get("revision_strategy", "")
+        recurring_patterns = cuts_data.get("recurring_patterns", [])
 
-        if total_cuttable:
+        if revisions_list:
             problem_parts.append(
-                f"\n**Adversarial edit:** {total_cuttable} cuttable words ({fat_pct}% fat). "
+                f"\n**Adversarial edit:** {len(revisions_list)} passages to revise. "
                 f"{verdict}"
             )
+        if strategy:
+            problem_parts.append(f"**Revision strategy:** {strategy}")
         if tightest:
-            keep_parts.append(f'\nTightest passage (adversarial edit):\n> {tightest}')
+            keep_parts.append(f'\nStrongest passage (adversarial edit):\n> {tightest}')
 
-        # Add top cuts as change items
-        cuts_list = cuts_data.get("cuts", [])
-        # Only include the most impactful — REDUNDANT and OVER-EXPLAIN
-        priority_cuts = [c for c in cuts_list if c.get("type") in ("REDUNDANT", "OVER-EXPLAIN")]
-        for c in priority_cuts[:5]:
+        # Add top revisions as change items
+        # Prioritise: OVER-EXPLAIN, REDUNDANT, TELL, FLAT_DIALOGUE
+        priority_types = ("OVER-EXPLAIN", "REDUNDANT", "TELL", "FLAT_DIALOGUE")
+        priority_revs = [c for c in revisions_list if c.get("type") in priority_types]
+        for c in priority_revs[:5]:
             quote = c.get("quote", "")[:150]
             reason = c.get("reason", "")
-            action = c.get("action", "CUT")
-            rewrite = c.get("rewrite")
+            rewrite = c.get("rewrite", "")
             entry = f'{change_num}. `"{quote}..."` — {reason}'
-            if action == "REWRITE" and rewrite:
-                entry += f'\n   → Rewrite as: "{rewrite}"'
-            elif action == "CUT":
-                entry += "\n   → Cut entirely"
+            if rewrite:
+                rw = rewrite[:200] + "..." if len(rewrite) > 200 else rewrite
+                entry += f'\n   → Rewrite as: "{rw}"'
+            else:
+                entry += "\n   → Revise or cut"
             change_parts.append(entry)
             change_num += 1
 

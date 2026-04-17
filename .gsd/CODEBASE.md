@@ -1,19 +1,35 @@
 # Codebase Map
 
-Generated: 2026-04-17T01:55:58Z | Files: 102 | Described: 0/102
-<!-- gsd:codebase-meta {"generatedAt":"2026-04-17T01:55:58Z","fingerprint":"6e47c1dd15ffaef791bf14ad0dade7fc4fa2d5a4","fileCount":102,"truncated":false} -->
+Generated: 2026-04-17T05:37:17Z | Files: 233 | Described: 0/233
+<!-- gsd:codebase-meta {"generatedAt":"2026-04-17T05:37:17Z","fingerprint":"980658180ffd804af2cb1b9490976868bfbeb77e","fileCount":233,"truncated":false} -->
 
 ### (root)/
 - *(55 files: 33 .py, 13 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
 
+### briefs/
+- `briefs/ch16_panel.md`
+- `briefs/ch21_panel.md`
+- `briefs/ch25_panel.md`
+- `briefs/ch26_panel.md`
+- `briefs/ch28_panel.md`
+
 ### chapters/
 - *(38 files: 37 .md, 1 (no ext))*
+
+### edit_logs/
+- *(22 files: 22 .json)*
+
+### eval_logs/
+- *(67 files: 67 .json)*
 
 ### landing/
 - `landing/index.html`
 
 ### scripts/
 - `scripts/verify_vi_pipeline.sh`
+
+### summaries/
+- *(37 files: 37 .md)*
 
 ### typeset/
 - `typeset/build_tex.py`

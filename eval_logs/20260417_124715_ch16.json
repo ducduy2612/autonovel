@@ -1,0 +1,112 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "\"Kh\u00f4ng \u2014\" L\u1ea7n n\u1eefa. C\u00f9ng m\u1ed9t t\u1eeb. Anh l\u1eb7p l\u1ea1i nh\u01b0 \u0111o\u1ea1n m\u00e3 b\u1ecb k\u1eb9t trong v\u00f2ng l\u1eb7p. Kh\u00f4ng. Kh\u00f4ng. Kh\u00f4ng. Nh\u01b0ng m\u1ed7i l\u1ea7n anh n\u00f3i, t\u1eeb \u1ea5y nh\u1eb9 \u0111i m\u1ed9t ch\u00fat, m\u1ea5t \u0111i ch\u00fat s\u1ee9c n\u1eb7ng, cho \u0111\u1ebfn khi n\u00f3 ch\u1ec9 c\u00f2n l\u00e0 \u00e2m thanh \u2014 m\u1ed9t chu\u1ed7i \u00e2m v\u1ecb kh\u00f4ng mang \u00fd ngh\u0129a.",
+    "fix": "The voice profile demands sentences that are 'c\u1ee5t l\u1ee7n, b\u1ecf l\u1eedng, m\u1ed9t t\u1eeb \u0111\u01a1n \u0111\u1ee9ng \u0111\u1ed9c l\u1eadp gi\u1eefa hai d\u1ea5u ch\u1ea5m' for pain/fragmentation. This passage explains the metaphor instead of embodying it. Cut the explanation. Let the repetition do the work: 'Kh\u00f4ng. Kh\u00f4ng. Kh\u00f4ng. T\u1eeb \u1ea5y nh\u1eb9 \u0111i. M\u1ea5t s\u1ee9c n\u1eb7ng. \u00c2m thanh.'",
+    "note": "The chapter mostly nails the cold, surgical tone. The vocabulary wells (ping, render, \u0111\u1ed9 tr\u1ec5) are used effectively. Body-before-emotion works well in the physical descriptions of C\u01b0\u1eddng's reactions. But several passages over-explain metaphors that should be left sharp and bare, which softens the ph\u1eabu thu\u1eadt edge the voice demands."
+  },
+  "beat_coverage": {
+    "score": 6,
+    "weakest_moment": "The outline specifies: 'C\u01b0\u1eddng \u0111\u1ed5 b\u1ed9 l\u1ea7n cu\u1ed1i, \u0111\u1ed1i m\u1eb7t v\u1edbi K\u1ebb \u0110u\u1ed5i trong C\u0103n g\u00e1c x\u00e9p.' The chapter delivers this, but the confrontation feels more like a confession scene than a confrontation. C\u01b0\u1eddng barely pushes back.",
+    "fix": "Give C\u01b0\u1eddng more resistance before he breaks. Let him argue, deny, try to assert control \u2014 and have K\u1ebb \u0110u\u1ed5i systematically dismantle each defense. The outline says '\u0111\u1ed1i m\u1eb7t \u0111\u1ec3 \u0111\u00f2i l\u1ea1i quy\u1ec1n ki\u1ec3m so\u00e1t' \u2014 he should TRY to control before failing.",
+    "note": "All four beats are present: the confrontation, the name reveal (Lan), the memory flood showing what he did, and the devastating truth. However, Beat 1 is half-hit because C\u01b0\u1eddng capitulates too easily. The 'No, and' structure requires him to actively fight for control before losing it."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "\"Anh n\u00ean l\u00e0m g\u00ec?\" Anh h\u1ecfi. Gi\u1ecdng anh nh\u1ecf. Nh\u1ecf \u0111\u1ebfn m\u1ee9c anh t\u1ef1 h\u1ecfi c\u00f4 c\u00f3 nghe th\u1ea5y kh\u00f4ng.",
+    "fix": "C\u01b0\u1eddng's voice profile says 90% statements, rarely asks questions. This question is dramatically necessary, but the narration around it softens his character. Make the question land harder by keeping his observational voice: 'Anh n\u00ean l\u00e0m g\u00ec. Kh\u00f4ng ph\u1ea3i c\u00e2u h\u1ecfi. L\u00e0 l\u1ed7i h\u1ec7 th\u1ed1ng. Anh kh\u00f4ng c\u00f3 l\u1ec7nh x\u1eed l\u00fd cho tr\u01b0\u1eddng h\u1ee3p n\u00e0y.'",
+    "note": "K\u1ebb \u0110u\u1ed5i/Lan's voice is the chapter's triumph. The shift from the glass-bell voice to the tired, cracked voice is beautifully executed. Her dialogue carries real weight. C\u01b0\u1eddng's voice is less distinctive \u2014 several passages could belong to any protagonist. But his best moments ('Bi\u1ebfn \u0111i.' / 'Kh\u00f4ng \u2014') hit the terse, surgical register perfectly."
+  },
+  "plants_seeded": {
+    "score": 7,
+    "weakest_moment": "The revelation that the g\u00e1c x\u00e9p is Lan's memory, not C\u01b0\u1eddng's, is stated rather than discovered. 'C\u01b0\u1eddng nh\u1eadn ra: \u0111\u00e2y kh\u00f4ng ph\u1ea3i c\u0103n g\u00e1c x\u00e9p c\u1ee7a anh. N\u00f3 ch\u01b0a bao gi\u1edd l\u00e0 c\u1ee7a anh.'",
+    "fix": "Let C\u01b0\u1eddng work harder for this realization. Have him notice specific details that don't fit his memories \u2014 the angle of the ceiling is wrong, the wood grain doesn't match any building he knows, the window faces a direction that makes no sense in his architecture. Let the reader piece it together before he does.",
+    "note": "The g\u00e1c x\u00e9p resolution from Ch 12 is handled well. The connection to B\u00e0 L\u00e0nh's observations and B\u00e1c s\u0129 Tu\u1ea5n's data is organic. The m\u1ea3nh gi\u1ea5y from the previous chapter pays off. The weakest plant is actually the strongest one \u2014 the reveal is too clean, too directly stated."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "Nh\u01b0ng m\u1ed7i l\u1ea7n anh n\u00f3i, t\u1eeb \u1ea5y nh\u1eb9 \u0111i m\u1ed9t ch\u00fat, m\u1ea5t \u0111i ch\u00fat s\u1ee9c n\u1eb7ng, cho \u0111\u1ebfn khi n\u00f3 ch\u1ec9 c\u00f2n l\u00e0 \u00e2m thanh \u2014 m\u1ed9t chu\u1ed7i \u00e2m v\u1ecb kh\u00f4ng mang \u00fd ngh\u0129a.",
+    "fix": "Cut to: 'T\u1eeb \u1ea5y nh\u1eb9 \u0111i. M\u1ea5t s\u1ee9c n\u1eb7ng. \u00c2m thanh. Kh\u00f4ng c\u00f2n ngh\u0129a.' The original explains what the reader already feels. Trust the repetition.",
+    "strongest_sentence": "S\u1ef1 th\u1eadt kh\u00f4ng chi\u1ebfm di\u1ec7n t\u00edch, nh\u01b0ng n\u00f3 chi\u1ebfm oxy. N\u00f3 l\u00e0m ngh\u1eb9t th\u1edf.",
+    "note": "The prose is strongest when it's most physical and specific. The memory sequences \u2014 qu\u00e1n c\u00e0 ph\u00ea with b\u00e0n nh\u1ef1a xanh, gh\u1ebf nh\u1ef1a tr\u1eafng, t\u00e0n nhang \u1edf s\u1ed1ng m\u0169i \u2014 are vivid and precise. The weakest passages are those where the narrator explains emotional states rather than rendering them. Several paragraphs follow the same structure (statement \u2192 elaboration \u2192 metaphor), creating rhythmic monotony in the middle section."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Excellent continuity from the previous chapter. The m\u1ea3nh gi\u1ea5y, the name Lan, the resolve to go to St. Vincent \u2014 all carry forward naturally. The v\u1ebft x\u01b0\u1edbc continues its heartbeat motif. The emotional state tracks: C\u01b0\u1eddng ended Ch 15 with determination to find answers, and Ch 16 delivers those answers devastatingly. One minor issue: the previous chapter established C\u01b0\u1eddng had v\u1ebft b\u1ea7m (bruise) on x\u01b0\u01a1ng s\u01b0\u1eddn, but this chapter refers to v\u1ebft x\u01b0\u1edbc (scratch) on ng\u1ef1c. The physical marker seems to have shifted."
+  },
+  "canon_compliance": {
+    "score": 6,
+    "violations": [
+      "MAJOR: The chapter reveals C\u01b0\u1eddng personally modified Lan's neural parameters (kh\u00f3a v\u00f9ng nh\u1eadn th\u1ee9c b\u1ea3n th\u00e2n 90%, m\u1edf v\u00f9ng ph\u1ea3n \u1ee9ng t\u00ecnh d\u1ee5c 100%). Canon states C\u01b0\u1eddng is a k\u1ebf to\u00e1n, kh\u00f4ng ph\u1ea3i k\u1ef9 s\u01b0 \u2014 his competence is 7 specifically because he doesn't understand system architecture deeply. Writing custom neural override code is beyond his established skillset.",
+      "MAJOR: The chapter implies C\u01b0\u1eddng had access to the Hemera system interface and patient data before becoming an unauthorized user. Canon says he stole the Neural Mantle in 2039 from police evidence storage. The timeline of when he could have modified Lan's consciousness is unclear.",
+      "MINOR: The chapter refers to 'v\u1ebft x\u01b0\u1edbc' (scratch) on ng\u1ef1c. Canon establishes a 'v\u1ebft b\u1ea7m h\u00ecnh b\u00e1n nguy\u1ec7t' (bruise) on x\u01b0\u01a1ng s\u01b0\u1eddn tr\u00e1i. These may be different marks, but the text treats them as the same phenomenon.",
+      "MINOR: K\u1ebb \u0110u\u1ed5i says 'Em s\u1ee3 t\u1ed1i... Em \u0111\u00e3 n\u00f3i v\u1edbi anh r\u1ed3i.' but no prior scene shows this conversation. If this happened off-screen, it should be clearer.",
+      "MINOR: The chapter uses 'v\u1ebft x\u01b0\u1edbc' and 'v\u1ebft th\u01b0\u01a1ng' interchangeably for the mark on C\u01b0\u1eddng's chest, but the original canon specifies a bruise (v\u1ebft b\u1ea7m)."
+    ],
+    "note": "The most significant canon issue is C\u01b0\u1eddng's technical capability. The outline says he 'b\u00f3p m\u00e9o \u00fd th\u1ee9c c\u1ee7a Lan \u0111\u1ec3 bi\u1ebfn c\u00f4 th\u00e0nh b\u00fap b\u00ea t\u00ecnh d\u1ee5c,' which requires the modification to have happened \u2014 but the HOW must be reconciled with his established competence level. Perhaps he used pre-existing override protocols he found, or B\u1ea3o helped him, or the system had templates he exploited. The current presentation makes him seem like a skilled hacker, which contradicts his character sheet."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "The memory of C\u01b0\u1eddng at the Hemera interface, typing override commands, feels like the one moment where lore is being explained rather than lived.",
+    "fix": "Instead of showing the interface with labeled fields ('V\u00f9ng v\u1eadn \u0111\u1ed9ng: KH\u00d3A'), show C\u01b0\u1eddng's hands shaking as he selects options from a menu he barely understands \u2014 checkboxes, dropdowns, a UI designed for doctors that he's fumbling through with desperation. This maintains lore while staying true to his competence level.",
+    "note": "The chapter does excellent work with the world's rules. Ping as emotional barometer, render quality as consciousness indicator, the g\u00e1c x\u00e9p as self-rendered memory \u2014 all serve the story rather than decorating it. The connection between B\u00e0 L\u00e0nh's observations and Lan's trapped consciousness is particularly well-integrated."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The middle section of the memory flood, specifically: 'B\u00e1c s\u0129 n\u00f3i g\u00ec \u0111\u00f3. C\u01b0\u1eddng kh\u00f4ng nghe. Tai anh \u00f9 \u0111\u1eb7c. Ch\u1ec9 nghe ti\u1ebfng m\u00e1y tim b\u00edp. B\u00edp. B\u00edp. B\u1ecbp.' This is the most generic hospital-scene prose in the chapter.",
+    "fix": "Make this moment specific to C\u01b0\u1eddng's character. He's a k\u1ebf to\u00e1n \u2014 he wouldn't just hear beeps, he'd count them, track intervals, calculate: 'B\u00edp. B\u00edp. B\u1ecbp. Kho\u1ea3ng c\u00e1ch 0.83 gi\u00e2y. Nh\u1ecbp tim b\u1ea3y m\u01b0\u01a1i hai. B\u00ecnh th\u01b0\u1eddng. B\u00ecnh th\u01b0\u1eddng. M\u00e1y n\u00f3i c\u00f4 b\u00ecnh th\u01b0\u1eddng nh\u01b0ng c\u00f4 kh\u00f4ng m\u1edf m\u1eaft.'",
+    "note": "The chapter's strongest engagement comes from the reversal: C\u01b0\u1eddng as monster, not victim. The moment when Lan says 'Anh kh\u00f4ng mu\u1ed1n c\u1ee9u em. Anh mu\u1ed1n gi\u1eef em' is genuinely surprising and devastating. The ending \u2014 C\u01b0\u1eddng walking to St. Vincent to face what he did \u2014 creates strong forward momentum. The weakest engagement is in the memory sequences, which occasionally fall into familiar beats."
+  },
+  "three_weakest_sentences": [
+    "Nh\u01b0ng m\u1ed7i l\u1ea7n anh n\u00f3i, t\u1eeb \u1ea5y nh\u1eb9 \u0111i m\u1ed9t ch\u00fat, m\u1ea5t \u0111i ch\u00fat s\u1ee9c n\u1eb7ng, cho \u0111\u1ebfn khi n\u00f3 ch\u1ec9 c\u00f2n l\u00e0 \u00e2m thanh \u2014 m\u1ed9t chu\u1ed7i \u00e2m v\u1ecb kh\u00f4ng mang \u00fd ngh\u0129a.",
+    "C\u01a1n \u0111au \u1edf somewhere else. \u1ede n\u01a1i m\u00e0 ping kh\u00f4ng \u0111o \u0111\u01b0\u1ee3c. \u1ede v\u00f9ng m\u00e0 n\u00e3o b\u1ed9 kh\u00f4ng c\u00f3 th\u1ee5 th\u1ec3, m\u00e0 \u00fd th\u1ee9c kh\u00f4ng c\u00f3 \u0111\u01a1n v\u1ecb \u0111o.",
+    "V\u00e0 gi\u1ecdng anh \u2014 gi\u1ecdng c\u1ee7a C\u01b0\u1eddng tr\u01b0\u1edbc khi qu\u00ean \u2014 kh\u00f4ng ph\u1ea3i gi\u1ecdng c\u1ee7a ng\u01b0\u1eddi \u0111ang bu\u1ed3n. Gi\u1ecdng c\u1ee7a ng\u01b0\u1eddi \u0111ang s\u1edf h\u1eefu."
+  ],
+  "three_strongest_sentences": [
+    "S\u1ef1 th\u1eadt kh\u00f4ng chi\u1ebfm di\u1ec7n t\u00edch, nh\u01b0ng n\u00f3 chi\u1ebfm oxy. N\u00f3 l\u00e0m ngh\u1eb9t th\u1edf.",
+    "Anh kh\u00f3a v\u00f9ng nh\u1eadn th\u1ee9c b\u1ea3n th\u00e2n. Ch\u00edn m\u01b0\u01a1i ph\u1ea7n tr\u0103m. Em kh\u00f4ng bi\u1ebft em l\u00e0 ai. Em ch\u1ec9 bi\u1ebft ph\u1ea3n \u1ee9ng. Em ch\u1ec9 bi\u1ebft ch\u1ea1m. Em ch\u1ec9 bi\u1ebft l\u00e0m nh\u1eefng g\u00ec anh mu\u1ed1n.",
+    "M\u1ed7i l\u1ea7n anh ch\u1ea1m em trong th\u1ebf gi\u1edbi \u1ea3o, t\u00edn hi\u1ec7u truy\u1ec1n ng\u01b0\u1ee3c l\u1ea1i. K\u00edch th\u00edch sai v\u00f9ng. L\u00e0m h\u1ecfng th\u00eam v\u00f9ng \u0111ang h\u1ed3i ph\u1ee5c. Hai m\u01b0\u01a1i ph\u1ea7n tr\u0103m c\u01a1 h\u1ed9i tr\u1edf th\u00e0nh m\u01b0\u1eddi. R\u1ed3i n\u0103m. R\u1ed3i m\u1ed9t. R\u1ed3i kh\u00f4ng."
+  ],
+  "ai_patterns_detected": [
+    "Symmetrical structure addiction: Several emotional beats are delivered in balanced pairs or triplets (e.g., 'Kh\u00f4ng ph\u1ea3i h\u1ec7 th\u1ed1ng. Kh\u00f4ng ph\u1ea3i Hemera. Kh\u00f4ng ph\u1ea3i c\u00f4ng ngh\u1ec7. Anh.')",
+    "Paragraph template repetition: Many paragraphs follow statement \u2192 elaboration \u2192 metaphor/resolution structure, especially in the middle section.",
+    "Over-explanation of metaphors: The prose sometimes explains what a metaphor means rather than letting it resonate (e.g., 'm\u1ed9t chu\u1ed7i \u00e2m v\u1ecb kh\u00f4ng mang \u00fd ngh\u0129a' explaining the repetition that already speaks for itself).",
+    "Emotional telling: Several passages assert emotional states directly ('Anh bi\u1ebft c\u00f4 \u0111\u00fang') rather than showing through physical detail.",
+    "Uniform sentence rhythm in dialogue sections: Lan's longer speeches maintain similar cadence throughout, missing opportunities for the 'nhi\u1ec5u' (glitch) patterns described in her voice profile."
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "canon_compliance",
+  "top_3_revisions": [
+    "RECONCILE C\u01af\u1edcNG'S TECHNICAL CAPABILITY: The scene where he writes custom neural override code must be rewritten to match his competence level (k\u1ebf to\u00e1n, not k\u1ef9 s\u01b0). Options: (a) He found pre-existing 'therapy templates' and misapplied them deliberately, (b) B\u1ea3o helped him modify the parameters, (c) He used a crude interface with checkboxes/sliders designed for medical staff, selecting options without fully understanding consequences. The current version makes him a skilled hacker, which breaks his character.",
+    "STRENGTHEN C\u01af\u1edcNG'S RESISTANCE IN THE CONFRONTATION: Per the outline's 'No, and' structure, C\u01b0\u1eddng should actively fight to maintain control before the memories break him. Add 2-3 exchanges where he tries to assert authority ('Anh n\u00f3i bi\u1ebfn \u0111i. Bi\u1ebfn.' / attempts to access system commands / tries to force-render Ph\u1ed1 Hoa S\u1eefa back into existence) \u2014 and fails. His capitulation will hit harder if his struggle is visible.",
+    "FIX THE V\u1ebeT B\u1ea6M/V\u1ebeT X\u01af\u1edaC INCONSISTENCY: Canon establishes a v\u1ebft b\u1ea7m (bruise, h\u00ecnh b\u00e1n nguy\u1ec7t) on x\u01b0\u01a1ng s\u01b0\u1eddn tr\u00e1i. This chapter uses v\u1ebft x\u01b0\u1edbc (scratch) on ng\u1ef1c. Either reconcile these as the same mark that has evolved, or establish them as separate phenomena. The heartbeat motif (n\u0103m m\u01b0\u01a1i ba) is powerful and should be preserved, but the physical description must match canon."
+  ],
+  "new_canon_entries": [
+    "C\u01b0\u1eddng's 851st deployment (l\u1ea7n \u0111\u1ed5 b\u1ed9 th\u1ee9 851) \u2014 up from 847 in the previous chapter, indicating 4 deployments between chapters.",
+    "Lan is the real identity of K\u1ebb \u0110u\u1ed5i \u2014 a woman C\u01b0\u1eddng knew in H\u00e0 N\u1ed9i before her accident.",
+    "Lan's room at St. Vincent is Room 4 (Ph\u00f2ng 4), matching the m\u1ea3nh gi\u1ea5y from Ch 15.",
+    "C\u01b0\u1eddng personally modified Lan's neural parameters: locked 90% of self-awareness, opened 100% of tactile and sexual response.",
+    "Lan had a 20% chance of recovery before C\u01b0\u1eddng's interventions; each deployment further damaged recovering neural pathways.",
+    "The g\u00e1c x\u00e9p is Lan's memory of her attic room in H\u00e0 N\u1ed9i, self-rendered from her 10% remaining consciousness.",
+    "Lan's real appearance: m\u1eb7t tr\u00f2n, m\u00e1 h\u01a1i \u0111\u1ea7y, t\u00e0n nhang \u1edf s\u1ed1ng m\u0169i, t\u00f3c bu\u1ed9c cao, r\u0103ng kh\u1ec3nh.",
+    "C\u01b0\u1eddng and Lan's relationship: at least two months of dating in H\u00e0 N\u1ed9i before her accident.",
+    "Lan's family signed consent forms for Neural Mantle therapy.",
+    "K\u1ebb \u0110u\u1ed5i's voice has changed from glass-bell clarity to something deeper, tired, cracked \u2014 reflecting her awakening consciousness.",
+    "C\u01b0\u1eddng has decided to permanently stop deploying and to visit Lan's real body at St. Vincent."
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 18.35,
+    "sentence_length_cv": 0.867,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 7
+}

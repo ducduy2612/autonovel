@@ -1,8 +1,12 @@
 #!/usr/bin/env python3
 """
-Generate novel art via Google Gemini.
+Generate novel art via Google Gemini (Nano Banana 2).
 
-Uses GEMINI_API_KEY (free tier: 500 images/day on gemini-2.5-flash-image).
+Uses GEMINI_API_KEY. Model configured via AUTONOVEL_IMAGE_MODEL in .env.
+
+Chapter ornaments use atmospheric scenes with characters as compositional
+elements (silhouettes, back views, hands) — never faces — for visual
+consistency across chapters.
 
 Curation workflow (human-in-the-loop):
   python gen_art.py style                    # Derive visual style from world + voice
@@ -12,7 +16,7 @@ Curation workflow (human-in-the-loop):
   python gen_art.py pick ornament 3          # Select variant #3 as ornament reference
 
 Batch generation (after picking reference style):
-  python gen_art.py ornaments-all            # Generate all chapter ornaments from reference
+  python gen_art.py ornaments-all            # Generate all chapter scene ornaments
   python gen_art.py scene-break              # Generate scene break decoration
   python gen_art.py curate map --n=3         # Generate 3 map variants (lore-grounded)
 
@@ -409,7 +413,132 @@ def cmd_pick(args):
 
 
 # ============================================================
-# BATCH ORNAMENTS (use reference)
+# CHARACTER PROFILES — silhouette-safe descriptors
+# ============================================================
+
+# Maps character identifiers to the visual cues that work from behind /
+# as silhouette / partial view — NO face details.
+_CHARACTER_PATTERNS = [
+    # (search_patterns, char_key, silhouette_descriptor)
+    (
+        ["Cường", "cường"],
+        "cuong",
+        "A tall gaunt man seen from behind, short uneven hair, pale skin, "
+        "long fingers. He touches his left ribcage. Wearing nondescript dark clothes.",
+    ),
+    (
+        ["Kẻ Đuổi", "kẻ đuổi", "Nàng", "nàng"],
+        "ke_duoi",
+        "A woman glimpsed as a translucent silhouette, long flowing hair, "
+        "standing too close. Uncanny stillness. Rendered with slight pixel-edge artifacts.",
+    ),
+    (
+        ["Hạnh", "hạnh"],
+        "hanh",
+        "A stocky figure seen from behind, short grey hair, metal-framed glasses "
+        "in one hand, unbuttoned jacket. Stands at an angle, never straight-on.",
+    ),
+    (
+        ["Giám đốc", "giám đốc"],
+        "giam_doc",
+        "A still figure in a clean white coat, hair tied back, "
+        "holding a clipboard. Perfectly erect posture. No jewelry, no personal markers.",
+    ),
+    (
+        ["Bảo", "bảo"],
+        "bao",
+        "A wiry figure crouched over electronics, back to viewer, "
+        "surrounded by cables and soldering gear. Sleeves rolled up.",
+    ),
+    (
+        ["Người thứ 13", "người thứ 13", "Người Thứ 13"],
+        "nguoi_13",
+        "A dark shape barely distinguishable from shadow, "
+        "standing at the edge of frame. No features, just outline and presence.",
+    ),
+    (
+        ["Tuấn", "tuấn"],
+        "tuan",
+        "A figure in a white coat sitting at a desk, back to viewer, "
+        "reading something intently. Calm stillness.",
+    ),
+    (
+        ["Bà Lành", "bà lành", "Lành", "lành"],
+        "ba_lanh",
+        "An older woman in neat clothes, seen from behind, "
+        "watering a small plant on a windowsill. Gentle posture.",
+    ),
+]
+
+_CHARACTER_CACHE = None
+
+
+def _load_character_profiles():
+    """Return the character pattern list (cached)."""
+    global _CHARACTER_CACHE
+    if _CHARACTER_CACHE is None:
+        _CHARACTER_CACHE = _CHARACTER_PATTERNS
+    return _CHARACTER_CACHE
+
+
+def _detect_characters_in_chapter(chapter_text, top_n=2):
+    """Detect which characters appear in a chapter and return up to top_n.
+
+    Returns list of (char_key, silhouette_descriptor, mention_count) sorted
+    by frequency descending.
+    """
+    profiles = _load_character_profiles()
+    hits = []
+    for patterns, key, descriptor in profiles:
+        count = sum(chapter_text.count(p) for p in patterns)
+        if count > 0:
+            hits.append((key, descriptor, count))
+    hits.sort(key=lambda x: -x[2])
+    return hits[:top_n]
+
+
+def _build_scene_prompt(title, chapter_text, style):
+    """Build an atmospheric scene prompt for a chapter ornament.
+
+    Characters are shown as compositional elements — back view, silhouette,
+    hands, shadow — never faces or portraits.
+    """
+    characters = _detect_characters_in_chapter(chapter_text)
+
+    # Extract a brief scene hint from the first ~500 words of the chapter
+    snippet = chapter_text[:2000]
+
+    # Build character presence description (silhouette-safe)
+    char_desc = ""
+    if characters:
+        parts = []
+        for _key, desc, _count in characters:
+            parts.append(desc)
+        char_desc = (
+            " In the scene: " + " Also nearby: ".join(parts)
+            if len(parts) > 1 else " In the scene: " + parts[0]
+        )
+        char_desc += (
+            " IMPORTANT: Show characters from behind, as silhouettes, "
+            "or only hands/body — never show faces or front portraits."
+        )
+
+    # Build a scene prompt from the chapter context + style
+    scene_prompt = (
+        f"Atmospheric scene illustration for chapter '{title}'. "
+        f"Scene context: a moment of tension and stillness in a confined space "
+        f"with dim lighting and digital artifacts."
+        f"{char_desc} "
+        f"Style: {style['art_style']}. Colors: {style['color_palette']}. "
+        f"Texture: {style.get('texture', '')}. Mood: {style.get('mood', '')}. "
+        f"Composition: cinematic, off-center subject, negative space. "
+        f"Small format. White background. No text. No faces."
+    )
+    return scene_prompt
+
+
+# ============================================================
+# BATCH ORNAMENTS (scene-based, character-aware)
 # ============================================================
 
 def cmd_ornaments_all(args):
@@ -417,24 +546,31 @@ def cmd_ornaments_all(args):
     ref_path = get_reference_path("ornament")
 
     chapters = sorted(BASE_DIR.glob("chapters/ch_*.md"))
-    print(f"Generating ornaments for {len(chapters)} chapters...")
+    print(f"Generating scene-based ornaments for {len(chapters)} chapters...")
     if ref_path:
         print(f"  Using ornament reference for style consistency")
+    else:
+        print("  WARNING: no ornament reference picked — style may vary")
 
     for ch_path in chapters:
         num = int(ch_path.stem.split("_")[1])
-        title = ch_path.read_text().split("\n")[0].lstrip("# ").strip()
+        # Extract title from first non-blank heading line
+        chapter_text = ch_path.read_text()
+        title = ""
+        for line in chapter_text.split("\n"):
+            line = line.strip()
+            if line.startswith("#"):
+                title = line.lstrip("# ").strip()
+                break
         if ": " in title:
             title = title.split(": ", 1)[1]
 
-        prompt = (
-            f"Small ornamental chapter illustration for '{title}'. "
-            f"{style['ornament_concept']}. "
-            f"Style: {style['art_style']}. Colors: {style['color_palette']}. "
-            f"Simple, symbolic. White background. No text."
-        )
+        prompt = _build_scene_prompt(title, chapter_text, style)
 
-        print(f"  Ch {num}: '{title}'", end="", flush=True)
+        # Show which characters were detected
+        chars = _detect_characters_in_chapter(chapter_text)
+        char_names = [c[0] for c in chars] if chars else ["(none)"]
+        print(f"  Ch {num}: '{title}' chars={char_names}", end="", flush=True)
 
         if ref_path:
             url, _ = gemini_edit(prompt, [ref_path], resolution="0.5K", aspect_ratio="1:1")
