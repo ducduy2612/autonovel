@@ -26,6 +26,11 @@ from pathlib import Path
 
 from config import get_language, API_TIMEOUT, SUBPROCESS_TIMEOUT
 
+# When thinking mode is on, LLM calls take much longer (reasoning tokens).
+# Scale the subprocess timeout to give the inner httpx call enough room.
+_THINKING_ON = os.environ.get("AUTONOVEL_THINKING", "off").lower() == "on"
+_THINKING_TIMEOUT_SCALE = 3 if _THINKING_ON else 1
+
 # ---------------------------------------------------------------------------
 # Constants
 # ---------------------------------------------------------------------------
@@ -216,17 +221,22 @@ def step(text: str):
 # Helpers: subprocess execution
 # ---------------------------------------------------------------------------
 
-def run_tool(cmd: str, timeout: int = 600, check: bool = False) -> subprocess.CompletedProcess:
+def run_tool(cmd: str, timeout: int | None = None, check: bool = False) -> subprocess.CompletedProcess:
     """
     Run a tool as a subprocess, capturing output.
     Uses shell=True so callers can pass full command strings.
     Returns CompletedProcess; never raises unless check=True.
+    
+    Timeout defaults to SUBPROCESS_TIMEOUT * thinking scale factor,
+    so LLM-heavy subprocesses get enough room when thinking mode is on.
     """
+    effective_timeout = (timeout if timeout is not None
+                         else SUBPROCESS_TIMEOUT * _THINKING_TIMEOUT_SCALE)
     step(f"RUN: {cmd}")
     try:
         result = subprocess.run(
             cmd, shell=True, capture_output=True, text=True,
-            timeout=timeout, cwd=str(BASE_DIR),
+            timeout=effective_timeout, cwd=str(BASE_DIR),
         )
         if result.returncode != 0:
             print(f"    WARN: exit code {result.returncode}")

@@ -1,0 +1,100 @@
+{
+  "magic_system": {
+    "score": 1,
+    "gap": "The 'technology-as-magic' system is only implied through vocabulary wells (ping, render, neural latency, packet loss) in the Voice document. No World Bible exists. No rules, costs, limitations, or societal implications are formally documented. A writer could not draft a confrontation scene without inventing everything.",
+    "fix": "Create a World Bible section documenting the neural-interface technology as this world's 'magic system.' Define: what the hardware is (implant? headset?), what it allows (full sensory VR? emotional manipulation?), what the costs are (the 'R\u00e3 k\u1ebft n\u1ed1i' disconnect state mentioned in Voice needs rules\u2014triggers, symptoms, permanence?), and hard limits (why can't C\u01b0\u1eddng stay in 24/7? what fails at what threshold?). Establish at least 3 societal implications: class access to tech, legal status of virtual relationships, medical consequences of long-term use.",
+    "note": "The Voice doc's vocabulary wells ('\u0111\u1ed9 tr\u1ec5', 'nhi\u1ec5u t\u00edn hi\u1ec7u', 'm\u1ea5t g\u00f3i tin') suggest a coherent neuro-digital system exists in the author's mind, but nothing is formalized. The 14ms ping and 36.8\u00b0C constant in the exemplar show promise of hard rules waiting to be articulated."
+  },
+  "world_history": {
+    "score": 0,
+    "gap": "No timeline, no historical events, no present-day tensions derived from history. The section is empty.",
+    "fix": "Document the history of this neural-interface technology: when was it developed, how did it spread, what was the societal rupture point that created the current tension between real and virtual worlds? Map each historical event to a present-day faction or character motivation. Even 5-7 beats would provide scaffolding.",
+    "note": "The absence of family memory mentioned in Voice rule #4 ('KH\u00d4NG bao gi\u1edd nh\u1eafc \u0111\u1ebfn cha, m\u1eb9, hay ch\u1ecb') hints at a backstory\u2014was memory deletion technology involved? Is this personal or societal?\u2014but nothing is confirmed."
+  },
+  "geography_and_culture": {
+    "score": 1,
+    "gap": "Sydney is named as a setting with one sensory detail ('\u0111\u00e8n \u0111\u01b0\u1eddng v\u00e0ng \u0111\u1ee5c, b\u1ea7u tr\u1eddi kh\u00f4ng c\u00f3 sao v\u00ec \u00f4 nhi\u1ec5m \u00e1nh s\u00e1ng'). No other locations exist. No Vietnamese diaspora culture is documented despite a Vietnamese protagonist. No economy, no class structure, no customs.",
+    "fix": "Document at least 3 distinct locations with sensory signatures following the Voice's vocabulary wells (real world = hospital/decay smells; virtual = uncanny perfection). Establish the Vietnamese-Australian diaspora context: why is C\u01b0\u1eddng in Sydney? What community exists or doesn't? What foods, customs, or social dynamics ground him (or fail to)? Create economic tension: who can afford premium neural connectivity? Who cannot?",
+    "note": "The hoa s\u1eefa detail ('kh\u00f4ng n\u1edf \u1edf Sydney') is excellent\u2014it signals cultural specificity and dislocation simultaneously. More of this kind of detail, formalized, would build real geography."
+  },
+  "lore_interconnection": {
+    "score": 0,
+    "gap": "Nothing to interconnect. No political structure, class system, or factional conflict exists to test against the implied technology system.",
+    "fix": "Once the World Bible exists, perform the removal test: if neural-interface technology disappeared, would the political/social structure collapse? If not, the elements are modular and need deeper weaving. The technology should CREATE the class system, not merely exist alongside it.",
+    "note": "Cannot score until worldbuilding elements exist."
+  },
+  "iceberg_depth": {
+    "score": 2,
+    "gap": "The exemplar passage demonstrates implied depth (the 36.8\u00b0C constant, the impossible hoa s\u1eefa scent, the bruise from virtual touch), suggesting the author has answers to certain mysteries. But no mystery-question-and-answer pairs are documented. The Voice doc's rule about never mentioning family could be iceberg depth OR could be handwaving\u2014there's no way to know without documentation.",
+    "fix": "Create a 'Mysteries & Answers' section in the World Bible: for each mystery the reader will encounter (Why is the virtual woman always 36.8\u00b0C? Why does C\u01b0\u1eddng have no family memories? What caused his memory fragmentation?), document the ACTUAL answer. If the answer is 'I'll figure it out later,' that's a gap, not an iceberg.",
+    "note": "The specific technical details (14ms ping, 36.8\u00b0C, 4th rib bruise) suggest a systematic mind at work. This is promising but unverified."
+  },
+  "character_depth": {
+    "score": 2,
+    "gap": "C\u01b0\u1eddng is sketched through the exemplar and Voice doc: memory fragmentation, inability to distinguish real from virtual, obsession with the virtual woman, possible self-deception. But no wound/want/need/lie chain is documented. H\u1ea1nh exists as a name with one line of dialogue. 'N\u00e0ng' (the virtual woman) has no documented psychology. No Character Registry exists.",
+    "fix": "For each major character, document: WOUND (what happened), LIE (what false belief it created), WANT (the wrong solution derived from the lie), NEED (the truth that would heal). Example for C\u01b0\u1eddng\u2014WOUND: [specify], LIE: 'The virtual relationship is real because it feels more consistent than reality,' WANT: to eliminate the latency between simulation and sensation entirely, NEED: to accept that imperfection (mess, inconsistency, '\u0111\u1ed9 tr\u1ec5') is what makes connection real. Verify causal links. Do the same for H\u1ea1nh and N\u00e0ng.",
+    "note": "The Voice doc's psychological observation is strong ('N\u1ed7i \u00e1m \u1ea3nh d\u00e2ng l\u00ean kh\u00f4ng ph\u1ea3i qua nh\u1eefng l\u1eddi than v\u00e3n, m\u00e0 qua nh\u1eefng chi ti\u1ebft b\u1ecb sai l\u1ec7ch') but it describes an aesthetic approach, not character architecture."
+  },
+  "character_distinctiveness": {
+    "score": 3,
+    "gap": "Two dialogue examples exist: H\u1ea1nh (real world) speaks in clipped, evasive Vietnamese with 'tao/m\u00e0y' register. N\u00e0ng (virtual) speaks in stretched, uncanny lyrical patterns. This is a promising start. But: no range documented beyond single examples, no characterization under stress for either, no other characters exist. The repeated structural formula of 'statement, then undercut' appears in both examples.",
+    "fix": "Expand each character's dialogue registry to include: 3+ examples showing different emotional states (calm, stressed, lying, confessing), signature syntactic habits (H\u1ea1nh: does she always avoid eye contact statements? always deflect with questions?), and specific Vietnamese particles/sentence-final markers that belong ONLY to them. Add at least 2 more characters with distinct registers.",
+    "note": "H\u1ea1nh's line ('M\u00e0y c\u00f2n nh\u1edb m\u00e0u c\u1ee7a b\u1ee9c t\u01b0\u1eddng kh\u00f4ng?') is effective\u2014the question about color memory as indirect probe is psychologically specific. More of this caliber needed."
+  },
+  "character_secrets": {
+    "score": 0,
+    "gap": "No secrets documented for any character.",
+    "fix": "For each major character, define a secret that, if revealed, would change the plot's trajectory. Not 'knows more than they say' but specific: 'H\u1ea1nh knows C\u01b0\u1eddng's neural implant is company-issued and she authorized the experimental patch that caused his memory fragmentation.' Secrets should be load-bearing\u2014they must matter.",
+    "note": "H\u1ea1nh's avoiding eye contact in her one scene suggests she's hiding something. This is a seed, not a documented secret."
+  },
+  "outline_completeness": {
+    "score": 0,
+    "gap": "Outline section is empty. No act structure, no chapter beats, no POV assignments, no emotional arcs, no try-fail cycles.",
+    "fix": "Create a full outline with: 3-act structure or equivalent, Save the Cat beat markers at correct percentages, chapter-by-chapter beats including POV character, emotional arc direction, and try-fail cycle type. Minimum viable: 15-20 chapter summaries with clear causal chains between them.",
+    "note": "Cannot draft without this."
+  },
+  "foreshadowing_balance": {
+    "score": 0,
+    "gap": "No foreshadowing ledger exists. The exemplar plants threads (the impossible bruise, the constant temperature, the missing family memories, the hoa s\u1eefa that doesn't grow in Sydney) but none are tracked with planned payoffs.",
+    "fix": "Create a ledger with columns: Plant (what detail, which chapter), Echo (where it resurfaces), Payoff (where it resolves), and Answer (what the resolution reveals). Every detail in the exemplar passage should appear in this ledger with a planned payoff chapter.",
+    "note": "The planted threads in the exemplar are genuinely good\u2014they're specific, eerie, and narratively productive. They deserve documentation."
+  },
+  "internal_consistency": {
+    "score": 2,
+    "gap": "Very little material to contradict, but what exists is internally consistent. The exemplar establishes: 14ms ping, 36.8\u00b0C body temperature, Sydney setting, 4th rib bruise, hoa s\u1eefa scent not native to Sydney. No contradictions found. However, the Voice doc's rule about never mentioning family has not been reconciled with whatever backstory C\u01b0\u1eddng actually has\u2014this is a latent contradiction risk.",
+    "fix": "As documents are created, maintain cross-references. The Canon section should log every established fact with source location. Check: does C\u01b0\u1eddng's backstory (once documented) respect the 'no family mention' rule? Does the technology's capabilities (once defined) support the bruise-from-virtual-touch phenomenon established in the exemplar?",
+    "note": "Score is low due to insufficient material to verify, not due to contradictions found."
+  },
+  "voice_clarity": {
+    "score": 8,
+    "gap": "The Voice document is exceptional in specificity and actionability. Vocabulary wells are concrete. Body-before-emotion guidelines are precise. Dialogue registers are defined with examples. Anti-patterns are clear. The single biggest gap: only one exemplar passage exists, showing one emotional register (obsessive contemplation). Missing exemplars for: action/violence, dialogue-heavy scenes, flashbacks or memory fragmentation, and the contrast between real-world and virtual-world prose in rapid succession.",
+    "fix": "Add 2-3 more exemplar passages demonstrating: (1) a real-world scene with H\u1ea1nh showing the 'c\u1ed9c c\u1eb1n, th\u1ef1c d\u1ee5ng' register in extended dialogue, (2) a memory-fragmentation scene showing the 'c\u00e2u v\u0103n b\u1ecb ng\u1eaft qu\u00e3ng gi\u1eefa ch\u1eebng, \u0111\u1ed5i h\u01b0\u1edbng \u0111\u1ed9t ng\u1ed9t' technique in practice, (3) a virtual-world intimacy scene pushing further into the 'nh\u1ee5c d\u1ee5c \u1ea3o' vocabulary well while maintaining the uncanny wrongness. Each exemplar should be 150-300 words.",
+    "note": "The voice definition is the strongest element in this submission. The prose quality in the exemplar is high\u2014'Nhi\u1ec7t \u0111\u1ed9 c\u01a1 th\u1ec3 ng\u01b0\u1eddi dao \u0111\u1ed9ng t\u1eeb 36.1 \u0111\u1ebfn 37.2. N\u00e0ng lu\u00f4n lu\u00f4n \u1edf \u0111\u00fang 36.8. Kh\u00f4ng h\u01a1n. Kh\u00f4ng k\u00e9m. M\u1ed9t h\u1eb1ng s\u1ed1.' is genuinely effective. The 'not' list in the anti-patterns section is unusually clear and useful."
+  },
+  "canon_coverage": {
+    "score": 0,
+    "gap": "Canon section is empty. No facts are logged, sourced, or trackable.",
+    "fix": "Begin logging every established fact from the Voice doc and exemplar: C\u01b0\u1eddng's location (Sydney), the virtual woman's constant temperature (36.8\u00b0C), ping latency (14ms), bruise location (4th rib, b\u00e1n nguy\u1ec7t shape, purple), hoa s\u1eefa scent detail, H\u1ea1nh's existence and relationship to C\u01b0\u1eddng (unclear\u2014friend? ex? colleague? doctor?), the 'R\u00e3 k\u1ebft n\u1ed1i' condition and its parameters. Each entry needs: fact, source document, date established, and cross-references.",
+    "note": "A writer introducing a new fact in chapter 5 would have no way to verify against existing canon."
+  },
+  "slop_in_planning_docs": {
+    "found": [
+      "Minor structural symmetry in Voice doc: the 'What This Voice Does NOT Do' section has exactly 5 rules, each following identical format (numbered, bold header, colon, explanation). This is acceptable in planning documents but the pattern is noticeable.",
+      "The exemplar passage is clean\u2014no Vietnamese AI clich\u00e9s detected. Sentence variety is good. The 'Nhi\u1ec7t \u0111\u1ed9 c\u01a1 th\u1ec3 ng\u01b0\u1eddi dao \u0111\u1ed9ng...' passage uses a factual-medical register that feels intentional, not generic.",
+      "Dialogue examples use appropriate Vietnamese pronouns (tao/m\u00e0y for H\u1ea1nh, anh/em for virtual woman) correctly.",
+      "No detected translation artifacts in the Vietnamese prose. Metaphors feel culturally situated rather than imported."
+    ],
+    "note": "The Voice doc's own guardrails against AI slop are well-internalized. The Vietnamese prose reads as native literary writing, not machine-translated English. This is a strength."
+  },
+  "contradictions_found": [
+    "No factual contradictions between documents\u2014insufficient material to contradict."
+  ],
+  "overall_score": 2,
+  "lore_score": 1,
+  "weakest_dimension": "outline_completeness (tied with world_history, character_secrets, foreshadowing_balance, canon_coverage\u2014all at 0)",
+  "top_3_improvements": [
+    "Create the World Bible: Document the neural-interface technology system (rules, costs, limitations), establish 3+ locations with sensory signatures, define the socioeconomic context, and write 5-7 historical events that create present-day tensions. Without this, no amount of voice quality enables drafting.",
+    "Build the Character Registry: Document wound/want/need/lie chains for C\u01b0\u1eddng, H\u1ea1nh, and N\u00e0ng minimum. Define specific, plot-altering secrets for each. Expand dialogue examples to 3+ per character across emotional registers. Without this, character arcs will be invented on the fly.",
+    "Write the Outline: Minimum 15-20 chapters with beats, POV, emotional arc, and try-fail cycles. Include Save the Cat beat markers. Create a foreshadowing ledger tracking every planted detail from the exemplar to its planned payoff. Without this, the novel has no structure to draft toward."
+  ]
+}
