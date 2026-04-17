@@ -107,8 +107,8 @@ def generate_chapter_summary(chapter_num: int) -> bool:
     SUMMARIES_DIR.mkdir(exist_ok=True)
 
     # Use a lightweight LLM call to summarize
-    import httpx
-    from config import API_KEY, API_BASE, WRITER_MODEL, get_language, language_instruction
+    from writer import call_writer
+    from config import WRITER_MODEL, get_language, language_instruction
 
     if not API_KEY:
         # Fallback: use first 200 words
@@ -129,30 +129,17 @@ def generate_chapter_summary(chapter_num: int) -> bool:
         f"CHAPTER:\n{chapter_text}"
     )
 
-    headers = {
-        "x-api-key": API_KEY,
-        "anthropic-version": "2023-06-01",
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": WRITER_MODEL,
-        "max_tokens": 600,
-        "temperature": 0.3,
-        "system": (
-            "You summarize novel chapters concisely for use as context "
-            "when writing subsequent chapters. Focus on plot, character "
-            "changes, and established facts."
-            + language_instruction()
-        ),
-        "messages": [{"role": "user", "content": prompt}],
-    }
+    system_prompt = (
+        "You summarize novel chapters concisely for use as context "
+        "when writing subsequent chapters. Focus on plot, character "
+        "changes, and established facts."
+        + language_instruction()
+    )
 
     try:
-        resp = httpx.post(
-            f"{API_BASE}/v1/messages", headers=headers,
-            json=payload, timeout=120)
-        resp.raise_for_status()
-        summary = resp.json()["content"][0]["text"]
+        summary = call_writer(
+            prompt, system=system_prompt, max_tokens=600,
+            temperature=0.3, timeout=120)
     except Exception as e:
         step(f"Summary generation failed: {e}, using first 200 words")
         summary = " ".join(chapter_text.split()[:200])
@@ -347,8 +334,8 @@ def refine_foundation_doc(doc_name: str, doc_path: Path, weakest_info: str,
     if not existing.strip():
         return False
 
-    import httpx
-    from config import API_KEY, API_BASE, WRITER_MODEL, get_language, language_instruction
+    from writer import call_writer
+    from config import API_KEY, get_language, language_instruction
 
     if not API_KEY:
         return False
@@ -370,31 +357,18 @@ def refine_foundation_doc(doc_name: str, doc_path: Path, weakest_info: str,
         f"{lang_note}"
     )
 
-    headers = {
-        "x-api-key": API_KEY,
-        "anthropic-version": "2023-06-01",
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": WRITER_MODEL,
-        "max_tokens": 16000,
-        "temperature": 0.6,
-        "system": (
-            "You refine fantasy novel planning documents. You improve the "
-            "weakest aspect identified by the evaluator while keeping "
-            "everything that already works. You never use AI slop words. "
-            "You output the complete revised document, not patches."
-            + language_instruction()
-        ),
-        "messages": [{"role": "user", "content": prompt}],
-    }
+    system_prompt = (
+        "You refine fantasy novel planning documents. You improve the "
+        "weakest aspect identified by the evaluator while keeping "
+        "everything that already works. You never use AI slop words. "
+        "You output the complete revised document, not patches."
+        + language_instruction()
+    )
 
     try:
-        resp = httpx.post(
-            f"{API_BASE}/v1/messages", headers=headers,
-            json=payload, timeout=300)
-        resp.raise_for_status()
-        revised = resp.json()["content"][0]["text"]
+        revised = call_writer(
+            prompt, system=system_prompt, max_tokens=16000,
+            temperature=0.6, timeout=300)
         if revised.strip():
             doc_path.write_text(revised)
             return True
@@ -439,8 +413,8 @@ def get_total_chapters(state: dict) -> int:
 
 def _generate_mystery() -> str | None:
     """Generate MYSTERY.md content from seed + world + characters."""
-    import httpx
-    from config import API_KEY, API_BASE, WRITER_MODEL, get_language, language_instruction
+    from writer import call_writer
+    from config import API_KEY, get_language, language_instruction
 
     if not API_KEY:
         return None
@@ -492,29 +466,18 @@ Format:
 [2-3 misleading clues that point away from the truth]
 """
 
-    headers = {
-        "x-api-key": API_KEY,
-        "anthropic-version": "2023-06-01",
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": WRITER_MODEL,
-        "max_tokens": 4000,
-        "temperature": 0.7,
-        "system": (
-            "You are a mystery architect for fantasy novels. You create central "
-            "mysteries that are surprising, thematically resonant, and have real "
-            "costs for the protagonist. The answer should recontextualize the "
-            "entire story, not just add a twist."
-            + language_instruction()
-        ),
-        "messages": [{"role": "user", "content": prompt}],
-    }
+    system_prompt = (
+        "You are a mystery architect for fantasy novels. You create central "
+        "mysteries that are surprising, thematically resonant, and have real "
+        "costs for the protagonist. The answer should recontextualize the "
+        "entire story, not just add a twist."
+        + language_instruction()
+    )
 
     try:
-        resp = httpx.post(f"{API_BASE}/v1/messages", headers=headers, json=payload, timeout=300)
-        resp.raise_for_status()
-        return resp.json()["content"][0]["text"]
+        return call_writer(
+            prompt, system=system_prompt, max_tokens=4000,
+            temperature=0.7, timeout=300)
     except Exception as e:
         step(f"Mystery generation failed: {e}")
         return None
@@ -522,8 +485,8 @@ Format:
 
 def _generate_voice_part2() -> str | None:
     """Generate voice.md Part 2 content from seed + world + characters."""
-    import httpx
-    from config import API_KEY, API_BASE, WRITER_MODEL, get_language, language_instruction
+    from writer import call_writer
+    from config import API_KEY, get_language, language_instruction
 
     if not API_KEY:
         return None
@@ -572,29 +535,18 @@ Give 2 example lines that demonstrate the voice.]
 noticing something wrong. This is the benchmark passage.]
 """
 
-    headers = {
-        "x-api-key": API_KEY,
-        "anthropic-version": "2023-06-01",
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": WRITER_MODEL,
-        "max_tokens": 4000,
-        "temperature": 0.7,
-        "system": (
-            "You are a prose stylist defining a novel's voice. You write voice "
-            "definitions that are specific, actionable, and emerge from the "
-            "story's world and themes. The voice should be distinctive enough "
-            "that a writer could reproduce it from this document alone."
-            + language_instruction()
-        ),
-        "messages": [{"role": "user", "content": prompt}],
-    }
+    system_prompt = (
+        "You are a prose stylist defining a novel's voice. You write voice "
+        "definitions that are specific, actionable, and emerge from the "
+        "story's world and themes. The voice should be distinctive enough "
+        "that a writer could reproduce it from this document alone."
+        + language_instruction()
+    )
 
     try:
-        resp = httpx.post(f"{API_BASE}/v1/messages", headers=headers, json=payload, timeout=300)
-        resp.raise_for_status()
-        return resp.json()["content"][0]["text"]
+        return call_writer(
+            prompt, system=system_prompt, max_tokens=4000,
+            temperature=0.7, timeout=300)
     except Exception as e:
         step(f"Voice Part 2 generation failed: {e}")
         return None

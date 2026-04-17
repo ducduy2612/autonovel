@@ -7,7 +7,7 @@ Gives the reader panel enough to evaluate the ARC without 72k tokens.
 import re
 from pathlib import Path
 
-from config import API_KEY, API_BASE, WRITER_MODEL, CHAPTERS_DIR, analysis_language_note
+from config import API_KEY, WRITER_MODEL, CHAPTERS_DIR, analysis_language_note
 from writer import call_writer as _call_api
 
 BASE_DIR = Path(__file__).parent

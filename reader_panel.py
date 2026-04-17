@@ -12,7 +12,7 @@ import re
 from pathlib import Path
 from datetime import datetime
 
-from config import API_KEY, API_BASE, JUDGE_MODEL, analysis_language_note
+from config import API_KEY, JUDGE_MODEL, analysis_language_note
 
 BASE_DIR = Path(__file__).parent
 
@@ -109,23 +109,16 @@ Respond with JSON:
 """
 
 def call_reader(reader_key, arc_summary, novel_stats=""):
-    import httpx
+    from writer import call_writer
     reader = READERS[reader_key]
-    headers = {
-        "x-api-key": API_KEY,
-        "anthropic-version": "2023-06-01",
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": JUDGE_MODEL,
-        "max_tokens": 4000,
-        "temperature": 0.7,  # Higher temp for personality
-        "system": reader["system"],
-        "messages": [{"role": "user", "content": READER_PROMPT.format(arc_summary=arc_summary, novel_stats=novel_stats)}],
-    }
-    resp = httpx.post(f"{API_BASE}/v1/messages", headers=headers, json=payload, timeout=300)
-    resp.raise_for_status()
-    raw = resp.json()["content"][0]["text"]
+
+    raw = call_writer(
+        READER_PROMPT.format(arc_summary=arc_summary, novel_stats=novel_stats),
+        system=reader["system"],
+        max_tokens=4000,
+        temperature=0.7,
+        timeout=300,
+        model=JUDGE_MODEL)
     
     # Parse JSON
     raw = raw.strip()

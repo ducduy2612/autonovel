@@ -39,6 +39,11 @@ REVIEW_MODEL: str = os.environ.get("AUTONOVEL_REVIEW_MODEL", "claude-opus-4-6")
 # ---------------------------------------------------------------------------
 API_BASE: str = os.environ.get("AUTONOVEL_API_BASE_URL", "https://api.anthropic.com")
 
+# Z.AI Coding Plan endpoint (OpenAI-compatible)
+ZAI_CODING_BASE: str = os.environ.get(
+    "AUTONOVEL_ZAI_CODING_BASE", "https://api.z.ai/api/coding/paas/v4"
+)
+
 # ---------------------------------------------------------------------------
 # Directory constants
 # ---------------------------------------------------------------------------

@@ -1,10 +1,10 @@
 # Codebase Map
 
-Generated: 2026-04-17T14:32:27Z | Files: 66 | Described: 0/66
-<!-- gsd:codebase-meta {"generatedAt":"2026-04-17T14:32:27Z","fingerprint":"640cbc7ac0712402b6eb39c80a53e95bfa566f0d","fileCount":66,"truncated":false} -->
+Generated: 2026-04-17T15:23:32Z | Files: 68 | Described: 0/68
+<!-- gsd:codebase-meta {"generatedAt":"2026-04-17T15:23:32Z","fingerprint":"201954092046a54b96a21d66e1dea991dc5a16ba","fileCount":68,"truncated":false} -->
 
 ### (root)/
-- *(50 files: 33 .py, 8 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
+- *(52 files: 35 .py, 8 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
 
 ### art/
 - `art/picks.json`

@@ -12,7 +12,7 @@ import argparse
 import json
 import sys
 
-from config import language_instruction, WRITER_MODEL, BASE_DIR
+from config import API_KEY, language_instruction, WRITER_MODEL, BASE_DIR
 from writer import call_writer as _call_api
 
 ANTHROPIC_BETA = "context-1m-2025-08-07"

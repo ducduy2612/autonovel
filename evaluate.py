@@ -24,7 +24,6 @@ from pathlib import Path
 # --- Configuration ---
 from config import (
     API_KEY as ANTHROPIC_API_KEY,
-    API_BASE as API_BASE_URL,
     JUDGE_MODEL,
     CHAPTERS_DIR,
     analysis_language_note,
@@ -33,8 +32,6 @@ from config import (
 
 BASE_DIR = Path(__file__).parent
 
-# Beta header to unlock 1M context window on both Opus 4.6 and Sonnet 4.6
-ANTHROPIC_BETA = "context-1m-2025-08-07"
 EVAL_LOG_DIR = BASE_DIR / "eval_logs"
 EVAL_LOG_DIR.mkdir(exist_ok=True)
 
@@ -285,36 +282,17 @@ def load_all_chapters():
 
 
 def call_judge(prompt, max_tokens=2000):
-    """Call the Anthropic judge LLM and return its response text."""
-    import httpx
+    """Call the judge LLM and return its response text."""
+    from writer import call_writer
 
-    headers = {
-        "x-api-key": ANTHROPIC_API_KEY,
-        "anthropic-version": "2023-06-01",
-        "anthropic-beta": ANTHROPIC_BETA,
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": JUDGE_MODEL,
-        "max_tokens": max_tokens,
-        "temperature": 0.3,
-        "system": "You are a literary critic and novel editor. "
-                  "You evaluate fiction with precision. Always respond with valid JSON. "
-                  "No markdown fences, no preamble -- just the JSON object."
-                  + analysis_language_note(),
-        "messages": [
-            {"role": "user", "content": prompt},
-        ],
-    }
+    system_prompt = ("You are a literary critic and novel editor. "
+                     "You evaluate fiction with precision. Always respond with valid JSON. "
+                     "No markdown fences, no preamble -- just the JSON object."
+                     + analysis_language_note())
 
-    resp = httpx.post(
-        f"{API_BASE_URL}/v1/messages",
-        headers=headers,
-        json=payload,
-        timeout=180,
-    )
-    resp.raise_for_status()
-    return resp.json()["content"][0]["text"]
+    return call_writer(
+        prompt, system=system_prompt, max_tokens=max_tokens,
+        temperature=0.3, timeout=180, model=JUDGE_MODEL)
 
 
 def parse_json_response(text):

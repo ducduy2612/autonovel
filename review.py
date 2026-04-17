@@ -18,7 +18,7 @@ import argparse
 from pathlib import Path
 from datetime import datetime
 
-from config import API_KEY, API_BASE, REVIEW_MODEL, analysis_language_note
+from config import API_KEY, REVIEW_MODEL, analysis_language_note
 
 BASE_DIR = Path(__file__).parent
 
@@ -31,31 +31,17 @@ REVIEW_PROMPT = """Read the below novel, "{title}". Review it first as a literar
 
 
 def call_opus(prompt, max_tokens=8000):
-    """Call Opus with the full manuscript."""
-    import httpx
-    headers = {
-        "x-api-key": API_KEY,
-        "anthropic-version": "2023-06-01",
-        "anthropic-beta": "context-1m-2025-08-07",
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": REVIEW_MODEL,
-        "max_tokens": max_tokens,
-        "temperature": 0.3,
-        "system": (
-            "You are a literary reviewer providing dual-perspective manuscript analysis."
-            + analysis_language_note()
-        ),
-        "messages": [{"role": "user", "content": prompt}],
-    }
-    print(f"Sending to {REVIEW_MODEL} ({len(prompt):,} chars)...", file=sys.stderr)
-    resp = httpx.post(
-        f"{API_BASE}/v1/messages",
-        headers=headers, json=payload, timeout=600,
+    """Call the review model with the full manuscript."""
+    from writer import call_writer
+
+    system_prompt = (
+        "You are a literary reviewer providing dual-perspective manuscript analysis."
+        + analysis_language_note()
     )
-    resp.raise_for_status()
-    return resp.json()["content"][0]["text"]
+    print(f"Sending to {REVIEW_MODEL} ({len(prompt):,} chars)...", file=sys.stderr)
+    return call_writer(
+        prompt, system=system_prompt, max_tokens=max_tokens,
+        temperature=0.3, timeout=600, model=REVIEW_MODEL)
 
 
 def get_title():

@@ -11,36 +11,26 @@ import json
 import re
 from pathlib import Path
 
-from config import API_KEY, API_BASE, JUDGE_MODEL, CHAPTERS_DIR, analysis_language_note
+from config import API_KEY, JUDGE_MODEL, CHAPTERS_DIR, analysis_language_note
 
 BASE_DIR = Path(__file__).parent
 EDIT_LOG_DIR = BASE_DIR / "edit_logs"
 EDIT_LOG_DIR.mkdir(exist_ok=True)
 
 def call_judge(prompt, max_tokens=8000):
-    import httpx
-    headers = {
-        "x-api-key": API_KEY,
-        "anthropic-version": "2023-06-01",
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": JUDGE_MODEL,
-        "max_tokens": max_tokens,
-        "temperature": 0.3,
-        "system": (
-            "You are a revision editor who improves passages. "
-            "You find what's weak in prose and show how to fix it. "
-            "Every problem you identify comes with a concrete rewrite suggestion. "
-            "You quote exactly from the text. "
-            "You never invent or paraphrase. Always respond with valid JSON."
-            + analysis_language_note()
-        ),
-        "messages": [{"role": "user", "content": prompt}],
-    }
-    resp = httpx.post(f"{API_BASE}/v1/messages", headers=headers, json=payload, timeout=300)
-    resp.raise_for_status()
-    return resp.json()["content"][0]["text"]
+    from writer import call_writer
+
+    system_prompt = (
+        "You are a revision editor who improves passages. "
+        "You find what's weak in prose and show how to fix it. "
+        "Every problem you identify comes with a concrete rewrite suggestion. "
+        "You quote exactly from the text. "
+        "You never invent or paraphrase. Always respond with valid JSON."
+        + analysis_language_note()
+    )
+    return call_writer(
+        prompt, system=system_prompt, max_tokens=max_tokens,
+        temperature=0.3, timeout=300, model=JUDGE_MODEL)
 
 def parse_json(text):
     text = text.strip()
