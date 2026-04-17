@@ -222,3 +222,4 @@ reverted	rev-ch18	5.47	1907	discard	Cycle 1: momentum_loss regressed 5.67->5.47
 f6d44b4	rev-ch21	6.0	2649	keep	Cycle 1: worst_scene improved -1.0->6.0
 9dea369	revision-cycle-1	8.0	143616	cycle	Cycle 1: novel_score 0.0->8.0
 ffd58d1	foundation	1.0	0	keep	Iteration 1: score improved 0.0 -> 1.0
+discarded	foundation	7.0	0	discard	Iteration 2: no improvement (7.0 <= 7.0)

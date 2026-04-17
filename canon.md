@@ -47,9 +47,7 @@
 - Một năm trước: Khoa đề xuất xuất bản nghiên cứu. Hội Đồng cấm. Khoa không chịu. (world.md)
 - Hiện tại (~2015): Khoa vẫn ở trên đảo, bí mật liên lạc với đồng nghiệp ngoài đất liền qua máy vô tuyến. Công ty dầu khí nước ngoài đang xin phép thăm dò. Quân sự hai nước cũng để ý. (world.md)
 
-*Năm hiện tại suy ra từ: Cô Năm Thảo chết 1995, con 10 tuổi khi mất, giờ 30 → ≈2015. Liên 13 tuổi khi chị chết 1990, giờ 38 → ≈2015.*
-
-**MÂU THUẪN Nội Bộ:** Cụ Ba được ghi nhận chết năm 1954 nhưng phần mô tả nhân vật nhiều lần nói "ba trăm năm trên đảo" và cụ đã "thấy hàng trăm người tan biến" trong "ba trăm năm." Nếu cụ chết 1954 và năm hiện tại ≈2015, cụ chỉ ở đảo khoảng 61 năm. Tương tự, bí mật #2 của cụ nói "ba trăm năm trước, cụ cho phép một người liên lạc ra ngoài" — mâu thuẫn với năm chết 1954. (characters.md)
+*Năm hiện tại suy ra từ: Cô Năm Thảo chết 1995, con 10 tuổi khi mất, giờ 30 → ≈2015. Liên 13 tuổi khi chị chết 1990, giờ 38 → ≈2015. Cụ Ba chết 1954, ở đảo ≈61 năm → nhất quán với mọi chi tiết nhân vật.* (characters.md)
 
 ---
 
@@ -88,18 +86,22 @@
 
 **Đồ vật từ đất liền** — Đôi khi trên bờ biển xuất hiện đồ vật thực: chai nhựa, mảnh thuyền, áo phao, thư tình. Có thể chạm, có thể dùng. Cách đến không ai hiểu. (world.md)
 
+**Ký Ức Gián Tiếp** — Câu hỏi chưa có câu trả lời: liệu một người sống có thể "nhớ thay" người khác chưa bao giờ biết — thông qua ghi chép, đọc tên, xem ảnh — và liệu ký ức gián tiếp đó có tính theo luật phép thuật? Chị Tư Hồng ghi chi tiết mỗi người vào sổ; cô nhớ rõ nhờ viết, nhưng chữ trong sổ cũng mờ dần theo người nó mô tả. Khoa đang thử nghiệm: ghi tên và chi tiết người trên đảo vào sổ riêng, quan sát xem họ có "đặc" hơn không. Kết quả mơ hồ — có người rõ hơn sau khi anh ghi, có người không thay đổi. Anh không phân biệt được: là nhờ ghi chép, hay do anh thực sự bắt đầu nhớ họ qua quá trình viết? Quy tắc cứng nói "ký ức phải thật, từ trái tim" — nhưng ranh giới giữa nhớ thật và nhớ vì nghiên cứu không rõ ràng. Đây là giả thuyết chưa kiểm chứng, không phải quy luật. (world.md, characters.md)
+
+**Bất Thường Từ Trường** — Sự tồn tại của Bãi Chờ tạo ra nhiễu từ trường trong vùng biển xung quanh. Thiết bị hiện đại ghi nhận "dấu vết" — la bàn nhiễu, sóng đổi hướng, ảnh vệ tinh chỉ thấy mặt nước nhưng địa chấn phát hiện cấu trúc ngầm. Công ty Dầu Khí Meridian nghĩ đó là mỏ khí. Thực ra nó là đảo — hoặc đúng hơn, là hàng trăm năm ký ức cô đặc phát ra tín hiệu vật lý mà khoa học chưa giải thích được. (world.md)
+
 ---
 
 ## Sự Kiện Đã Xảy Ra Trong Câu Chuyện
 
-- Cụ Ba từng cho phép một người liên lạc ra ngoài. Người đó bị bắt, bị giết, bị coi ma quỷ. Làng trên đất liền sợ hãi, bỏ nhớ người chết. 17 người tan biến trong một mùa. Cụ không bao giờ kể. (characters.md)
+- Cụ Ba từng cho phép một người liên lạc ra ngoài — không lâu sau khi đến đảo, khi cụ chưa hiểu luật. Người đó bị bắt, bị giết, bị coi ma quỷ. Làng trên đất liền sợ hãi, bỏ nhớ người chết. 17 người tan biến trong một mùa. Từ đó cụ cấm mọi liên lạc, không kể cho ai lý do, chỉ nói "không được." Hơn sáu mươi năm sau, cụ vẫn mang lỗi đó. (characters.md)
 - Hai Luyện đốt lửa lớn trên Mũi Chờ ba đêm liên tiếp, cố truyền tín hiệu ra ngoài. Không ai trên đất liền thấy. Hội Đồng biết và cấm anh lên Mũi Chờ. (world.md, characters.md)
-- Khoa phát hiện quy luật chưa nói ai: khi anh ghi tên và chi tiết một người vào sổ, người đó "đặc" hơn, rõ hơn. Anh đang nhớ thay. Nhưng không biết ký ức từ sổ ghi chép có tính theo luật phép thuật hay không. (characters.md)
+- Khoa phát hiện quy luật chưa nói ai: khi anh ghi tên và chi tiết một người vào sổ, có khi người đó "đặc" hơn, rõ hơn. Anh đang nhớ thay — có lẽ. Nhưng không biết ký ức từ sổ ghi chép có tính theo luật phép thuật hay không. Kết quả không nhất quán: một số người rõ hơn rõ rệt, số khác không đổi. Anh chưa dám kết luận. (characters.md)
 - Phương thấy mặt mẹ trong giếng lần cuối hai tháng trước — bà ngồi trên giường, nhìn vô chiều, lặp một câu, đang quên. (characters.md)
 - Chị Tư Hồng nhìn thấy con trong nước giếng — một lần, duy nhất. Đứa bé không nhìn chị, nhìn ra biển. (characters.md)
 - Bà Ba (vợ Cụ Ba) đã chết mười năm trước, 97 tuổi. Trước khi chết, bà dặn con cháu thắp hương, nhớ, khóc cho cụ. Bốn thế hệ vẫn làm. (characters.md)
 - Liên đã bí mật liên hệ nhà báo, không nói Khoa. Nhà báo đang chờ dữ liệu. Nếu nhận được, xuất bản không cần anh đồng ý. (characters.md)
-- Công ty Dầu Khí Meridian đang xin giấy phép thăm dò vùng biển quanh Bãi Chờ. Khảo sát địa chấn phát hiện "bất thường từ trường" — dấu hiệu có cấu trúc ngầm dưới nước. Họ nghĩ là mỏ khí. (world.md)
+- Công ty Dầu Khí Meridian đang xin giấy phép thăm dò vùng biển quanh Bãi Chờ. Khảo sát địa chấn phát hiện "bất thường từ trường" — dấu hiệu có cấu trúc ngầm dưới nước. Họ nghĩ là mỏ khí. Thực ra đó là chính Bãi Chờ — ký ức cô đặc phát ra nhiễu từ trường mà thiết bị hiện đại ghi nhận được. (world.md)
 - Nếu Meridian phát hiện đảo, quân sự sẽ biết trong 48 giờ. (world.md)
 
 ---
@@ -123,15 +125,14 @@
 ### Cụ Ba (Nguyễn Văn Ba)
 
 - Hiện diện ở độ tuổi 62. (characters.md)
-- Chết đuối năm 1954, thuyền vượt biên, bão. (characters.md)
+- Chết đuối năm 1954, thuyền vượt biên sau Hiệp định Geneva, bão lớn. (characters.md)
 - 43 người chìm, 9 người sống. Cụ không trong số 9. (characters.md)
-- Vợ — bà Ba — bơi được, sống. (characters.md)
-- Chủ tịch Hội Đồng. Người "đặc" nhất đảo. (world.md)
-- Bốn thế hệ trên đất liền thắp hương cho cụ hàng ngày. (world.md)
+- Vợ — bà Ba — bơi được, sống. Bà chết mười năm trước, 97 tuổi, đã dặn bốn thế hệ con cháu thắp hương nhớ cụ hàng ngày. (characters.md)
+- Chủ tịch Hội Đồng. Người "đặc" nhất đảo — nhờ bốn thế hệ trên đất liền nhớ và khóc. (world.md)
+- Ở đảo hơn sáu mươi năm. Thấy hơn trăm người tan biến — đợt lớn nhất 1954–1975, khi chiến tranh khiến người trên đất liền quên hàng loạt. (characters.md)
 - Ngoại hình: đường nét sắc như khắc, da nâu nhẵn, mắt sáng sâu, tóc đen cứng. Ngón trỏ cụt nửa đốt — tai nạn thuyền. Áo bà ba trắng, luôn sạch. (characters.md)
-- Thói quen: đi quanh làng mỗi sáng (không gõ cửa, chỉ nhìn, đếm); ngồi Mũi Chờ mỗi chiều 3–5 giờ; hít thuốc lào bằng ống điếu (không hút, giữ khói lâu, thở ra từ từ); ba trăm năm [xem mâu thuẫn] không nhìn xuống giếng. (characters.md)
-
-**MÂU THUẪN:** Nhân vật ghi "Chết 1954" nhưng cũng ghi "Ba trăm năm trên đảo" và bí mật #2 nói "Ba trăm năm trước, cụ cho phép một người liên lạc ra ngoài." Nếu cụ chết 1954 và năm hiện tại ≈2015, cụ chỉ ở đảo ~61 năm, không phải 300. (characters.md)
+- Thói quen: đi quanh làng mỗi sáng (không gõ cửa, chỉ nhìn, đếm); ngồi Mũi Chờ mỗi chiều 3–5 giờ; hít thuốc lào bằng ống điếu (không hút, giữ khói lâu, thở ra từ từ); hơn sáu mươi năm không nhìn xuống giếng. (characters.md)
+- Bí mật: sớm sau khi đến đảo, cụ cho phép một người thử liên lạc ra ngoài. Người đó bị giết,被视为 ma quỷ. Làng sợ, bỏ nhớ người chết. 17 người tan biến trong một mùa. Cụ không bao giờ kể, chỉ cấm tuyệt đối mọi liên lạc từ đó. (characters.md)
 
 ### Phương (Lê Thị Phương)
 
@@ -214,8 +215,9 @@
 
 ### Thế Giới Bên Ngoài
 
-- Công ty Dầu Khí Meridian: đang xin giấy phép thăm dò vùng biển quanh Bãi Chờ. Khảo sát địa chấn phát hiện "bất thường từ trường." Họ nghĩ là mỏ khí. (world.md)
+- Công ty Dầu Khí Meridian: đang xin giấy phép thăm dò vùng biển quanh Bãi Chờ. Khảo sát địa chấn phát hiện "bất thường từ trường" — dấu hiệu có cấu trúc ngầm dưới nước. Họ nghĩ là mỏ khí. Thực ra đó là chính Bãi Chờ — ký ức cô đặc phát ra nhiễu vật lý mà thiết bị hiện đại ghi nhận được. Nếu Meridian phát hiện đảo, quân sự hai nước sẽ vào cuộc trong 48 giờ. (world.md)
 - Hải quân: vùng biển tranh chấp. Bất kỳ hoạt động bất thường nào cũng bị theo dõi. (world.md)
+- Mối đe dọa bên ngoài gắn trực tiếp với bản chất phép thuật của đảo: ký ức cô đặc phát ra từ trường, từ trường thu hút thiết bị hiện đại, thiết bị hiện đại sẽ vạch ra đảo. Hội Đồng không hiểu điều này — họ chỉ sợ theo bản năng. Khoa thì hiểu, và đó là lý do anh muốn hành động nhanh. (world.md)
 
 ---
 
@@ -223,7 +225,7 @@
 
 ### Ngôn Ngữ
 
-- Người đảo nói tiếng Việt, giọng Nghệ An, nhưng từ vựng cách đây ba trăm năm. (seed.txt, world.md)
+- Người đảo nói tiếng Việt, giọng Nghệ An, nhưng từ vựng cách đây ba trăm năm — từ thời những người đầu tiên đến. (seed.txt, world.md)
 - Nói "nghen" thay "nhé," "ruỗi" thay "đi," "thím" cho phụ nữ lớn tuổi. (world.md)
 - Khi nói khái niệm hiện đại, mượn từ của Khoa — "điện thoại," "internet," "truyền hình" — phát ngọng. (world.md)
 - Không có từ "quên" theo nghĩa tích cực. Với họ, quên = chết. (world.md)
@@ -256,7 +258,7 @@
 - Đảo không có tiền. Chia sẻ mọi thứ. (world.md)
 - Người "đặc" cung cấp cho người mờ nhạt; đổi lại người mờ nhạt làm việc nặng — chặt củi, vá lưới, nấu cơm. Hệ thống giống phong kiến hơn là cộng sản. (world.md)
 
-### Tội Áp
+### Tội Ác
 
 - Tội lớn nhất trên đảo: "làm quên" — cố tình khiến người trên đất liền quên một người nào đó. Chưa từng có ai bị buộc tội chính thức, nhưng sự nghi ngờ luôn hiện diện. (world.md)
 
@@ -283,6 +285,7 @@
 - Không cho Hội Đồng biết rõ hậu quả chính trị nếu bị phát hiện — họ sợ theo bản năng, không phải phân tích. (world.md)
 - Không để Khoa thành anh hùng cứu réseau — anh có agenda riêng, sai lầm riêng. (world.md)
 - Không romance hóa cái chết đuối — sợ, hoảng loạn, đau đớn, nước tràn vào phổi. (world.md)
+- Không biến "ghi chép cứu người" thành quy luật đã xác nhận. Khoa đang thử nghiệm, kết quả mơ hồ, và có thể anh sai. Cao trào phải chứa đựng khả năng thất bại thật sự. (world.md)
 
 ---
 
@@ -301,4 +304,4 @@
 
 ---
 
-*Cơ sở dữ liệu này compiled từ seed.txt, world.md, và characters.md. Mỗi sự thật đều truy nguyên được nguồn. Khi có mâu thuẫn nội bộ, đã ghi chú rõ.*
+*Cơ sở dữ liệu này compiled từ seed.txt, world.md, và characters.md. Mỗi sự thật đều truy nguyên được nguồn. Mâu thuẫn nội bộ về thời gian Cụ Ba đã giải quyết: cụ chết 1954, ở đảo ≈61 năm, thấy hơn trăm người tan biến trong sáu thập kỷ — nhất quán với mọi chi tiết khác. Ký ức gián tiếp và bất thường từ trường đã thêm như hiện tượng chưa giải thích, gắn ngoại угроз với hệ thống phép thuật.*
