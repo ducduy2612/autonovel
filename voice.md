@@ -56,3 +56,59 @@ After writing any passage, ask:
 - Would a reader think "AI wrote this"? If yes, rewrite.
 
 ---
+
+# Part 2: Voice Identity (novel-specific)
+
+### Tone
+U buồn nhưng không bi lụy — như khói bếp lò chờ tàn, như tiếng sóng vỗ mà không ai nghe. Giọng văn dõi theo sự tiêu tan từ từ, ghi lại cái đang biến mất thay vì cái đã mất. Sự sợ hãi không ồn ào; nó tích tụ qua những khoảng trống — một cái ghế trống, một cái tên không ai nhắc, một mảnh vườn không người chăm.
+
+### Sentence Rhythm
+Câu dài và miên man khi miêu tả sinh hoạt trên đảo — nhịp chậm của đời sống thường nhật, câu chữ cuộn ra như sóng. Câu ngắn, đứt đoạn khi ai đó sắp tan biến — như thể ngôn ngữ cũng đang quên họ. Câu không kết thúc khi nỗi đau chưa dành được lời. Lặp từ deliberately — "nhớ, nhớ nữa, nhớ mãi" — để tạo nhịp của ký ức cố níu giữ.
+
+### Vocabulary Wells
+**Nước và muối:** hòa tan, ngậm mặn,眼里水, sóng vỗ, chìm, nổi, rỉ ra, ướt đẫm. Muối bảo quản nhưng cũng ăn mòn.
+**Khói và bếp:** cháy dở, tàn, mờ ảo, cuộn, thoang thoảng, đen xì. Khói là sự hiện diện không chạm được.
+**Hơi thở và chu kỳ:** seven ngày nở tàn, nhịp thở, thở ra — tan đi, hít vào — trở lại, tuần hoàn, chu kỳ,Mathoáng qua rồi mất.
+
+### Body Before Emotion
+*Nỗi đau:* lồng ngực nặng như nước biểnfilled lungs — ép lại, thắt lại, không thở nổi.
+*Sự quên lãng:* đầu gối weak, ngón tay tê rần, cảm giác mình đang trong suốt — nhìn xuyên qua собственной tay.
+*Nỗi nhớ:* cuống họng nóng rát, mùi muối và khói dâng lên không gian sau mũi, mắt cay xè nhưng chưa rơi lệ.
+
+### Dialogue Register
+Người trên đảo nói tiếng Việt giọng Nghệ An pha từ cổ — "thím", "nghen", "ruỗi" — nhưng giản dị, ít dùng từ đại từ. Họ không gọi tên cảm xúc. Thay vì "tôi buồn", họ nói về cơ thể: "ngực nặng quá." Thay vì "tôi sợ quên", họ nói: "hôm qua tui không nhớ mặt má người ta nữa." Người nước ngoài nói chuyện dựa trên phân tích — tạo sự khác biệt.
+
+**Ví dụ 1 — Người đảo:**
+"Chiều nay tui không thấy bác Khải ngồi bờ đá. Hỏi thím Hai, thím cũng không nhớ. Tui tự nhiên không nhớ mặt bác nữa. Chỉ nhớ mùi thuốc lào."
+
+**Ví dụ 2 — Nhà nghiên cứu:**
+"Cô không thấy sao? Mỗi lần tôi ghi tên họ vào sổ, họ rõ nét hơn. Mỗi lần tôi gập sổ lại — họ mờ đi. Ký ức cần người giữ, không chỉ người có."
+
+### What This Voice Does NOT Do
+- Không giải thích phép thuật bằng ngôn ngữ hệ thống — không có "năng lượng", "cấp độ", "luật lệ". Phép thuật chỉ hiện diện qua hậu quả.
+- Không dùngregister phương Tây kiểu Tolkien — không "kẻ vật", "vùng đất bóng tối", "sứ mệnh". Giọng văn Việt Nam, nhạc điệu Việt Nam.
+- Không khai thác bi lụy. Cảnh đau thương nhất viết bằng câu ngắn nhất, flat nhất — như người ta đau quá không cry được.
+- Không cho nhân vật phát biểu triết lý dài. theme được living trong hình ảnh, không phải trong dialogue.
+- Không romance hóa sự chết. Chết đuối là panicked, là sống sot, là sợ hãi — không phải "trở về với biển."
+
+### Exemplar Passage
+
+Chiều nay, vườn nhà bà Năm chỉ có sáu luống.
+
+Tuần trước còn bảy. Tui đếm lại. Sáu. Luống thứ bảy — chỗ trồng rau răm bên rào dừa — đất bằng phẳng, cỏ dại chưa kịp mọc. Như chưa từng có ai trồng ở đó bao giờ.
+
+Tui nuốt nước bọt. Họng mặn.
+
+"Bà Năm đâu rồi, thím?" tui hỏi thím Hai.
+
+Thím ngước lên, tay vẫn giặt. "Năm nào?"
+
+Bà Năm hàng xóm. Bà Năm trồng rau răm. Bà Năm hay cho tui mấy trái ớt. Bà Năm...
+
+Tui không nhớ mặt bà. Không nhớ giọng. Chỉ nhớ rau răm và ớt đỏ-left trên rào.
+
+Trên đất liền, ai đó vừa nguên. Hoặc ai đó vừa chết — người duy nhất còn nhớ. Ở đây, một luống rau thôi cũng đủ làm chứng.
+
+Gió biển thổi vô. Tui ngửi muối và khói. Mắt cay xè.
+
+*Sáu luống. Tuần sau biết đâu còn năm.*
