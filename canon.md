@@ -399,3 +399,12 @@
 - Khi Khoa ghi chi tiết cụ thể về Phương vào sổ ('mắt lớn, mi dài, nấu canh chua ngon nhất đảo'), cô rõ hơn một chút ngay sau đó — chân đặc hơn, lúm đồng tiền sâu hơn. (ch_11)
 - Khoa nói mẹ và cha anh 'ru bằng im lặng' — không hát, chỉ im lặng. (ch_11)
 - Đũa gốm Phương dùng rơi khi cô cầm bằng tay trái trong suốt — cô không nhặt. (ch_11)
+
+
+## From Chapter 12
+- Khoa đã thử nghiệm ghi sổ với ba người: cô Năm Thảo, chú Tài, thím Hai — kết quả giống nhau: người đặc hơn khi ghi, mờ lại khi gập sổ. (ch_12)
+- Tác dụng của việc ghi sổ kéo dài khoảng năm phút sau khi gập sổ, rồi người dần mờ lại. (ch_12)
+- Thím Hai hay hát dân ca Nghệ An, bài 'Gánh gánh gánh gánh gạo,' giọng cao lanh lảnh. (ch_12)
+- Thím Hai có chiếc kẹp sừng đen trên tóc bạc — chi tiết hiện ra khi Khoa ghi về thím. (ch_12)
+- Mỏm đá phía nam dài thêm tám bước chân so với bản đồ Khoa vẽ (chú thích: cần sửa mốc thời gian cho khớp canon — 'ba năm trước' thay 'năm ngoái'). (ch_12)
+- Đất mới trên mỏm đá phía nam: cứng, không rong rêu, không vỏ sò, trơn nhẵn như vừa được mài phẳng. (ch_12)

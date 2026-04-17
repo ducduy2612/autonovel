@@ -1,0 +1,109 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "\"Kh\u00f4ng c\u00f3 \u0111\u00e1p \u00e1n. Ch\u1ec9 c\u00f3 gi\u00f3. Mu\u1ed1i. Hai b\u00e0n tay run tr\u00ean m\u1ecfm \u0111\u00e1 m\u1ecdc khi anh \u0111\u1ebfn.\" \u2014 B\u1ed1n c\u00e2u ng\u1eafn li\u00ean ti\u1ebfp, vi ph\u1ea1m quy t\u1eafc 'kh\u00f4ng vi\u1ebft 3+ c\u00e2u ng\u1eafn li\u00ean ti\u1ebfp.' Gi\u1ecdng v\u0103n quy \u0111\u1ecbnh r\u00f5: c\u00e2u ng\u1eafn ch\u1ec9 d\u00f9ng khi c\u00f3 l\u00fd do c\u1ee5 th\u1ec3, v\u00e0 ph\u1ea3i h\u1ea1 \u0111\u1ecdng ngay b\u1eb1ng c\u00e2u d\u00e0i.",
+    "fix": "G\u1ed9p th\u00e0nh m\u1ed9t c\u00e2u d\u00e0i h\u1ea1 \u0111\u1ecdng: \"Kh\u00f4ng c\u00f3 \u0111\u00e1p \u00e1n, ch\u1ec9 gi\u00f3 v\u00e0 mu\u1ed1i cay m\u1eaft, v\u00e0 hai b\u00e0n tay run tr\u00ean m\u1ecfm \u0111\u00e1 \u2014 \u0111\u00e1 m\u1ecdc khi anh \u0111\u1ebfn, \u0111\u00e1 kh\u00f4ng thu\u1ed9c v\u1ec1 anh, \u0111\u00e1 \u0111ang h\u1ecfi anh b\u1eb1ng g\u00ec m\u00e0 l\u1edbn.\"",
+    "note": "Ph\u1ea7n l\u1edbn ch\u01b0\u01a1ng tu\u00e2n th\u1ee7 t\u1ed1t: c\u00e2u d\u00e0i n\u1ec1n v\u0103n, t\u1eeb v\u1ef1ng mu\u1ed1i/kh\u00f3i/n\u01b0\u1edbc, body-before-emotion (tay l\u1ea1nh, tay run). Nh\u01b0ng c\u00f3 v\u00e0i ch\u1ed7 ng\u1eaft nh\u1ecbp sai \u2014 fragment d\u00f9ng khi kh\u00f4ng c\u1ea7n, t\u1ea1o c\u1ea3m gi\u00e1c melo thay v\u00ec flat bu\u1ed3n."
+  },
+  "beat_coverage": {
+    "score": 8,
+    "weakest_moment": "Beat 4 \u2014 Khoa \u0111\u1ee9ng tr\u00ean m\u1ecfm \u0111\u00e1, hi\u1ec3u c\u00f3 g\u00ec \u0111\u00f3 kh\u00f4ng \u0111\u00fang, run. \u0110\u00e3 c\u00f3 nh\u01b0ng b\u1ecb l\u1eb7p l\u1ea1i qu\u00e1 nhi\u1ec1u l\u1ea7n c\u00f9ng m\u1ed9t \u00fd (tay run, m\u1edd \u0111i, kh\u00f4ng mu\u1ed1n ngh\u0129 v\u1ec1 s\u1ef1 \u0111\u1ed5i). Internal monologue tr\u1edf n\u00ean recursive thay v\u00ec escalate.",
+    "fix": "C\u1eaft b\u1edbt l\u1eb7p \u1edf \u0111o\u1ea1n m\u1ecfm \u0111\u00e1. Gi\u1eef m\u1ed9t l\u1ea7n 'hi\u1ec3u m\u00e0 kh\u00f4ng mu\u1ed1n hi\u1ec3u' r\u1ed3i chuy\u1ec3n ngay sang h\u00ecnh \u1ea3nh c\u1ee5 th\u1ec3 \u2014 anh nh\u00ecn m\u00e1u r\u1ec9 ra, anh nh\u00ecn ph\u1ea3n chi\u1ebfu m\u00ecnh trong v\u0169ng n\u01b0\u1edbc tr\u00ean \u0111\u00e1 \u2014 thay v\u00ec l\u1eb7p l\u1ea1i c\u00e2u h\u1ecfi b\u1eb1ng l\u1eddi.",
+    "note": "N\u0103m beat \u0111\u1ec1u c\u00f3 v\u00e0 \u0111\u1ec1u \u0111\u01b0\u1ee3c drama h\u00f3a. Beat 1 (th\u00ed nghi\u1ec7m th\u00edm Hai) \u0111\u1eb7c bi\u1ec7t m\u1ea1nh \u2014 khoa h\u1ecdc, c\u1ee5 th\u1ec3, c\u00f3 h\u1eadu qu\u1ea3 th\u1ea5y \u0111\u01b0\u1ee3c. Beat 5 (C\u1ee5 Ba xu\u1ea5t hi\u1ec7n) im l\u1eb7ng m\u00e0 n\u1eb7ng."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "\"Tui c\u1ea7n h\u1ecfi m\u1ed9t th\u1ee9\" v\u00e0 \"Tui c\u1ea7n ki\u1ec3m tra m\u1ed9t th\u1ee9\" \u2014 Khoa d\u00f9ng 'tui' thay v\u00ec 't\u00f4i', vi ph\u1ea1m voice profile (gi\u1ecdng B\u1eafc, 't\u00f4i' kh\u00f4ng 'tui'). \u0110\u1ed3ng th\u1eddi hai c\u00e2u g\u1ea7n nhau nhau c\u1ea5u tr\u00fac, nghe gi\u1ed1ng generic protagonist.",
+    "fix": "\u0110\u1ed5i th\u00e0nh 'T\u00f4i c\u1ea7n h\u1ecfi m\u1ed9t th\u1ee9' v\u00e0 thay c\u00e2u th\u1ee9 hai b\u1eb1ng c\u00e1ch n\u00f3i kh\u00e1c: 'Cho t\u00f4i xem s\u1ed5 c\u0169. N\u0103m m\u01b0\u01a1i n\u0103m ghi l\u1ea1i.' \u2014 ng\u1eafn h\u01a1n, tr\u1ef1c ti\u1ebfp h\u01a1n, ph\u00f9 h\u1ee3p Khoa khi \u0111ang k\u00edch \u0111\u1ed9ng.",
+    "note": "Ch\u1ecb T\u01b0 n\u00f3i \u0111\u00fang gi\u1ecdng \u2014 terse, chuy\u1ec3n register Nam khi s\u1ee3. C\u1ee5 Ba kh\u00f4ng n\u00f3i, ho\u00e0n h\u1ea3o. Nh\u01b0ng Khoa n\u1ed9i t\u00e2m \u0111\u00f4i khi qu\u00e1 'writerly' \u2014 ph\u00e2n t\u00edch c\u1ea3m x\u00fac thay v\u00ec tr\u1ea3i qua c\u1ea3m x\u00fac."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "\u0110o\u1ea1n 'v\u1ec7t m\u1ecfng nh\u01b0 s\u01b0\u01a1ng, nh\u01b0 kh\u00f3i, nh\u01b0 th\u1ee9 g\u00ec \u0111ang \u0111\u00f4ng \u0111\u1eb7c t\u1eeb kh\u00f4ng kh\u00ed th\u00e0nh \u0111\u1ea5t' \u2014 h\u00ecnh \u1ea3nh th\u00fa v\u1ecb nh\u01b0ng plant h\u01a1i l\u1ed9 v\u00ec n\u00f3 gi\u1ea3i th\u00edch qu\u00e1 r\u00f5 hi\u1ec7n t\u01b0\u1ee3ng. Plant t\u1ed1t nh\u1ea5t l\u00e0 c\u00e1i b\u1ea1n kh\u00f4ng nh\u1eadn ra l\u00fac \u0111\u1ecdc.",
+    "fix": "Ch\u1ec9 gi\u1eef 'v\u1ec7t m\u1ecfng nh\u01b0 s\u01b0\u01a1ng \u1edf k\u1ebd \u0111\u00e1' \u2014 b\u1ecf ph\u1ea7n gi\u1ea3i th\u00edch '\u0111ang \u0111\u00f4ng \u0111\u1eb7c t\u1eeb kh\u00f4ng kh\u00ed th\u00e0nh \u0111\u1ea5t.' \u0110\u1ec3 \u0111\u1ed9c gi\u1ea3 t\u1ef1 k\u1ebft lu\u1eadn.",
+    "note": "Plant m\u1ea1nh nh\u1ea5t: tay Khoa l\u1ea1nh \u0111i khi vi\u1ebft. \u0110\u01b0\u1ee3c gieo t\u1ef1 nhi\u00ean qua chi ti\u1ebft th\u1ec3 x\u00e1c, kh\u00f4ng ai gi\u1ea3i th\u00edch, v\u00e0 reader c\u1ea3m th\u1ea5y b\u1ea5t an m\u00e0 kh\u00f4ng bi\u1ebft t\u1ea1i sao. C\u1ee5 Ba nh\u00ecn bu\u1ed3n c\u0169ng t\u1ed1t \u2014 l\u1eb7p motif t\u1eeb ch\u01b0\u01a1ng tr\u01b0\u1edbc."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "\"v\u00e0 anh ngh\u0129 v\u1ec1 tay m\u00ecnh l\u1ea1nh h\u01a1n, v\u00e0 anh kh\u00f4ng ngh\u0129 v\u1ec1 s\u1ef1 \u0111\u1ed5i \u2014 trao \u0111\u1ed5i \u1ea5y \u2014 nh\u01b0 th\u1ec3 ph\u00e9p thu\u1eadt \u0111ang l\u1ea5y t\u1eeb anh \u0111\u1ec3 cho c\u00f4, nh\u01b0 th\u1ec3 ghi ch\u00e9p kh\u00f4ng ph\u1ea3i n\u00edu gi\u1eef m\u00e0 l\u00e0 chuy\u1ec3n giao, nh\u01b0 th\u1ec3 m\u1ed7i t\u1eeb anh vi\u1ebft v\u1ec1 Ph\u01b0\u01a1ng \u0111ang l\u00e0m c\u00f4 \u0111\u1eb7c th\u00eam v\u00e0 anh m\u1edd \u0111i\"",
+    "fix": "C\u1eaft. Thay b\u1eb1ng m\u1ed9t h\u00ecnh \u1ea3nh c\u1ee5 th\u1ec3: 'v\u00e0 anh nh\u00ecn b\u00e0n tay m\u00ecnh \u2014 m\u1edd h\u01a1n h\u00f4m qua m\u1ed9t ch\u00fat, nh\u01b0 n\u01b0\u1edbc pha lo\u00e3ng th\u00eam l\u1ea7n n\u1eefa \u2014 v\u00e0 anh kh\u00f4ng ngh\u0129 v\u1ec1 Ph\u01b0\u01a1ng r\u00f5 h\u01a1n b\u00ean ngo\u00e0i, v\u00ec hai th\u1ee9 \u0111i li\u1ec1n nhau v\u00e0 anh ch\u01b0a s\u1eb5nng admitting \u0111i\u1ec1u \u0111\u00f3.'",
+    "strongest_sentence": "\"...c\u1ee5 kh\u00f4ng n\u00f3i g\u00ec, ch\u1ec9 nh\u00ecn anh \u0111\u1ee9ng tr\u00ean \u0111\u1ea5t m\u1edbi, m\u1eaft c\u1ee5 \u2014 bu\u1ed3n. Bu\u1ed3n nh\u01b0 nh\u00ecn ai s\u1eafp ch\u1ebft. Bu\u1ed3n nh\u01b0 c\u1ee5 \u0111\u00e3 nh\u00ecn ki\u1ec3u n\u00e0y h\u00e0ng tr\u0103m l\u1ea7n tr\u01b0\u1edbc khi ai tan bi\u1ebfn, tr\u01b0\u1edbc khi lu\u1ed1ng rau b\u1eb1ng ph\u1eb3ng, tr\u01b0\u1edbc khi nh\u00e0 s\u1eadp, tr\u01b0\u1edbc khi qu\u1ea7n \u00e1o n\u1eb1m g\u1ecdn tr\u00ean gi\u01b0\u1eddng kh\u00f4ng ai d\u1ecdn.\"",
+    "note": "C\u00e2u d\u00e0i m\u1edf \u0111\u1ea7u \u0111\u1eb9p. H\u00ecnh \u1ea3nh th\u00edm Hai gi\u1eb7t h\u00e1t d\u00e2n ca c\u1ee5 th\u1ec3. Nh\u01b0ng nhi\u1ec1u ch\u1ed7 l\u1eb7p 'v\u00e0 anh ngh\u0129 v\u1ec1' \u2014 \u0111\u1ebfm \u0111\u01b0\u1ee3c 5 l\u1ea7n trong \u0111o\u1ea1n cu\u1ed1i ch\u01b0\u01a1ng tr\u01b0\u1edbc v\u00e0 ti\u1ebfp sang ch\u01b0\u01a1ng n\u00e0y. C\u1ea7n variety."
+  },
+  "continuity": {
+    "score": 9,
+    "note": "N\u1ed1i ho\u00e0n h\u1ea3o t\u1eeb Ch 11: Khoa ng\u1ee7 l\u1ea1i nh\u00e0 Ph\u01b0\u01a1ng (\u0111\u00e3 vi\u1ebft v\u1ec1 c\u00f4, tay l\u1ea1nh), s\u00e1ng ra ti\u1ebfp t\u1ee5c th\u00ed nghi\u1ec7m. L\u00fam \u0111\u1ed3ng ti\u1ec1n, tay tr\u00e1i trong su\u1ed1t, tay Khoa l\u1ea1nh \u2014 t\u1ea5t c\u1ea3 track. Ch\u1eef b\u00e1c Kh\u1ea3i m\u1edd ph\u00f9 h\u1ee3p Ch 9 (b\u00e1c tan bi\u1ebfn gi\u1eefa Ch 8-9). Khu Nh\u00e0 Tr\u1ed1ng b\u1ea3y c\u0103n kh\u1edbp Ch 8."
+  },
+  "canon_compliance": {
+    "score": 7,
+    "violations": [
+      "Khoa d\u00f9ng 'tui' trong dialogue thay v\u00ec 't\u00f4i' (characters.md: gi\u1ecdng B\u1eafc, 't\u00f4i' kh\u00f4ng 'tui'). Xu\u1ea5t hi\u1ec7n \u1edf: 'Tui c\u1ea7n h\u1ecfi m\u1ed9t th\u1ee9', 'Tui c\u1ea7n ki\u1ec3m tra m\u1ed9t th\u1ee9.'"
+    ],
+    "note": "M\u1ed9t violation l\u1edbn: pronoun. Ngo\u00e0i ra c\u00e1c chi ti\u1ebft canon \u0111\u1ec1u \u0111\u00fang \u2014 th\u00edm Hai gi\u1eb7t ngo\u00e0i su\u1ed1i (Ch 1), nh\u00e0 Ch\u1ecb T\u01b0 th\u1ee9 b\u1ea3y t\u1eeb gi\u1ebfng (Ch 3), m\u1ecfm \u0111\u00e1 ph\u00eda nam teo (world.md), Khoa \u0111\u1ebfn th\u00e1ng ba n\u0103m ngo\u00e1i, C\u1ee5 Ba ng\u1ed3i M\u0169i Ch\u1edd."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "\u0110o\u1ea1n Khoa \u0111\u1ecdc s\u1ed5 c\u0169 Ch\u1ecb T\u01b0 \u2014 li\u1ec7t k\u00ea 'ch\u1ebft \u0111u\u1ed1i 1889, tan bi\u1ebfn 1923, ch\u1ebft \u0111u\u1ed1i 1901, tan bi\u1ebfn 1945' nghe nh\u01b0 bullet point summary, kh\u00f4ng nh\u01b0 ng\u01b0\u1eddi \u0111ang l\u1eadt trang s\u1ed5.",
+    "fix": "Ch\u1ecdn 1-2 t\u00ean c\u1ee5 th\u1ec3, m\u00f4 t\u1ea3 c\u00e1ch ch\u1eef vi\u1ebft \u2014 'ch\u1eef c\u1ee7a m\u1ed9t ng\u01b0\u1eddi ch\u1ebft \u0111u\u1ed1i n\u0103m 1889, n\u00e9t b\u00fat run, tan bi\u1ebfn 1923, ch\u1ec9 c\u00f2n d\u1ea5u m\u1ef1c n\u01a1i t\u00ean t\u1eebng \u1edf' \u2014 thay v\u00ec danh s\u00e1ch s\u1ed1 n\u0103m.",
+    "note": "World l\u00e0m vi\u1ec7c m\u1ea1nh: h\u1ec7 th\u1ed1ng ph\u00e9p thu\u1eadt \u0111\u01b0\u1ee3c demo qua th\u00ed nghi\u1ec7m (kh\u00f4ng gi\u1ea3i th\u00edch b\u1eb1ng ng\u00f4n ng\u1eef h\u1ec7 th\u1ed1ng), \u0111\u1ea3o teo/l\u1edbn tied directly to Khoa's presence, chi ph\u00ed th\u1ec3 x\u00e1c (tay l\u1ea1nh, m\u1edd \u0111i) shown not told. Hoa d\u1eb7m x\u00e1m ngo\u00e0i hi\u00ean Ph\u01b0\u01a1ng \u0111\u01b0\u1ee3c nh\u1eafc l\u1ea1i \u0111\u00fang ch\u1ed7."
+  },
+  "engagement": {
+    "score": 8,
+    "weakest_moment": "\u0110o\u1ea1n Khoa ch\u1ea1y ra m\u1ecfm \u0111\u00e1 \u2014 'ch\u1ea1y tr\u00ean c\u00e1t, ch\u1ea1y tr\u00ean \u0111\u1ea5t \u0111\u1ecf, ch\u1ea1y tr\u00ean \u0111\u00e1 m\u00f2n, ph\u1ed5i anh n\u00f3ng, ch\u00e2n anh n\u1eb7ng' \u2014 nh\u1ecbp d\u1ed3n nh\u01b0ng h\u00ecnh \u1ea3nh generic. Kh\u00f4ng c\u00f3 chi ti\u1ebft c\u1ee5 th\u1ec3 n\u00e0o v\u1ec1 \u0111\u01b0\u1eddng \u0111i m\u00e0 ch\u1ec9 c\u00f3 surface-level description.",
+    "fix": "Th\u00eam 1-2 chi ti\u1ebft c\u1ee5 th\u1ec3 tr\u00ean \u0111\u01b0\u1eddng ch\u1ea1y: 'ch\u1ea1y qua nh\u00e0 th\u00edm Hai \u2014 th\u00edm \u0111ang gi\u1eb7t, kh\u00f4ng nh\u00ecn l\u00ean \u2014 ch\u1ea1y qua v\u01b0\u1eddn b\u1ea1c h\u00e0 \u0111ang teo, c\u00f2n ba lu\u1ed1ng thay v\u00ec b\u1ed1n' \u2014 cho reader th\u1ea5y island \u0111ang ch\u1ebft trong l\u00fac Khoa ch\u1ea1y t\u00ecm b\u1eb1ng ch\u1ee9ng n\u00f3 s\u1ed1ng.",
+    "note": "Th\u00ed nghi\u1ec7m th\u00edm Hai l\u00e0 highlight \u2014 khoa h\u1ecdc, c\u1ee5 th\u1ec3, c\u00f3 h\u1ed3i h\u1ed9p. Ph\u00e1t hi\u1ec7n '\u0111\u1ea3o l\u1edbn khi anh \u0111\u1ebfn' l\u00e0 twist t\u1ed1t, reframes to\u00e0n b\u1ed9 c\u00e2u chuy\u1ec7n. C\u1ee5 Ba im l\u1eb7ng cu\u1ed1i ch\u01b0\u01a1ng t\u1ea1o tension m\u1ea1nh. Ch\u01b0\u01a1ng n\u00e0y reader s\u1ebd l\u1eadt trang."
+  },
+  "three_weakest_sentences": [
+    "\"Kh\u00f4ng c\u00f3 \u0111\u00e1p \u00e1n. Ch\u1ec9 c\u00f3 gi\u00f3. Mu\u1ed1i. Hai b\u00e0n tay run tr\u00ean m\u1ecfm \u0111\u00e1 m\u1ecdc khi anh \u0111\u1ebfn.\" \u2014 B\u1ed1n fragment li\u00ean ti\u1ebfp vi ph\u1ea1m voice, c\u1ea3m melodramatic.",
+    "\"v\u00e0 anh ngh\u0129 v\u1ec1 s\u1ed5 \u2014 s\u1ed5 ghi Ph\u01b0\u01a1ng r\u00f5 h\u01a1n, ghi th\u00edm Hai \u0111\u1eb7c h\u01a1n, ghi v\u00e0 ghi v\u00e0 ghi \u2014\" \u2014 L\u1eb7p 'ghi' c\u00f3 ch\u1ee7 \u00fd nh\u01b0ng kh\u00f4ng h\u1ea1 \u0111\u1ecdng sau \u0111\u00f3, treo l\u01a1 l\u1eedng.",
+    "\"Gi\u00f3 bi\u1ec3n th\u1ed5i. Mu\u1ed1i cay m\u1eaft.\" \u2014 Hai c\u00e2u ng\u1eafn li\u00ean ti\u1ebfp kh\u00f4ng c\u00f3 l\u00fd do r\u00f5 r\u00e0ng, t\u1ea1o nh\u1ecbp \u0111\u1ee9t kh\u00f4ng c\u1ea7n thi\u1ebft."
+  ],
+  "three_strongest_sentences": [
+    "\"Gi\u00f3 th\u1ed5i qua h\u00e0ng b\u1ea1c h\u00e0 b\u00ean b\u1edd su\u1ed1i, l\u00e1 rung nh\u1eb9, thoang tho\u1ea3ng m\u00f9i the the xen mu\u1ed1i, v\u00e0 \u1edf \u0111\u00e2u \u0111\u00f3 ph\u00eda L\u00e0ng Gi\u1eefa, ti\u1ebfng g\u00f5 b\u00e1t g\u1ed1m v\u1eb3ng l\u1ea1i nh\u01b0 qua l\u1edbp n\u01b0\u1edbc.\"",
+    "\"H\u00f4m qua ch\u1eef b\u00e1c Kh\u1ea3i c\u00f2n \u0111\u1ecdc \u0111\u01b0\u1ee3c, s\u00e1ng nay ch\u1ec9 c\u00f2n n\u00e9t vu\u00f4ng c\u1ee7a ch\u1eef 'b\u00e1c' \u2014 ph\u1ea7n 'Kh\u1ea3i' \u0111\u00e3 tan v\u00e0o s\u1ee3i gi\u1ea5y, nh\u01b0 ch\u01b0a t\u1eebng vi\u1ebft.\"",
+    "\"Bu\u1ed3n nh\u01b0 c\u1ee5 \u0111\u00e3 nh\u00ecn ki\u1ec3u n\u00e0y h\u00e0ng tr\u0103m l\u1ea7n tr\u01b0\u1edbc khi ai tan bi\u1ebfn, tr\u01b0\u1edbc khi lu\u1ed1ng rau b\u1eb1ng ph\u1eb3ng, tr\u01b0\u1edbc khi nh\u00e0 s\u1eadp, tr\u01b0\u1edbc khi qu\u1ea7n \u00e1o n\u1eb1m g\u1ecdn tr\u00ean gi\u01b0\u1eddng kh\u00f4ng ai d\u1ecdn.\""
+  ],
+  "ai_patterns_detected": [
+    "L\u1eb7p c\u1ea5u tr\u00fac 'v\u00e0 anh ngh\u0129 v\u1ec1' nhi\u1ec1u l\u1ea7n trong internal monologue \u2014 AI pattern: recursive emotional processing",
+    "\u0110o\u1ea1n cu\u1ed1i ch\u01b0\u01a1ng l\u1eb7p l\u1ea1i c\u00f9ng m\u1ed9t insight (tay m\u1edd, \u0111\u1ea3o l\u1edbn, kh\u00f4ng mu\u1ed1n ngh\u0129) b\u1eb1ng c\u00e1ch di\u1ec5n \u0111\u1ea1t h\u01a1i kh\u00e1c \u2014 AI tend to circle same point",
+    "M\u1ed9t s\u1ed1 \u0111o\u1ea1n descriptive ch\u1ea1y theo template: h\u00e0nh \u0111\u1ed9ng \u2192 ph\u1ea3n \u1ee9ng th\u1ec3 x\u00e1c \u2192 suy ngh\u0129 \u2192 emotional conclusion"
+  ],
+  "overall_score": 4.5,
+  "weakest_dimension": "canon_compliance (Khoa's pronoun violation pulls score down, though otherwise solid)",
+  "top_3_revisions": [
+    "S\u1eeda t\u1ea5t c\u1ea3 'tui' th\u00e0nh 't\u00f4i' trong dialogue c\u1ee7a Khoa \u2014 \u0111\u00e2y l\u00e0 canon violation ph\u1ea3i fix ngay",
+    "C\u1eaft/reduce internal monologue l\u1eb7p \u1edf \u0111o\u1ea1n m\u1ecfm \u0111\u00e1: gi\u1eef 1 l\u1ea7n 'hi\u1ec3u m\u00e0 kh\u00f4ng mu\u1ed1n hi\u1ec3u' r\u1ed3i chuy\u1ec3n sang h\u00ecnh \u1ea3nh c\u1ee5 th\u1ec3, b\u1ecf recursive 'v\u00e0 anh ngh\u0129 v\u1ec1'",
+    "G\u1ed9p c\u00e1c chu\u1ed7i fragment vi ph\u1ea1m voice \u2014 \u0111\u1eb7c bi\u1ec7t 'Kh\u00f4ng c\u00f3 \u0111\u00e1p \u00e1n. Ch\u1ec9 c\u00f3 gi\u00f3. Mu\u1ed1i.' v\u00e0 'Gi\u00f3 bi\u1ec3n th\u1ed5i. Mu\u1ed1i cay m\u1eaft.' \u2014 th\u00e0nh c\u00e2u d\u00e0i h\u1ea1 \u0111\u1ecdng"
+  ],
+  "new_canon_entries": [
+    "Quy lu\u1eadt s\u1ed5 Khoa \u0111\u01b0\u1ee3c x\u00e1c nh\u1eadn qua th\u00ed nghi\u1ec7m: ghi chi ti\u1ebft = ng\u01b0\u1eddi \u0111\u1eb7c h\u01a1n trong v\u00e0i ph\u00fat, g\u1eadp s\u1ed5 = m\u1edd d\u1ea7n, m\u1edf l\u1ea1i = \u0111\u1eb7c l\u1ea1i \u2014 t\u1ea1m th\u1eddi, kh\u00f4ng v\u0129nh vi\u1ec5n",
+    "M\u1ecfm \u0111\u00e1 ph\u00eda nam hi\u1ec7n d\u00e0i b\u1ea3y b\u01b0\u1edbc ch\u00e2n (t\u0103ng t\u1eeb b\u1ed1n b\u01b0\u1edbc ch\u00e2n khi Ch\u1ecb T\u01b0 \u0111o, v\u00e0 hai b\u01b0\u1edbc ch\u00e2n khi m\u1edbi m\u1ecdc th\u00e1ng ba n\u0103m ngo\u00e1i)",
+    "Ch\u1ecb T\u01b0 c\u00f3 s\u1ed5 c\u0169 ghi ba m\u01b0\u01a1i n\u0103m, kh\u00e1c v\u1edbi s\u1ed5 l\u1edbn \u0111ang d\u00f9ng \u2014 ghi chi ti\u1ebft v\u1ec1 \u0111\u1ea5t, \u0111\u00e1, b\u1edd bi\u1ec3n, hoa d\u1eb7m",
+    "Khoa th\u1ea5y m\u00ecnh m\u1edd \u0111i tr\u00ean m\u1ecfm \u0111\u00e1 \u2014 m\u1edd h\u01a1n h\u00f4m qua, m\u1edd h\u01a1n khi ch\u01b0a vi\u1ebft v\u1ec1 Ph\u01b0\u01a1ng \u2014 li\u00ean h\u1ec7 tr\u1ef1c ti\u1ebfp v\u1edbi vi\u1ec7c ghi ch\u00e9p",
+    "Ch\u1eef trong s\u1ed5 Khoa th\u1ea5m s\u00e2u v\u00e0o s\u1ee3i gi\u1ea5y ('th\u1ea5m s\u00e2u v\u00e0o s\u1ee3i g\u1ed7'), kh\u00e1c ch\u1eef Ch\u1ecb T\u01b0 m\u1edd d\u1ea7n \u2014 th\u00eam b\u1eb1ng ch\u1ee9ng s\u1ed5 Khoa ho\u1ea1t \u0111\u1ed9ng kh\u00e1c"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 21.37,
+    "sentence_length_cv": 1.353,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 2.5,
+    "language": "vi",
+    "vi_english_leaks": [],
+    "vi_translation_calques": [
+      [
+        "\\w+\\s*=\\s*\\w+",
+        3
+      ]
+    ],
+    "vi_fiction_ai_tells": [],
+    "vi_telling_violations": 0
+  },
+  "raw_judge_score": 7
+}
