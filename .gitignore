@@ -1,7 +1,3 @@
-eval_logs/
-edit_logs/
-briefs/
-summaries/
 __pycache__/
 *.pyc
 .env
