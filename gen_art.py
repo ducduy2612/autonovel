@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """
-Generate novel art via Nano Banana 2 (fal.ai).
+Generate novel art via Google Gemini.
+
+Uses GEMINI_API_KEY (free tier: 500 images/day on gemini-2.5-flash-image).
 
 Curation workflow (human-in-the-loop):
   python gen_art.py style                    # Derive visual style from world + voice
@@ -29,15 +31,15 @@ import time
 import shutil
 import argparse
 import subprocess
+import base64
 from pathlib import Path
 from dotenv import load_dotenv
 
 BASE_DIR = Path(__file__).parent
 load_dotenv(BASE_DIR / ".env", override=True)
 
-FAL_KEY = os.environ.get("FAL_KEY", "")
-FAL_URL = "https://fal.run/fal-ai/nano-banana-2"
-FAL_EDIT_URL = "https://fal.run/fal-ai/nano-banana-2/edit"
+GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "")
+IMAGE_MODEL = os.environ.get("AUTONOVEL_IMAGE_MODEL", "gemini-2.5-flash-image")
 
 ART_DIR = BASE_DIR / "art"
 VARIANTS_DIR = ART_DIR / "variants"
@@ -51,65 +53,106 @@ ANTHROPIC_BASE = os.environ.get("AUTONOVEL_API_BASE_URL", "https://api.anthropic
 
 
 # ============================================================
-# API HELPERS
+# API HELPERS — Google Gemini image generation
 # ============================================================
 
-def fal_generate(prompt, resolution="1K", aspect_ratio="auto", seed=None):
-    import httpx
-    payload = {
-        "prompt": prompt,
-        "num_images": 1,
-        "resolution": resolution,
-        "aspect_ratio": aspect_ratio,
-        "output_format": "png",
-        "safety_tolerance": "6",
-        "limit_generations": True,
-        "thinking_level": "high",
-    }
-    if seed is not None:
-        payload["seed"] = seed
-    resp = httpx.post(
-        FAL_URL,
-        headers={"Authorization": f"Key {FAL_KEY}", "Content-Type": "application/json"},
-        json=payload, timeout=300,
+_ASPECT_MAP = {
+    "auto": "1:1",
+    "2:3": "9:16",
+    "1:1": "1:1",
+    "4:3": "4:3",
+    "4:1": "16:9",
+    "16:9": "16:9",
+    "3:4": "3:4",
+    "9:16": "9:16",
+}
+
+
+def _gemini_client():
+    """Lazy-init the Gemini client (google-genai SDK)."""
+    from google import genai
+    return genai.Client(api_key=GEMINI_KEY)
+
+
+def gemini_generate(prompt, resolution="1K", aspect_ratio="auto", seed=None):
+    """Generate an image from a text prompt. Returns (data_uri, description)."""
+    from google.genai import types
+
+    client = _gemini_client()
+
+    response = client.models.generate_content(
+        model=IMAGE_MODEL,
+        contents=prompt,
+        config=types.GenerateContentConfig(
+            response_modalities=["IMAGE"],
+        ),
     )
-    resp.raise_for_status()
-    data = resp.json()
-    return data["images"][0]["url"], data.get("description", "")
+
+    for part in response.candidates[0].content.parts:
+        if part.inline_data is not None:
+            b64 = base64.b64encode(part.inline_data.data).decode("ascii")
+            mime = part.inline_data.mime_type or "image/png"
+            return f"data:{mime};base64,{b64}", ""
+
+    raise RuntimeError("Gemini returned no image data")
 
 
-def fal_edit(prompt, image_urls, resolution="1K", aspect_ratio="1:1", seed=None):
+def gemini_edit(prompt, image_paths, resolution="1K", aspect_ratio="1:1", seed=None):
+    """Generate an image using reference image(s). Returns (data_uri, description)."""
+    from google.genai import types
     import httpx
-    payload = {
-        "prompt": prompt,
-        "image_urls": image_urls,
-        "num_images": 1,
-        "resolution": resolution,
-        "aspect_ratio": aspect_ratio,
-        "output_format": "png",
-        "safety_tolerance": "6",
-        "limit_generations": True,
-        "thinking_level": "high",
-    }
-    if seed is not None:
-        payload["seed"] = seed
-    resp = httpx.post(
-        FAL_EDIT_URL,
-        headers={"Authorization": f"Key {FAL_KEY}", "Content-Type": "application/json"},
-        json=payload, timeout=300,
+
+    client = _gemini_client()
+
+    contents = []
+    for img_path in image_paths:
+        if isinstance(img_path, str) and img_path.startswith("data:"):
+            _, b64data = img_path.split(",", 1)
+            img_bytes = base64.b64decode(b64data)
+        elif isinstance(img_path, (str, Path)):
+            p = Path(img_path)
+            if p.exists():
+                img_bytes = p.read_bytes()
+            else:
+                resp = httpx.get(str(img_path), timeout=60, follow_redirects=True)
+                resp.raise_for_status()
+                img_bytes = resp.content
+        else:
+            continue
+        contents.append(types.Part.from_bytes(data=img_bytes, mime_type="image/png"))
+
+    contents.append(prompt)
+
+    response = client.models.generate_content(
+        model=IMAGE_MODEL,
+        contents=contents,
+        config=types.GenerateContentConfig(
+            response_modalities=["IMAGE"],
+        ),
     )
-    resp.raise_for_status()
-    data = resp.json()
-    return data["images"][0]["url"], data.get("description", "")
+
+    for part in response.candidates[0].content.parts:
+        if part.inline_data is not None:
+            b64 = base64.b64encode(part.inline_data.data).decode("ascii")
+            mime = part.inline_data.mime_type or "image/png"
+            return f"data:{mime};base64,{b64}", ""
+
+    raise RuntimeError("Gemini returned no image data")
 
 
-def download_image(url, dest_path):
-    import httpx
-    resp = httpx.get(url, timeout=60, follow_redirects=True)
-    resp.raise_for_status()
+def download_image(url_or_data_uri, dest_path):
+    """Download an image URL or decode a data URI and save to disk."""
+    if url_or_data_uri.startswith("data:"):
+        _, b64data = url_or_data_uri.split(",", 1)
+        img_bytes = base64.b64decode(b64data)
+    else:
+        import httpx
+        resp = httpx.get(url_or_data_uri, timeout=60, follow_redirects=True)
+        resp.raise_for_status()
+        img_bytes = resp.content
     dest_path.parent.mkdir(parents=True, exist_ok=True)
-    dest_path.write_bytes(resp.content)
-    return len(resp.content)
+    dest_path.write_bytes(img_bytes)
+    return len(img_bytes)
 
 
 def call_claude(prompt, max_tokens=1500):
@@ -150,11 +193,13 @@ def save_picks(picks):
     PICKS_FILE.write_text(json.dumps(picks, indent=2))
 
 
-def get_reference_url(art_type):
-    """Get the URL of the picked reference image for a type."""
+def get_reference_path(art_type):
+    """Get the local file path of the picked reference image for a type."""
     picks = load_picks()
     if art_type in picks:
-        return picks[art_type].get("url")
+        p = picks[art_type].get("path", "")
+        if p and Path(p).exists():
+            return p
     return None
 
 
@@ -257,7 +302,7 @@ def cmd_curate(args):
         print(f"\n  [{i}/{n}] {label.upper()}: {d.get('concept', '')[:80]}")
         print(f"    Medium: {d.get('medium', 'N/A')}")
 
-        url, desc = fal_generate(prompt, resolution=resolution, aspect_ratio=aspect)
+        url, desc = gemini_generate(prompt, resolution=resolution, aspect_ratio=aspect)
         dest = VARIANTS_DIR / f"{art_type}_{i:02d}.png"
         size = download_image(url, dest)
 
@@ -369,11 +414,11 @@ def cmd_pick(args):
 
 def cmd_ornaments_all(args):
     style = load_style()
-    ref_url = get_reference_url("ornament")
+    ref_path = get_reference_path("ornament")
 
     chapters = sorted(BASE_DIR.glob("chapters/ch_*.md"))
     print(f"Generating ornaments for {len(chapters)} chapters...")
-    if ref_url:
+    if ref_path:
         print(f"  Using ornament reference for style consistency")
 
     for ch_path in chapters:
@@ -391,10 +436,10 @@ def cmd_ornaments_all(args):
 
         print(f"  Ch {num}: '{title}'", end="", flush=True)
 
-        if ref_url:
-            url, _ = fal_edit(prompt, [ref_url], resolution="0.5K", aspect_ratio="1:1")
+        if ref_path:
+            url, _ = gemini_edit(prompt, [ref_path], resolution="0.5K", aspect_ratio="1:1")
         else:
-            url, _ = fal_generate(prompt, resolution="0.5K", aspect_ratio="1:1")
+            url, _ = gemini_generate(prompt, resolution="0.5K", aspect_ratio="1:1")
 
         dest = ART_DIR / f"ornament_ch{num:02d}.png"
         size = download_image(url, dest)
@@ -409,7 +454,7 @@ def cmd_scene_break(args):
         f"Style: {style['art_style']}. Very simple. White background. No text."
     )
     print("Generating scene break...")
-    url, _ = fal_generate(prompt, resolution="0.5K", aspect_ratio="4:1")
+    url, _ = gemini_generate(prompt, resolution="0.5K", aspect_ratio="4:1")
     dest = ART_DIR / "scene_break.png"
     size = download_image(url, dest)
     print(f"  Saved: {dest} ({size:,} bytes)")
@@ -505,7 +550,7 @@ def cmd_all(args):
     print(">>> Then run: gen_art.py pick cover <number>")
     print(">>> Then re-run: gen_art.py all")
     
-    if not get_reference_url("cover"):
+    if not get_reference_path("cover"):
         print("\n(Stopping here — pick a cover first)")
         return
 
@@ -515,7 +560,7 @@ def cmd_all(args):
     print("\n>>> HUMAN ACTION: Review art/variants/ornament_*.png")
     print(">>> Then run: gen_art.py pick ornament <number>")
 
-    if not get_reference_url("ornament"):
+    if not get_reference_path("ornament"):
         print("\n(Stopping here — pick an ornament style first)")
         return
 
@@ -546,7 +591,7 @@ def cmd_all(args):
 # ============================================================
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate novel art via Nano Banana 2")
+    parser = argparse.ArgumentParser(description="Generate novel art via Google Gemini")
     sub = parser.add_subparsers(dest="command")
 
     sub.add_parser("style", help="Derive visual style from world + voice")
@@ -573,8 +618,8 @@ def main():
         parser.print_help()
         return
 
-    if not FAL_KEY and args.command not in ("vectorize",):
-        print("ERROR: FAL_KEY not set in .env", file=sys.stderr)
+    if not GEMINI_KEY and args.command not in ("vectorize",):
+        print("ERROR: GEMINI_API_KEY not set in .env", file=sys.stderr)
         sys.exit(1)
 
     ART_DIR.mkdir(exist_ok=True)

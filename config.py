@@ -24,7 +24,7 @@ load_dotenv(BASE_DIR / ".env")
 # API credentials
 # ---------------------------------------------------------------------------
 API_KEY: str = os.environ.get("ANTHROPIC_API_KEY", "")
-FAL_KEY: str = os.environ.get("FAL_KEY", "")
+GEMINI_KEY: str = os.environ.get("GEMINI_API_KEY", "")
 ELEVENLABS_KEY: str = os.environ.get("ELEVENLABS_API_KEY", "")
 
 # ---------------------------------------------------------------------------

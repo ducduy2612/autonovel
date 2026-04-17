@@ -77,8 +77,8 @@ class TestExports:
     def test_api_base_is_str(self):
         assert isinstance(_cfg.API_BASE, str)
 
-    def test_fal_key_is_str(self):
-        assert isinstance(_cfg.FAL_KEY, str)
+    def test_gemini_key_is_str(self):
+        assert isinstance(_cfg.GEMINI_KEY, str)
 
     def test_elevenlabs_key_is_str(self):
         assert isinstance(_cfg.ELEVENLABS_KEY, str)
