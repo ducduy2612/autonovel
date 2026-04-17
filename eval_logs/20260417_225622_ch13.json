@@ -1,0 +1,103 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "Quy lu\u1eadt c\u1ee7a ti\u1ebfng v\u1ecdng \u0111\u00eam r\u1eb1m: ai \u0111ang b\u1ecb qu\u00ean nhi\u1ec1u h\u01a1n th\u00ec nghe r\u00f5 h\u01a1n. Nh\u01b0 ph\u00e9p thu\u1eadt th\u01b0\u01a1ng h\u1ea1i, c\u1ed1 n\u00edu gi\u1eef h\u1ecd b\u1eb1ng c\u00e1ch cho h\u1ecd nghe n\u1ed7i \u0111au c\u1ee7a ng\u01b0\u1eddi s\u1ed1ng, cho h\u1ecd bi\u1ebft r\u1eb1ng tr\u00ean b\u1edd kia v\u1eabn c\u00f3 ng\u01b0\u1eddi kh\u00f3c, v\u1eabn c\u00f3 ng\u01b0\u1eddi g\u1ecdi t\u00ean, v\u1eabn c\u00f3 ng\u01b0\u1eddi nh\u1edb \u2014 d\u00f9 nh\u1edb m\u1edd nh\u1ea1t, d\u00f9 nh\u1edb chung chung, d\u00f9 nh\u1edb 'ai \u0111\u00f3' m\u00e0 kh\u00f4ng nh\u1edb khu\u00f4n m\u1eb7t.",
+    "fix": "Cut this entire explanatory passage. Instead, let Khoa observe through action: anh th\u1ea5y nh\u1eefng ng\u01b0\u1eddi m\u1edd nh\u1ea1t nh\u1ea5t nghi\u00eang ng\u01b0\u1eddi v\u1ec1 ph\u00eda tr\u01b0\u1edbc, m\u1eaft m\u1edf to, m\u00f4i m\u1ea5p m\u00e1y nh\u01b0 \u0111ang nghe r\u00f5 h\u01a1n anh \u2014 v\u00e0 anh hi\u1ec3u, kh\u00f4ng c\u1ea7n ai gi\u1ea3i th\u00edch, r\u1eb1ng ph\u00e9p thu\u1eadt cho h\u1ecd nghe nhi\u1ec1u h\u01a1n v\u00ec h\u1ecd s\u1eafp h\u1ebft.",
+    "note": "The chapter mostly nails the u bu\u1ed3n tone and long-flowing sentence rhythm. Opening paragraph is excellent voice work. But this passage violates the explicit voice rule 'kh\u00f4ng gi\u1ea3i th\u00edch ph\u00e9p thu\u1eadt b\u1eb1ng ng\u00f4n ng\u1eef h\u1ec7 th\u1ed1ng' \u2014 it reads like a wiki entry shoehorned into prose."
+  },
+  "beat_coverage": {
+    "score": 8,
+    "weakest_moment": "Khoa ng\u1ed3i l\u1ea1i m\u1ed9t m\u00ecnh. Nh\u00ecn xu\u1ed1ng. Ph\u1ea3n chi\u1ebfu m\u00ecnh \u2014 m\u1edd h\u01a1n, nh\u1ecf h\u01a1n. from the outline feels compressed compared to its potential.",
+    "fix": "Expand the moment after Ph\u01b0\u01a1ng leaves. Give Khoa more sensory detail of the empty circle \u2014 the warmth where people sat, the silence they left \u2014 before he looks at his own reflection.",
+    "note": "All five beats are hit and dramatized rather than summarized. The 'Minh \u01a1i' misdirect is particularly well-executed \u2014 both Khoa and reader feel the same spike of hope and collapse."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "Ph\u01b0\u01a1ng's lines are effective but there's so little dialogue that character voice differentiation can't fully shine. Khoa's internal narration sometimes slides into generic protagonist territory: 'Tim Khoa th\u1eaft l\u1ea1i.'",
+    "fix": "Replace 'Tim Khoa th\u1eaft l\u1ea1i' with a body-before-emotion image from Khoa's specific experience \u2014 something from research, from water, from his particular wound. E.g., the sensation of water filling lungs, or a lab measurement, something only he would think.",
+    "note": "What little dialogue exists works beautifully. Ph\u01b0\u01a1ng's 'Kh\u00f4ng ph\u1ea3i con' is devastating in its brevity. But the chapter is 95% narration, limiting the opportunity to demonstrate voice differentiation."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "Khoa's reflection now showing his left hand trembling (when it previously didn't in earlier chapters) is a strong clue but is explained too directly: 'tay tr\u00e1i trong ph\u1ea3n chi\u1ebfu \u2014 tay tr\u00e1i v\u1ed1n kh\u00f4ng run trong \u1ea3nh gi\u1ebfng \u2014 gi\u1edd c\u0169ng b\u1eaft \u0111\u1ea7u run nh\u1eb9, run nh\u01b0 tay th\u1eadt c\u1ee7a anh.'",
+    "fix": "Just show the trembling without the internal recap. Let the reader who's been paying attention notice the change. Trust the accumulated detail from Ch 2 and Ch 10.",
+    "note": "The Ph\u01b0\u01a1ng's-mother-crying-without-knowing-why plant is masterfully done \u2014 devastating and organic. The reflection-fading clue is well-positioned for later payoff."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "R\u1ed3i ti\u1ebfng \u0111\u1ecdc \u0111i\u1ebfu v\u0103n, ch\u1ec9 nghe l\u1ecdt l\u1ed7 nh\u1eefng c\u00e2u d\u1edf dang: '...ng\u01b0\u1eddi ch\u1ed3ng, ng\u01b0\u1eddi cha t\u1eadn t\u1ee5y... bao n\u0103m... kh\u00f4ng ng\u00e0y n\u00e0o...' r\u1ed3i m\u1ea5t h\u00fat, nh\u01b0 \u0111\u00e0i ph\u00e1t thanh b\u1ecb nhi\u1ec5u, nh\u01b0 s\u00f3ng bi\u1ec3n nu\u1ed1t ch\u1eef tr\u01b0\u1edbc khi ch\u1eef k\u1ecbp th\u00e0nh c\u00e2u.",
+    "fix": "The 'nh\u01b0 \u0111\u00e0i ph\u00e1t thanh b\u1ecb nhi\u1ec5u' simile feels imported from a different register. Replace with something from the island's sensory world: nh\u01b0 gi\u00f3 nu\u1ed1t ch\u1eef tr\u01b0\u1edbc khi ch\u1eef k\u1ecbp t\u1edbi b\u1edd, nh\u01b0 n\u01b0\u1edbc bi\u1ec3n ng\u1eadm l\u1ea5y \u00e2m thanh.",
+    "strongest_sentence": "M\u1eb9 kh\u00f3c cho c\u00e1i kho\u1ea3ng tr\u1ed1ng, kh\u00f4ng ph\u1ea3i kh\u00f3c cho ng\u01b0\u1eddi.",
+    "note": "Three consecutive paragraphs start with 'R\u1ed3i' (R\u1ed3i ti\u1ebfng v\u1ecdng b\u1eaft \u0111\u1ea7u / R\u1ed3i ti\u1ebfng g\u1ecdi t\u00ean / R\u1ed3i ti\u1ebfng kh\u00e1c \u0111\u1ebfn). The strongest lines are those rooted in Vietnamese sensory experience \u2014 the opening moon image, Ph\u01b0\u01a1ng's voice fading, the final image of C\u1ee5 Ba alone."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Emotional continuity from Ch 12 is strong \u2014 Khoa ended choosing to believe his notebook saves people, and this chapter tests that belief against Ph\u01b0\u01a1ng's accelerating fade. Physical details track: 46 people (post b\u00e1c Kh\u1ea3i), Ph\u01b0\u01a1ng's l\u00fam \u0111\u1ed3ng ti\u1ec1n continuing to fade from Ch 5, her footprints lighter from Ch 2. The reflection continuity is well-maintained from Ch 2 and Ch 10."
+  },
+  "canon_compliance": {
+    "score": 9,
+    "violations": [],
+    "note": "Exceptionally compliant. Island count correct (46 post-b\u00e1c Kh\u1ea3i). Ph\u01b0\u01a1ng's details match (\u00e1o b\u00e0 ba t\u00edm, tay tr\u00e1i trong su\u1ed1t, l\u00fam \u0111\u1ed3ng ti\u1ec1n m\u1edd, gi\u1ecdng nh\u1ecf d\u1ea7n). C\u1ee5 Ba's details match (\u00e1o b\u00e0 ba tr\u1eafng, ng\u00f3n tr\u1ecf c\u1ee5t n\u1eeda \u0111\u1ed1t). Ti\u1ebfng v\u1ecdng \u0111\u00eam r\u1eb1m rules match world.md exactly. Khoa's reflection continuity maintained. Ch\u1ecb T\u01b0's position beside C\u1ee5 Ba appropriate. Hoa d\u1eb7m white (not gray) at well correct per Ch 2 canon. M\u1eb9 Ph\u01b0\u01a1ng t\u00ean Li\u00ean, 70 tu\u1ed5i, Alzheimer \u2014 all match."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "The paragraph 'Quy lu\u1eadt c\u1ee7a ti\u1ebfng v\u1ecdng \u0111\u00eam r\u1eb1m: ai \u0111ang b\u1ecb qu\u00ean nhi\u1ec1u h\u01a1n th\u00ec nghe r\u00f5 h\u01a1n. Nh\u01b0 ph\u00e9p thu\u1eadt th\u01b0\u01a1ng h\u1ea1i...' lore-splains instead of letting lore do work through action.",
+    "fix": "Replace with Khoa observing concrete differences: ng\u01b0\u1eddi m\u1edd ng\u1ed3i nghi\u00eang v\u1ec1 tr\u01b0\u1edbc, ng\u01b0\u1eddi \u0111\u1eb7c ng\u1ed3i th\u1eb3ng l\u01b0ng, v\u00e0 anh \u2014 ng\u01b0\u1eddi s\u1ed1ng \u2014 ch\u1ec9 nghe ti\u1ebfng r\u00e8 r\u00e8 xa x\u0103m nh\u01b0 \u0111\u1ee9ng ngo\u00e0i c\u1eeda.",
+    "note": "The lore does genuine emotional work here: the echo phenomenon reveals Ph\u01b0\u01a1ng's mother crying without knowing why, the well-reflection absence confirms Ph\u01b0\u01a1ng's accelerating fade, and Khoa's changing reflection ties his living body to the island's magic. This is lore as story engine, not decoration."
+  },
+  "engagement": {
+    "score": 8,
+    "weakest_moment": "The middle section where voices come one after another (H\u00f9ng \u01a1i \u2192 \u0111i\u1ebfu v\u0103n \u2192 Minh \u01a1i \u2192 Ph\u01b0\u01a1ng \u01a1i) has a slightly mechanical, list-like progression that dulls the tension between the two emotional peaks.",
+    "fix": "Condense the H\u00f9ng and \u0111i\u1ebfu v\u0103n snippets into a single sensory wash of broken sound, then let silence breathe before 'Minh \u01a1i' hits. Less sequential cataloguing, more compression-then-explosion.",
+    "note": "The 'Minh \u01a1i' misdirect is the chapter's strongest surprise \u2014 both character and reader feel the same spike and collapse. Ph\u01b0\u01a1ng's silent departure is genuinely affecting. The final image of C\u1ee5 Ba alone at the well is haunting. These earn the 8 despite the mid-section sag."
+  },
+  "three_weakest_sentences": [
+    "Quy lu\u1eadt c\u1ee7a ti\u1ebfng v\u1ecdng \u0111\u00eam r\u1eb1m: ai \u0111ang b\u1ecb qu\u00ean nhi\u1ec1u h\u01a1n th\u00ec nghe r\u00f5 h\u01a1n.",
+    "R\u1ed3i ti\u1ebfng \u0111\u1ecdc \u0111i\u1ebfu v\u0103n, ch\u1ec9 nghe l\u1ecdt l\u1ed7 nh\u1eefng c\u00e2u d\u1edf dang: '...ng\u01b0\u1eddi ch\u1ed3ng, ng\u01b0\u1eddi cha t\u1eadn t\u1ee5y... bao n\u0103m... kh\u00f4ng ng\u00e0y n\u00e0o...' r\u1ed3i m\u1ea5t h\u00fat, nh\u01b0 \u0111\u00e0i ph\u00e1t thanh b\u1ecb nhi\u1ec5u, nh\u01b0 s\u00f3ng bi\u1ec3n nu\u1ed1t ch\u1eef tr\u01b0\u1edbc khi ch\u1eef k\u1ecbp th\u00e0nh c\u00e2u.",
+    "C\u00e1i g\u00ec \u0111\u00f3 trong l\u1ed3ng ng\u1ef1c anh x\u1eb9p xu\u1ed1ng. Nh\u01b0 bong b\u00f3ng b\u1ecb b\u00f3p. Nh\u01b0 ph\u1ed5i x\u1eb9p khi n\u01b0\u1edbc tr\u00e0n v\u00e0o."
+  ],
+  "three_strongest_sentences": [
+    "M\u1eb9 kh\u00f3c cho c\u00e1i kho\u1ea3ng tr\u1ed1ng, kh\u00f4ng ph\u1ea3i kh\u00f3c cho ng\u01b0\u1eddi.",
+    "Tr\u0103ng m\u1ecdc t\u1eeb ph\u00eda \u0111\u00f4ng, tr\u00f2n v\u00e0nh v\u1ea1nh nh\u01b0 con m\u1eaft c\u00e1 \u00e9p ph\u1eb3ng tr\u00ean n\u1ec1n tr\u1eddi, s\u00e1ng \u0111\u1ebfn m\u1ee9c soi r\u00f5 t\u1eebng k\u1ebd \u0111\u00e1 tr\u00ean th\u00e0nh gi\u1ebfng, t\u1eebng v\u1ec7t r\u00eau m\u00f2n n\u01a1i ng\u01b0\u1eddi ta th\u01b0\u1eddng v\u1ecbn tay khi m\u00fac n\u01b0\u1edbc",
+    "Kh\u00f4ng ph\u1ea3i con."
+  ],
+  "ai_patterns_detected": [
+    "Explanatory passage that reads like wiki insertion: 'Quy lu\u1eadt c\u1ee7a ti\u1ebfng v\u1ecdng \u0111\u00eam r\u1eb1m: ai \u0111ang b\u1ecb qu\u00ean nhi\u1ec1u h\u01a1n th\u00ec nghe r\u00f5 h\u01a1n. Nh\u01b0 ph\u00e9p thu\u1eadt th\u01b0\u01a1ng h\u1ea1i...'",
+    "Sequential 'R\u1ed3i' paragraph openings (three consecutive paragraphs beginning with 'R\u1ed3i')",
+    "Generic simile cluster: 'Nh\u01b0 bong b\u00f3ng b\u1ecb b\u00f3p. Nh\u01b0 ph\u1ed5i x\u1eb9p khi n\u01b0\u1edbc tr\u00e0n v\u00e0o' \u2014 the stacked similes for a single emotion feel AI-generated",
+    "Slight over-telling of emotion: 'Tim Khoa th\u1eaft l\u1ea1i' is functional but expected; a more specific body sensation from Khoa's character would be better"
+  ],
+  "overall_score": 7.0,
+  "weakest_dimension": "voice_adherence",
+  "top_3_revisions": [
+    "Cut or radically compress the 'Quy lu\u1eadt c\u1ee7a ti\u1ebfng v\u1ecdng \u0111\u00eam r\u1eb1m' explanatory paragraph. Replace with Khoa observing concrete behavioral differences in the circle \u2014 who leans forward, who sits still \u2014 and drawing his own conclusion silently.",
+    "Condense the 'H\u00f9ng \u01a1i' and \u0111i\u1ebfu v\u0103n fragments into a brief sensory wash of sound, creating more breathing room before the 'Minh \u01a1i' misdirect hits. Less sequential cataloguing, more compression-then-spike.",
+    "Replace the generic 'Tim Khoa th\u1eaft l\u1ea1i' and 'C\u00e1i g\u00ec \u0111\u00f3 trong l\u1ed3ng ng\u1ef1c anh x\u1eb9p xu\u1ed1ng' with body-before-emotion images specific to Khoa's wound: the sensation of cold water over ankles, the sound of something slipping from grip \u2014 images from his particular trauma, not a generic thesaurus of sadness."
+  ],
+  "new_canon_entries": [
+    "Ph\u1ea3n chi\u1ebfu c\u1ee7a Khoa trong gi\u1ebfng \u0111\u00eam r\u1eb1m ti\u1ebfp t\u1ee5c m\u1edd \u0111i \u2014 tay tr\u00e1i trong ph\u1ea3n chi\u1ebfu gi\u1edd c\u0169ng b\u1eaft \u0111\u1ea7u run nh\u1eb9, nh\u01b0 tay th\u1eadt c\u1ee7a anh (tr\u01b0\u1edbc \u0111\u00f3 ph\u1ea3n chi\u1ebfu tay tr\u00e1i kh\u00f4ng run).",
+    "Ph\u01b0\u01a1ng nghe \u0111\u01b0\u1ee3c ti\u1ebfng m\u1eb9 g\u1ecdi 'Ph\u01b0\u01a1ng \u01a1i... con \u01a1i' qua ti\u1ebfng v\u1ecdng \u0111\u00eam r\u1eb1m \u2014 b\u00e0 Li\u00ean kh\u00f3c nh\u01b0ng kh\u00f4ng nh\u1edb v\u00ec sao, kh\u00f3c cho 'ai \u0111\u00f3' kh\u00f4ng ph\u1ea3i kh\u00f3c cho con.",
+    "Ph\u01b0\u01a1ng nh\u00ecn gi\u1ebfng \u0111\u00eam r\u1eb1m nh\u01b0ng ch\u1ec9 th\u1ea5y m\u1eb7t n\u01b0\u1edbc ph\u1eb3ng l\u00ec \u2014 kh\u00f4ng th\u1ea5y h\u00ecnh \u1ea3nh m\u1eb9, x\u00e1c nh\u1eadn c\u00f4 s\u1eafp tan bi\u1ebfn.",
+    "C\u1ee5 Ba ng\u1ed3i l\u1ea1i gi\u1ebfng m\u1ed9t m\u00ecnh sau khi m\u1ecdi ng\u01b0\u1eddi \u0111\u00e3 r\u1eddi \u2014 nh\u00ecn xu\u1ed1ng n\u01b0\u1edbc th\u1ea5y ph\u1ea3n chi\u1ebfu m\u00ecnh r\u00f5 n\u00e9t, s\u1eafc nh\u01b0 kh\u1eafc.",
+    "M\u00f9i hoa d\u1eb7m tr\u00ean \u0111\u01b0\u1eddng v\u1ec1 nh\u00e0 Khoa \u0111\u00eam r\u1eb1m: c\u00e0 ph\u00ea rang xay tho\u1ea3ng qua r\u1ed3i tan, thay b\u1eb1ng mu\u1ed1i, kh\u00f3i, v\u00e0 m\u00f9i c\u1ee7a th\u1ee9 \u0111ang r\u1eddi \u0111i."
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 12.54,
+    "sentence_length_cv": 1.306,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 0.0,
+    "language": "vi",
+    "vi_english_leaks": [],
+    "vi_translation_calques": [],
+    "vi_fiction_ai_tells": [],
+    "vi_telling_violations": 0
+  },
+  "raw_judge_score": 7
+}

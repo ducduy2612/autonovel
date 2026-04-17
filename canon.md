@@ -408,3 +408,11 @@
 - Thím Hai có chiếc kẹp sừng đen trên tóc bạc — chi tiết hiện ra khi Khoa ghi về thím. (ch_12)
 - Mỏm đá phía nam dài thêm tám bước chân so với bản đồ Khoa vẽ (chú thích: cần sửa mốc thời gian cho khớp canon — 'ba năm trước' thay 'năm ngoái'). (ch_12)
 - Đất mới trên mỏm đá phía nam: cứng, không rong rêu, không vỏ sò, trơn nhẵn như vừa được mài phẳng. (ch_12)
+
+
+## From Chapter 13
+- Phản chiếu của Khoa trong giếng đêm rằm tiếp tục mờ đi — tay trái trong phản chiếu giờ cũng bắt đầu run nhẹ, như tay thật của anh (trước đó phản chiếu tay trái không run). (ch_13)
+- Phương nghe được tiếng mẹ gọi 'Phương ơi... con ơi' qua tiếng vọng đêm rằm — bà Liên khóc nhưng không nhớ vì sao, khóc cho 'ai đó' không phải khóc cho con. (ch_13)
+- Phương nhìn giếng đêm rằm nhưng chỉ thấy mặt nước phẳng lì — không thấy hình ảnh mẹ, xác nhận cô sắp tan biến. (ch_13)
+- Cụ Ba ngồi lại giếng một mình sau khi mọi người đã rời — nhìn xuống nước thấy phản chiếu mình rõ nét, sắc như khắc. (ch_13)
+- Mùi hoa dặm trên đường về nhà Khoa đêm rằm: cà phê rang xay thoảng qua rồi tan, thay bằng muối, khói, và mùi của thứ đang rời đi. (ch_13)

@@ -1,0 +1,9 @@
+Here is a summary of the chapter:
+
+Đêm rằm, bốn mươi bảy "người dân" trên đảo ma tự động tụ tập quanh giếng làng trong im lặng. Họ nhìn xuống mặt nước để ngóng bóng dáng người thân trên đất liền; nếu không thấy, tức là họ đang bị lãng quên và sắp tan biến. Những "tiếng vọng" của người sống bắt đầu vang lên, và quy luật nơi đây là: kẻ càng bị lãng quên càng nghe rõ tiếng khóc gọi của cõi trần.
+
+Khoa—người sống duy nhất trên đảo—nghe tiếng vọng vô cùng mờ nhạt. Anh thắt tim khi nghe giọng phụ nữ nghẹn ngào gọi tên "Minh" (tên mẹ anh), nhưng rồi nhận ra đó chỉ là sự trùng hợp của một cái tên phổ thông. Sự thật phũ phàng hơn ập đến khi Khoa soi bóng xuống nước: hình ảnh phản chiếu của anh đang mờ nhạt đi, bàn tay trái trong nước cũng bắt đầu run rẩy giống hệt ngoài đời thực. Ranh giới giữa sự sống và cái chết trong anh dường như đang bị xóa nhòa.
+
+Bi kịch tương tự cũng xảy ra với Phương. Cô nghe được tiếng mẹ mình (bà Liên bị Alzheimer) khóc gọi "Phương ơi", nhưng người mẹ ấy khóc cho một khái niệm vô hình chứ không còn nhớ khuôn mặt con. Nhìn mặt nước phẳng lì không phản chiếu bóng dáng ai, Phương hiểu ra sứ mệnh của mình đã hết. Cô lặng lẽ rời đi, thân hình mỏng tang và nhẹ bẫng như sương. Trái lại, cụ Ba với bốn thế hệ thờ cúng vẫn sắc nét, phải mang "phước báu" đắng cay là ở lại mãi mãi để chứng kiến người khác tan biến.
+
+Chương kết thúc khi Khoa hoảng hốt bỏ về nhà số mười bảy. Nằm trên phản gỗ trong bóng tối với đôi bàn tay lạnh giá và run rẩy, anh thoáng ngửi thấy mùi cà phê Berlin—hơi hướng từ quá khứ—rồi lại chìm vào nhịp sóng vỗ đều đặn, nặng nề như nhịp tim của một người đang chìm dần.
