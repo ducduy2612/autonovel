@@ -455,3 +455,12 @@
 - Khoa phát hiện mình đang mờ: bàn tay trái trong gương trong hơn tay anh nhớ, cả tay thật và phản chiếu đều run (trước đó phản chiếu không run — khác Ch 10, 13). (ch_17)
 - Cụ Ba nhận thấy Khoa 'gầy hơn, mờ hơn' — lần đầu ai trên đảo nhận ra Khoa đang biến đổi. (ch_17)
 - Đảo đang 'ăn' Khoa — khi anh ngừng ghi chép, cơ thể anh bắt đầu mờ như người chết trên đảo. (ch_17)
+
+
+## From Chapter 18
+- Phương trực tiếp nói với Khoa rằng anh đang đổi lấy sự tồn tại của mình cho cô — 'Anh đang nhớ thay tui. Nhưng nhớ thay không phải nhớ. Và giá... Giá là anh.' (ch_18)
+- Phương yêu cầu Khoa ngừng ghi về cô — 'Đừng ghi về tui nữa. Để tui đi. Đừng chìm theo.' (ch_18)
+- Thân thể Phương từ vai trở xuống đã gần như biến mất hoàn toàn — chỉ còn phần cổ và đầu, phần dưới chỉ là khoảng không mờ ảo. (ch_18)
+- Lúm đồng tiền má trái Phương giờ chỉ còn vết hõm mờ nhạt — tiếp tục mờ từ Ch 5. (ch_18)
+- Hoa dặm quanh nhà Phương toàn bộ đã chuyển sang xám nhạt — không còn cánh trắng nào. (ch_18)
+- Khoa nhận ra rằng mỗi chi tiết anh ghi về Phương không giữ cô mà đổi lấy cô — sinh khí anh truyền vào chữ viết lấy từ chính cơ thể anh. (ch_18)

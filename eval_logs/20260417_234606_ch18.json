@@ -1,0 +1,108 @@
+{
+  "voice_adherence": {
+    "score": 6,
+    "weakest_moment": "Tay c\u00f4 \u2014 c\u1ea3 hai tay \u2014 \u0111\u00e3 th\u00e0nh kh\u00f3i hold h\u00ecnh ng\u01b0\u1eddi, ng\u00f3n tay c\u00f2n nguy\u00ean nh\u01b0ng r\u1ed3i anh nh\u00ecn xuy\u00ean qua th\u1ea5y n\u01b0\u1edbc bi\u1ec3n xa xa, xanh th\u1eabm, cu\u1ed9n s\u00f3ng.",
+    "fix": "Remove the English word 'hold' \u2014 replace with 'gi\u1eef' or restructure: '\u0111\u00e3 th\u00e0nh kh\u00f3i mang h\u00ecnh ng\u01b0\u1eddi' ho\u1eb7c 'hai tay c\u00f4 c\u00f2n h\u00ecnh ng\u01b0\u1eddi nh\u01b0ng \u0111\u00e3 th\u00e0nh kh\u00f3i.'",
+    "note": "The voice mostly captures the melancholic, flowing quality described in the profile. Long sentences dominate appropriately. Body-before-emotion works well ('cu\u1ed1ng h\u1ecdng kh\u00e9p l\u1ea1i', '\u0111\u1ea7u g\u1ed1i y\u1ebfu'). Vocabulary wells (salt, smoke, water) deployed effectively. However, multiple foreign-language intrusions ('hold', '\u6bcf\u4e00', 'espec\u00edf\u7684\u6027\u8d28') completely shatter immersion. These are not voice issues per se but they render voice assessment impossible in those passages. The 'nh\u1edb, nh\u1edb, nh\u1edb m\u00e3i' repetition near the end works per the voice profile's deliberate repetition rule, and the long flowing sentences match the 65% target."
+  },
+  "beat_coverage": {
+    "score": 8,
+    "weakest_moment": "Khoa n\u1eb1m xu\u1ed1ng. L\u01b0ng ch\u1ea1m \u0111\u00e1. \u0110\u00e1 l\u1ea1nh. \u0110\u00e1 m\u00f2n l\u00f5m ch\u1ed7 C\u1ee5 Ba ng\u1ed3i m\u1ed7i chi\u1ec1u, ba tr\u0103m n\u0103m, v\u00e0 anh n\u1eb1m c\u1ea1nh v\u1ec7t l\u00f5m \u0111\u00f3, nh\u00ecn l\u00ean tr\u1eddi \u2014 tr\u1eddi chi\u1ec1u trong, xanh nh\u1ea1t, kh\u00f4ng m\u00e2y \u2014 v\u00e0 ngh\u0129: ba tr\u0103m n\u0103m.",
+    "fix": "This beat (Khoa processing alone after Ph\u01b0\u01a1ng leaves) is present but runs long. The passage about C\u1ee5 Ba's 300 years, while thematic, could be tightened \u2014 cut the explicit 'ba tr\u0103m n\u0103m' count to once rather than twice in close succession, trusting the reader to feel the weight.",
+    "note": "All five outline beats are dramatized, not merely mentioned. Beat 1 (Ph\u01b0\u01a1ng sitting, nearly gone) is vividly rendered. Beat 2 (hand-holding, both fading) is physically specific. Beat 3 (Ph\u01b0\u01a1ng's confrontation about his fading) has genuine dramatic tension. Beat 4 (the 'nh\u1edb thay kh\u00f4ng ph\u1ea3i nh\u1edb' revelation) lands with weight. Beat 5 (her departure, gray flowers, Khoa alone) closes strong. The post-departure section extends beyond outline but earns its length through the rock-lying reflection."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "'Tui nh\u00ecn anh hai n\u0103m r\u01b0\u1ee1i. Tui bi\u1ebft m\u1ed7i n\u00e9t. V\u1ebft ru\u1ed3i b\u00ean m\u00e1 ph\u1ea3i. N\u1ebfp nh\u0103n gi\u1eefa m\u00e0y khi anh lo. C\u00e1i c\u00e1ch anh \u0111eo k\u00ednh l\u1ec7ch, lu\u00f4n lu\u00f4n l\u1ec7ch b\u00ean tr\u00e1i.'",
+    "fix": "This list of observations feels slightly mechanical \u2014 a catalogue rather than speech. Consider breaking it with an emotional beat: 'Tui nh\u00ecn anh hai n\u0103m r\u01b0\u1ee1i. Tui bi\u1ebft m\u1ed7i n\u00e9t.' Then a pause. Then one detail, not three in sequence. Let the specificity come naturally rather than listed.",
+    "note": "Ph\u01b0\u01a1ng's dialogue is the strongest element here. Her short, declarative sentences match the profile perfectly: 'Th\u00f4i. \u0110\u1eebng ghi v\u1ec1 tui n\u1eefa.' / '\u0110\u1ec3 tui \u0111i.' / '\u0110\u1eebng ch\u00ecm theo.' \u2014 each one lands like a stone. She uses 'tui' correctly, speaks in specifics not emotions, and her final lines are devastating precisely because they're so flat. Khoa's internal voice wavers between his analytical character and a more generic lyricism \u2014 the passage explaining the magic system ('S\u1ed5 kh\u00f4ng d\u00f9ng m\u1ef1c. S\u1ed5 d\u00f9ng anh.') sounds more like narrator-exposition than Khoa's thinking. But his inability to respond when Ph\u01b0\u01a1ng confronts him ('kh\u00f4ng c\u00f3 l\u1eddi n\u00e0o ra') feels true to a man who thinks in theories but can't speak pain."
+  },
+  "plants_seeded": {
+    "score": 7,
+    "weakest_moment": "Hoa d\u1eb7m m\u1ecdc quanh c\u00f4. Khoa nh\u00ecn \u2014 nh\u00ecn theo, v\u00ec kh\u00f4ng th\u1ec3 kh\u00f4ng nh\u00ecn \u2014 v\u00e0 th\u1ea5y: x\u00e1m. To\u00e0n x\u00e1m. Kh\u00f4ng c\u00f2n c\u00e1nh tr\u1eafng n\u00e0o.",
+    "fix": "The hoa d\u1eb7m turning gray is a strong visual payoff, but the delivery here is slightly too explicit \u2014 'To\u00e0n x\u00e1m. Kh\u00f4ng c\u00f2n c\u00e1nh tr\u1eafng n\u00e0o' tells the reader exactly what to feel. Consider: just describe what he sees without the italicized emphasis, let the grayness accumulate through the description rather than announcing it.",
+    "note": "Good integration of prior plants: Ph\u01b0\u01a1ng noticing Khoa's cold hand (Ch 11) pays off naturally here. The s\u1ed5 mystery (Ch 10 \u2014 why his writing stays clear while Ch\u1ecb T\u01b0's fades) is resolved through the 'sinh kh\u00ed' explanation, which feels earned. The gi\u1ebfng reflection being m\u1edd connects to his current fading state. New plants are subtle: Khoa walking toward Khu Nh\u00e0 Tr\u1ed1ng sets up next chapter; '\u0110\u1eebng ch\u00ecm theo' echoes as a warning that will reverberate. The v\u1ec7t \u1ea9m disappearing is a beautiful detail that plants the physical reality of fading without commentary."
+  },
+  "prose_quality": {
+    "score": 5,
+    "weakest_sentence": "Nh\u01b0 s\u1ee3i d\u00e2y th\u1eebng ng\u00e2m n\u01b0\u1edbc bi\u1ec3n, m\u1ec1m b\u00ean ngo\u00e0i nh\u01b0ng b\u00ean trong\u6bcf\u4e00 s\u1ee3i c\u1ea9u th\u1eb3ng ch\u01b0a \u0111\u1ee9t.",
+    "fix": "This sentence contains Chinese characters ('\u6bcf\u4e00') and the word 'c\u1ea9u th\u1eb3ng' which seems incorrect (c\u1ea9u th\u1eb3ng = careless/sloppy, not the intended meaning of 'taut/straight'). Rewrite: 'nh\u01b0 s\u1ee3i d\u00e2y th\u1eebng ng\u00e2m n\u01b0\u1edbc bi\u1ec3n, m\u1ec1m b\u00ean ngo\u00e0i nh\u01b0ng b\u00ean trong t\u1eebng s\u1ee3i k\u00e9o c\u0103ng ch\u01b0a \u0111\u1ee9t.' Also remove all foreign-language intrusions throughout the chapter.",
+    "strongest_sentence": "Gi\u00f3 \u0111\u00e3 kh\u00f4. C\u00e1t \u0111\u00e3 b\u1eb1ng. Nh\u01b0 ch\u01b0a t\u1eebng c\u00f3 ai ng\u1ed3i \u0111\u00e2y bao gi\u1edd.",
+    "note": "The prose has genuine highs \u2014 the vanishing footprint passage, the hand-holding scene, Ph\u01b0\u01a1ng's exit through gray flowers. But it also has catastrophic lows: at least three passages contain foreign-language text (English 'hold', Chinese '\u6bcf\u4e00' and '\u6027\u8d28', Spanish/Portuguese 'espec\u00edf'). These aren't typos; they're generation artifacts that render the text unreadable in those moments. Beyond that, some passages lean too heavily on repetition of the same construction ('nh\u1edb... nh\u1edb... nh\u1edb m\u00e3i' followed by another triple repetition pattern). The strongest writing occurs in the physical details \u2014 the v\u1ec7t \u1ea9m, the sand visible through transparent hands, the hoa d\u1eb7m turning gray."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Excellent continuity from Ch 17. The previous chapter ended with Khoa discovering his own fading in the mirror, hands trembling, understanding '\u0111\u1ea3o \u0103n anh.' This chapter picks up that terror and channels it into flight \u2014 he runs to Ph\u01b0\u01a1ng because she's the person most affected by what he's doing. His emotional state tracks: panic \u2192 confrontation \u2192 denial \u2192 forced acceptance \u2192 despair. The detail that his reflection now also trembles (both hands shake, unlike before) follows Ch 17's revelation. Ph\u01b0\u01a1ng's observation that he's been fading for a while matches the incremental clues from earlier chapters."
+  },
+  "canon_compliance": {
+    "score": 8,
+    "violations": [
+      "Ph\u01b0\u01a1ng's body description: outline says 'T\u1eeb vai tr\u1edf xu\u1ed1ng \u2014 trong su\u1ed1t' but this chapter says 'M\u1ed7i l\u1ea7n anh vi\u1ebft v\u1ec1 tui, tay anh trong h\u01a1n' implying gradual hand-by-hand fading, while she describes him changing broadly \u2014 not a violation but slight inconsistency in how specifically fading manifests",
+      "Minor: C\u1ee5 Ba sitting on M\u0169i Ch\u1edd 'ba tr\u0103m n\u0103m' \u2014 he died 1954, which is ~61 years, not 300. The rock is worn from 300 years of occupants sitting there, not C\u1ee5 Ba specifically sitting 300 years. This sentence implies C\u1ee5 Ba himself has been there 300 years."
+    ],
+    "note": "No major magic-system violations. The 'sinh kh\u00ed' explanation for why Khoa's writing works differently than Ch\u1ecb T\u01b0's is new but doesn't contradict established rules \u2014 it extends them plausibly. Ph\u01b0\u01a1ng's appearance matches canon: face clear (m\u1eaft l\u1edbn, mi d\u00e0i, m\u00f4i \u0111\u1ea7y), body fading from shoulders down, feet still more solid than hands. The hoa d\u1eb7m turning gray around those about to vanish is consistent. The v\u1ec7t \u1ea9m disappearing matches established behavior of spaces left by the vanished."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "S\u1ed5 kh\u00f4ng d\u00f9ng m\u1ef1c. S\u1ed5 d\u00f9ng anh. Ch\u1eef anh r\u00f5 v\u00ec n\u00f3 s\u1ed1ng b\u1eb1ng anh. Ch\u1eef Ch\u1ecb T\u01b0 m\u1edd v\u00ec n\u00f3 ch\u1ec9 s\u1ed1ng b\u1eb1ng k\u00fd \u1ee9c \u2014 k\u00fd \u1ee9c th\u1eadt, nh\u01b0ng m\u1ecfng, m\u1ecfng h\u01a1n sinh kh\u00ed ng\u01b0\u1eddi s\u1ed1ng.",
+    "fix": "This explanation works, but it's delivered as direct exposition in Khoa's internal monologue. Consider having him understand it more viscerally \u2014 through sensation rather than statement. Instead of 'S\u1ed5 d\u00f9ng anh,' show him feeling the drain as he writes, show the connection between his fading hand and the words appearing on the page.",
+    "note": "The world does genuine work here. This isn't set dressing \u2014 the entire emotional climax depends on understanding how the island's magic works. The 'nh\u1edb thay kh\u00f4ng ph\u1ea3i nh\u1edb' distinction is a thematic and mechanical revelation simultaneously. The hoa d\u1eb7m color shift, the disappearing footprint, the cold hands \u2014 all world details serve the emotional moment. The comparison between C\u1ee5 Ba (kept solid by genuine grief across four generations) and Khoa (fading because no one truly grieves for him) uses the magic system to deliver character insight. The lore is earning its keep."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The extended interior monologue after Ph\u01b0\u01a1ng leaves (approximately 400+ words of Khoa lying on the rock, thinking about his father, about Li\u00ean, about remembering vs. ghi ch\u00e9p) slows the chapter's momentum at exactly the wrong moment.",
+    "fix": "Cut or compress the father/Li\u00ean reflection section. The most powerful beat in the chapter is Ph\u01b0\u01a1ng walking away through gray flowers, leaving Khoa alone. Instead of immediately going into lengthy introspection, let that silence breathe \u2014 a short, devastating beat \u2014 then move to him lying down, then his walk toward Khu Nh\u00e0 Tr\u1ed1ng. The analysis can come later; the feeling should land now.",
+    "note": "The Ph\u01b0\u01a1ng confrontation scene is genuinely gripping. Her '\u0110\u1eebng ch\u00ecm theo' is a perfect last line \u2014 I believed it, and it surprised me in the right way (she's choosing to die rather than let him die for her). The hand-holding passage where both sets of hands are fading is physically visceral. The v\u1ec7t \u1ea9m disappearing in real time is a small horror that works. But the chapter overstays its welcome in the final third, with repetitive introspection that dilutes the power of Ph\u01b0\u01a1ng's exit. End on 'Kh\u00f4ng quay l\u1ea1i' was strong; everything after the rock scene should be tighter."
+  },
+  "three_weakest_sentences": [
+    "Tay c\u00f4 \u2014 c\u1ea3 hai tay \u2014 \u0111\u00e3 th\u00e0nh kh\u00f3i hold h\u00ecnh ng\u01b0\u1eddi, ng\u00f3n tay c\u00f2n nguy\u00ean nh\u01b0ng r\u1ed3i anh nh\u00ecn xuy\u00ean qua th\u1ea5y n\u01b0\u1edbc bi\u1ec3n xa xa, xanh th\u1eabm, cu\u1ed9n s\u00f3ng.",
+    "Gi\u1ecdng c\u00f4 nh\u1ecf h\u01a1n, nh\u01b0ng c\u1ee9ng h\u01a1n, nh\u01b0 s\u1ee3i d\u00e2y th\u1eebng ng\u00e2m n\u01b0\u1edbc bi\u1ec3n, m\u1ec1m b\u00ean ngo\u00e0i nh\u01b0ng b\u00ean trong\u6bcf\u4e00 s\u1ee3i c\u1ea9u th\u1eb3ng ch\u01b0a \u0111\u1ee9t.",
+    "C\u00f4 nh\u00ecn tay anh, nh\u00ecn k\u1ef9, r\u1ed3i nh\u00ecn l\u1ea1i m\u1eb7t anh, v\u00e0 m\u1eaft c\u00f4 \u2014 \u0111\u00f4i m\u1eaft duy nh\u1ea5t c\u00f2n nguy\u00ean \u2014 espec\u00edf\u7684\u6027\u8d28."
+  ],
+  "three_strongest_sentences": [
+    "Gi\u00f3 \u0111\u00e3 kh\u00f4. C\u00e1t \u0111\u00e3 b\u1eb1ng. Nh\u01b0 ch\u01b0a t\u1eebng c\u00f3 ai ng\u1ed3i \u0111\u00e2y bao gi\u1edd.",
+    "Hai b\u00e0n tay. M\u1ed9t m\u1edd. M\u1ed9t b\u1eaft \u0111\u1ea7u m\u1edd. \u0110an nhau nh\u01b0 hai l\u1edbp s\u01b0\u01a1ng c\u1ed1 n\u1eafm l\u1ea5y nhau.",
+    "C\u00f4 n\u00f3i nh\u01b0 ng\u01b0\u1eddi n\u00e9m phao c\u1ee9u sinh. Nh\u01b0ng phao n\u00e9m cho ai? Cho anh \u2014 hay cho c\u00f4?"
+  ],
+  "ai_patterns_detected": [
+    "Foreign-language contamination: at least three passages contain non-Vietnamese text (English 'hold', Chinese '\u6bcf\u4e00' and '\u6027\u8d28', multilingual 'espec\u00edf\u7684\u6027\u8d28') \u2014 this is a generation artifact, not a stylistic choice",
+    "Repetitive paragraph-openings: multiple paragraphs start with 'Anh' or 'Ph\u01b0\u01a1ng' in sequence without variation",
+    "List-like observation sequences: Khoa's memory of Ph\u01b0\u01a1ng ('Nh\u1edb Ph\u01b0\u01a1ng n\u1ea5u canh chua... Nh\u1edb Ph\u01b0\u01a1ng h\u00e1t ru... Nh\u1edb Ph\u01b0\u01a1ng ch\u1ea1m c\u1eeda...') reads as a generated catalogue rather than organic memory",
+    "Symmetrical phrasing addiction: the chapter favors paired constructions ('nh\u01b0 ng\u01b0\u1eddi n\u00f3i X, nh\u01b0 ng\u01b0\u1eddi n\u00f3i Y, nh\u01b0 ng\u01b0\u1eddi n\u00f3i Z') in a way that feels templated",
+    "The extended introspection section follows a pattern common in AI-generated chapters: scene \u2192 long analytical interior monologue \u2192 philosophical conclusion, rather than letting the scene speak"
+  ],
+  "overall_score": 5.0,
+  "weakest_dimension": "prose_quality",
+  "top_3_revisions": [
+    "Remove ALL foreign-language contamination immediately: 'hold' \u2192 'gi\u1eef' or restructure; '\u6bcf\u4e00 s\u1ee3i' \u2192 't\u1eebng s\u1ee3i'; 'espec\u00edf\u7684\u6027\u8d28' \u2192 rewrite the entire sentence ('m\u1eaft c\u00f4 \u0111\u1eb7c, ch\u1eafc, kh\u00f4ng dao \u0111\u1ed9ng' or similar). This is non-negotiable \u2014 these errors make the text unreadable.",
+    "Compress the post-departure introspection by approximately 40%. Cut the father-in-Berlin passage and the Li\u00ean reflection \u2014 save those for another chapter. After Ph\u01b0\u01a1ng leaves through the gray flowers, go: brief silence \u2192 v\u1ec7t \u1ea9m disappearing \u2192 Khoa lying down (shorter) \u2192 'Nh\u1edb thay kh\u00f4ng ph\u1ea3i nh\u1edb' \u2192 standing up \u2192 walking toward Khu Nh\u00e0 Tr\u1ed1ng. Trust the image of the disappearing footprint; don't explain what it means.",
+    "Tighten Ph\u01b0\u01a1ng's observation list ('V\u1ebft ru\u1ed3i b\u00ean m\u00e1 ph\u1ea3i. N\u1ebfp nh\u0103n gi\u1eefa m\u00e0y khi anh lo. C\u00e1i c\u00e1ch anh \u0111eo k\u00ednh l\u1ec7ch...') to one or two details maximum, separated by a beat. Three observations in sequence feels like a catalogue. One detail, delivered with weight, is more powerful than three listed."
+  ],
+  "new_canon_entries": [
+    "Ph\u01b0\u01a1ng x\u00e1c nh\u1eadn tr\u1ef1c ti\u1ebfp v\u1edbi Khoa r\u1eb1ng anh \u0111ang m\u1edd \u2014 m\u1ed7i l\u1ea7n anh ghi v\u1ec1 c\u00f4, tay anh trong h\u01a1n \u2014 c\u00f4 \u0111\u00e3 quan s\u00e1t s\u1ef1 thay \u0111\u1ed5i n\u00e0y trong hai n\u0103m r\u01b0\u1ee1i.",
+    "Khoa hi\u1ec3u (ho\u1eb7c b\u1eaft \u0111\u1ea7u hi\u1ec3u) r\u1eb1ng s\u1ed5 c\u1ee7a anh kh\u00f4ng d\u00f9ng m\u1ef1c m\u00e0 d\u00f9ng sinh kh\u00ed \u2014 ch\u1eef anh r\u00f5 v\u00ec n\u00f3 's\u1ed1ng b\u1eb1ng anh,' ch\u1eef Ch\u1ecb T\u01b0 m\u1edd v\u00ec ch\u1ec9 s\u1ed1ng b\u1eb1ng k\u00fd \u1ee9c th\u1eadt nh\u01b0ng m\u1ecfng h\u01a1n sinh kh\u00ed ng\u01b0\u1eddi s\u1ed1ng.",
+    "Hoa d\u1eb7m quanh nh\u00e0 Ph\u01b0\u01a1ng \u0111\u00e3 chuy\u1ec3n ho\u00e0n to\u00e0n sang x\u00e1m nh\u1ea1t \u2014 kh\u00f4ng c\u00f2n c\u00e1nh tr\u1eafng n\u00e0o, t\u1eeb ch\u1ed7 c\u00f4 ng\u1ed3i \u0111\u1ebfn hi\u00ean nh\u00e0, hai b\u00ean l\u1ed1i \u0111i, tr\u00ean m\u00e1i tranh.",
+    "Khi Ph\u01b0\u01a1ng r\u1eddi \u0111i, ch\u1ed7 c\u00f4 ng\u1ed3i \u0111\u1ec3 l\u1ea1i v\u1ec7t \u1ea9m tr\u00ean \u0111\u00e1 \u2014 v\u1ec7t n\u01b0\u1edbc m\u1eb7n \u2014 kh\u00f4 v\u00e0 bi\u1ebfn m\u1ea5t trong kho\u1ea3ng m\u01b0\u1eddi ph\u00fat, \u0111\u1ec3 l\u1ea1i b\u1ec1 m\u1eb7t b\u1eb1ng ph\u1eb3ng nh\u01b0 ch\u01b0a c\u00f3 ai ng\u1ed3i.",
+    "Sau cu\u1ed9c n\u00f3i chuy\u1ec7n v\u1edbi Ph\u01b0\u01a1ng, Khoa \u0111i d\u1ecdc b\u1edd bi\u1ec3n h\u01b0\u1edbng b\u1eafc v\u1ec1 ph\u00eda Khu Nh\u00e0 Tr\u1ed1ng thay v\u00ec v\u1ec1 l\u00e0ng ho\u1eb7c nh\u00e0 s\u1ed1 17.",
+    "Khoa t\u1ef1 nh\u1eadn ra: anh kh\u00f4ng ch\u1ec9 m\u1edd v\u00ec m\u1ea5t s\u1ed5, m\u00e0 \u0111\u00e3 m\u1edd t\u1eeb khi \u0111\u1ebfn \u0111\u1ea3o \u2014 s\u1ed5 ch\u1ec9 gi\u1eef anh '\u0111\u1eb7c' l\u00e2u h\u01a1n nh\u01b0 c\u1ecdc neo gi\u1eef thuy\u1ec1n."
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 19.11,
+    "sentence_length_cv": 1.327,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi",
+    "vi_english_leaks": [],
+    "vi_translation_calques": [],
+    "vi_fiction_ai_tells": [],
+    "vi_telling_violations": 0
+  },
+  "raw_judge_score": 6
+}
