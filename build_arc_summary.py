@@ -16,7 +16,7 @@ _SYSTEM = "You summarize novel chapters precisely. State what HAPPENS, what CHAN
 
 def call_writer(prompt, max_tokens=4000):
     return _call_api(prompt, system=_SYSTEM, max_tokens=max_tokens,
-                     temperature=0.1, timeout=120)
+                     temperature=0.1, timeout=None)
 
 def extract_key_passages(text):
     """Get opening, closing, and best dialogue from a chapter."""

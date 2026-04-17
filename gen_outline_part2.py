@@ -16,7 +16,7 @@ _SYSTEM = (
 
 def call_writer(prompt, max_tokens=16000):
     return _call_api(prompt, system=_SYSTEM, max_tokens=max_tokens,
-                     temperature=0.5, timeout=600)
+                     temperature=0.5, timeout=None)
 
 part1_path = os.environ.get("OUTLINE_PART1_PATH", "/tmp/outline_output.md")
 part1 = open(part1_path).read()

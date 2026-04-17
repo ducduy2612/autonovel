@@ -19,7 +19,7 @@ _SYSTEM = (
 
 def call_writer(prompt, max_tokens=16000):
     return _call_api(prompt, system=_SYSTEM, max_tokens=max_tokens,
-                     temperature=0.7, timeout=300)
+                     temperature=0.7, timeout=None)
 
 seed = (BASE_DIR / "seed.txt").read_text()
 world = (BASE_DIR / "world.md").read_text()

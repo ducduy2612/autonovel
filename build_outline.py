@@ -24,7 +24,7 @@ def call_model(prompt, max_tokens=1500):
     )
     text = call_writer(
         prompt, system=system_prompt, max_tokens=max_tokens,
-        temperature=0.1, timeout=120, model=JUDGE_MODEL)
+        temperature=0.1, timeout=None, model=JUDGE_MODEL)
     # Extract JSON from response
     text = text.strip()
     if text.startswith("```"):

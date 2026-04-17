@@ -17,7 +17,7 @@ _SYSTEM = (
 
 def call_writer(prompt, max_tokens=16000):
     return _call_api(prompt, system=_SYSTEM, max_tokens=max_tokens,
-                     temperature=0.2, timeout=300)
+                     temperature=0.2, timeout=None)
 
 world = (BASE_DIR / "world.md").read_text()
 characters = (BASE_DIR / "characters.md").read_text()

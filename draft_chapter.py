@@ -23,7 +23,7 @@ _SYSTEM = (
 
 def _call_writer(prompt, max_tokens=16000):
     return call_writer(prompt, system=_SYSTEM, max_tokens=max_tokens,
-                       temperature=0.8, timeout=600, use_beta=True)
+                       temperature=0.8, timeout=None, use_beta=True)
 
 def load_file(path):
     try:

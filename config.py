@@ -45,6 +45,15 @@ ZAI_CODING_BASE: str = os.environ.get(
 )
 
 # ---------------------------------------------------------------------------
+# Timeouts (seconds)
+# ---------------------------------------------------------------------------
+API_TIMEOUT: int = int(os.environ.get("AUTONOVEL_API_TIMEOUT", "600"))
+"""Default timeout for a single LLM API call (httpx request)."""
+
+SUBPROCESS_TIMEOUT: int = int(os.environ.get("AUTONOVEL_SUBPROCESS_TIMEOUT", "600"))
+"""Default timeout for pipeline subprocess invocations (uv run python ...)."""
+
+# ---------------------------------------------------------------------------
 # Directory constants
 # ---------------------------------------------------------------------------
 CHAPTERS_DIR: Path = BASE_DIR / "chapters"

@@ -118,7 +118,7 @@ def gemini_edit(prompt, image_paths, resolution="1K", aspect_ratio="1:1", seed=N
             if p.exists():
                 img_bytes = p.read_bytes()
             else:
-                resp = httpx.get(str(img_path), timeout=60, follow_redirects=True)
+                resp = httpx.get(str(img_path), timeout=None, follow_redirects=True)
                 resp.raise_for_status()
                 img_bytes = resp.content
         else:
@@ -151,7 +151,7 @@ def download_image(url_or_data_uri, dest_path):
         img_bytes = base64.b64decode(b64data)
     else:
         import httpx
-        resp = httpx.get(url_or_data_uri, timeout=60, follow_redirects=True)
+        resp = httpx.get(url_or_data_uri, timeout=None, follow_redirects=True)
         resp.raise_for_status()
         img_bytes = resp.content
     dest_path.parent.mkdir(parents=True, exist_ok=True)
@@ -174,7 +174,7 @@ def call_claude(prompt, max_tokens=1500):
             "temperature": 0.3,
             "messages": [{"role": "user", "content": prompt}],
         },
-        timeout=120,
+        timeout=None,
     )
     resp.raise_for_status()
     return resp.json()["content"][0]["text"]

@@ -27,7 +27,7 @@ _SYSTEM = (
 
 def call_writer(prompt, max_tokens=16000):
     return _call_api(prompt, system=_SYSTEM, max_tokens=max_tokens,
-                     temperature=0.8, timeout=300)
+                     temperature=0.8, timeout=None)
 
 
 def extract_part1(voice_text: str) -> str:

@@ -117,7 +117,7 @@ def call_reader(reader_key, arc_summary, novel_stats=""):
         system=reader["system"],
         max_tokens=4000,
         temperature=0.7,
-        timeout=300,
+        timeout=None,
         model=JUDGE_MODEL)
     
     # Parse JSON

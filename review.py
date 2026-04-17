@@ -41,7 +41,7 @@ def call_opus(prompt, max_tokens=8000):
     print(f"Sending to {REVIEW_MODEL} ({len(prompt):,} chars)...", file=sys.stderr)
     return call_writer(
         prompt, system=system_prompt, max_tokens=max_tokens,
-        temperature=0.3, timeout=600, model=REVIEW_MODEL)
+        temperature=0.3, timeout=None, model=REVIEW_MODEL)
 
 
 def get_title():

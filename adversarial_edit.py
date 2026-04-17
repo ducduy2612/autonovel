@@ -30,7 +30,7 @@ def call_judge(prompt, max_tokens=8000):
     )
     return call_writer(
         prompt, system=system_prompt, max_tokens=max_tokens,
-        temperature=0.3, timeout=300, model=JUDGE_MODEL)
+        temperature=0.3, timeout=None, model=JUDGE_MODEL)
 
 def parse_json(text):
     text = text.strip()

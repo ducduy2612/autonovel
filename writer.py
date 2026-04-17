@@ -27,7 +27,7 @@ share the same token budget on Z.AI.
 import os
 import httpx
 
-from config import API_KEY, ZAI_CODING_BASE, WRITER_MODEL
+from config import API_KEY, API_TIMEOUT, ZAI_CODING_BASE, WRITER_MODEL
 
 # ---------------------------------------------------------------------------
 # Thinking configuration
@@ -72,7 +72,7 @@ def call_writer(
     system: str,
     max_tokens: int = 16000,
     temperature: float = 0.8,
-    timeout: int = 300,
+    timeout: int | None = None,
     use_beta: bool = False,  # kept for signature compat, ignored
     model: str | None = None,
 ) -> str:
@@ -86,7 +86,8 @@ def call_writer(
                       generous 128K budget so reasoning doesn't truncate output.
         temperature:  Sampling temperature.  Ignored when thinking is enabled
                       (forced to 1.0).
-        timeout:      HTTP request timeout in seconds.
+        timeout:      HTTP request timeout in seconds.  Defaults to
+                      ``config.API_TIMEOUT`` when ``None``.
         use_beta:     Ignored (kept for backward compatibility).
         model:        Override model name.  Falls back to WRITER_MODEL.
 
@@ -95,12 +96,15 @@ def call_writer(
     """
     thinking_on = is_thinking_enabled()
 
+    # Resolve timeout: explicit arg > config default
+    effective_timeout = timeout if timeout is not None else API_TIMEOUT
+
     # When thinking is on, use generous max_tokens so reasoning + output
     # both fit. Caller's max_tokens is too small for combined budget.
     effective_max = _MAX_OUTPUT_THINKING if thinking_on else max_tokens
 
-    # Thinking adds significant latency — generous timeout
-    effective_timeout = timeout * 2 if thinking_on else timeout
+    # Thinking adds significant latency — double the timeout
+    effective_timeout = effective_timeout * 2 if thinking_on else effective_timeout
 
     payload: dict = {
         "model": model or WRITER_MODEL,

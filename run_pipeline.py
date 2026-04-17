@@ -24,7 +24,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-from config import get_language
+from config import get_language, API_TIMEOUT, SUBPROCESS_TIMEOUT
 
 # ---------------------------------------------------------------------------
 # Constants
@@ -139,7 +139,7 @@ def generate_chapter_summary(chapter_num: int) -> bool:
     try:
         summary = call_writer(
             prompt, system=system_prompt, max_tokens=600,
-            temperature=0.3, timeout=120)
+            temperature=0.3, timeout=API_TIMEOUT)
     except Exception as e:
         step(f"Summary generation failed: {e}, using first 200 words")
         summary = " ".join(chapter_text.split()[:200])
@@ -368,7 +368,7 @@ def refine_foundation_doc(doc_name: str, doc_path: Path, weakest_info: str,
     try:
         revised = call_writer(
             prompt, system=system_prompt, max_tokens=16000,
-            temperature=0.6, timeout=300)
+            temperature=0.6, timeout=API_TIMEOUT)
         if revised.strip():
             doc_path.write_text(revised)
             return True
@@ -477,7 +477,7 @@ Format:
     try:
         return call_writer(
             prompt, system=system_prompt, max_tokens=4000,
-            temperature=0.7, timeout=300)
+            temperature=0.7, timeout=API_TIMEOUT)
     except Exception as e:
         step(f"Mystery generation failed: {e}")
         return None
@@ -546,7 +546,7 @@ noticing something wrong. This is the benchmark passage.]
     try:
         return call_writer(
             prompt, system=system_prompt, max_tokens=4000,
-            temperature=0.7, timeout=300)
+            temperature=0.7, timeout=API_TIMEOUT)
     except Exception as e:
         step(f"Voice Part 2 generation failed: {e}")
         return None
@@ -606,7 +606,7 @@ def run_foundation(state: dict) -> dict:
                                  "downstream scripts will run with incomplete voice identity")
 
             step("Generating world bible...")
-            r = uv_run("gen_world.py", timeout=300)
+            r = uv_run("gen_world.py", timeout=SUBPROCESS_TIMEOUT)
             if r.returncode == 0 and r.stdout.strip():
                 path = BASE_DIR / "world.md"
                 path.write_text(r.stdout)
@@ -615,7 +615,7 @@ def run_foundation(state: dict) -> dict:
                 step("WARNING: world bible generation failed or empty")
 
             step("Generating characters...")
-            r = uv_run("gen_characters.py", timeout=300)
+            r = uv_run("gen_characters.py", timeout=SUBPROCESS_TIMEOUT)
             if r.returncode == 0 and r.stdout.strip():
                 path = BASE_DIR / "characters.md"
                 path.write_text(r.stdout)
@@ -634,7 +634,7 @@ def run_foundation(state: dict) -> dict:
                     step(f"Saved MYSTERY.md ({len(r)} chars)")
 
             step("Generating outline (part 1)...")
-            r = uv_run("gen_outline.py", timeout=300)
+            r = uv_run("gen_outline.py", timeout=SUBPROCESS_TIMEOUT)
             outline_ok = False
             if r.returncode == 0 and r.stdout.strip():
                 path = BASE_DIR / "outline.md"
@@ -647,7 +647,7 @@ def run_foundation(state: dict) -> dict:
 
             if outline_ok:
                 step("Generating outline (part 2 — foreshadowing)...")
-                r = uv_run("gen_outline_part2.py", timeout=300)
+                r = uv_run("gen_outline_part2.py", timeout=SUBPROCESS_TIMEOUT)
                 if r.returncode == 0 and r.stdout.strip():
                     path = BASE_DIR / "outline.md"
                     existing = path.read_text() if path.exists() else ""
@@ -657,7 +657,7 @@ def run_foundation(state: dict) -> dict:
                     step("WARNING: outline part 2 generation failed or empty")
 
             step("Generating canon...")
-            r = uv_run("gen_canon.py", timeout=300)
+            r = uv_run("gen_canon.py", timeout=SUBPROCESS_TIMEOUT)
             if r.returncode == 0 and r.stdout.strip():
                 path = BASE_DIR / "canon.md"
                 path.write_text(r.stdout)
@@ -701,47 +701,47 @@ def run_foundation(state: dict) -> dict:
                     # Regenerate canon if world or characters changed
                     if target_file in ("world.md", "characters.md"):
                         step("Regenerating canon after changes...")
-                        rc = uv_run("gen_canon.py", timeout=300)
+                        rc = uv_run("gen_canon.py", timeout=SUBPROCESS_TIMEOUT)
                         if rc.returncode == 0 and rc.stdout.strip():
                             (BASE_DIR / "canon.md").write_text(rc.stdout)
                 else:
                     step(f"Refinement failed, falling back to full regeneration")
                     # Fall back to regenerating just the weakest doc's source
                     if target_file == "world.md":
-                        r = uv_run("gen_world.py", timeout=300)
+                        r = uv_run("gen_world.py", timeout=SUBPROCESS_TIMEOUT)
                         if r.returncode == 0 and r.stdout.strip():
                             (BASE_DIR / "world.md").write_text(r.stdout)
                     elif target_file == "characters.md":
-                        r = uv_run("gen_characters.py", timeout=300)
+                        r = uv_run("gen_characters.py", timeout=SUBPROCESS_TIMEOUT)
                         if r.returncode == 0 and r.stdout.strip():
                             (BASE_DIR / "characters.md").write_text(r.stdout)
             else:
                 step("No weakest dimension found, running full regeneration")
-                r = uv_run("gen_world.py", timeout=300)
+                r = uv_run("gen_world.py", timeout=SUBPROCESS_TIMEOUT)
                 if r.returncode == 0 and r.stdout.strip():
                     (BASE_DIR / "world.md").write_text(r.stdout)
-                r = uv_run("gen_characters.py", timeout=300)
+                r = uv_run("gen_characters.py", timeout=SUBPROCESS_TIMEOUT)
                 if r.returncode == 0 and r.stdout.strip():
                     (BASE_DIR / "characters.md").write_text(r.stdout)
-                r = uv_run("gen_outline.py", timeout=300)
+                r = uv_run("gen_outline.py", timeout=SUBPROCESS_TIMEOUT)
                 outline_ok = False
                 if r.returncode == 0 and r.stdout.strip():
                     (BASE_DIR / "outline.md").write_text(r.stdout)
                     Path("/tmp/outline_output.md").write_text(r.stdout)
                     outline_ok = True
                 if outline_ok:
-                    r = uv_run("gen_outline_part2.py", timeout=300)
+                    r = uv_run("gen_outline_part2.py", timeout=SUBPROCESS_TIMEOUT)
                     if r.returncode == 0 and r.stdout.strip():
                         path = BASE_DIR / "outline.md"
                         existing = path.read_text() if path.exists() else ""
                         path.write_text(existing + "\n\n" + r.stdout)
-                r = uv_run("gen_canon.py", timeout=300)
+                r = uv_run("gen_canon.py", timeout=SUBPROCESS_TIMEOUT)
                 if r.returncode == 0 and r.stdout.strip():
                     (BASE_DIR / "canon.md").write_text(r.stdout)
 
         # 2. Evaluate
         step("Evaluating foundation...")
-        eval_result = uv_run("evaluate.py --phase=foundation", timeout=300)
+        eval_result = uv_run("evaluate.py --phase=foundation", timeout=SUBPROCESS_TIMEOUT)
         score = parse_score(eval_result.stdout, "overall_score")
         lore = parse_lore_score(eval_result.stdout)
 
@@ -828,7 +828,7 @@ def run_drafting(state: dict) -> dict:
             step(f"Attempt {attempt}/{MAX_CHAPTER_ATTEMPTS}")
 
             # Draft
-            draft_result = uv_run(f"draft_chapter.py {ch}", timeout=600)
+            draft_result = uv_run(f"draft_chapter.py {ch}", timeout=SUBPROCESS_TIMEOUT)
             if draft_result.returncode != 0:
                 step(f"Draft failed (exit {draft_result.returncode}), retrying...")
                 continue
@@ -843,7 +843,7 @@ def run_drafting(state: dict) -> dict:
             step(f"Drafted {word_count} words")
 
             # Evaluate
-            eval_result = uv_run(f"evaluate.py --chapter={ch}", timeout=300)
+            eval_result = uv_run(f"evaluate.py --chapter={ch}", timeout=SUBPROCESS_TIMEOUT)
             score = parse_score(eval_result.stdout, "overall_score")
             step(f"Chapter {ch} score: {score}")
 
@@ -899,7 +899,7 @@ def run_drafting(state: dict) -> dict:
 
     total_words = count_words_in_chapters()
     step("Running voice fingerprint across all chapters...")
-    uv_run("voice_fingerprint.py", timeout=300)
+    uv_run("voice_fingerprint.py", timeout=SUBPROCESS_TIMEOUT)
     banner(f"DRAFTING COMPLETE — {total} chapters, {total_words} words")
     return state
 
@@ -995,7 +995,7 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
         build_arc = BASE_DIR / "build_arc_summary.py"
         if build_arc.exists() and not arc_summary_path.exists():
             step("Building arc summary for reader panel...")
-            uv_run("build_arc_summary.py", timeout=600)
+            uv_run("build_arc_summary.py", timeout=SUBPROCESS_TIMEOUT)
 
         # -- Step 2: Reader panel --
         reader_panel_py = BASE_DIR / "reader_panel.py"
@@ -1005,7 +1005,7 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
             consensus_items = []
         else:
             step("Running reader panel evaluation...")
-            uv_run("reader_panel.py", timeout=600)
+            uv_run("reader_panel.py", timeout=SUBPROCESS_TIMEOUT)
 
             # -- Step 3: Parse panel consensus --
             panel_path = EDIT_LOGS_DIR / "reader_panel.json"
@@ -1023,7 +1023,7 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
         for item in consensus_items:
             ch_num = item["chapter"]
             step(f"Running adversarial edit on Ch {ch_num}...")
-            uv_run(f"adversarial_edit.py {ch_num}", timeout=300)
+            uv_run(f"adversarial_edit.py {ch_num}", timeout=SUBPROCESS_TIMEOUT)
 
         # -- Step 5: Revise flagged chapters (brief → rewrite → eval → keep/revert) --
         for idx, item in enumerate(consensus_items):
@@ -1032,7 +1032,7 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
             banner(f"  Revising Ch {ch_num} ({question}) [{idx+1}/{len(consensus_items)}]", ".")
 
             # Snapshot the current chapter score for comparison
-            pre_eval = uv_run(f"evaluate.py --chapter={ch_num}", timeout=300)
+            pre_eval = uv_run(f"evaluate.py --chapter={ch_num}", timeout=SUBPROCESS_TIMEOUT)
             pre_score = parse_score(pre_eval.stdout, "overall_score")
 
             # Generate revision brief
@@ -1040,7 +1040,7 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
             gen_brief = BASE_DIR / "gen_brief.py"
             if gen_brief.exists():
                 step(f"Generating brief for Ch {ch_num}...")
-                run_tool(f"uv run python gen_brief.py --panel {ch_num}", timeout=300)
+                run_tool(f"uv run python gen_brief.py --panel {ch_num}", timeout=SUBPROCESS_TIMEOUT)
                 # gen_brief.py may write to briefs/ — find the most recent brief
                 brief_candidates = sorted(
                     BRIEFS_DIR.glob(f"ch{ch_num:02d}*.md"),
@@ -1065,10 +1065,10 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
 
             # Run revision
             step(f"Revising Ch {ch_num} with brief {brief_file.name}...")
-            uv_run(f"gen_revision.py {ch_num} {brief_file}", timeout=600)
+            uv_run(f"gen_revision.py {ch_num} {brief_file}", timeout=SUBPROCESS_TIMEOUT)
 
             # Evaluate revised chapter
-            post_eval = uv_run(f"evaluate.py --chapter={ch_num}", timeout=300)
+            post_eval = uv_run(f"evaluate.py --chapter={ch_num}", timeout=SUBPROCESS_TIMEOUT)
             post_score = parse_score(post_eval.stdout, "overall_score")
 
             ch_file = CHAPTERS_DIR / f"ch_{ch_num:02d}.md"
@@ -1092,7 +1092,7 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
 
         # -- Step 6: Full novel evaluation --
         step("Running full novel evaluation...")
-        full_eval = uv_run("evaluate.py --full", timeout=600)
+        full_eval = uv_run("evaluate.py --full", timeout=SUBPROCESS_TIMEOUT)
         novel_score = parse_score(full_eval.stdout, "novel_score")
 
         if novel_score < 0:
@@ -1129,11 +1129,11 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
         banner("FINAL QUALITY CHECK: Opus Review", "=")
 
         step("Sending manuscript to Opus for final review...")
-        review_result = uv_run("review.py --output reviews.md", timeout=900)
+        review_result = uv_run("review.py --output reviews.md", timeout=SUBPROCESS_TIMEOUT)
 
         # Parse the review
         step("Parsing review...")
-        parse_result = run_tool("uv run python review.py --parse", timeout=60)
+        parse_result = run_tool("uv run python review.py --parse", timeout=SUBPROCESS_TIMEOUT)
         print(parse_result.stdout if parse_result else "")
 
         # Check star rating and flag for user if needed
@@ -1177,13 +1177,13 @@ def run_export(state: dict) -> dict:
     build_outline = BASE_DIR / "build_outline.py"
     if build_outline.exists():
         step("Rebuilding outline from chapters...")
-        uv_run("build_outline.py", timeout=300)
+        uv_run("build_outline.py", timeout=SUBPROCESS_TIMEOUT)
 
     # 2. Build arc summary
     build_arc = BASE_DIR / "build_arc_summary.py"
     if build_arc.exists():
         step("Building arc summary...")
-        uv_run("build_arc_summary.py", timeout=300)
+        uv_run("build_arc_summary.py", timeout=SUBPROCESS_TIMEOUT)
 
     # 3. Concatenate chapters into manuscript.md
     step("Building manuscript.md...")
@@ -1207,7 +1207,7 @@ def run_export(state: dict) -> dict:
     build_tex = BASE_DIR / "typeset" / "build_tex.py"
     if build_tex.exists():
         step("Building LaTeX content...")
-        run_tool(f"uv run python typeset/build_tex.py", timeout=120)
+        run_tool(f"uv run python typeset/build_tex.py", timeout=SUBPROCESS_TIMEOUT)
 
         # 5. Typeset with tectonic (if available)
         novel_tex = BASE_DIR / "typeset" / "novel.tex"
@@ -1215,7 +1215,7 @@ def run_export(state: dict) -> dict:
             tectonic_check = run_tool("which tectonic", timeout=10)
             if tectonic_check.returncode == 0:
                 step("Typesetting PDF with tectonic...")
-                result = run_tool("tectonic typeset/novel.tex", timeout=300)
+                result = run_tool("tectonic typeset/novel.tex", timeout=SUBPROCESS_TIMEOUT)
                 if result.returncode == 0:
                     step("PDF generated: typeset/novel.pdf")
                 else:
