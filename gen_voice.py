@@ -9,37 +9,25 @@ Usage: python gen_voice.py
 """
 import sys
 
-from config import language_instruction, API_KEY, API_BASE, WRITER_MODEL, BASE_DIR
+from config import language_instruction, BASE_DIR
+from writer import call_writer as _call_api
 
+_SYSTEM = (
+    "You are a literary voice coach and prose stylist. You have studied "
+    "the voices of Ursula Le Guin, Cormac McCarthy, Toni Morrison, "
+    "Gene Wolfe, and N.K. Jemisin. You define voice not as 'tone' but as "
+    "the complete set of sentence-level decisions a writer makes: rhythm, "
+    "vocabulary wells, syntactic habits, what gets shown vs told, how "
+    "dialogue sounds, where the camera sits. Your voice definitions are "
+    "ACTIONABLE — a writer can read them and produce prose that matches. "
+    "You never use AI slop words (delve, tapestry, myriad, etc). "
+    "You write in clean, direct prose."
+    + language_instruction()
+)
 
 def call_writer(prompt, max_tokens=16000):
-    import httpx
-    headers = {
-        "x-api-key": API_KEY,
-        "anthropic-version": "2023-06-01",
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": WRITER_MODEL,
-        "max_tokens": max_tokens,
-        "temperature": 0.8,
-        "system": (
-            "You are a literary voice coach and prose stylist. You have studied "
-            "the voices of Ursula Le Guin, Cormac McCarthy, Toni Morrison, "
-            "Gene Wolfe, and N.K. Jemisin. You define voice not as 'tone' but as "
-            "the complete set of sentence-level decisions a writer makes: rhythm, "
-            "vocabulary wells, syntactic habits, what gets shown vs told, how "
-            "dialogue sounds, where the camera sits. Your voice definitions are "
-            "ACTIONABLE — a writer can read them and produce prose that matches. "
-            "You never use AI slop words (delve, tapestry, myriad, etc). "
-            "You write in clean, direct prose."
-            + language_instruction()
-        ),
-        "messages": [{"role": "user", "content": prompt}],
-    }
-    resp = httpx.post(f"{API_BASE}/v1/messages", headers=headers, json=payload, timeout=300)
-    resp.raise_for_status()
-    return resp.json()["content"][0]["text"]
+    return _call_api(prompt, system=_SYSTEM, max_tokens=max_tokens,
+                     temperature=0.8, timeout=300)
 
 
 def extract_part1(voice_text: str) -> str:

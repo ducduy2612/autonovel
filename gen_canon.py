@@ -4,31 +4,20 @@ Generate canon.md by extracting all hard facts from world.md + characters.md.
 """
 import sys
 
-from config import language_instruction, API_KEY, API_BASE, WRITER_MODEL, BASE_DIR
+from config import language_instruction, BASE_DIR
+from writer import call_writer as _call_api
+
+_SYSTEM = (
+    "You are a continuity editor extracting hard facts from fantasy novel "
+    "planning documents. You are precise, exhaustive, and never invent facts "
+    "that aren't in the source material. Every entry must be traceable to a "
+    "specific statement in the source documents."
+    + language_instruction()
+)
 
 def call_writer(prompt, max_tokens=16000):
-    import httpx
-    headers = {
-        "x-api-key": API_KEY,
-        "anthropic-version": "2023-06-01",
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": WRITER_MODEL,
-        "max_tokens": max_tokens,
-        "temperature": 0.2,  # Low temp for factual extraction
-        "system": (
-            "You are a continuity editor extracting hard facts from fantasy novel "
-            "planning documents. You are precise, exhaustive, and never invent facts "
-            "that aren't in the source material. Every entry must be traceable to a "
-            "specific statement in the source documents."
-            + language_instruction()
-        ),
-        "messages": [{"role": "user", "content": prompt}],
-    }
-    resp = httpx.post(f"{API_BASE}/v1/messages", headers=headers, json=payload, timeout=300)
-    resp.raise_for_status()
-    return resp.json()["content"][0]["text"]
+    return _call_api(prompt, system=_SYSTEM, max_tokens=max_tokens,
+                     temperature=0.2, timeout=300)
 
 world = (BASE_DIR / "world.md").read_text()
 characters = (BASE_DIR / "characters.md").read_text()

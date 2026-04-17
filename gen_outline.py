@@ -2,33 +2,21 @@
 """Generate outline.md from seed + world + characters + mystery + craft."""
 import sys
 
-from config import language_instruction, API_KEY, API_BASE, WRITER_MODEL, BASE_DIR
+from config import language_instruction, BASE_DIR
+from writer import call_writer as _call_api
+
+_SYSTEM = (
+    "You are a novel architect with deep knowledge of Save the Cat beats, "
+    "Sanderson's plotting principles, Dan Harmon's Story Circle, and MICE Quotient. "
+    "You build outlines that an author can draft from without inventing structure "
+    "on the fly. Every chapter has beats, emotional arc, and try-fail cycle type. "
+    "You never use AI slop words. You write in clean, direct prose."
+    + language_instruction()
+)
 
 def call_writer(prompt, max_tokens=16000):
-    import httpx
-    headers = {
-        "x-api-key": API_KEY,
-        "anthropic-version": "2023-06-01",
-        "anthropic-beta": "context-1m-2025-08-07",
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": WRITER_MODEL,
-        "max_tokens": max_tokens,
-        "temperature": 0.5,
-        "system": (
-            "You are a novel architect with deep knowledge of Save the Cat beats, "
-            "Sanderson's plotting principles, Dan Harmon's Story Circle, and MICE Quotient. "
-            "You build outlines that an author can draft from without inventing structure "
-            "on the fly. Every chapter has beats, emotional arc, and try-fail cycle type. "
-            "You never use AI slop words. You write in clean, direct prose."
-            + language_instruction()
-        ),
-        "messages": [{"role": "user", "content": prompt}],
-    }
-    resp = httpx.post(f"{API_BASE}/v1/messages", headers=headers, json=payload, timeout=600)
-    resp.raise_for_status()
-    return resp.json()["content"][0]["text"]
+    return _call_api(prompt, system=_SYSTEM, max_tokens=max_tokens,
+                     temperature=0.5, timeout=600, use_beta=True)
 
 seed = (BASE_DIR / "seed.txt").read_text()
 world = (BASE_DIR / "world.md").read_text()

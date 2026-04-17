@@ -8,26 +8,15 @@ import re
 from pathlib import Path
 
 from config import API_KEY, API_BASE, WRITER_MODEL, CHAPTERS_DIR, analysis_language_note
+from writer import call_writer as _call_api
 
 BASE_DIR = Path(__file__).parent
 
+_SYSTEM = "You summarize novel chapters precisely. State what HAPPENS, what CHANGES, and what QUESTIONS are left open. No evaluation. No praise. Just events and shifts." + analysis_language_note()
+
 def call_writer(prompt, max_tokens=4000):
-    import httpx
-    headers = {
-        "x-api-key": API_KEY,
-        "anthropic-version": "2023-06-01",
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": WRITER_MODEL,
-        "max_tokens": max_tokens,
-        "temperature": 0.1,
-        "system": "You summarize novel chapters precisely. State what HAPPENS, what CHANGES, and what QUESTIONS are left open. No evaluation. No praise. Just events and shifts." + analysis_language_note(),
-        "messages": [{"role": "user", "content": prompt}],
-    }
-    resp = httpx.post(f"{API_BASE}/v1/messages", headers=headers, json=payload, timeout=120)
-    resp.raise_for_status()
-    return resp.json()["content"][0]["text"]
+    return _call_api(prompt, system=_SYSTEM, max_tokens=max_tokens,
+                     temperature=0.1, timeout=120)
 
 def extract_key_passages(text):
     """Get opening, closing, and best dialogue from a chapter."""

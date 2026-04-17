@@ -5,33 +5,22 @@ Reads seed.txt + voice.md, calls the writer model, outputs world.md content.
 """
 import sys
 
-from config import language_instruction, API_KEY, API_BASE, WRITER_MODEL, BASE_DIR
+from config import language_instruction, BASE_DIR
+from writer import call_writer as _call_api
+
+_SYSTEM = (
+    "You are a fantasy worldbuilder with deep knowledge of Sanderson's Laws, "
+    "Le Guin's prose philosophy, and TTRPG-quality lore design. "
+    "You write world bibles that are specific, interconnected, and imply depth "
+    "beyond what's stated. You never use AI slop words (delve, tapestry, myriad, etc). "
+    "You write in clean, direct prose. Every rule has a cost. Every cultural detail "
+    "implies a history. Every location has a sensory signature."
+    + language_instruction()
+)
 
 def call_writer(prompt, max_tokens=16000):
-    import httpx
-    headers = {
-        "x-api-key": API_KEY,
-        "anthropic-version": "2023-06-01",
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": WRITER_MODEL,
-        "max_tokens": max_tokens,
-        "temperature": 0.7,
-        "system": (
-            "You are a fantasy worldbuilder with deep knowledge of Sanderson's Laws, "
-            "Le Guin's prose philosophy, and TTRPG-quality lore design. "
-            "You write world bibles that are specific, interconnected, and imply depth "
-            "beyond what's stated. You never use AI slop words (delve, tapestry, myriad, etc). "
-            "You write in clean, direct prose. Every rule has a cost. Every cultural detail "
-            "implies a history. Every location has a sensory signature."
-            + language_instruction()
-        ),
-        "messages": [{"role": "user", "content": prompt}],
-    }
-    resp = httpx.post(f"{API_BASE}/v1/messages", headers=headers, json=payload, timeout=300)
-    resp.raise_for_status()
-    return resp.json()["content"][0]["text"]
+    return _call_api(prompt, system=_SYSTEM, max_tokens=max_tokens,
+                     temperature=0.7, timeout=300)
 
 seed = (BASE_DIR / "seed.txt").read_text()
 voice = (BASE_DIR / "voice.md").read_text()

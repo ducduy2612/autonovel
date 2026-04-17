@@ -12,43 +12,24 @@ import argparse
 import json
 import sys
 
-from config import language_instruction, API_KEY, API_BASE, WRITER_MODEL, BASE_DIR
-
+from config import language_instruction, WRITER_MODEL, BASE_DIR
+from writer import call_writer as _call_api
 
 ANTHROPIC_BETA = "context-1m-2025-08-07"
 
+_SYSTEM = (
+    "You are a fantasy novelist with deep knowledge of the genre's "
+    "best works -- Tolkien, Le Guin, Rothfuss, Wolfe, Jemisin, Peake, "
+    "Susanna Clarke, Andrew Peterson, Sofia Samatar. You generate "
+    "novel concepts that are SPECIFIC, SURPRISING, and STRUCTURALLY "
+    "SOUND. You never propose generic medieval Europe + elves. Each "
+    "concept should make a reader think 'I've never seen THAT before.'"
+    + language_instruction()
+)
 
 def call_writer(prompt, max_tokens=4000):
-    import httpx
-    headers = {
-        "x-api-key": API_KEY,
-        "anthropic-version": "2023-06-01",
-        "anthropic-beta": ANTHROPIC_BETA,
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": WRITER_MODEL,
-        "max_tokens": max_tokens,
-        "temperature": 1.0,  # high temp for creative diversity
-        "system": (
-            "You are a fantasy novelist with deep knowledge of the genre's "
-            "best works -- Tolkien, Le Guin, Rothfuss, Wolfe, Jemisin, Peake, "
-            "Susanna Clarke, Andrew Peterson, Sofia Samatar. You generate "
-            "novel concepts that are SPECIFIC, SURPRISING, and STRUCTURALLY "
-            "SOUND. You never propose generic medieval Europe + elves. Each "
-            "concept should make a reader think 'I've never seen THAT before.'"
-            + language_instruction()
-        ),
-        "messages": [{"role": "user", "content": prompt}],
-    }
-    resp = httpx.post(
-        f"{API_BASE}/v1/messages",
-        headers=headers,
-        json=payload,
-        timeout=120,
-    )
-    resp.raise_for_status()
-    return resp.json()["content"][0]["text"]
+    return _call_api(prompt, system=_SYSTEM, max_tokens=max_tokens,
+                     temperature=1.0, timeout=120, use_beta=True)
 
 
 GENERATE_PROMPT = """Generate {count} fantasy novel seed concepts. Each should be

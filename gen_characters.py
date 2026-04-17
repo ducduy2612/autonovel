@@ -5,32 +5,21 @@ Reads seed.txt + voice.md + world.md + CRAFT.md, calls writer model.
 """
 import sys
 
-from config import language_instruction, API_KEY, API_BASE, WRITER_MODEL, BASE_DIR
+from config import language_instruction, BASE_DIR
+from writer import call_writer as _call_api
+
+_SYSTEM = (
+    "You are a character designer for literary fiction with deep knowledge of "
+    "wound/want/need/lie frameworks, Sanderson's three sliders, and dialogue "
+    "distinctiveness. You create characters who feel like real people with "
+    "contradictions, secrets, and speech patterns you can hear. "
+    "You never use AI slop words. You write in clean, direct prose."
+    + language_instruction()
+)
 
 def call_writer(prompt, max_tokens=16000):
-    import httpx
-    headers = {
-        "x-api-key": API_KEY,
-        "anthropic-version": "2023-06-01",
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": WRITER_MODEL,
-        "max_tokens": max_tokens,
-        "temperature": 0.7,
-        "system": (
-            "You are a character designer for literary fiction with deep knowledge of "
-            "wound/want/need/lie frameworks, Sanderson's three sliders, and dialogue "
-            "distinctiveness. You create characters who feel like real people with "
-            "contradictions, secrets, and speech patterns you can hear. "
-            "You never use AI slop words. You write in clean, direct prose."
-            + language_instruction()
-        ),
-        "messages": [{"role": "user", "content": prompt}],
-    }
-    resp = httpx.post(f"{API_BASE}/v1/messages", headers=headers, json=payload, timeout=300)
-    resp.raise_for_status()
-    return resp.json()["content"][0]["text"]
+    return _call_api(prompt, system=_SYSTEM, max_tokens=max_tokens,
+                     temperature=0.7, timeout=300)
 
 seed = (BASE_DIR / "seed.txt").read_text()
 world = (BASE_DIR / "world.md").read_text()

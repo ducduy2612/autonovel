@@ -6,7 +6,8 @@ Usage: python gen_revision.py <chapter_num> <brief_file>
 import sys
 from pathlib import Path
 
-from config import language_instruction, API_KEY, API_BASE, WRITER_MODEL, BASE_DIR
+from config import language_instruction, BASE_DIR
+from writer import call_writer as _call_api
 
 
 def load_file(path):
@@ -15,30 +16,17 @@ def load_file(path):
     except FileNotFoundError:
         return ""
 
+_SYSTEM = (
+    "You are rewriting a fantasy novel chapter based on a specific revision brief. "
+    "You follow the brief exactly. You preserve the voice, world, and characters "
+    "from the existing draft while making the structural changes specified. "
+    "You write the FULL chapter. Do not truncate or summarize."
+    + language_instruction()
+)
+
 def call_writer(prompt, max_tokens=16000):
-    import httpx
-    headers = {
-        "x-api-key": API_KEY,
-        "anthropic-version": "2023-06-01",
-        "anthropic-beta": "context-1m-2025-08-07",
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": WRITER_MODEL,
-        "max_tokens": max_tokens,
-        "temperature": 0.8,
-        "system": (
-            "You are rewriting a fantasy novel chapter based on a specific revision brief. "
-            "You follow the brief exactly. You preserve the voice, world, and characters "
-            "from the existing draft while making the structural changes specified. "
-            "You write the FULL chapter. Do not truncate or summarize."
-            + language_instruction()
-        ),
-        "messages": [{"role": "user", "content": prompt}],
-    }
-    resp = httpx.post(f"{API_BASE}/v1/messages", headers=headers, json=payload, timeout=600)
-    resp.raise_for_status()
-    return resp.json()["content"][0]["text"]
+    return _call_api(prompt, system=_SYSTEM, max_tokens=max_tokens,
+                     temperature=0.8, timeout=600, use_beta=True)
 
 def main():
     ch_num = int(sys.argv[1])

@@ -3,31 +3,20 @@
 import os
 import sys
 
-from config import language_instruction, API_KEY, API_BASE, WRITER_MODEL, BASE_DIR
+from config import language_instruction, BASE_DIR
+from writer import call_writer as _call_api
+
+_SYSTEM = (
+    "You are a novel architect continuing an outline. Write in the same format "
+    "as the preceding chapters. Every chapter needs: POV, Location, Save the Cat beat, "
+    "% mark, Emotional arc, Try-fail cycle, Beats, Plants, Payoffs, Character movement, "
+    "The lie, Word count target."
+    + language_instruction()
+)
 
 def call_writer(prompt, max_tokens=16000):
-    import httpx
-    headers = {
-        "x-api-key": API_KEY,
-        "anthropic-version": "2023-06-01",
-        "content-type": "application/json",
-    }
-    payload = {
-        "model": WRITER_MODEL,
-        "max_tokens": max_tokens,
-        "temperature": 0.5,
-        "system": (
-            "You are a novel architect continuing an outline. Write in the same format "
-            "as the preceding chapters. Every chapter needs: POV, Location, Save the Cat beat, "
-            "% mark, Emotional arc, Try-fail cycle, Beats, Plants, Payoffs, Character movement, "
-            "The lie, Word count target."
-            + language_instruction()
-        ),
-        "messages": [{"role": "user", "content": prompt}],
-    }
-    resp = httpx.post(f"{API_BASE}/v1/messages", headers=headers, json=payload, timeout=600)
-    resp.raise_for_status()
-    return resp.json()["content"][0]["text"]
+    return _call_api(prompt, system=_SYSTEM, max_tokens=max_tokens,
+                     temperature=0.5, timeout=600)
 
 part1_path = os.environ.get("OUTLINE_PART1_PATH", "/tmp/outline_output.md")
 part1 = open(part1_path).read()
