@@ -1,0 +1,34 @@
+{
+  "arc_completion": {
+    "score": 9,
+    "note": "C\u01b0\u1eddng's negative arc resolves with devastating precision \u2014 from self-deception through horrified recognition to a sacrifice that costs exactly what it should. Lan's flat arc (object \u2192 subject) completes when she smiles for the first time, uncoerced. The secondary characters (H\u1ea1nh, Tu\u1ea5n, B\u00e0 L\u00e0nh) each land on their final beats with quiet inevitability. Only the Gi\u00e1m \u0111\u1ed1c Y khoa feels slightly underresolved \u2014 her defeat happens offstage, reported rather than dramatized."
+  },
+  "pacing_curve": {
+    "score": 7,
+    "note": "The first twelve chapters build tension superbly \u2014 each drop escalates the anomaly, each real-world interlude tightens the noose. The midpoint (Ch 12, V\u1ee1 H\u1ea1t) delivers a genuine paradigm shift. However, the second half suffers from structural repetition: Ch 25-30 reiterate revelations that Ch 16-17 already delivered. The confession of B\u1ea3o (Ch 27) and the unmasking (Ch 28) arrive after the reader has already assembled the truth. The final act (Ch 31-37) recovers momentum, but the 60-76% stretch sags under redundant suffering."
+  },
+  "theme_coherence": {
+    "score": 9,
+    "note": "The novel's central question \u2014 'Can loneliness be healed by technology, or only masked?' \u2014 is pursued with ruthless consistency. Every chapter examines this from a different angle: C\u01b0\u1eddng's addiction, Lan's exploitation, H\u1ea1nh's institutional helplessness, B\u1ea3o's scarred withdrawal, B\u00e0 L\u00e0nh's human witness. The secondary theme (consciousness without body \u2014 what does it become?) threads through the Ng\u01b0\u1eddi Th\u1ee9 13 and the K\u1ebb \u0110u\u1ed5i with satisfying ambiguity. The voice's refusal to romanticize loneliness is maintained to the final period."
+  },
+  "foreshadowing_resolution": {
+    "score": 8,
+    "note": "18 of 20 planted threads are harvested with precision: the lip-shaped bruise (Ch 1 \u2192 Ch 36), the 36.8\u00b0C constant (Ch 1 \u2192 Ch 6), the hoa s\u1eefa scent (Ch 1 \u2192 Ch 29), the attic room (Ch 3 \u2192 Ch 28), Patient #4 (Ch 8 \u2192 Ch 30). The confession note (Ch 19/32 \u2192 Ch 37) pays off beautifully when H\u1ea1nh finds it. However, the Ng\u01b0\u1eddi Th\u1ee9 13 thread (Ch 10 \u2192 Ch 34) resolves into a functional plot device rather than the existential mystery it promised. And the 'clear fluid from the bruise' (Ch 26) never receives explicit payoff \u2014 it's implied but not dramatized."
+  },
+  "world_consistency": {
+    "score": 8,
+    "note": "The Neural Mantle technology maintains internal logic throughout: ping rates, tactile latency, reverse shock, brain burn. The legal framework (Article 47B) and institutional structure (H\u1ea1nh's unit, Hemera's hierarchy) remain stable. One minor contradiction: the outline states C\u01b0\u1eddng stole the Mantle from police evidence (2039), but Ch 27's confession implies he infiltrated Hemera's isolation ward directly. The timeline of how he connected Lan to his private server is fuzzy \u2014 we're told he 'stole a soul' but the mechanics are handwaved. For a story that otherwise prizes technical specificity, this gap is noticeable."
+  },
+  "voice_consistency": {
+    "score": 10,
+    "note": "The surgical, technician-observing-system-failure voice is maintained with extraordinary discipline across all 37 chapters. Sentence rhythm follows the stated rules: action sentences are blunt and adjective-free; tactile/sensual sentences run long and neural; pain sentences fragment and abandon. The vocabulary wells (neurological/digital, hospital/decay, virtual-erotic/ghostly) are drawn from consistently. Body-before-emotion is never violated. The exemplar passage in the voice definition could be dropped into any chapter without detection. This is the novel's strongest achievement."
+  },
+  "overall_engagement": {
+    "score": 8,
+    "note": "A genuinely compelling read that creates a unique register: clinical horror crossed with erotic dread. The first half is nearly unputdownable \u2014 the gradual revelation that the 'perfect lover' is a prisoner fighting back is masterfully paced. The midpoint reset (Ch 12) is a genuine shock. The second half, while never boring, circles the same emotional territory: C\u01b0\u1eddng's guilt, Lan's suffering, the impossibility of atonement. The final sacrifice regains full power, and the closing image (B\u00e0 L\u00e0nh washing C\u01b0\u1eddng's face, echoing her care for Lan) is devastating. But the 60-76% stretch could lose 3-4 chapters without losing anything essential."
+  },
+  "novel_score": 8,
+  "weakest_dimension": "pacing_curve",
+  "weakest_chapter": 26,
+  "top_suggestion": "Chapters 25-30 are the critical problem. They re-enact revelations that Ch 16-17 already delivered: C\u01b0\u1eddng remembers his crime (Ch 16/25), confronts Lan's body (Ch 17/30), faces B\u1ea3o's accusation (Ch 15/27). The reader is watching the novel prove a point it already made. Solution: cut Ch 25 (K\u00fd \u1ee8c C\u1ee7a K\u1ebb \u0110u\u1ed5i) entirely \u2014 its memory-revelation duplicates Ch 16. Merge Ch 26 (V\u1ebft B\u1ea7m R\u1ec9 M\u00e1u) into Ch 27 as a single scene. Cut Ch 29 (\u0110\u00eam Tr\u1eafng) \u2014 the suicide attempt adds nothing thematically that Ch 28's unmasking didn't already deliver. This would tighten the second half by ~9,000 words and eliminate the repetition that currently blunts the novel's most devastating revelations."
+}
