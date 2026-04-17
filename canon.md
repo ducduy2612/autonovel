@@ -428,3 +428,13 @@
 - Nước mắt người chết trong hơn, mặn hơn nước mắt người sống — rỉ ra như nước biển từ vết thương. (ch_14)
 - Hoa dặm trên Mũi Chờ ngửi thấy mùi thuốc lào — mùi bác Khải đã tan biến — thay vì mùi cà phê Khoa thường ngửi. (ch_14)
 - Đá Mũi Chờ mòn lõm chỗ Cụ Ba ngồi, ấm còn từ hôm qua. (ch_14)
+
+
+## From Chapter 15
+- Khoa đã chuyển chỗ giấu máy vô tuyến từ Mũi Chờ ra rừng phi lao phía bắc, gần Khu Nhà Trống, giấu dưới gốc dừa chết rỗng ruột. (ch_15)
+- Khoa có cuốn sổ phụ — sổ da nâu nhỏ — dùng ghi tóm tắt 46 người trên đảo: tên, năm chết, chi tiết phân biệt, ai trên đất liền còn nhớ. (ch_15)
+- Khoa gửi dữ liệu cho Liên: ảnh Polaroid (quét bằng máy quét cầm tay), danh sách 46 người đọc vào vô tuyến. (ch_15)
+- Nguyễn Thị Huệ có trên Bãi Chờ — chết đuối 1990, Biển Đông, tàu chở hàng nhỏ lật ngoài khơi, ba người chết. Tên trong sổ Chị Tư đang mờ: chỉ còn 'Hu' và vài nét lơ lửng. (ch_15)
+- Liên đã gửi dữ liệu cho nhà báo hôm qua (theo lời cô nói với Khoa). Bài báo dự định ra tuần sau. (ch_15)
+- Khoa xác nhận với Liên rằng chị cô đang mờ (nói 'Đúng' khi Liên hỏi). (ch_15)
+- Hoa dặm đêm nay Khoa ngửi thấy mùi cà phê rang cháy — đắng hơn, khét nhẹ — khác với mùi cà phê quen thuộc anh thường ngửi. (ch_15)
