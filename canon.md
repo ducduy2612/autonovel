@@ -28,7 +28,7 @@
 
 **Cù Lao Chàm** — Quần đảo ngoài khơi Quảng Nam. Ngư dân nơi đây thỉnh thoảng bắt gặp "bóng thuyền" — hình ảnh mờ nhạt của thuyền buồm cũ. Không ai liên hệ với Bãi Chờ. (world.md)
 
-**Vũng Rổ** — Vịnh nhỏ ở Phú Yên, nơi nhiều tàu cá neo đậu, cũng là nơi Trần Minh Khoa xuất phát. Ngư dân Vũng Rổ biết vùng biển Bãi Chờ là vùng "sóng lạ" — la bàn nhiễu, sóng đổi hướng bất thường — nên tránh. (world.md)
+**Vũng Rổ** — Vịnh nhỏ ở Phú Yên, nơi nhiều tàu cá neo đậu, cũng là nơi Nguyễn Cảnh Lịch xuất phát. Ngư dân Vũng Rổ biết vùng biển Bãi Chờ là vùng "sóng lạ" — la bàn nhiễu, sóng đổi hướng bất thường — nên tránh. (world.md)
 
 **Bãi Biển Tuy Hòa** — Bờ biển gần nhất. Du khách thỉnh thoảng chụp ảnh "bóng người trên sóng" — mờ nhạt, thoáng qua — coi là ảo ảnh. (world.md)
 
@@ -42,10 +42,10 @@
 - 1884–1945 (Thời Pháp thuộc): Lần đầu tiên dân số đảo giảm. (world.md)
 - 1954–1975 (Chiến tranh chia cắt): Bãi Chờ nhận đợt người mới lớn nhưng cũng mất người cũ hàng loạt. Dân số giảm một nửa. (world.md)
 - 1990–nay: Ít người mới đến. Đảo teo nhanh. Hiện nay chỉ còn khoảng 47 người. (world.md)
-- Ba năm trước (~2012): Trần Minh Khoa phát hiện Bãi Chờ. (world.md)
-- Hai năm rưỡi trước: Hội Đồng quyết định cho Khoa ở lại tạm thời, không cho quay về đất liền. (world.md)
-- Một năm trước: Khoa đề xuất xuất bản nghiên cứu. Hội Đồng cấm. Khoa không chịu. (world.md)
-- Hiện tại (~2015): Khoa vẫn ở trên đảo, bí mật liên lạc với đồng nghiệp ngoài đất liền qua máy vô tuyến. Công ty dầu khí nước ngoài đang xin phép thăm dò. Quân sự hai nước cũng để ý. (world.md)
+- Ba năm trước (~2012): Nguyễn Cảnh Lịch phát hiện Bãi Chờ. (world.md)
+- Hai năm rưỡi trước: Hội Đồng quyết định cho Lịch ở lại tạm thời, không cho quay về đất liền. (world.md)
+- Một năm trước: Lịch đề xuất xuất bản nghiên cứu. Hội Đồng cấm. Lịch không chịu. (world.md)
+- Hiện tại (~2015): Lịch vẫn ở trên đảo, bí mật liên lạc với đồng nghiệp ngoài đất liền qua máy vô tuyến. Công ty dầu khí nước ngoài đang xin phép thăm dò. Quân sự hai nước cũng để ý. (world.md)
 
 *Năm hiện tại suy ra từ: Cô Năm Thảo chết 1995, con 10 tuổi khi mất, giờ 30 → ≈2015. Liên 13 tuổi khi chị chết 1990, giờ 38 → ≈2015. Cụ Ba chết 1954, ở đảo ≈61 năm → nhất quán với mọi chi tiết nhân vật.* (characters.md)
 
@@ -78,7 +78,7 @@
 
 **Hoa Dặm** — Loài hoa không ai trồng, không ai gieo. Cánh trắng, giữa vàng nhạt, mọc thành cụm. Nở theo chu kỳ bảy ngày: nở rực, tàn, nở lại. Không rụng hạt. Không cần đất đặc biệt. Mọc khắp nơi — mái nhà, khe đá, ven bờ. Không có rễ; neo vào bề mặt bằng lớp màng mỏng. Nhấc lên, rụng cánh ngay. Không thể mang đi nơi khác. Khi ai sắp tan biến, hoa dặm quanh nhà họ nở màu xám nhạt thay vì trắng. (world.md)
 
-- Phấn hoa dặm có mùi khác nhau tùy người ngửi — mỗi người ngửi thấy mùi gợi nhớ nhất với họ. Cụ Ba ngửi mùi nhang trầm; Chị Tư Hồng ngửi mùi cơm nấu than hoa; Khoa ngửi mùi cà phê — thứ anh không uống từ khi đến đảo. (world.md)
+- Phấn hoa dặm có mùi khác nhau tùy người ngửi — mỗi người ngửi thấy mùi gợi nhớ nhất với họ. Cụ Ba ngửi mùi nhang trầm; Chị Tư Hồng ngửi mùi cơm nấu than hoa; Lịch ngửi mùi cà phê — thứ anh không uống từ khi đến đảo. (world.md)
 
 **Nước Giếng** — Thỉnh thoảng khi vơ nước, người ta thấy hình ảnh phản chiếu không phải trời mây mà là mặt người — người thân trên đất liền đang sinh hoạt. Không ai kiểm soát được. Những người sắp tan biến không còn thấy gì trong nước giếng — phản chiếu chuyển thành mặt nước phẳng lì. (world.md)
 
@@ -86,7 +86,7 @@
 
 **Đồ vật từ đất liền** — Đôi khi trên bờ biển xuất hiện đồ vật thực: chai nhựa, mảnh thuyền, áo phao, thư tình. Có thể chạm, có thể dùng. Cách đến không ai hiểu. (world.md)
 
-**Ký Ức Gián Tiếp** — Câu hỏi chưa có câu trả lời: liệu một người sống có thể "nhớ thay" người khác chưa bao giờ biết — thông qua ghi chép, đọc tên, xem ảnh — và liệu ký ức gián tiếp đó có tính theo luật phép thuật? Chị Tư Hồng ghi chi tiết mỗi người vào sổ; cô nhớ rõ nhờ viết, nhưng chữ trong sổ cũng mờ dần theo người nó mô tả. Khoa đang thử nghiệm: ghi tên và chi tiết người trên đảo vào sổ riêng, quan sát xem họ có "đặc" hơn không. Kết quả mơ hồ — có người rõ hơn sau khi anh ghi, có người không thay đổi. Anh không phân biệt được: là nhờ ghi chép, hay do anh thực sự bắt đầu nhớ họ qua quá trình viết? Quy tắc cứng nói "ký ức phải thật, từ trái tim" — nhưng ranh giới giữa nhớ thật và nhớ vì nghiên cứu không rõ ràng. Đây là giả thuyết chưa kiểm chứng, không phải quy luật. (world.md, characters.md)
+**Ký Ức Gián Tiếp** — Câu hỏi chưa có câu trả lời: liệu một người sống có thể "nhớ thay" người khác chưa bao giờ biết — thông qua ghi chép, đọc tên, xem ảnh — và liệu ký ức gián tiếp đó có tính theo luật phép thuật? Chị Tư Hồng ghi chi tiết mỗi người vào sổ; cô nhớ rõ nhờ viết, nhưng chữ trong sổ cũng mờ dần theo người nó mô tả. Lịch đang thử nghiệm: ghi tên và chi tiết người trên đảo vào sổ riêng, quan sát xem họ có "đặc" hơn không. Kết quả mơ hồ — có người rõ hơn sau khi anh ghi, có người không thay đổi. Anh không phân biệt được: là nhờ ghi chép, hay do anh thực sự bắt đầu nhớ họ qua quá trình viết? Quy tắc cứng nói "ký ức phải thật, từ trái tim" — nhưng ranh giới giữa nhớ thật và nhớ vì nghiên cứu không rõ ràng. Đây là giả thuyết chưa kiểm chứng, không phải quy luật. (world.md, characters.md)
 
 **Bất Thường Từ Trường** — Sự tồn tại của Bãi Chờ tạo ra nhiễu từ trường trong vùng biển xung quanh. Thiết bị hiện đại ghi nhận "dấu vết" — la bàn nhiễu, sóng đổi hướng, ảnh vệ tinh chỉ thấy mặt nước nhưng địa chấn phát hiện cấu trúc ngầm. Công ty Dầu Khí Meridian nghĩ đó là mỏ khí. Thực ra nó là đảo — hoặc đúng hơn, là hàng trăm năm ký ức cô đặc phát ra tín hiệu vật lý mà khoa học chưa giải thích được. (world.md)
 
@@ -96,11 +96,11 @@
 
 - Cụ Ba từng cho phép một người liên lạc ra ngoài — không lâu sau khi đến đảo, khi cụ chưa hiểu luật. Người đó bị bắt, bị giết, bị coi ma quỷ. Làng trên đất liền sợ hãi, bỏ nhớ người chết. 17 người tan biến trong một mùa. Từ đó cụ cấm mọi liên lạc, không kể cho ai lý do, chỉ nói "không được." Hơn sáu mươi năm sau, cụ vẫn mang lỗi đó. (characters.md)
 - Hai Luyện đốt lửa lớn trên Mũi Chờ ba đêm liên tiếp, cố truyền tín hiệu ra ngoài. Không ai trên đất liền thấy. Hội Đồng biết và cấm anh lên Mũi Chờ. (world.md, characters.md)
-- Khoa phát hiện quy luật chưa nói ai: khi anh ghi tên và chi tiết một người vào sổ, có khi người đó "đặc" hơn, rõ hơn. Anh đang nhớ thay — có lẽ. Nhưng không biết ký ức từ sổ ghi chép có tính theo luật phép thuật hay không. Kết quả không nhất quán: một số người rõ hơn rõ rệt, số khác không đổi. Anh chưa dám kết luận. (characters.md)
+- Lịch phát hiện quy luật chưa nói ai: khi anh ghi tên và chi tiết một người vào sổ, có khi người đó "đặc" hơn, rõ hơn. Anh đang nhớ thay — có lẽ. Nhưng không biết ký ức từ sổ ghi chép có tính theo luật phép thuật hay không. Kết quả không nhất quán: một số người rõ hơn rõ rệt, số khác không đổi. Anh chưa dám kết luận. (characters.md)
 - Phương thấy mặt mẹ trong giếng lần cuối hai tháng trước — bà ngồi trên giường, nhìn vô chiều, lặp một câu, đang quên. (characters.md)
 - Chị Tư Hồng nhìn thấy con trong nước giếng — một lần, duy nhất. Đứa bé không nhìn chị, nhìn ra biển. (characters.md)
 - Bà Ba (vợ Cụ Ba) đã chết mười năm trước, 97 tuổi. Trước khi chết, bà dặn con cháu thắp hương, nhớ, khóc cho cụ. Bốn thế hệ vẫn làm. (characters.md)
-- Liên đã bí mật liên hệ nhà báo, không nói Khoa. Nhà báo đang chờ dữ liệu. Nếu nhận được, xuất bản không cần anh đồng ý. (characters.md)
+- Liên đã bí mật liên hệ nhà báo, không nói Lịch. Nhà báo đang chờ dữ liệu. Nếu nhận được, xuất bản không cần anh đồng ý. (characters.md)
 - Công ty Dầu Khí Meridian đang xin giấy phép thăm dò vùng biển quanh Bãi Chờ. Khảo sát địa chấn phát hiện "bất thường từ trường" — dấu hiệu có cấu trúc ngầm dưới nước. Họ nghĩ là mỏ khí. Thực ra đó là chính Bãi Chờ — ký ức cô đặc phát ra nhiễu từ trường mà thiết bị hiện đại ghi nhận được. (world.md)
 - Nếu Meridian phát hiện đảo, quân sự sẽ biết trong 48 giờ. (world.md)
 
@@ -108,19 +108,19 @@
 
 ## Nhân Vật — Sự Thực Cụ Thể
 
-### Trần Minh Khoa
+### Nguyễn Cảnh Lịch
 
 - 34 tuổi. (characters.md)
 - Người Việt gốc Đức. Nhà nghiên cứu pháp yếu học. (world.md, characters.md)
 - Ở đảo hai năm rưỡi. Người duy nhất trên Bãi Chờ không chết đuối. (world.md, characters.md)
-- Tên gốc: Minh Sang. Ba đổi thành Minh Khoa sau khi mẹ chết. (characters.md)
-- Mẹ: Trần Thị Minh — chết đuối trên sông Rhein khi Khoa bốn tuổi. (characters.md)
-- Ba: người Đức, kỹ sư. Cất hết ảnh mẹ, bảo Khoa quên đi, rồi chính ba cũng quên — không nhắc, không khóc, không thắp hương. (characters.md)
-- Năm mười tuổi, Khoa nhảy xuống hồ thử "cảm giác mẹ" — di chứng: tay trái hay run. (characters.md)
+- Tên gốc: Minh Sang. Ba đổi thành Minh Lịch sau khi mẹ chết. (characters.md)
+- Mẹ: Trần Thị Minh — chết đuối trên sông Rhein khi Lịch bốn tuổi. (characters.md)
+- Ba: người Đức, kỹ sư. Cất hết ảnh mẹ, bảo Lịch quên đi, rồi chính ba cũng quên — không nhắc, không khóc, không thắp hương. (characters.md)
+- Năm mười tuổi, Lịch nhảy xuống hồ thử "cảm giác mẹ" — di chứng: tay trái hay run. (characters.md)
 - Ngoại hình: gầy, 1m75, da ngăm. Kính cận dày, vỡ một mắt, dán băng dính xanh. Tóc dài buộc đuôi ngựa hờ hững. Đốt ngón tay luôn có mực. (characters.md)
 - Thói quen: ghi chép mọi thứ vào sổ da nâu; đi dạo quanh đảo mỗi chiều đếm nhà; chạm mặt nước giếng mỗi sáng (không nhìn, chỉ chạm) kiểm tra mình có thực không; hút thuốc lào khi căng thẳng nhưng hay sặc; lẩm bẩm khi ghi chép. (characters.md)
 - Nói giọng Bắc, dùng "tôi." (characters.md)
-- Mẹ Khoa chết trên sông Rhein, không phải biển Đông — bà không đến được Bãi Chờ. Anh đã tìm trong danh sách Chị Tư Hồng — không có "Trần Thị Minh." Vẫn tìm mỗi ngày. (characters.md)
+- Mẹ Lịch chết trên sông Rhein, không phải biển Đông — bà không đến được Bãi Chờ. Anh đã tìm trong danh sách Chị Tư Hồng — không có "Trần Thị Minh." Vẫn tìm mỗi ngày. (characters.md)
 
 ### Cụ Ba (Nguyễn Văn Ba)
 
@@ -142,7 +142,7 @@
 - Người trẻ nhất đảo. Đang mờ nhanh nhất. (characters.md)
 - Ngoại hình: mặt rõ — mắt lớn, mi dài, môi đầy. Từ cổ xuống nhạt dần. Tay trái như sương (mẹ không nhớ con thuận tay trái). Chân chắc hơn (mẹ nhớ con đi bộ bờ biển). Áo bà ba tím — màu mẹ thích. Tóc dài, đuôi bắt đầu trong suốt. Giọng nhỏ dần. (characters.md)
 - Thói quen: nấu ăn mỗi ngày (tay mờ, khó cầm dao); hát ru bài mẹ hát khi làm việc (giọng nhỏ dần, đôi khi quên lời); chạm mọi thứ — cửa, bàn, cây — xác nhận mình còn cầm nắm được; không nhìn giếng. (characters.md)
-- Đã yêu Khoa. Không nói. (characters.md)
+- Đã yêu Lịch. Không nói. (characters.md)
 
 ### Hai Luyện
 
@@ -162,12 +162,12 @@
 - Nói "tao–mày" với người thân, "tui–bậc" với người lớn. Khi nói về con — chuyển giọng Nam thuần. (characters.md)
 - Thành viên Hội Đồng. Giữ sổ ghi chép da — ghi tên, ngày đến, ngày đi, chi tiết về mỗi người. (world.md, characters.md)
 - Chữ trong sổ cũng mờ dần — không phải mực phai, mà chữ mất dạng. (world.md)
-- Đang giúp Khoa cung cấp thông tin từ sổ, không nói Hội Đồng. Tin Khoa đúng một phần nhưng không tin hẳn. (characters.md)
+- Đang giúp Lịch cung cấp thông tin từ sổ, không nói Hội Đồng. Tin Lịch đúng một phần nhưng không tin hẳn. (characters.md)
 
 ### TS. Nguyễn Thị Liên
 
-- 38 tuổi. Đồng nghiệp Khoa. (characters.md)
-- Người duy nhất trên đất liền biết về đảo. Nhận vô tuyến từ Khoa. (world.md, characters.md)
+- 38 tuổi. Đồng nghiệp Lịch. (characters.md)
+- Người duy nhất trên đất liền biết về đảo. Nhận vô tuyến từ Lịch. (world.md, characters.md)
 - Chị: Nguyễn Thị Huệ — chết đuối 1990 trên biển Đông, rớt từ tàu. Liên 13 tuổi khi chị chết. Liên nhảy xuống cứu chị; chị chìm, Liên sống. Mang tội suốt đời. (characters.md)
 - Nói nhanh, rõ, học thuật nhưng sôi nổi. Xen câu hỏi rồi tự trả lời. Khi nói về chị — giọng Bắc xưa, vùng biển, chậm lại. (characters.md)
 - Chị Huệ chết trên biển Đông — có thể đến Bãi Chờ. Liên chưa bao giờ hỏi. Sợ câu trả lời — cả có lẫn không. (characters.md)
@@ -195,18 +195,18 @@
 - Gồm bảy người được nhớ nhiều nhất đảo — không phải giỏi nhất hay lớn tuổi nhất. (world.md)
 - Quyền lực đến từ việc họ "đặc" nhất, rõ nét nhất, khó tan biến nhất. (world.md)
 - Năm người kia luôn thay đổi: khi ai trở nên "đặc" hơn, họ thay thế người mờ nhạt hơn. Không bầu cử; xảy ra tự nhiên. (world.md)
-- Lập trường: bảo vệ sự cô lập bằng mọi giá. Cấm Khoa liên lạc ngoài. (world.md)
+- Lập trường: bảo vệ sự cô lập bằng mọi giá. Cấm Lịch liên lạc ngoài. (world.md)
 
 **Thành viên hiện tại:**
 - Cụ Ba — Chủ tịch. Nói ít, quyết định cuối cùng luôn qua cụ. (world.md)
 - Chị Tư Hồng — giữ sổ ghi chép, ghi ai đến, ai đi, khi nào. (world.md)
 - Năm người kia — không点名. (world.md)
 
-### Nhóm Ủng Hộ Khoa
+### Nhóm Ủng Hộ Lịch
 
 - 12 người trẻ — những người đến đảo sau 1970, còn có gia đình trên đất liền có thể còn sống. (world.md)
 - Sợ tan biến, muốn tồn tại bất chấp giá nào. (world.md)
-- Một số không thực sự tin Khoa, chỉ sợ đủ để đánh đổi mọi thứ — kể cả độc lập của đảo. (world.md)
+- Một số không thực sự tin Lịch, chỉ sợ đủ để đánh đổi mọi thứ — kể cả độc lập của đảo. (world.md)
 
 ### Những Người Chờ
 
@@ -217,7 +217,7 @@
 
 - Công ty Dầu Khí Meridian: đang xin giấy phép thăm dò vùng biển quanh Bãi Chờ. Khảo sát địa chấn phát hiện "bất thường từ trường" — dấu hiệu có cấu trúc ngầm dưới nước. Họ nghĩ là mỏ khí. Thực ra đó là chính Bãi Chờ — ký ức cô đặc phát ra nhiễu vật lý mà thiết bị hiện đại ghi nhận được. Nếu Meridian phát hiện đảo, quân sự hai nước sẽ vào cuộc trong 48 giờ. (world.md)
 - Hải quân: vùng biển tranh chấp. Bất kỳ hoạt động bất thường nào cũng bị theo dõi. (world.md)
-- Mối đe dọa bên ngoài gắn trực tiếp với bản chất phép thuật của đảo: ký ức cô đặc phát ra từ trường, từ trường thu hút thiết bị hiện đại, thiết bị hiện đại sẽ vạch ra đảo. Hội Đồng không hiểu điều này — họ chỉ sợ theo bản năng. Khoa thì hiểu, và đó là lý do anh muốn hành động nhanh. (world.md)
+- Mối đe dọa bên ngoài gắn trực tiếp với bản chất phép thuật của đảo: ký ức cô đặc phát ra từ trường, từ trường thu hút thiết bị hiện đại, thiết bị hiện đại sẽ vạch ra đảo. Hội Đồng không hiểu điều này — họ chỉ sợ theo bản năng. Lịch thì hiểu, và đó là lý do anh muốn hành động nhanh. (world.md)
 
 ---
 
@@ -227,7 +227,7 @@
 
 - Người đảo nói tiếng Việt, giọng Nghệ An, nhưng từ vựng cách đây ba trăm năm — từ thời những người đầu tiên đến. (seed.txt, world.md)
 - Nói "nghen" thay "nhé," "ruỗi" thay "đi," "thím" cho phụ nữ lớn tuổi. (world.md)
-- Khi nói khái niệm hiện đại, mượn từ của Khoa — "điện thoại," "internet," "truyền hình" — phát ngọng. (world.md)
+- Khi nói khái niệm hiện đại, mượn từ của Lịch — "điện thoại," "internet," "truyền hình" — phát ngọng. (world.md)
 - Không có từ "quên" theo nghĩa tích cực. Với họ, quên = chết. (world.md)
 
 ### Ăn Uống
@@ -283,17 +283,17 @@
 - Không cho phép bất kỳ nhân vật nào thoát khỏi đảo bằng ý chí. Phép thuật không quan tâm đến tình yêu. (world.md)
 - Không giải thích tại sao hoa dặm tồn tại. (world.md)
 - Không cho Hội Đồng biết rõ hậu quả chính trị nếu bị phát hiện — họ sợ theo bản năng, không phải phân tích. (world.md)
-- Không để Khoa thành anh hùng cứu réseau — anh có agenda riêng, sai lầm riêng. (world.md)
+- Không để Lịch thành anh hùng cứu réseau — anh có agenda riêng, sai lầm riêng. (world.md)
 - Không romance hóa cái chết đuối — sợ, hoảng loạn, đau đớn, nước tràn vào phổi. (world.md)
-- Không biến "ghi chép cứu người" thành quy luật đã xác nhận. Khoa đang thử nghiệm, kết quả mơ hồ, và có thể anh sai. Cao trào phải chứa đựng khả năng thất bại thật sự. (world.md)
+- Không biến "ghi chép cứu người" thành quy luật đã xác nhận. Lịch đang thử nghiệm, kết quả mơ hồ, và có thể anh sai. Cao trào phải chứa đựng khả năng thất bại thật sự. (world.md)
 
 ---
 
 ## Mối Quan Hệ — Bảng Chéo
 
-| | Khoa | Cụ Ba | Phương | Luyện | Chị Tư | Liên |
+| | Lịch | Cụ Ba | Phương | Luyện | Chị Tư | Liên |
 |---|---|---|---|---|---|---|
-| **Khoa** | — | Tôn trọng / bị cấm cản | Yêu / muốn cứu | Hiểu / không đồng | Cộng sự | Cầu nối |
+| **Lịch** | — | Tôn trọng / bị cấm cản | Yêu / muốn cứu | Hiểu / không đồng | Cộng sự | Cầu nối |
 | **Cụ Ba** | Nghi ngờ | — | Bảo vệ | Cấm / thấu | Tin | Không biết |
 | **Phương** | Cảm ơn / sợ liên lụy | Yêu như ông nội | — | Không đồng cách | Tin | Không biết |
 | **Luyện** | Muốn dùng | Thách thức | Tiếc nhưng im | — | Muốn sổ | Không biết |
