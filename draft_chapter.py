@@ -140,13 +140,14 @@ WRITING INSTRUCTIONS:
 7. Dialogue follows the speech patterns defined in characters.md.
 8. No banned words from voice.md Part 1 guardrails.
 9. No AI fiction tells: no "a sense of," no "couldn't help but feel," no "eyes widened."
-10. VARY sentence length RIGOROUSLY. This is the most important rhythm rule.
-    After 2-3 short sentences (1-5 words), you MUST write a longer one (15+ words)
-    that expands, contextualizes, or lets the reader breathe. Short sentences create
-    pressure; long sentences release it. Never leave a run of fragments hanging —
-    always land with a sentence that has weight. Target ratio: ~60% long sentences,
-    ~30% medium, ~10% short/fragments. The voice calls for more fragments than usual,
-    but they must be EARNED by context, not used as a default.
+10. SENTENCE LENGTH IS THE #1 PRIORITY. The DEFAULT is long, flowing sentences
+    (15-40 words) with commas, subordinate clauses, and multiple sensations woven
+    together. SHORT sentences (1-7 words) are RARE exceptions — use them only when
+    someone is about to vanish, a memory surfaces, or you need one sharp cut after
+    a long passage. Maximum 1-2 short sentences in a row, then you MUST follow with
+    a long sentence that releases the tension. Target ratio: 65% long, 25% medium,
+    10% short/fragments. When in doubt, write LONG. The prose should FLOW like water,
+    not stutter like a telegraph.
 11. Metaphors from the POV character's experience and world — drawn from
     their occupation, history, and environment.
 12. Trust the reader. Don't explain what scenes mean. Let them land.

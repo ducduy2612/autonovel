@@ -321,3 +321,10 @@
 - Khi mới sinh, Khoa không khóc mà liếm môi liên tục — như khát muối. (ch_02)
 - Hoa dặm quanh Giếng Làng màu trắng (không xám), vì không có ai ở giếng sắp tan biến. (ch_02)
 - Phương bước chân để lại dấu in mờ hơn người bình thường — 'như cô đang nhẹ đi, đang bớt nặng.' (ch_02)
+
+
+## From Chapter 3
+- Nhà Chị Tư Hồng là căn thứ bảy từ giếng, mái thấp hơn hàng rào (ch_03) (ch_03)
+- Chị Tư ghi lại mỗi sáng và kiểm tra chiều xem chữ còn đọc được không (ch_03) (ch_03)
+- Chữ trong sổ Chị Tư có thể mờ trong vòng một ngày — 'hôm qua chữ bác Khải còn rõ, sáng nay mờ thấy mặt sau giấy' (ch_03) (ch_03)
+- Khoa kể mẹ chết năm 1985 trên sông Rhein (ch_03) (ch_03)

@@ -1,0 +1,103 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "Anh b\u01b0\u1edbc ti\u1ebfp v\u1ec1 nh\u00e0 s\u1ed1 m\u01b0\u1eddi b\u1ea3y, n\u01a1i s\u1ed5 l\u1edbn m\u1edf s\u1eb5n tr\u00ean b\u00e0n, n\u01a1i ch\u1eef 'B\u00e0 N\u0103m' \u0111ang m\u1edd t\u1eeb '\u0103m' l\u00ean 'N', n\u01a1i anh ng\u1ed3i m\u1ed7i \u0111\u00eam ghi ch\u00e9p \u0111\u1ec3 n\u00edu gi\u1eef ng\u01b0\u1eddi ta. Tay tr\u00e1i run. Nh\u1edb, nh\u1edb m\u00e3i \u2014 n\u01b0\u1edbc l\u1ea1nh qua m\u1eaft c\u00e1 ch\u00e2n, b\u00e0n tay tr\u01b0\u1ee3t, m\u1eb9 t\u00edm ng\u1eaft tr\u00ean b\u1edd s\u00f4ng Rhein \u2014 nh\u01b0ng m\u1eb7t m\u1eb9 tr\u1ed1ng r\u1ed7ng, kh\u00f4ng \u0111\u1ebfn \u0111\u01b0\u1ee3c B\u00e3i Ch\u1edd, kh\u00f4ng \u0111\u1ebfn \u0111\u01b0\u1ee3c \u0111\u00e2u c\u1ea3. Ch\u1ec9 c\u00f2n c\u1ea3m gi\u00e1c. C\u1ea3m gi\u00e1c tr\u01b0\u1ee3t. Kh\u00f4ng n\u1eafm \u0111\u01b0\u1ee3c.",
+    "fix": "The final ~150 words are nearly verbatim from Ch\u01b0\u01a1ng 2's ending. Either vary the echo significantly (different sensory detail, different fragment of memory) or cut before the repeat and end on a new beat \u2014 perhaps the image of C\u1ee5 Ba's eyes never lowering, which is fresh information.",
+    "note": "Voice is strong throughout the middle section. Ch\u1ecb T\u01b0's Nam pha Ngh\u1ec7 An register, the body-before-emotion in the unborn child passage, and the long flowing descriptive sentences all match the profile. The opening sentence is exemplary. But the copy-paste ending violates the voice rule against structural slop and undermines the 'u bu\u1ed3n nh\u01b0ng kh\u00f4ng bi l\u1ee5y' tone by layering melodrama through repetition."
+  },
+  "beat_coverage": {
+    "score": 8,
+    "weakest_moment": "Beat 2 (so s\u00e1nh hai cu\u1ed1n s\u1ed5) resolves too quickly \u2014 Khoa asks, Ch\u1ecb T\u01b0 nods, he compares, and the mystery is stated rather than deepened: 'kh\u00f4ng bi\u1ebfn s\u1ed1 n\u00e0o kh\u00e1c.' The line reads like a lab report conclusion.",
+    "fix": "Let Khoa discover the difference more slowly. Have him flip through pages, notice one discrepancy, then another, build uncertainty before the realization lands. Cut the explicit 'c\u00f9ng b\u00fat, c\u00f9ng gi\u1ea5y, c\u00f9ng nhi\u1ec7t \u0111\u1ed9, c\u00f9ng \u0111\u1ed9 \u1ea9m \u2014 kh\u00f4ng bi\u1ebfn s\u1ed1 n\u00e0o kh\u00e1c' and let the reader reach that conclusion alongside him.",
+    "note": "All five beats are present and dramatized rather than summarized. The Ch\u1ecb T\u01b0 backstory beat is particularly well executed \u2014 the fragmented syntax ('N\u01b0\u1edbc ng\u1eadp \u2014 tui kh\u00f4ng bi\u1ebft b\u01a1i \u2014 u\u1ed1ng n\u01b0\u1edbc \u2014 n\u01b0\u1edbc v\u00f4 ph\u1ed5i \u2014 con...') is a genuine find. C\u1ee5 Ba's wordless appearance at the end is efficient and haunting."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "\"T\u00f4i kh\u00f4ng l\u00e0m g\u00ec \u0111\u1eb7c bi\u1ec7t.\" \u2014 This line is generic protagonist speech. Khoa, who speaks in analytical fragments and defaults to 'C\u00f4 th\u1ea5y kh\u00f4ng?' when defensive, would frame this differently \u2014 probably as a question or hypothesis rather than a flat denial.",
+    "fix": "Replace with something like: \"Nh\u01b0ng tui kh\u00f4ng \u2014 t\u00f4i kh\u00f4ng l\u00e0m g\u00ec kh\u00e1c ch\u1ecb. C\u00f9ng b\u00fat. C\u00f9ng gi\u1ea5y. T\u00f4i s\u1ed1ng, nh\u01b0ng s\u1ed1ng kh\u00f4ng ph\u1ea3i bi\u1ebfn s\u1ed1.\" This keeps his analytical tic ('bi\u1ebfn s\u1ed1') while showing the confusion he'd actually feel.",
+    "note": "Ch\u1ecb T\u01b0's voice is the chapter's triumph. The shift from Nam pha Ngh\u1ec7 An to Nam thu\u1ea7n when discussing her child is exactly right \u2014 grief bypasses acquired register. Khoa's voice is mostly solid but occasionally flattens into exposition. C\u1ee5 Ba's silence is perfectly in character."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "The plant 'C\u1ee5 Ba kh\u00f4ng nh\u00ecn gi\u1ebfng' is planted well but then immediately interpreted by the narrator: 'S\u00e1u m\u01b0\u01a1i n\u0103m tr\u00ean \u0111\u1ea3o. S\u00e1u m\u01b0\u01a1i n\u0103m kh\u00f4ng nh\u00ecn gi\u1ebfng.' This tells the reader what to think before they've had time to wonder.",
+    "fix": "Cut the interpretive line. Let the observation stand alone: C\u1ee5 Ba walks past, eyes level, never down. Reader will remember. The repetition 'S\u00e1u m\u01b0\u01a1i n\u0103m... S\u00e1u m\u01b0\u01a1i n\u0103m...' hammers a point that was already made with elegant subtlety.",
+    "note": "The notebook comparison plant is excellently integrated \u2014 it's the engine of the scene, not just a dropped clue. Ch\u1ecb T\u01b0's unborn child is planted with emotional weight that makes it feel like character revelation rather than setup. The 'ghi l\u1ea1i = gi\u1eef l\u1ea1i' lie is reinforced without being stated doctrinally."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "Anh mu\u1ed1n tin c\u00f3. Mu\u1ed1n tin ghi l\u1ea1i = gi\u1eef l\u1ea1i.",
+    "fix": "Replace with: 'Anh mu\u1ed1n tin c\u00f3 \u2014 ghi l\u1ea1i l\u00e0 gi\u1eef l\u1ea1i, vi\u1ebft ra l\u00e0 n\u00edu \u0111\u01b0\u1ee3c, ch\u1eef s\u1eafc ngh\u0129a l\u00e0 ng\u01b0\u1eddi c\u00f2n.' The '=' symbol is a note-taking convention, not prose.",
+    "strongest_sentence": "Nh\u00e0 ch\u1ecb T\u01b0 H\u1ed3ng n\u1eb1m c\u0103n th\u1ee9 b\u1ea3y t\u1eeb gi\u1ebfng, m\u00e1i l\u00e1 d\u1eeba th\u1ea5p h\u01a1n h\u00e0ng r\u00e0o, th\u1ea5p h\u01a1n nh\u00e0 b\u00ean c\u1ea1nh, nh\u01b0 th\u1ec3 ch\u1ecb mu\u1ed1n \u1edf g\u1ea7n \u0111\u1ea5t, g\u1ea7n ngu\u1ed3n, g\u1ea7n ch\u1ed7 n\u01b0\u1edbc t\u1eebng nu\u1ed1t ch\u1ecb r\u1ed3i nh\u1ea3 ra n\u01a1i n\u00e0y.",
+    "note": "The opening sentence is superb \u2014 specific, character-revealing, rooted in the world's water imagery. The unborn child passage achieves genuine visceral power through fragmentation. Weaknesses: the '=' symbol, the verbatim ending from Ch\u01b0\u01a1ng 2, and a few paragraphs that open with consecutive subject-name sentences (Khoa... Ch\u1ecb... Anh...)."
+  },
+  "continuity": {
+    "score": 6,
+    "note": "Plot continuity is strong \u2014 the chapter picks up directly from Ch\u01b0\u01a1ng 2's gi\u1ebfng scene and the B\u00e0 N\u0103m name-fading detail. However, the emotional throughline is undermined by the near-verbatim repetition of the ending. A reader turning the page from Ch\u01b0\u01a1ng 2 to Ch\u01b0\u01a1ng 3 would experience d\u00e9j\u00e0 vu, not continuation. The 'Tay tr\u00e1i run. Nh\u1edb, nh\u1edb m\u00e3i \u2014 n\u01b0\u1edbc l\u1ea1nh qua m\u1eaft c\u00e1 ch\u00e2n...' passage needs either significant variation or should be cut, as it was already the emotional climax of the previous chapter."
+  },
+  "canon_compliance": {
+    "score": 8,
+    "violations": [
+      "None found. The chapter says Khoa's mother died in 1985, while the outline says 1990, but the character bible says she died 'when Khoa was four.' With Khoa now 34 (~2015), born ~1981, age four = ~1985. The chapter is more canon-consistent than the outline."
+    ],
+    "note": "All magic rules, character details, and physical descriptions are accurate. Ch\u1ecb T\u01b0's pregnancy at seven months, the 'ch\u1ec9 ch\u1ebft \u0111u\u1ed1i bi\u1ec3n \u0110\u00f4ng' rule, the handwriting fading pattern, C\u1ee5 Ba's missing finger joint \u2014 all correct."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "The line 'kh\u00f4ng ph\u1ea3i m\u1ef1c phai m\u00e0 l\u00e0 n\u00e9t ch\u1eef t\u1ef1 t\u1ea9y, nh\u01b0 gi\u1ea5y nh\u1edb h\u01a1n ng\u01b0\u1eddi vi\u1ebft, nh\u01b0 ng\u00f4n ng\u1eef t\u1eeb ch\u1ed1i gi\u1eef l\u1ea1i \u0111i\u1ec1u \u0111ang bi\u1ebfn m\u1ea5t' doubles down on metaphor where the physical observation was already haunting.",
+    "fix": "Trust the concrete image. 'Kh\u00f4ng ph\u1ea3i m\u1ef1c phai \u2014 n\u00e9t ch\u1eef t\u1ef1 t\u1ea9y, nh\u01b0 c\u00f3 g\u00ec \u0111\u00f3 k\u00e9o m\u1ef1c ra kh\u1ecfi gi\u1ea5y' is sufficient. The second and third metaphor clauses dilute the first.",
+    "note": "The world does genuine work here. The fading ink isn't set dressing \u2014 it's the central mystery that drives the scene and plants questions about Khoa's role. The rule about 'ch\u1ec9 n\u01b0\u1edbc m\u1eb7n Bi\u1ec3n \u0110\u00f4ng' lands with emotional weight because it's delivered as personal loss, not exposition. Ch\u1ecb T\u01b0's unborn child embodies a magic-system edge case that deepens both character and world."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The chapter's tension peaks at the notebook comparison and Ch\u1ecb T\u01b0's child revelation, then deflates through the extended walk-home passage and the repeated ending. By the time we reach 'Kh\u00f4ng n\u1eafm \u0111\u01b0\u1ee3c,' the emotional moment has already been spent in Ch\u01b0\u01a1ng 2.",
+    "fix": "End the chapter on C\u1ee5 Ba's walk past the gi\u1ebfng \u2014 a new image, a new mystery, a hook for the next chapter. Cut the final 150 words that repeat Ch\u01b0\u01a1ng 2.",
+    "note": "The notebook comparison scene is genuinely compelling \u2014 a reader would lean in. Ch\u1ecb T\u01b0's backstory is the emotional highlight. The C\u1ee5 Ba plant at the end is an effective hook. But the chapter doesn't earn its ending because it borrows one."
+  },
+  "three_weakest_sentences": [
+    "Anh mu\u1ed1n tin c\u00f3. Mu\u1ed1n tin ghi l\u1ea1i = gi\u1eef l\u1ea1i.",
+    "Tr\u1eddi x\u00e1m. Kh\u00f4ng m\u01b0a, kh\u00f4ng n\u1eafng, nh\u01b0 \u0111\u1ea3o \u0111ang n\u1eb1m trong kho\u1ea3ng ch\u1edd, gi\u1eefa s\u00e1ng v\u00e0 chi\u1ec1u, gi\u1eefa nh\u1edb v\u00e0 qu\u00ean, gi\u1eefa c\u00f2n v\u00e0 m\u1ea5t. \u2014 nearly identical to Ch\u01b0\u01a1ng 2's ending",
+    "Anh b\u01b0\u1edbc ti\u1ebfp v\u1ec1 nh\u00e0 s\u1ed1 m\u01b0\u1eddi b\u1ea3y, n\u01a1i s\u1ed5 l\u1edbn m\u1edf s\u1eb5n tr\u00ean b\u00e0n, n\u01a1i ch\u1eef 'B\u00e0 N\u0103m' \u0111ang m\u1edd t\u1eeb '\u0103m' l\u00ean 'N', n\u01a1i anh ng\u1ed3i m\u1ed7i \u0111\u00eam ghi ch\u00e9p \u0111\u1ec3 n\u00edu gi\u1eef ng\u01b0\u1eddi ta. \u2014 verbatim from Ch\u01b0\u01a1ng 2"
+  ],
+  "three_strongest_sentences": [
+    "Nh\u00e0 ch\u1ecb T\u01b0 H\u1ed3ng n\u1eb1m c\u0103n th\u1ee9 b\u1ea3y t\u1eeb gi\u1ebfng, m\u00e1i l\u00e1 d\u1eeba th\u1ea5p h\u01a1n h\u00e0ng r\u00e0o, th\u1ea5p h\u01a1n nh\u00e0 b\u00ean c\u1ea1nh, nh\u01b0 th\u1ec3 ch\u1ecb mu\u1ed1n \u1edf g\u1ea7n \u0111\u1ea5t, g\u1ea7n ngu\u1ed3n, g\u1ea7n ch\u1ed7 n\u01b0\u1edbc t\u1eebng nu\u1ed1t ch\u1ecb r\u1ed3i nh\u1ea3 ra n\u01a1i n\u00e0y.",
+    "Con ch\u01b0a sinh. \u1ede trong b\u1ee5ng tui. N\u01b0\u1edbc ng\u1eadp \u2014 tui kh\u00f4ng bi\u1ebft b\u01a1i \u2014 u\u1ed1ng n\u01b0\u1edbc \u2014 n\u01b0\u1edbc v\u00f4 ph\u1ed5i \u2014 con...",
+    "N\u00e9t ch\u1eef tr\u00f2n, \u0111\u1ec1u tay, nh\u01b0ng kh\u00f4ng s\u1eafc, nh\u01b0 vi\u1ebft qua l\u1edbp s\u01b0\u01a1ng m\u1ecfng, m\u1ef1c ch\u01b0a k\u1ecbp ng\u1ea5m \u0111\u00e3 b\u1ecb g\u00ec \u0111\u00f3 k\u00e9o m\u1edd."
+  ],
+  "ai_patterns_detected": [
+    "Verbatim repetition of previous chapter's ending (~150 words) \u2014 suggests copy-paste or insufficient variation between chapters",
+    "The '=' symbol in literary prose ('ghi l\u1ea1i = gi\u1eef l\u1ea1i') is a note-taking convention, not narrative voice",
+    "Slight paragraph-opening repetition: several consecutive paragraphs begin with character names (Khoa... Ch\u1ecb... Anh...)"
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "continuity (due to the near-verbatim repetition of Ch\u01b0\u01a1ng 2's ending, which also drags down prose_quality and engagement)",
+  "top_3_revisions": [
+    "Cut or significantly vary the final ~150 words. The repeated ending from Ch\u01b0\u01a1ng 2 is the chapter's biggest flaw. Consider ending on the C\u1ee5 Ba gi\u1ebfng observation \u2014 it's fresh, haunting, and provides a hook.",
+    "Replace 'ghi l\u1ea1i = gi\u1eef l\u1ea1i' with prose that maintains the thought without the '=' symbol: 'ghi l\u1ea1i l\u00e0 gi\u1eef l\u1ea1i, ch\u1eef s\u1eafc l\u00e0 ng\u01b0\u1eddi c\u00f2n' or similar.",
+    "Vary the Khoa/Ch\u1ecb/Anh paragraph openings. At least three consecutive paragraphs in the mid-section start with character names \u2014 break the pattern by opening with action, sense detail, or the notebook itself."
+  ],
+  "new_canon_entries": [
+    "Nh\u00e0 Ch\u1ecb T\u01b0 H\u1ed3ng l\u00e0 c\u0103n th\u1ee9 b\u1ea3y t\u1eeb gi\u1ebfng, m\u00e1i th\u1ea5p h\u01a1n h\u00e0ng r\u00e0o (ch_03)",
+    "Ch\u1ecb T\u01b0 ghi l\u1ea1i m\u1ed7i s\u00e1ng v\u00e0 ki\u1ec3m tra chi\u1ec1u xem ch\u1eef c\u00f2n \u0111\u1ecdc \u0111\u01b0\u1ee3c kh\u00f4ng (ch_03)",
+    "Ch\u1eef trong s\u1ed5 Ch\u1ecb T\u01b0 c\u00f3 th\u1ec3 m\u1edd trong v\u00f2ng m\u1ed9t ng\u00e0y \u2014 'h\u00f4m qua ch\u1eef b\u00e1c Kh\u1ea3i c\u00f2n r\u00f5, s\u00e1ng nay m\u1edd th\u1ea5y m\u1eb7t sau gi\u1ea5y' (ch_03)",
+    "Khoa k\u1ec3 m\u1eb9 ch\u1ebft n\u0103m 1985 tr\u00ean s\u00f4ng Rhein (ch_03)"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 21.05,
+    "sentence_length_cv": 1.119,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi",
+    "vi_english_leaks": [],
+    "vi_translation_calques": [],
+    "vi_fiction_ai_tells": [],
+    "vi_telling_violations": 0
+  },
+  "raw_judge_score": 7
+}

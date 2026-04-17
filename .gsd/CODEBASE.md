@@ -1,7 +1,7 @@
 # Codebase Map
 
-Generated: 2026-04-17T19:28:05Z | Files: 85 | Described: 0/85
-<!-- gsd:codebase-meta {"generatedAt":"2026-04-17T19:28:05Z","fingerprint":"4176c14da9f94c667be50c2407246a7b9ceb5f1b","fileCount":85,"truncated":false} -->
+Generated: 2026-04-17T20:06:39Z | Files: 86 | Described: 0/86
+<!-- gsd:codebase-meta {"generatedAt":"2026-04-17T20:06:39Z","fingerprint":"6f07fbb03daf1d085e0e4ff4873f07230f3bda29","fileCount":86,"truncated":false} -->
 
 ### (root)/
 - *(60 files: 38 .py, 13 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
@@ -24,7 +24,8 @@ Generated: 2026-04-17T19:28:05Z | Files: 85 | Described: 0/85
 - `eval_logs/20260417_181855_foundation.json`
 - `eval_logs/20260417_182910_foundation.json`
 - `eval_logs/20260417_184140_ch01.json`
-- `eval_logs/20260417_192453_ch02.json`
+- `eval_logs/20260417_195305_ch02.json`
+- `eval_logs/20260417_195900_ch02.json`
 
 ### landing/
 - `landing/index.html`
