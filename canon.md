@@ -416,3 +416,15 @@
 - Phương nhìn giếng đêm rằm nhưng chỉ thấy mặt nước phẳng lì — không thấy hình ảnh mẹ, xác nhận cô sắp tan biến. (ch_13)
 - Cụ Ba ngồi lại giếng một mình sau khi mọi người đã rời — nhìn xuống nước thấy phản chiếu mình rõ nét, sắc như khắc. (ch_13)
 - Mùi hoa dặm trên đường về nhà Khoa đêm rằm: cà phê rang xay thoảng qua rồi tan, thay bằng muối, khói, và mùi của thứ đang rời đi. (ch_13)
+
+
+## From Chapter 14
+- Luyện đốt lửa ba đêm liên tiếp trên Mũi Chờ trước khi bị bắt — Hội Đồng phát hiện từ đêm đầu qua khói nhưng chỉ xác định đêm hai. (ch_14)
+- Hội Đồng quyết định giam Luyện trong nhà ba ngày, cấm lên Mũi Chờ. (ch_14)
+- Luyện không phản kháng khi bị giam — mắt trống rỗng, đã quyết định gì đó khác (setup cho hành động sau). (ch_14)
+- Cụ Ba nói trực tiếp với Khoa rằng cả Luyện đốt lửa lẫn Khoa ghi sổ đều xuất phát từ sợ — 'Sợ giống nhau. Nhưng sợ không cứu ai. Chỉ giữ người ta mắc kẹt.' (ch_14)
+- Ngón út Luyện đã trong suốt, móng tay mờ như sương — dấu hiệu mờ tiếp tục. (ch_14)
+- Luyện kể lại chi tiết mở khóa cabin cứu 11 người — muốn được nhớ bằng hành động cụ thể thay vì khái niệm chung 'người dũng cảm.' (ch_14)
+- Nước mắt người chết trong hơn, mặn hơn nước mắt người sống — rỉ ra như nước biển từ vết thương. (ch_14)
+- Hoa dặm trên Mũi Chờ ngửi thấy mùi thuốc lào — mùi bác Khải đã tan biến — thay vì mùi cà phê Khoa thường ngửi. (ch_14)
+- Đá Mũi Chờ mòn lõm chỗ Cụ Ba ngồi, ấm còn từ hôm qua. (ch_14)
