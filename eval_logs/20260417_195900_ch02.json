@@ -1,0 +1,108 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "Anh mu\u1ed1n tin c\u00f3. Mu\u1ed1n tin ghi l\u1ea1i = gi\u1eef l\u1ea1i.",
+    "fix": "Replace the '=' notation with a full prose construction: 'Anh mu\u1ed1n tin. Mu\u1ed1n tin r\u1eb1ng ghi l\u1ea1i l\u00e0 gi\u1eef l\u1ea1i.' The equals sign is a bullet-point artifact, not literary voice.",
+    "note": "The voice mostly achieves its mark\u2014the u bu\u1ed3n tone, the salt-and-smoke vocabulary well, the long-short rhythm interplay. The Rhein flashback is where voice shines brightest. But AI-pattern leaks (equals signs, 'Nh\u01b0ng kh\u00f4ng b\u00ecnh th\u01b0\u1eddng' type assertions) and a few too-expository passages ('B\u1ed1n tu\u1ed5i th\u00ec bi\u1ebft g\u00ec v\u1ec1 ch\u1ebft ch\u00f3c. B\u1ed1n tu\u1ed5i ch\u1ec9 bi\u1ebft l\u1ea1nh.') hold it back from 8+."
+  },
+  "beat_coverage": {
+    "score": 8,
+    "weakest_moment": "The hospital/birth flashback beat: 'B\u00e1c s\u0129 ki\u1ec3m tra, n\u00f3i b\u00ecnh th\u01b0\u1eddng.' then 'Nh\u01b0ng kh\u00f4ng b\u00ecnh th\u01b0\u1eddng.' The father's narration is summarized rather than felt\u2014we're told the doctor said 'normal' and then told it wasn't, rather than experiencing why it unsettled.",
+    "fix": "Show the father's confusion through specific action: how he held the silent baby, what the nurse's face looked like, the specific sound of licking lips in a sterile room. Make us feel the wrongness before asserting it.",
+    "note": "All five outline beats are hit and most are deeply dramatized. The well scene and the Rhein flashback are the strongest executions. Ph\u01b0\u01a1ng's arrival and dialogue land perfectly. The birth flashback is the only beat that feels summarized rather than lived."
+  },
+  "character_voice": {
+    "score": 5,
+    "weakest_moment": "Khoa saying 'Tui ki\u1ec3m tra s\u1ed5 Ch\u1ecb T\u01b0 H\u1ed3ng. Ki\u1ec3m tra hai n\u0103m r\u01b0\u1ee1i. Kh\u00f4ng c\u00f3 \"Tr\u1ea7n Th\u1ecb Minh.\" M\u1eb9 tui ch\u1ebft tr\u00ean s\u00f4ng Rhein.' \u2014 The character doc explicitly states Khoa uses 't\u00f4i,' not 'tui.' He says 'gi\u1ecdng B\u1eafc, \"t\u00f4i\" kh\u00f4ng \"tui.\"' This isn't a minor slip; it's a core speech marker that distinguishes him from islanders.",
+    "fix": "Global find-and-replace of all Khoa's 'tui' to 't\u00f4i' in dialogue. This is a hard canon requirement. His narration can stay flexible, but spoken 'tui' breaks his established identity.",
+    "note": "Ph\u01b0\u01a1ng's voice is superb\u2014'Ng\u01b0\u1eddi s\u1eafp \u0111i kh\u00f4ng nh\u00ecn gi\u1ebfng, anh Khoa. Nh\u00ecn c\u0169ng kh\u00f4ng th\u1ea5y g\u00ec' is perfect island speech: flat, factual, devastating. But Khoa's inconsistent pronoun usage (sometimes 't\u00f4i,' sometimes 'tui' in the same scene) is a significant character-voice failure. He also occasionally slips into register that's too emotional-expository for his analytical personality."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "The 'tr\u1ebb s\u01a1 sinh kh\u00e1t mu\u1ed1i' plant: 'Nh\u01b0 kh\u00e1t. Nh\u01b0 \u0111ang t\u00ecm th\u1ee9 g\u00ec \u0111\u00f3 \u2014 kh\u00f4ng ph\u1ea3i s\u1eefa, kh\u00f4ng ph\u1ea3i h\u01a1i \u1ea5m \u2014 m\u00e0 l\u00e0 m\u00f9i. M\u00f9i mu\u1ed1i.' This is slightly too explicit\u2014the narrator is doing the work of connecting dots for the reader rather than letting the detail sit.",
+    "fix": "Trust the reader more. 'Con n\u1eb1m \u0111\u00f3, m\u1eaft m\u1edf, li\u1ebfm m\u00f4i. Li\u1ebfm li\u1ebfm.' Then cut the explanatory sentence. The licking detail alone, in context of everything else about water and salt, is enough. Let the reader feel the connection.",
+    "note": "The blurry reflection plant is beautifully subtle\u2014readers won't fully understand its significance yet, which is exactly right. Ph\u01b0\u01a1ng's well-avoidance establishes 'ng\u01b0\u1eddi s\u1eafp \u0111i' behavior naturally. The 'tr\u01b0\u1ee3t' motif weaving through mother's death and island existence is well-planted."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "B\u1ed1n tu\u1ed5i th\u00ec bi\u1ebft g\u00ec v\u1ec1 ch\u1ebft ch\u00f3c. B\u1ed1n tu\u1ed5i ch\u1ec9 bi\u1ebft l\u1ea1nh.",
+    "fix": "Cut entirely. The paragraph already shows us he didn't cry, didn't run, didn't scream. The reader feels his four-year-old incomprehension. This sentence explains what's already been shown\u2014it's the author stepping in to tell us what to feel.",
+    "strongest_sentence": "T\u00edm. Kh\u00f4ng ph\u1ea3i xanh. T\u00edm nh\u01b0 m\u0103ng c\u1ee5t, nh\u01b0 \u00e1o b\u00e0 ba m\u00e0u t\u00edm m\u00e0 Ph\u01b0\u01a1ng \u0111ang m\u1eb7c, nh\u01b0 m\u00e0u c\u1ee7a ng\u01b0\u1eddi kh\u00f4ng th\u1edf.",
+    "note": "The Rhein sequence is the prose highlight\u2014specific, sensory, devastating. 'Kh\u00f4ng ph\u1ea3i b\u00e0 bu\u00f4ng. Kh\u00f4ng ph\u1ea3i anh kh\u00f4ng gi\u1eef. L\u00e0 tay tr\u01b0\u1ee3t qua tay \u2014 \u01b0\u1edbt, l\u1ea1nh, kh\u00f4ng c\u00f3 ma s\u00e1t \u2014 v\u00e0 kho\u1ea3ng tr\u1ed1ng xu\u1ea5t hi\u1ec7n gi\u1eefa hai ng\u01b0\u1eddi' is exceptional. But scattered AI patterns (the '=' notation, expository assertions, some uniform paragraph rhythms) prevent a higher score."
+  },
+  "continuity": {
+    "score": 8,
+    "weakest_moment": "The chapter opens with Khoa's morning routine, but there's no emotional residue from losing b\u00e0 N\u0103m in the previous chapter. His last thoughts in Ch 1 were about her lu\u1ed1ng rau being flattened, about remembering on behalf of others. This chapter's opening is clinically observational by contrast.",
+    "fix": "Add one small beat early\u2014a glance toward where b\u00e0 N\u0103m's house was, a half-formed thought about six lu\u1ed1ng now being five\u2014that carries Ch 1's emotional weight into this morning.",
+    "note": "Plot continuity is strong: house 21 is still empty, hoa d\u1eb7m still graying, Ch\u1ecb T\u01b0's s\u1ed5 still fading. The s\u1ed5-writing scene at the end directly continues Ch 1's theme. Emotional continuity wavers slightly at the opening."
+  },
+  "canon_compliance": {
+    "score": 5,
+    "violations": [
+      "Khoa repeatedly uses 'tui' in dialogue when character doc explicitly states 'gi\u1ecdng B\u1eafc, \"t\u00f4i\" kh\u00f4ng \"tui\"' \u2014 instances include 'Tui ki\u1ec3m tra s\u1ed5 Ch\u1ecb T\u01b0 H\u1ed3ng,' 'Tui t\u00ecm r\u1ed3i,' 'M\u1eb9 tui ch\u1ebft tr\u00ean s\u00f4ng Rhein,' 'Tui l\u1edbn l\u00ean kh\u00f4ng c\u00f3 m\u1eb7t m\u1eb9,' 'Tui t\u00ecm m\u1eb9 \u1edf \u0111\u00e2y \u0111i,' 'Tui t\u00ecm m\u00ecnh,' and others",
+      "Inconsistent object: 'Ph\u01b0\u01a1ng mang g\u00e1o n\u01b0\u1edbc b\u1eb1ng d\u1eeba' then later 'tay ph\u1ea3i c\u00f4 c\u1ea7m can n\u01b0\u1edbc b\u1eb1ng n\u1ee9a' \u2014 same object described as two different materials in same scene",
+      "Chapter states Khoa has 'kh\u00f4ng bao gi\u1edd th\u00e1o k\u00ednh khi nh\u00ecn gi\u1ebfng' implying he's never looked before, but the outline says he 'ch\u1ea1m m\u1eb7t n\u01b0\u1edbc \u2014 kh\u00f4ng nh\u00ecn, ch\u1ec9 ch\u1ea1m' \u2014 the distinction between never-looked and only-touched is blurred"
+    ],
+    "note": "The pronoun violation is major. Khoa's 't\u00f4i' vs islanders' 'tui' is a hard-established character marker that distinguishes his outsider status and Northern academic register. Using 'tui' makes him sound like he's assimilated linguistically, which contradicts his established characterization as someone who maintains distance."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "The well's 'ng\u01b0\u1eddi s\u1eafp \u0111i kh\u00f4ng nh\u00ecn gi\u1ebfng' rule is introduced through Ph\u01b0\u01a1ng's dialogue but feels slightly like exposition delivery: 'Ng\u01b0\u1eddi s\u1eafp \u0111i kh\u00f4ng nh\u00ecn gi\u1ebfng, anh Khoa. Nh\u00ecn c\u0169ng kh\u00f4ng th\u1ea5y g\u00ec.' It's in character for her, but the function is clearly informational.",
+    "fix": "The line itself is fine\u2014Ph\u01b0\u01a1ng would say this. But Khoa could have observed her avoidance before asking, making the rule feel discovered rather than explained. A small beat of him noticing she's deliberately angling her face away from the water surface would make the lore feel more integrated.",
+    "note": "The lore does genuine emotional work here. The well's reflection rules illuminate character (Khoa's blurry reflection = mystery, Ph\u01b0\u01a1ng's half-visible reflection = her fading), advance theme (what does it mean to see yourself disappearing?), and create tension (why is a living person's reflection blurring?). This is lore as story engine, not decoration."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The passage between Ph\u01b0\u01a1ng leaving and Khoa writing in his s\u1ed5: 'Khoa \u0111\u1ee9ng l\u1ea1i b\u00ean gi\u1ebfng. Anh mu\u1ed1n g\u1ecdi c\u00f4 quay l\u1ea1i. Mu\u1ed1n h\u1ecfi th\u00eam...' This is narrated wanting rather than felt wanting. We're told what he wants to ask rather than seeing him almost-call-out, almost-step-forward, then stop.",
+    "fix": "Replace the interior monologue about wanting to ask with a physical beat: his mouth opening, the almost-word, then closing. His hand lifting toward her retreating back. Then dropping. Show the wanting through body, then explain through the realization that follows.",
+    "note": "The Rhein flashback is genuinely gripping\u2014the specific sensory details (b\u00f9n \u0111en, n\u01b0\u1edbc l\u1ea1nh qua m\u1eaft c\u00e1 ch\u00e2n, the slipping) create visceral dread. Ph\u01b0\u01a1ng's casual devastation ('Ng\u01b0\u1eddi s\u1eafp \u0111i kh\u00f4ng nh\u00ecn gi\u1ebfng') is a page-turning moment. The chapter's central mystery (why is Khoa's reflection blurring?) hooks effectively. But the section after Ph\u01b0\u01a1ng leaves loses momentum to telling."
+  },
+  "three_weakest_sentences": [
+    "Nh\u01b0ng kh\u00f4ng b\u00ecnh th\u01b0\u1eddng. \u2014 Flat assertion replacing the specific evidence that would make us feel the wrongness.",
+    "B\u1ed1n tu\u1ed5i th\u00ec bi\u1ebft g\u00ec v\u1ec1 ch\u1ebft ch\u00f3c. B\u1ed1n tu\u1ed5i ch\u1ec9 bi\u1ebft l\u1ea1nh. \u2014 Explaining what the scene already showed; authorial intrusion.",
+    "Anh mu\u1ed1n tin c\u00f3. Mu\u1ed1n tin ghi l\u1ea1i = gi\u1eef l\u1ea1i. \u2014 The '=' symbol is a spreadsheet notation, not prose. Breaks immersion entirely."
+  ],
+  "three_strongest_sentences": [
+    "Kh\u00f4ng ph\u1ea3i b\u00e0 bu\u00f4ng. Kh\u00f4ng ph\u1ea3i anh kh\u00f4ng gi\u1eef. L\u00e0 tay tr\u01b0\u1ee3t qua tay \u2014 \u01b0\u1edbt, l\u1ea1nh, kh\u00f4ng c\u00f3 ma s\u00e1t \u2014 v\u00e0 kho\u1ea3ng tr\u1ed1ng xu\u1ea5t hi\u1ec7n gi\u1eefa hai ng\u01b0\u1eddi.",
+    "T\u00edm. Kh\u00f4ng ph\u1ea3i xanh. T\u00edm nh\u01b0 m\u0103ng c\u1ee5t, nh\u01b0 \u00e1o b\u00e0 ba m\u00e0u t\u00edm m\u00e0 Ph\u01b0\u01a1ng \u0111ang m\u1eb7c, nh\u01b0 m\u00e0u c\u1ee7a ng\u01b0\u1eddi kh\u00f4ng th\u1edf.",
+    "C\u00f4 n\u00f3i b\u00ecnh th\u1ea3n. Kh\u00f4ng bu\u1ed3n t\u1ef1 pity. Nh\u01b0 k\u1ec3 th\u1eddi ti\u1ebft \u2014 tr\u1eddi m\u01b0a, gi\u00f3 l\u1edbn, tui s\u1eafp h\u1ebft."
+  ],
+  "ai_patterns_detected": [
+    "Equals sign notation in prose ('ghi l\u1ea1i = gi\u1eef l\u1ea1i') \u2014 spreadsheet thinking leaking into literary text",
+    "Expository assertions that tell what should be shown ('Nh\u01b0ng kh\u00f4ng b\u00ecnh th\u01b0\u1eddng,' 'B\u1ed1n tu\u1ed5i th\u00ec bi\u1ebft g\u00ec v\u1ec1 ch\u1ebft ch\u00f3c')",
+    "Some paragraphs follow identical structure: action \u2192 interior thought \u2192 conclusion, repeated without variation",
+    "The 'Anh mu\u1ed1n... Mu\u1ed1n...' construction repeats across the chapter (appears 3+ times) as a rhythmic crutch",
+    "Occasional translation-syntax: 'kh\u00f4ng ph\u1ea3i bu\u1ed3n t\u1ef1 pity' \u2014 the English word 'pity' dropped into Vietnamese narration is jarring and meta"
+  ],
+  "overall_score": 5.0,
+  "weakest_dimension": "canon_compliance",
+  "top_3_revisions": [
+    "Global fix: Replace all of Khoa's spoken 'tui/tui' with 't\u00f4i' \u2014 this is a hard character requirement ('gi\u1ecdng B\u1eafc, \"t\u00f4i\" kh\u00f4ng \"tui\"'). Count affected lines: approximately 10-12 instances in dialogue. This single change would raise canon_compliance significantly.",
+    "Remove the '=' notation and other AI-artifacts: 'Mu\u1ed1n tin ghi l\u1ea1i = gi\u1eef l\u1ea1i' becomes 'Mu\u1ed1n tin r\u1eb1ng ghi l\u1ea1i l\u00e0 gi\u1eef l\u1ea1i.' Cut 'Nh\u01b0ng kh\u00f4ng b\u00ecnh th\u01b0\u1eddng' entirely (the details already show it). Cut 'B\u1ed1n tu\u1ed5i th\u00ec bi\u1ebft g\u00ec v\u1ec1 ch\u1ebft ch\u00f3c. B\u1ed1n tu\u1ed5i ch\u1ec9 bi\u1ebft l\u1ea1nh' (the scene already demonstrates this). Trust the reader.",
+    "Add one early beat acknowledging Ch 1's emotional weight \u2014 a glance toward b\u00e0 N\u0103m's former house, a half-thought about lu\u1ed1ng rau \u2014 to bridge the emotional gap between chapters. Then, in the post-Ph\u01b0\u01a1ng scene, replace narrated wanting with physical action: mouth opening, hand lifting, then stopping."
+  ],
+  "new_canon_entries": [
+    "Khoa ch\u01b0a t\u1eebng nh\u00ecn xu\u1ed1ng gi\u1ebfng tr\u01b0\u1edbc s\u00e1ng nay \u2014 ch\u1ec9 ch\u1ea1m m\u1eb7t n\u01b0\u1edbc \u0111\u1ec3 ki\u1ec3m tra m\u00ecnh c\u00f3 th\u1ef1c.",
+    "Ph\u1ea3n chi\u1ebfu c\u1ee7a Khoa trong gi\u1ebfng m\u1edd nh\u1ea1t, kh\u00f4ng s\u1eafc n\u00e9t nh\u01b0 tay anh tr\u00ean th\u00e0nh gi\u1ebfng. Anh kh\u00f4ng bi\u1ebft t\u1eeb khi n\u00e0o.",
+    "Ph\u1ea3n chi\u1ebfu c\u1ee7a Ph\u01b0\u01a1ng trong gi\u1ebfng hi\u1ec7n r\u00f5 t\u1eeb c\u1ed5 l\u00ean, nh\u01b0ng t\u1eeb c\u1ed5 xu\u1ed1ng ch\u1ec9 l\u00e0 kho\u1ea3ng kh\u00f4ng.",
+    "Ng\u01b0\u1eddi s\u1eafp tan bi\u1ebfn tr\u00e1nh nh\u00ecn gi\u1ebfng \u2014 'Ng\u01b0\u1eddi s\u1eafp \u0111i kh\u00f4ng nh\u00ecn gi\u1ebfng. Nh\u00ecn c\u0169ng kh\u00f4ng th\u1ea5y g\u00ec.'",
+    "Khi m\u1edbi sinh, Khoa kh\u00f4ng kh\u00f3c m\u00e0 li\u1ebfm m\u00f4i li\u00ean t\u1ee5c \u2014 nh\u01b0 kh\u00e1t mu\u1ed1i.",
+    "Hoa d\u1eb7m quanh Gi\u1ebfng L\u00e0ng m\u00e0u tr\u1eafng (kh\u00f4ng x\u00e1m), v\u00ec kh\u00f4ng c\u00f3 ai \u1edf gi\u1ebfng s\u1eafp tan bi\u1ebfn.",
+    "Ph\u01b0\u01a1ng b\u01b0\u1edbc ch\u00e2n \u0111\u1ec3 l\u1ea1i d\u1ea5u in m\u1edd h\u01a1n ng\u01b0\u1eddi b\u00ecnh th\u01b0\u1eddng \u2014 'nh\u01b0 c\u00f4 \u0111ang nh\u1eb9 \u0111i, \u0111ang b\u1edbt n\u1eb7ng.'"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 26.19,
+    "sentence_length_cv": 0.86,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 6
+}

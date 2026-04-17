@@ -312,3 +312,12 @@
 - Chữ viết trong cuốn sổ của chị Tư Hồng mờ dần từ cuối từ lùi về trước (ví dụ: từ 'Năm' sẽ mất 'ăm' trước khi mất 'N'). (ch_01)
 - Khoa cố gắng lưu giữ những ghi chép đang mờ nhạt bằng cách viết đè lên chúng bằng chính nét chữ rõ ràng của mình. (ch_01)
 - Hàng ngày, thím Hai giặt quần áo ở con suối gần Giếng Làng. (ch_01)
+
+## From Chapter 2
+- Khoa chưa từng nhìn xuống giếng trước sáng nay — chỉ chạm mặt nước để kiểm tra mình có thực. (ch_02)
+- Phản chiếu của Khoa trong giếng mờ nhạt, không sắc nét như tay anh trên thành giếng. Anh không biết từ khi nào. (ch_02)
+- Phản chiếu của Phương trong giếng hiện rõ từ cổ lên, nhưng từ cổ xuống chỉ là khoảng không. (ch_02)
+- Người sắp tan biến tránh nhìn giếng — 'Người sắp đi không nhìn giếng. Nhìn cũng không thấy gì.' (ch_02)
+- Khi mới sinh, Khoa không khóc mà liếm môi liên tục — như khát muối. (ch_02)
+- Hoa dặm quanh Giếng Làng màu trắng (không xám), vì không có ai ở giếng sắp tan biến. (ch_02)
+- Phương bước chân để lại dấu in mờ hơn người bình thường — 'như cô đang nhẹ đi, đang bớt nặng.' (ch_02)
