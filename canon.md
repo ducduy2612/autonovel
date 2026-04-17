@@ -447,3 +447,11 @@
 - Nhóm 12 người chia: Thầy Tuấn và 3 người đi Hội Đồng xin lỗi; cô Năm Thảo và ~7 người đứng lại không đi xin lỗi. (ch_16)
 - Luyện đến cửa sổ nhà Khoa chiều cùng ngày — nói 'Tui cũng không đợi nữa' — setup cho hành động tiếp. (ch_16)
 - Khoa nhận thấy bóng mình trên tường mờ hơn hôm qua — lần đầu anh tự nhận mình đang mờ. (ch_16)
+
+
+## From Chapter 17
+- Khoa bị giam năm ngày (thứ 2 đến sáng thứ 6) trước khi Cụ Ba mở cửa — dài hơn 48 giờ Hội Đồng quyết định, lý do chưa rõ. (ch_17)
+- Cành cây + nước bùn không thể thay thế bút + mực trong phép thuật ghi sổ — bùn 'không nhớ ai, chỉ là đất mục trộn nước mặn.' (ch_17)
+- Khoa phát hiện mình đang mờ: bàn tay trái trong gương trong hơn tay anh nhớ, cả tay thật và phản chiếu đều run (trước đó phản chiếu không run — khác Ch 10, 13). (ch_17)
+- Cụ Ba nhận thấy Khoa 'gầy hơn, mờ hơn' — lần đầu ai trên đảo nhận ra Khoa đang biến đổi. (ch_17)
+- Đảo đang 'ăn' Khoa — khi anh ngừng ghi chép, cơ thể anh bắt đầu mờ như người chết trên đảo. (ch_17)
