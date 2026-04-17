@@ -1,0 +1,103 @@
+{
+  "voice_adherence": {
+    "score": 8,
+    "weakest_moment": "\"\u0110au. Kh\u00f4ng \u2014 \u0111au l\u00e0 t\u1eeb qu\u00e1 nh\u1eb9. \u0110au \u00e1m ch\u1ec9 t\u1ed5n th\u01b0\u01a1ng khu tr\u00fa, c\u00f3 th\u1ec3 \u0111\u1ecbnh v\u1ecb, c\u00f3 th\u1ec3 m\u00f4 t\u1ea3. \u0110\u00e2y l\u00e0 th\u1ee9 kh\u00e1c. \u0110\u00e2y l\u00e0 to\u00e0n b\u1ed9 h\u1ec7 th\u1ea7n kinh b\u1ecb k\u00edch ho\u1ea1t c\u00f9ng l\u00fac.\"",
+    "fix": "The voice profile demands body-before-emotion and technical/neurological vocabulary. This passage explains pain conceptually instead of rendering it through the body. Replace with something like: \"\u0110au. Kh\u00f4ng \u2014 \u0111au c\u00f3 t\u1ecda \u0111\u1ed9. \u0110au c\u00f3 b\u1ea3n \u0111\u1ed3. C\u00e1i n\u00e0y kh\u00f4ng c\u00f3. To\u00e0n b\u1ed9 h\u1ec7 th\u1ea7n kinh \u2014 t\u1eeb th\u00e1i d\u01b0\u01a1ng \u0111\u1ebfn g\u00f3t ch\u00e2n \u2014 b\u1eafn c\u00f9ng m\u1ed9t t\u1ea7n s\u1ed1. 847 l\u1ea7n \u0111\u1ed5 b\u1ed9. Kh\u00f4ng l\u1ea7n n\u00e0o nh\u01b0 th\u1ebf n\u00e0y. N\u00e3o kh\u00f4ng x\u1eed l\u00fd \u0111\u01b0\u1ee3c. Qu\u00e1 t\u1ea3i. B\u1ed9 \u0111\u1ec7m \u0111\u1ea7y.\"",
+    "note": "The chapter largely nails the cold, surgical tone. The best moments use technical vocabulary (ping, b\u1ed9 \u0111\u1ec7m, g\u00f3i tin) to describe dissolution. The confession scene and the electrode application are strong voice moments. The weakest is when the prose stops to explain pain rather than rendering it through C\u01b0\u1eddng's specific vocabulary."
+  },
+  "beat_coverage": {
+    "score": 7,
+    "weakest_moment": "Beat 3 (the confession note) is present but the emotional weight is underdeveloped. The note reads: *T\u00f4i l\u00e0 Tr\u1ea7n C\u01b0\u1eddng. T\u00f4i \u0111\u00e3 c\u01b0\u1ee1ng hi\u1ebfp v\u00e0 h\u1ee7y ho\u1ea1i Lan. \u0110\u00e2y l\u00e0 s\u1ef1 \u0111\u1ec1n t\u1ed9i.* \u2014 but the narrative immediately moves to counting words and imagining who will read it, rather than letting the act of writing land.",
+    "fix": "Expand the confession beat. Show C\u01b0\u1eddng's hand trembling. Show him misspelling and rewriting. Show the specific memory that forces him to write 'c\u01b0\u1ee1ng hi\u1ebfp' \u2014 not the abstract knowledge, but a flash of specific sensation he once felt entitled to. The confession should cost him something to write.",
+    "note": "All four beats are present and dramatized. The phone call with B\u1ea3o is the strongest \u2014 visceral, specific, with B\u1ea3o's broken crying earning the scene. The electrode application is methodical and appropriately clinical. The final beat (entering the tank) is well-executed. The confession note is the only beat that feels rushed."
+  },
+  "character_voice": {
+    "score": 8,
+    "weakest_moment": "\"M\u00e0y bi\u1ebft c\u00e1i \u0111\u00f3 l\u00e0m g\u00ec kh\u00f4ng?\" \u2014 B\u1ea3o's dialogue is functional but slightly generic. The voice profile specifies he speaks in 3-5 word bursts and says 'Kh\u00f4ng bi\u1ebft' reflexively. This line could be more B\u1ea3o-specific.",
+    "fix": "Consider: *\"M\u00e0y...\"* B\u1ea3o nu\u1ed1t n\u01b0\u1edbc b\u1ecdt. *\"M\u00e0y bi\u1ebft. Tao kh\u00f4ng n\u00f3i. L\u1ea5y \u0111i. D\u00f9ng \u0111i. \u0110\u1eebng g\u1ecdi.\"* \u2014 shorter, more defensive, more B\u1ea3o. Let his fear show through what he won't say rather than through explanation.",
+    "note": "C\u01b0\u1eddng's voice is excellent throughout \u2014 the counting, the clinical observations, the way he processes B\u1ea3o's grief as data. B\u1ea3o's crying is the most surprising character moment: a man who speaks in 3-5 word sentences breaking into sobs. That's real. The confession note reveals character through action. Strong differentiation."
+  },
+  "plants_seeded": {
+    "score": 7,
+    "weakest_moment": "The direct electrodes are mentioned but their specific function (bypassing safety layers to push the transfer to 100%) is explained rather than shown through consequence. The reader is told they'll cause 91-97% neural damage before feeling any effect.",
+    "fix": "Let the electrodes' danger emerge through sensation rather than screen warnings. When C\u01b0\u1eddng first attaches them, show a micro-jolt or an unexpected sensory bleed \u2014 something that makes the reader understand the danger viscerally before the system confirms it.",
+    "note": "The confession note is well-planted \u2014 it will be found by H\u1ea1nh, Tu\u1ea5n, or B\u00e0 L\u00e0nh, creating future plot consequences. The amplifier's history (the man who smiled while his brain burned) is an effective plant that haunts the chapter. B\u1ea3o's tears seed future guilt/reckoning."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "\"\u0110au kh\u00f4ng gi\u1ea3m \u2014 n\u00f3 t\u0103ng. Nh\u01b0ng sau m\u1ed9t ng\u01b0\u1ee1ng n\u00e0o \u0111\u00f3, \u0111au kh\u00f4ng c\u00f2n l\u00e0 \u0111au. N\u00f3 tr\u1edf th\u00e0nh t\u00edn hi\u1ec7u. T\u1ea7n s\u1ed1. S\u00f3ng.\"",
+    "fix": "This is conceptually clear but rhythmically flat \u2014 four short declaratives in a row. Vary: \"\u0110au kh\u00f4ng gi\u1ea3m. T\u0103ng. Nh\u01b0ng sau m\u1ed9t ng\u01b0\u1ee1ng \u2014 C\u01b0\u1eddng kh\u00f4ng bi\u1ebft ng\u01b0\u1ee1ng n\u00e0o, kh\u00f4ng c\u00f3 con s\u1ed1 \u2014 \u0111au tr\u1edf th\u00e0nh t\u00edn hi\u1ec7u. T\u1ea7n s\u1ed1. S\u00f3ng n\u00e3o ph\u1eb3ng, ch\u1ec9 c\u00f2n nhi\u1ec5u n\u1ec1n.\"",
+    "strongest_sentence": "\"M\u1ed7i g\u00f3i tin r\u1eddi \u0111i l\u00e0 m\u1ed9t ph\u1ea7n c\u1ee7a Tr\u1ea7n C\u01b0\u1eddng bi\u1ebfn m\u1ea5t, v\u00e0 ph\u1ea7n b\u1ecb m\u1ea5t \u1ea5y \u2014 kh\u00f4ng c\u00f3 t\u1eeb n\u00e0o m\u00f4 t\u1ea3 c\u1ea3m gi\u00e1c. N\u00f3 tr\u1ed1ng. Tr\u1ed1ng r\u1ed7ng. Tr\u1ed1ng r\u1ed7ng \u1edf n\u01a1i t\u1eebng c\u00f3 g\u00ec \u0111\u00f3.\"",
+    "note": "The prose is strongest when it uses C\u01b0\u1eddng's technical vocabulary to describe dissolution (g\u00f3i tin, b\u1ed9 \u0111\u1ec7m, nhi\u1ec5u). It's weakest when it reaches for abstract emotional statement. The sentence variety is generally good \u2014 fragments, medium sentences, and occasional long flowing ones. Some paragraphs could be cut (the repeated screen readouts become redundant)."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Excellent continuity from the previous chapter. The transfer process at 23%, the 47% erasure, the 36.8\u00b0C constant \u2014 all carried forward accurately. C\u01b0\u1eddng's emotional state (resigned, determined, past fear) tracks perfectly from his earlier realization that Lan is warming on her own. The v\u1ebft b\u1ea7m progressing to necrosis is a logical physical consequence. The only minor issue: the previous chapter ends with C\u01b0\u1eddng's consciousness fading, but this chapter opens with him in Cumberland making a phone call. The transition could use a brief temporal marker."
+  },
+  "canon_compliance": {
+    "score": 7,
+    "violations": [
+      "Minor: The chapter states C\u01b0\u1eddng has made '853 l\u1ea7n \u0111\u1ed5 b\u1ed9' but the world bible establishes 847 as of 2041. If this is set later, the count should be explicitly updated in the text or the discrepancy acknowledged.",
+      "Minor: The amplifier is described as 'th\u1ebf h\u1ec7 4' but the world bible doesn't establish generation numbering for Neural Mantle equipment. Not a contradiction, but an addition that should be tracked.",
+      "Minor: 'Lan' as the K\u1ebb \u0110u\u1ed5i's real name is new information not in the character bible. This is a significant reveal that should be noted as new canon."
+    ],
+    "note": "No major violations. The physical descriptions (h\u1ea7m Haymarket, bu\u1ed3ng tri\u1ec7t gi\u00e1c, Cumberland tunnel) match established canon. The magic system rules are respected \u2014 direct neural connection causing irreversible damage is consistent with established principles. The transfer process is a logical extension of the system's capabilities."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "The Cumberland tunnel section is brief and could use more sensory specificity from the world bible \u2014 the smell of 'axit, m\u1ed3 h\u00f4i, v\u00e0 th\u1ee9 g\u00ec \u0111\u00f3 gi\u1ed1ng th\u1ecbt th\u1ed1i r\u1eefa' is mentioned but the 'meat rotting' aspect is dropped in favor of just 'axit.'",
+    "fix": "Add one detail from the Cumberland lore: the makeshift tanks, the high burn rate, the specific desperation. When C\u01b0\u1eddng passes the Du M\u1ee5c in the bathtub, add a sensory beat \u2014 the wrong-color solution, the cheap electrodes, the way the body twitches. Show why B\u1ea3o fears this place.",
+    "note": "The lore does genuine work here. The amplifier's origin (police evidence room, via B\u1ea3o), the transfer mechanics, the neural damage thresholds \u2014 all are integral to the plot rather than decoration. The confession note connects to the legal framework (\u0110i\u1ec1u 47B). St. Vincent's geography matters. This is lore as engine, not wallpaper."
+  },
+  "engagement": {
+    "score": 8,
+    "weakest_moment": "The middle section \u2014 from retrieving the amplifier to entering the tank \u2014 is the least engaging. The procedure of setting up electrodes is methodical and appropriate for character, but the screen readout repetitions (QU\u00c1 TR\u00ccNH CHUY\u1ec2N: 31%, 38%, 41%, 43%) create a rhythmic monotony that diffuses tension rather than building it.",
+    "fix": "Cut at least two of the four screen readout paragraphs. Replace one with a sensory detail (the gel warming against his skull, the taste of copper in his mouth from biting his tongue). Replace another with a fragment of memory \u2014 not a full flashback, just a flash: Lan's voice saying something, or the smell of hoa s\u1eefa in the render. Let the percentage climb be felt rather than read.",
+    "note": "The chapter's strongest engagement comes from two sources: B\u1ea3o's phone call (genuinely surprising emotional breakdown) and the confession note (the word 'c\u01b0\u1ee1ng hi\u1ebfp' landing with full weight). The ending \u2014 C\u01b0\u1eddng choosing to stop thinking, just lying and waiting \u2014 is quietly devastating. The weakest point is the procedural middle that reads more like instructions than experience."
+  },
+  "three_weakest_sentences": [
+    "\u0110au kh\u00f4ng gi\u1ea3m \u2014 n\u00f3 t\u0103ng. Nh\u01b0ng sau m\u1ed9t ng\u01b0\u1ee1ng n\u00e0o \u0111\u00f3, \u0111au kh\u00f4ng c\u00f2n l\u00e0 \u0111au. N\u00f3 tr\u1edf th\u00e0nh t\u00edn hi\u1ec7u. T\u1ea7n s\u1ed1. S\u00f3ng.",
+    "Qu\u00e1 tr\u00ecnh s\u1ebd ti\u1ebfp t\u1ee5c trong b\u1ed1n \u0111\u1ebfn b\u1ea3y gi\u1edd. Tr\u1ea7n C\u01b0\u1eddng s\u1ebd n\u1eb1m trong bu\u1ed3ng tri\u1ec7t gi\u00e1c, n\u00e3o b\u1ed9 ch\u00e1y d\u1ea7n, \u00fd th\u1ee9c tan bi\u1ebfn, trong khi Lan \u2014 t\u1eebng ch\u00fat, t\u1eebng g\u00f3i tin, t\u1eebng k\u00fd \u1ee9c \u2014 \u0111\u01b0\u1ee3c tr\u1ea3 l\u1ea1i c\u01a1 th\u1ec3 c\u00f4.",
+    "C\u01b0\u1eddng ghi nh\u1eadn nh\u01b0ng kh\u00f4ng c\u1ea3m th\u1ea5y g\u00ec. Kh\u00f4ng ph\u1ea3i v\u00ec v\u00f4 c\u1ea3m \u2014 v\u00ec \u0111\u00e3 qu\u00e1 t\u1ea3i. Ki\u1ec7t s\u1ee9c c\u1ea3m x\u00fac. B\u1ed9 \u0111\u1ec7m \u0111\u1ea7y. Kh\u00f4ng c\u00f2n ch\u1ed7 cho th\u00eam."
+  ],
+  "three_strongest_sentences": [
+    "M\u1ed7i g\u00f3i tin r\u1eddi \u0111i l\u00e0 m\u1ed9t ph\u1ea7n c\u1ee7a Tr\u1ea7n C\u01b0\u1eddng bi\u1ebfn m\u1ea5t, v\u00e0 ph\u1ea7n b\u1ecb m\u1ea5t \u1ea5y \u2014 kh\u00f4ng c\u00f3 t\u1eeb n\u00e0o m\u00f4 t\u1ea3 c\u1ea3m gi\u00e1c. N\u00f3 tr\u1ed1ng. Tr\u1ed1ng r\u1ed7ng. Tr\u1ed1ng r\u1ed7ng \u1edf n\u01a1i t\u1eebng c\u00f3 g\u00ec \u0111\u00f3.",
+    "R\u1ed3i anh ta kh\u00f3c. Kh\u00f4ng ph\u1ea3i ki\u1ec3u kh\u00f3c r\u00ean r\u1ec9 \u2014 l\u00e0 ki\u1ec3u kh\u00f3c n\u1ea5c, ti\u1ebfng n\u1ea5c c\u1ee5t l\u1ee7n, nh\u01b0 ng\u01b0\u1eddi b\u1ecb \u0111\u1ea5m v\u00e0o b\u1ee5ng.",
+    "Tr\u1edf v\u1ec1 ngh\u0129a l\u00e0 ti\u1ebfp t\u1ee5c t\u1ed3n t\u1ea1i nh\u01b0 Tr\u1ea7n C\u01b0\u1eddng \u2014 k\u1ebb k\u1ebf to\u00e1n, k\u1ebb Du M\u1ee5c, k\u1ebb \u0111\u00e3 c\u01b0\u1ee1ng hi\u1ebfp \u00fd th\u1ee9c m\u1ed9t ng\u01b0\u1eddi ph\u1ee5 n\u1eef \u0111ang n\u1eb1m h\u00f4n m\u00ea trong 853 l\u1ea7n \u0111\u1ed5 b\u1ed9."
+  ],
+  "ai_patterns_detected": [
+    "Screen readout repetition pattern: Four nearly identical server status blocks create a mechanical rhythm that feels template-driven rather than organic.",
+    "Slight over-explanation of emotional states: 'Kh\u00f4ng ph\u1ea3i v\u00ec v\u00f4 c\u1ea3m \u2014 v\u00ec \u0111\u00e3 qu\u00e1 t\u1ea3i' explains what could be shown through body or behavior.",
+    "Uniform paragraph length in the middle section: Several consecutive paragraphs of similar length (3-5 sentences) create a visual monotony on the page."
+  ],
+  "overall_score": 6.44,
+  "weakest_dimension": "prose_quality",
+  "top_3_revisions": [
+    "Cut two of the four server readout paragraphs and replace with sensory fragments or memory flashes \u2014 let the transfer percentage be felt through the body rather than read through screens.",
+    "Expand the confession note scene: show C\u01b0\u1eddng's hand trembling, show him hesitate before writing 'c\u01b0\u1ee1ng hi\u1ebfp,' show the specific memory that forces the word out of him. This is the emotional core of the chapter and it currently reads as procedural.",
+    "Revise the pain description (the '\u0110au kh\u00f4ng gi\u1ea3m' passage) to use C\u01b0\u1eddng's technical vocabulary rather than abstract statement: give the pain coordinates, frequencies, data points. Make it sound like a system failure report, not a novel."
+  ],
+  "new_canon_entries": [
+    "The K\u1ebb \u0110u\u1ed5i's real name is Lan (revealed through C\u01b0\u1eddng's confession note).",
+    "B\u1ea3o possesses a neural signal amplifier (th\u1ebf h\u1ec7 4) hidden in Cumberland tunnel, third passage, behind a Hemera Gen 2 cable crate, in a metal box with combination 7-7-4-2.",
+    "A previous user of the amplifier died with a smile (frozen facial muscles from frontal lobe overload) two years ago in Cumberland.",
+    "C\u01b0\u1eddng's confession note reads: 'T\u00f4i l\u00e0 Tr\u1ea7n C\u01b0\u1eddng. T\u00f4i \u0111\u00e3 c\u01b0\u1ee1ng hi\u1ebfp v\u00e0 h\u1ee7y ho\u1ea1i Lan. \u0110\u00e2y l\u00e0 s\u1ef1 \u0111\u1ec1n t\u1ed9i.' \u2014 written on a yellow sticky note and placed on the server monitor.",
+    "Direct neural electrode connection (bypassing Neural Mantle safety layers) can push the consciousness transfer process to 100% but causes 91-97% neural tissue damage.",
+    "The v\u1ebft b\u1ea7m on C\u01b0\u1eddng's left ribs has progressed to necrosis \u2014 black, dead tissue, leaking clear fluid that smells faintly of hoa s\u1eefa."
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 16.87,
+    "sentence_length_cv": 0.913,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 0.56,
+    "language": "vi"
+  },
+  "raw_judge_score": 7
+}

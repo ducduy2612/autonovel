@@ -1,0 +1,106 @@
+{
+  "voice_adherence": {
+    "score": 8,
+    "weakest_moment": "C\u00e1i n\u00e0y gi\u1ed1ng nh\u01b0 b\u1ecb r\u1ed7ng \u2014 nh\u01b0 b\u1ed9 \u0111\u1ec7m b\u1ecb x\u00f3a s\u1ea1ch, v\u00e0 ch\u1ed7 tr\u1ed1ng \u1ea5y \u0111au h\u01a1n b\u1ea5t k\u1ef3 th\u1ee9 g\u00ec \u0111\u00e3 l\u1ea5p \u0111\u1ea7y n\u00f3.",
+    "fix": "The metaphor 'b\u1ed9 \u0111\u1ec7m b\u1ecb x\u00f3a s\u1ea1ch' is the right vocabulary well but the emotional landing is too abstract. Replace with a physical sensation: 'C\u00e1i n\u00e0y gi\u1ed1ng nh\u01b0 ng\u1eaft k\u1ebft n\u1ed1i m\u00e0 kh\u00f4ng c\u00f3 server \u0111\u1ec3 \u0111\u1ed5 b\u1ed9 v\u1ec1 \u2014 ch\u1ec9 c\u00f3 kho\u1ea3ng tr\u1ed1ng, v\u00e0 kho\u1ea3ng tr\u1ed1ng \u1ea5y \u0111au h\u01a1n b\u1ea5t k\u1ef3 th\u1ee9 g\u00ec t\u1eebng l\u1ea5p \u0111\u1ea7y n\u00f3.' Or better: cut the explanation entirely and let the physical description of emptiness stand alone.",
+    "note": "The chapter largely nails the voice profile. The surgical, technician-like observation of Lan's body is exactly right \u2014 counting ribs, measuring temperature, noting pupil dilation. The sentence rhythm correctly shifts between short action beats and longer sensory passages. The body-before-emotion principle is well-execited throughout. The weakest moment is one where the voice slips toward conventional emotional narration rather than staying in the clinical register."
+  },
+  "beat_coverage": {
+    "score": 7,
+    "weakest_moment": "Beat 3 (B\u00e0 L\u1ea1nh xu\u1ea5t hi\u1ec7n, l\u1eafc \u0111\u1ea7u kh\u00f4ng n\u00f3i g\u00ec) is partially weakened by having her speak extensively afterward. The outline specifies 'kh\u00f4ng n\u00f3i g\u00ec' but she delivers multiple lines of dialogue.",
+    "fix": "Either revise to have B\u00e0 L\u00e0nh communicate primarily through action in this scene (the head shake, the careful washing, the look at the scar) with minimal speech, or adjust the outline to reflect that her silence breaks into her characteristic muttering \u2014 which is actually more poignant and consistent with her character profile.",
+    "note": "All four beats are present and dramatized rather than summarized. Beat 1 (entering the ward) is a full sensory journey. Beat 2 (seeing Lan) is the chapter's centerpiece with devastating detail. Beat 4 (C\u01b0\u1eddng kneeling, remembering, crying) is thoroughly earned through the scene work. The deviation from Beat 3 is minor but notable."
+  },
+  "character_voice": {
+    "score": 8,
+    "weakest_moment": "B\u00e0 L\u00e0nh's dialogue, while good, could push her character voice further. 'C\u00f4 b\u00e9 \u0111\u1ed5 m\u1ed3 h\u00f4i n\u1eefa k\u00eca' is natural but safe. She could say something more specifically her \u2014 more 'H\u00ean xui' or 'Tr\u1eddi \u0111\u1ea5t', more incomplete observations that carry weight.",
+    "fix": "Give B\u00e0 L\u00e0nh at least one line that ends with '...' as specified in her voice profile, and one use of her characteristic phrases. For example: 'C\u00f4 b\u00e9 \u0111\u1ed5 m\u1ed3 h\u00f4i n\u1eefa k\u00eca. H\u1ed5m nay \u0111\u1ed5 ho\u00e0i... Tr\u1eddi \u0111\u1ea5t...' The ellipsis is part of her voice \u2014 it shows her trailing off, talking to no one, accustomed to silence."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "The connection between Lan's tears and the tears mentioned in Ch 11 is somewhat over-explained: 'Gi\u1ecdt n\u01b0\u1edbc m\u1eaft \u1edf Ch 11 \u0111\u01b0\u1ee3c gi\u1ea3i quy\u1ebft \u2014 \u0111\u00f3 l\u00e0 s\u1ef1 \u0111au \u0111\u1edbn c\u1ee7a Lan khi b\u1ecb C\u01b0\u1eddng b\u1ea1o h\u00e0nh qua h\u1ec7 th\u1ed1ng.' The chapter itself handles this well, but the outline telegraphs the resolution too directly.",
+    "fix": "The chapter itself is fine \u2014 it doesn't over-explain the connection. The fix would be to the outline, making the plant resolution more implicit. In the chapter, the moment where B\u00e0 L\u00e0nh says 'C\u00f4 b\u00e9 kh\u00f3c' and C\u01b0\u1eddng realizes the tears are real is powerful precisely because it doesn't lecture the reader.",
+    "note": "Lan's open eyes are perfectly planted \u2014 they're noted without explanation, creating genuine mystery. B\u00e0 L\u00e0nh's silent head shake at the scar is a beautiful plant for future revelation. The detail that Lan's finger curls when C\u01b0\u1eddng touches her hand is seeded without comment, leaving the reader to wonder if it's reflex or response."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "C\u00e1i n\u00e0y kh\u00e1c. C\u00e1i n\u00e0y gi\u1ed1ng nh\u01b0 b\u1ecb r\u1ed7ng \u2014 nh\u01b0 b\u1ed9 \u0111\u1ec7m b\u1ecb x\u00f3a s\u1ea1ch, v\u00e0 ch\u1ed7 tr\u1ed1ng \u1ea5y \u0111au h\u01a1n b\u1ea5t k\u1ef3 th\u1ee9 g\u00ec \u0111\u00e3 l\u1ea5p \u0111\u1ea7y n\u00f3.",
+    "fix": "Cut or physicalize. Option: 'C\u00e1i n\u00e0y kh\u00e1c. Kh\u00f4ng ph\u1ea3i \u0111au. \u0110au th\u00ec anh quen. C\u00e1i n\u00e0y l\u00e0 r\u1ed7ng \u2014 nh\u01b0 server m\u1ea5t k\u1ebft n\u1ed1i, kh\u00f4ng c\u00f2n d\u1eef li\u1ec7u \u0111\u1ec3 render, ch\u1ec9 c\u00f2n kho\u1ea3ng tr\u1ed1ng.' Or simply: 'C\u00e1i n\u00e0y kh\u00e1c. R\u1ed7ng. Kh\u00f4ng \u0111au. T\u1ec7 h\u01a1n \u0111au.'",
+    "strongest_sentence": "Anh \u0111\u00e3 gi\u1ebft c\u00f4. Ch\u1eadm. \u0110\u1ec1u \u0111\u1eb7n. Nh\u01b0 m\u00e1y b\u01a1m d\u1ecbch truy\u1ec1n \u00f9m \u00f9m \u00f9m b\u00ean tai.",
+    "note": "The prose is strongest when it stays in C\u01b0\u1eddng's clinical register and lets physical detail carry emotion. The description of Lan's body is devastating because it observes rather than emotes. The weakest passages are those that drift toward conventional emotional narration. There are some repeated constructions \u2014 multiple paragraphs begin with 'Anh nh\u1edb' or 'M\u1eaft c\u00f4' \u2014 but this is partly intentional, creating the obsessive, broken-record quality of a mind confronting truth."
+  },
+  "continuity": {
+    "score": 9,
+    "note": "Excellent continuity from the previous chapter. C\u01b0\u1eddng's physical state (scar on chest, damp skin, the clothes he puts on) carries over precisely. His emotional trajectory \u2014 from disconnecting, to remembering, to walking to St. Vincent \u2014 flows naturally into this chapter. The note about the paper with 'Lan. Ph\u00f2ng 4. St. Vincent' pays off perfectly. Time continuity is maintained (2:01 AM entering, 2:47 AM at chapter's end). The only minor issue is the previous chapter mentions 'v\u1ebft x\u01b0\u1edbc' (scratch) while this chapter sometimes calls it 'v\u1ebft s\u1eb9o' (scar) \u2014 these are different things, though a scratch can become a scar."
+  },
+  "canon_compliance": {
+    "score": 6,
+    "violations": [
+      "MAJOR: The chapter reveals Lan as C\u01b0\u1eddng's former real-life lover from H\u00e0 N\u1ed9i, with specific memories of their relationship (the rain, the tea, the confession of love). This contradicts the established canon that C\u01b0\u1eddng's ghost/wound is 'm\u1ed9t kho\u1ea3ng tr\u1ed1ng \u0111en ng\u00f2m n\u01a1i k\u00fd \u1ee9c t\u1eebng t\u1ed3n t\u1ea1i' and that he 'kh\u00f4ng nh\u1edb l\u00fd do anh tr\u1ed1n kh\u1ecfi th\u1ef1c t\u1ea1i.' If he now remembers Lan clearly \u2014 their life together, the accident, his decision to code the system \u2014 this fundamentally changes his character profile.",
+      "MAJOR: The chapter states C\u01b0\u1eddng personally wrote the code to lock 90% of Lan's consciousness and open 100% tactile response. This implies a level of technical competence (coding neural interface software) that contradicts his established profile as a mere accountant who 'h\u1ecdc \u0111\u1ee7 \u0111\u1ec3 t\u1ef1 v\u1eadn h\u00e0nh, nh\u01b0ng kh\u00f4ng hi\u1ec3u s\u00e2u v\u1ec1 ki\u1ebfn tr\u00fac h\u1ec7 th\u1ed1ng.'",
+      "MODERATE: The chapter implies C\u01b0\u1eddng knew he was using a specific real person's body data (Lan's) all along. The character profile and world bible suggest he uses data from multiple coma patients without knowing their identities, and that 'K\u1ebb \u0110u\u1ed5i' formed from fragments of many patients, not one specific person.",
+      "MINOR: The chapter refers to the entity as 'Lan' in the real world and 'n\u00e0ng' in the virtual world, suggesting they are the same person. The canon establishes 'K\u1ebb \u0110u\u1ed5i' as 's\u1ef1 k\u1ebft tinh c\u1ee7a \u00fd th\u1ee9c d\u01b0 th\u1eeba t\u1eeb nhi\u1ec1u b\u1ec7nh nh\u00e2n h\u00f4n m\u00ea \u2014 kh\u00f4ng ph\u1ea3i m\u1ed9t ng\u01b0\u1eddi, m\u00e0 l\u00e0 nhi\u1ec1u m\u1ea3nh gh\u00e9p.'",
+      "MINOR: B\u00e0 L\u00e0nh's dialogue doesn't include her characteristic 'H\u00ean xui' or sentences ending with '...' as specified in her voice profile."
+    ],
+    "note": "These are significant canon violations that would require either revising the chapter or updating the character/world documents. The most elegant solution might be to keep the emotional truth \u2014 C\u01b0\u1eddng had a real relationship, the person is now in the ward, he used her body data \u2014 but make the memories more fragmented and uncertain, consistent with his 60% memory fragmentation. He shouldn't remember everything clearly; he should remember in shards, some possibly false."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "The technical explanation of how C\u01b0\u1eddng's system works \u2014 't\u00edn hi\u1ec7u ch\u1ea1y t\u1eeb h\u1ea7m Haymarket qua b\u1ea3y n\u00fat chuy\u1ec3n ti\u1ebfp, \u0111\u1ebfn server, render n\u00e0ng, v\u00e0 truy\u1ec1n ng\u01b0\u1ee3c v\u1ec1 \u0111\u00e2y' \u2014 is delivered in a moment of high emotion where C\u01b0\u1eddng is confronting his guilt. This is actually appropriate (his mind would reach for technical language as a defense) but could be tighter.",
+    "fix": "The passage is nearly right. Consider trimming: 'M\u1ed7i l\u1ea7n anh \u0111\u1ed5 b\u1ed9, t\u00edn hi\u1ec7u ch\u1ea1y qua b\u1ea3y n\u00fat, render n\u00e0ng, truy\u1ec1n ng\u01b0\u1ee3c v\u1ec1 \u0111\u00e2y \u2014 v\u1ec1 bu\u1ed3ng s\u1ed1 4 \u2014 v\u00e0 m\u1ed7i xung \u0111i\u1ec7n thi\u00eau r\u1ee5i th\u00eam m\u1ed9t m\u1ea3ng n\u00e3o b\u1ed9 c\u00f4.' The shorter version hits harder.",
+    "note": "The Neural Mantle technology does genuine work in this chapter \u2014 it's not set dressing. The physical consequences (the scar, the sweat, the brain damage) are dramatized through Lan's body. The ping metaphor is used effectively. The ward itself, with its specific smells and sounds, is deeply integrated into the scene's emotional texture."
+  },
+  "engagement": {
+    "score": 8,
+    "weakest_moment": "The middle section, after C\u01b0\u1eddng enters the room and before B\u00e0 L\u00e0nh arrives, risks becoming static. There's a long stretch of observation and internal revelation that, while powerful, could use more physical action or sensory detail to break up the introspection.",
+    "fix": "Add one more physical beat in this section \u2014 perhaps C\u01b0\u1eddng's hand trembling as he reaches toward her, or his knees buckling slightly, or a sound from the monitoring equipment that makes him flinch. Give the body something to do while the mind unravels.",
+    "note": "The chapter is genuinely gripping. The slow walk through the ward builds tension effectively. The reveal of Lan's open eyes is a genuine shock moment. B\u00e0 L\u00e0nh's entrance provides a crucial shift in dynamics. The final image \u2014 C\u01b0\u1eddng kneeling, Lan's eyes open, the gap between them \u2014 is haunting. The chapter earns its emotional climax through patient scene work rather than manipulation."
+  },
+  "three_weakest_sentences": [
+    "C\u00e1i n\u00e0y kh\u00e1c. C\u00e1i n\u00e0y gi\u1ed1ng nh\u01b0 b\u1ecb r\u1ed7ng \u2014 nh\u01b0 b\u1ed9 \u0111\u1ec7m b\u1ecb x\u00f3a s\u1ea1ch, v\u00e0 ch\u1ed7 tr\u1ed1ng \u1ea5y \u0111au h\u01a1n b\u1ea5t k\u1ef3 th\u1ee9 g\u00ec \u0111\u00e3 l\u1ea5p \u0111\u1ea7y n\u00f3.",
+    "V\u00e0 kh\u00e1t v\u1ecdng \u1ea5y \u2014 WANT \u2014 anh \u0111\u00e3 t\u1eebng g\u1ecdi n\u00f3 l\u00e0 t\u00ecnh y\u00eau. T\u00ecnh y\u00eau. Ch\u1eef n\u00e0y b\u00e2y gi\u1edd n\u1eb1m trong mi\u1ec7ng anh nh\u01b0 m\u1ea3nh th\u1ee7y tinh.",
+    "Kh\u00f4ng ph\u1ea3i t\u1eeb c\u00f4. T\u1eeb anh. N\u00f3ng. Ch\u1ea3y ra t\u1eeb kh\u00f3e m\u1eaft, ch\u1ea1y xu\u1ed1ng m\u00e1, r\u01a1i xu\u1ed1ng mu b\u00e0n tay \u0111ang n\u1eafm ch\u1eb7t ga gi\u01b0\u1eddng."
+  ],
+  "three_strongest_sentences": [
+    "Anh \u0111\u00e3 gi\u1ebft c\u00f4. Ch\u1eadm. \u0110\u1ec1u \u0111\u1eb7n. Nh\u01b0 m\u00e1y b\u01a1m d\u1ecbch truy\u1ec1n \u00f9m \u00f9m \u00f9m b\u00ean tai.",
+    "X\u01b0\u01a1ng \u0111\u00f2n vai nh\u00f4 l\u00ean nh\u01b0 c\u00e1nh chim g\u00e3y.",
+    "B\u00e0 bi\u1ebft ai \u0111\u1ebfn v\u00ec th\u01b0\u01a1ng ti\u1ebfc v\u00e0 ai \u0111\u1ebfn v\u00ec t\u1ed9i l\u1ed7i."
+  ],
+  "ai_patterns_detected": [
+    "Slight over-explanation of emotional states \u2014 several passages explain what the reader has already understood through action and detail",
+    "The 'Not X. Y.' sentence structure appears multiple times ('Kh\u00f4ng ph\u1ea3i \u0111au. \u0110au th\u00ec anh quen.' / 'Kh\u00f4ng ph\u1ea3i t\u1eeb c\u00f4. T\u1eeb anh.' / 'Kh\u00f4ng ph\u00e1n x\u00e9t. Kh\u00f4ng gi\u1eadn d\u1eef. Kh\u00f4ng tha th\u1ee9. Ch\u1ec9 nh\u00ecn.') \u2014 effective once, noticeable as pattern by the third use",
+    "Some paragraphs follow a similar structure: short observation sentence, then longer explanatory sentence, then emotional landing"
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "canon_compliance",
+  "top_3_revisions": [
+    "MAJOR: Reconcile the Lan revelation with canon. Either (a) fragment C\u01b0\u1eddng's memories so he doesn't remember everything clearly \u2014 shards, gaps, possible fabrications \u2014 consistent with 60% memory loss, or (b) update character profiles to reflect that he always knew about Lan and deliberately suppressed the memories, making his ghost more specific than 'a black void.' Option (a) is more interesting and consistent with the voice profile's emphasis on corrupted memory.",
+    "MODERATE: Reduce C\u01b0\u1eddng's technical agency. Instead of 'anh \u0111\u00e3 vi\u1ebft l\u1ec7nh \u2014 90% nh\u1eadn th\u1ee9c, kh\u00f3a. 100% x\u00fac gi\u00e1c, m\u1edf,' make it more ambiguous \u2014 he found code, he modified parameters, he didn't fully understand what he was doing. This preserves his identity as an accountant who got in over his head rather than a skilled programmer.",
+    "MODERATE: Tighten the middle section (after entering the room, before B\u00e0 L\u00e0nh arrives) by cutting approximately 200 words of emotional narration that repeats what the physical details have already conveyed. Trust the image of Lan's body, the open eyes, the clinical observation \u2014 these carry more weight than the explanations."
+  ],
+  "new_canon_entries": [
+    "Lan is the name of the woman in Bed 4, Khu N\u1eb1m, B3, St. Vincent \u2014 the primary source body for 'K\u1ebb \u0110u\u1ed5i' (NOTE: may need revision based on canon compliance fix)",
+    "C\u01b0\u1eddng had a real-life relationship with Lan in H\u00e0 N\u1ed9i before her accident and hospitalization (NOTE: contradicts existing canon \u2014 needs reconciliation)",
+    "Lan's eyes opened for the first time in four years on the night C\u01b0\u1eddng visited (2:XX AM)",
+    "Lan shed tears while her eyes were open, observed by B\u00e0 L\u00e0nh",
+    "Lan's finger curled in response to C\u01b0\u1eddng touching her hand \u2014 unclear if reflex or conscious response",
+    "B\u00e0 L\u00e0nh has observed C\u01b0\u1eddng's scar through his shirt and connected it to Lan somehow",
+    "C\u01b0\u1eddng visited St. Vincent at approximately 2:01 AM and was still there at 2:47 AM",
+    "Bu\u1ed3ng 3 in Khu N\u1eb1m is currently empty \u2014 bed made, monitor off, previous occupant unknown"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 20.13,
+    "sentence_length_cv": 0.894,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 7
+}

@@ -1,0 +1,114 @@
+{
+  "cuts": [
+    {
+      "quote": "B\u1ec7nh nh\u00e2n h\u00f4n m\u00ea kh\u00f4ng \u0111\u1ed5 m\u1ed3 h\u00f4i. Kh\u00f4ng c\u00f3 l\u00fd do y khoa n\u00e0o \u0111\u1ec3 \u0111\u1ed5 m\u1ed3 h\u00f4i. B\u00e1c s\u0129 Tu\u1ea5n \u0111\u00e3 n\u00f3i v\u1eady trong cu\u1ed9c \u0111i\u1ec7n tho\u1ea1i m\u00e0 C\u01b0\u1eddng nghe l\u00e9n \u1edf Ch\u01b0\u01a1ng 8.",
+      "type": "FAT",
+      "reason": "The explicit reference to 'Ch\u01b0\u01a1ng 8' violently breaks the fourth wall and halts narrative immersion dead.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "Kh\u00f4ng ph\u1ea3i \u0111au v\u1eadt l\u00fd. Kh\u00f4ng ph\u1ea3i \u00e1p su\u1ea5t hay nhi\u1ec7t \u0111\u1ed9. L\u00e0 th\u1ee9 g\u00ec \u0111\u00f3 kh\u00e1c \u2014 s\u00e2u h\u01a1n, m\u1ecfi h\u01a1n, nh\u01b0 d\u00e2y th\u1ea7n kinh b\u1ecb k\u00e9o gi\u00e3n qu\u00e1 gi\u1edbi h\u1ea1n v\u00e0 s\u1eafp \u0111\u1ee9t.",
+      "type": "TELL",
+      "reason": "Abstract, melodramatic telling that dilutes the visceral impact of the physical sensation already established.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "Kh\u00f4ng. Kh\u00f4ng ph\u1ea3i m\u01b0\u1eddi hai m\u00e9t. 1.2 km. Kho\u1ea3ng c\u00e1ch t\u1eeb h\u1ea7m Haymarket \u0111\u1ebfn \u0111\u00e2y. Nh\u01b0ng t\u00edn hi\u1ec7u kh\u00f4ng c\u1ea7n c\u00e1p quang. Anh \u0111\u00e3 bi\u1ebft \u0111i\u1ec1u \u0111\u00f3 t\u1eeb \u0111\u00eam qua. T\u00edn hi\u1ec7u truy\u1ec1n m\u00e0 kh\u00f4ng qua c\u00e1p. T\u00edn hi\u1ec7u t\u1eeb v\u1ebft x\u01b0\u1edbc tr\u00ean ng\u1ef1c anh, xuy\u00ean qua b\u00ea t\u00f4ng, xuy\u00ean qua kh\u00f4ng kh\u00ed, \u0111\u1ebfn \u0111\u01b0\u1ee3c n\u01a1i n\u00e0y.",
+      "type": "OVER-EXPLAIN",
+      "reason": "The narrator is mansplaining the magic system to the reader right after a quiet, emotional scene. It kills the mystery.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "B\u00ean trong, kh\u00f4ng kh\u00ed \u0111i\u1ec1u h\u00f2a m\u01b0\u1eddi t\u00e1m \u0111\u1ed9. B\u00ean ngo\u00e0i, h\u00e0nh lang m\u01b0\u1eddi ch\u00edn \u0111\u1ed9. M\u1ed9t \u0111\u1ed9 ch\u00eanh l\u1ec7ch. Anh c\u1ea3m nh\u1eadn qua \u0111\u1ea7u ng\u00f3n tay \u2014 \u0111\u1ed9 d\u1eabn nhi\u1ec7t c\u1ee7a k\u00ednh acrylic, 0.2 W/mK, ch\u1eadm, nh\u01b0ng \u0111\u1ee7 \u0111\u1ec3 anh bi\u1ebft: gi\u1eefa anh v\u00e0 c\u00f4 g\u00e1i c\u00f3 m\u1ed9t l\u1edbp v\u1eadt ch\u1ea5t c\u1ee9ng ngu\u1ed9i.",
+      "type": "FAT",
+      "reason": "Pointless technical data that reads like an engineering textbook and completely derails the emotional tension of the moment.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "M\u00f9i ng\u01b0\u1eddi th\u1eadt. M\u00f9i \u0111\u1eddi th\u1ef1c. Kh\u00f4ng ph\u1ea3i hoa s\u1eefa. Kh\u00f4ng ph\u1ea3i 36.8\u00b0C. Kh\u00f4ng ph\u1ea3i render ho\u00e0n h\u1ea3o. M\u00f9i c\u1ee7a da nh\u0103n, x\u01b0\u01a1ng \u0111au, v\u00e0 hai m\u01b0\u01a1i hai n\u0103m lau ng\u01b0\u1eddi cho ng\u01b0\u1eddi kh\u00f4ng bao gi\u1edd n\u00f3i c\u1ea3m \u01a1n.",
+      "type": "OVER-EXPLAIN",
+      "reason": "Ham-fisted thematic exposition that tells the reader exactly how to interpret the scene rather than letting the sensory details speak.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "V\u00e0 K\u1ebb \u0110u\u1ed5i, trong th\u1ebf gi\u1edbi \u1ea3o, c\u0169ng bi\u1ebft. \"Em th\u1ea5y anh. \u1ede \u0111\u00e2y. V\u00e0 \u1edf ngo\u00e0i kia.\" C\u00f4 \u0111\u00e3 n\u00f3i v\u1eady. L\u1ea7n \u0111\u1ed5 b\u1ed9 th\u1ee9 849. C\u00f4 nh\u00ecn th\u1ea5u. C\u00f4 bi\u1ebft anh \u0111\u1ee9ng \u1edf \u0111\u00e2u, c\u00f4 bi\u1ebft v\u1ebft b\u1ea7m tr\u00ean x\u01b0\u01a1ng s\u01b0\u1eddn, c\u00f4 bi\u1ebft \u0111i\u1ec1u anh kh\u00f4ng nh\u1edb.",
+      "type": "REDUNDANT",
+      "reason": "Recapping previous events and dialogue. It stalls the pacing of the present scene to remind the reader of things they should already know.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "\u0110ang n\u00f3i. B\u1eb1ng nh\u1ecbp tim. B\u1eb1ng m\u1ed3 h\u00f4i. B\u1eb1ng n\u01b0\u1edbc m\u1eaft. B\u1eb1ng th\u1ee9 ng\u00f4n ng\u1eef m\u00e0 b\u00e0 L\u00e0nh hi\u1ec3u m\u00e0 C\u01b0\u1eddng th\u00ec kh\u00f4ng \u2014 v\u00ec anh ch\u1ec9 bi\u1ebft \u0111\u1ecdc d\u1eef li\u1ec7u, kh\u00f4ng bi\u1ebft \u0111\u1ecdc da ng\u01b0\u1eddi.",
+      "type": "OVER-EXPLAIN",
+      "reason": "Spelling out the thematic contrast between the characters. The juxtaposition of the previous scenes already did this beautifully.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "B\u00e0 L\u00e0nh th\u1ea5y ng\u01b0\u1eddi. B\u00e1c s\u0129 Tu\u1ea5n th\u1ea5y b\u1ec7nh nh\u00e2n. C\u01b0\u1eddng th\u1ea5y ngu\u1ed3n render. Ba ng\u01b0\u1eddi, ba c\u00e1ch nh\u00ecn, c\u00f9ng m\u1ed9t c\u00f4 g\u00e1i.",
+      "type": "OVER-EXPLAIN",
+      "reason": "A heavy-handed, textbook-like summary of the scene's theme. Trust the reader to grasp this subtext without narrating it.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "M\u1ed9t c\u00e2u h\u1ecfi hi\u1ec7n ra, kh\u00f4ng ph\u1ea3i t\u1eeb suy ngh\u0129, m\u00e0 t\u1eeb \u0111\u00e2u \u0111\u00f3 s\u00e2u h\u01a1n \u2014 t\u1eeb v\u1ecb tr\u00ed m\u00e0 anh th\u01b0\u1eddng kh\u00f4ng bao gi\u1edd d\u00f2 t\u1edbi, n\u01a1i m\u00e0 k\u1ebf to\u00e1n kh\u00f4ng c\u00f3 c\u00f4ng th\u1ee9c \u0111\u1ec3 t\u00ednh:",
+      "type": "TELL",
+      "reason": "Clunky, overly literary throat-clearing that tries too hard to justify the character having a philosophical thought.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "V\u1ebft x\u01b0\u1edbc tr\u00ean ng\u1ef1c truy\u1ec1n m\u1ed9t xung cu\u1ed1i c\u00f9ng. Nh\u1eb9. Nh\u01b0 ti\u1ebfng v\u1eaby tay. Ho\u1eb7c ti\u1ebfng g\u1ecdi. Ho\u1eb7c ch\u1ec9 l\u00e0 nhi\u1ec5u. R\u1ed3i im. Ch\u1edd.",
+      "type": "GENERIC",
+      "reason": "A clich\u00e9, melodramatic ending that relies on vague, abstract comparisons instead of sharp, concrete imagery.",
+      "action": "REWRITE",
+      "rewrite": "V\u1ebft x\u01b0\u1edbc tr\u00ean ng\u1ef1c truy\u1ec1n m\u1ed9t xung cu\u1ed1i c\u00f9ng. Nh\u1eb9. R\u1ed3i im."
+    },
+    {
+      "quote": "Anh kh\u00f4ng th\u1ea5y gi\u1ecdt n\u01b0\u1edbc m\u1eaft. Anh kh\u00f4ng nghe c\u00f4 g\u00e1i \"n\u00f3i\" b\u1eb1ng m\u1ed3 h\u00f4i. Anh th\u1ea5y tri\u1ec7u ch\u1ee9ng. Ph\u00e2n t\u00edch. Ghi ch\u00fa.",
+      "type": "REDUNDANT",
+      "reason": "Re-explaining the doctor's perspective immediately after the text already showed him doing exactly this.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "Nh\u01b0ng K\u1ebb \u0110u\u1ed5i bi\u1ebft h\u1ecfi. Bi\u1ebft kh\u00f3c. Bi\u1ebft g\u1ecdi t\u00ean anh. C\u00f2n c\u00f4 g\u00e1i th\u00ec ch\u1ec9 n\u1eb1m \u0111\u00e2y. \u0110\u1ed5 m\u1ed3 h\u00f4i. R\u01a1i n\u01b0\u1edbc m\u1eaft. Ph\u1ea3n \u1ee9ng. Ph\u1ea3n \u1ee9ng v\u1edbi c\u00e1i g\u00ec?",
+      "type": "OVER-EXPLAIN",
+      "reason": "The narrator is asking rhetorical questions to lead the reader by the nose to a conclusion that is already obvious.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "C\u00f4 g\u00e1i kh\u00f4ng bi\u1ebft anh \u1edf \u0111\u00e2y. Nh\u01b0ng c\u01a1 th\u1ec3 c\u00f4 bi\u1ebft. Th\u1ea7n kinh c\u00f4 bi\u1ebft. D\u1eef li\u1ec7u sinh t\u1ed3n c\u1ee7a c\u00f4 \u2014 th\u1ee9 \u0111ang \u0111\u01b0\u1ee3c d\u00f9ng \u0111\u1ec3 render K\u1ebb \u0110u\u1ed5i \u2014 bi\u1ebft.",
+      "type": "OVER-EXPLAIN",
+      "reason": "Over-explaining the mechanics of the connection. It strips away the eerie, supernatural ambiguity of the scene.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "C\u01b0\u1eddng nh\u00ecn c\u00f4 g\u00e1i. C\u00f4 g\u00e1i kh\u00f4ng nh\u00ecn anh. M\u1eaft nh\u1eafm. Mi b\u1ea5t \u0111\u1ed9ng.",
+      "type": "REDUNDANT",
+      "reason": "Repeating the exact same physical description of the patient that has been established multiple times already.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "B\u01b0\u1edbc ch\u00e2n c\u1ee7a b\u00e1c s\u0129 n\u1ed9i tr\u00fa l\u00fac hai gi\u1edd s\u00e1ng, \u0111\u1ebfn ki\u1ec3m tra b\u1ec7nh nh\u00e2n v\u00ec kh\u00f4ng ng\u1ee7 \u0111\u01b0\u1ee3c v\u00ec c\u00f3 \u0111i\u1ec1u g\u00ec \u0111\u00f3 kh\u00f4ng \u0111\u00fang trong d\u1eef li\u1ec7u.",
+      "type": "OVER-EXPLAIN",
+      "reason": "Explaining the character's entire psychological motive and backstory for walking down a hall. Just show the footsteps.",
+      "action": "CUT",
+      "rewrite": null
+    }
+  ],
+  "total_cuttable_words": 580,
+  "tightest_passage": "\"C\u00f4 b\u00e9 \u0111\u1ed5 m\u1ed3 h\u00f4i k\u00eca.\" B\u00e0 n\u00f3i v\u1edbi ch\u00ednh m\u00ecnh. Ho\u1eb7c n\u00f3i v\u1edbi c\u00f4 g\u00e1i. Ho\u1eb7c n\u00f3i v\u1edbi kh\u00f4ng kh\u00ed \u2014 kh\u00f4ng quan tr\u1ecdng, v\u00ec l\u00fac hai gi\u1edd s\u00e1ng \u1edf Khu N\u1eb1m, kh\u00f4ng ai nghe.",
+  "loosest_passage": "B\u00ean trong, kh\u00f4ng kh\u00ed \u0111i\u1ec1u h\u00f2a m\u01b0\u1eddi t\u00e1m \u0111\u1ed9. B\u00ean ngo\u00e0i, h\u00e0nh lang m\u01b0\u1eddi ch\u00edn \u0111\u1ed9. M\u1ed9t \u0111\u1ed9 ch\u00eanh l\u1ec7ch. Anh c\u1ea3m nh\u1eadn qua \u0111\u1ea7u ng\u00f3n tay \u2014 \u0111\u1ed9 d\u1eabn nhi\u1ec7t c\u1ee7a k\u00ednh acrylic, 0.2 W/mK, ch\u1eadm, nh\u01b0ng \u0111\u1ee7 \u0111\u1ec3 anh bi\u1ebft: gi\u1eefa anh v\u00e0 c\u00f4 g\u00e1i c\u00f3 m\u1ed9t l\u1edbp v\u1eadt ch\u1ea5t c\u1ee9ng ngu\u1ed9i.",
+  "overall_fat_percentage": 18,
+  "one_sentence_verdict": "The chapter builds a beautifully eerie, sensory-rich atmosphere that is repeatedly sabotaged by a narrator who refuses to trust the reader to grasp subtext without heavy-handed thematic explanations."
+}

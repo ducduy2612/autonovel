@@ -1,0 +1,9 @@
+**Tóm tắt Chương 14: Thanh tra**
+
+Cường bị giam trong phòng thẩm vấn tại trụ sở Cảnh sát Liên bang. Thanh tra Hạnh đối chất anh về việc vi phạm Điều 47B (xâm nhập ý thức hệ thần kinh người khác). Bà trình chiếu đoạn ghi hình từ Bệnh viện St. Vincent: Bệnh nhân 04-ĐM — một cô gái 22 tuổi nằm hôn mê 4 năm — đang bị co giật dữ dội, nhịp tim tăng vọt đến mức nguy hiểm. 
+
+Hạnh vạch trần sự thật: Server riêng của Cường đã hack dữ liệu sinh tồn của cô gái này để render ra "Kẻ Đuổi" (người tình ảo của anh). Mỗi lần Cường "đổ bộ" vào thế giới ảo, hệ thống Neural Mantle truyền tín hiệu ngược lại, thiêu rụi dần não bộ của cô gái ngoài đời thực. Vết thương kỳ lạ trên ngực Cường chính là biểu hiện vật lý của sự đồng bộ hai chiều — nó mang nhịp đập và nhiệt độ của cô gái, chứng minh họ đang bị trói buộc.
+
+Hạnh chất vấn Cường có bao nhiêu "nguồn" bệnh nhân. Cường thừa nhận anh từng tạo ra bảy người tình ảo, nhưng khẳng định chỉ trộm dữ liệu của một mình Bệnh nhân 04-ĐM. Hạnh rời đi, để lại lời tuyên bố lạnh lùng rằng vết thương ấy không thuộc về anh mà là của cô gái, và cho Cường thời gian đến sáng hôm sau để quyết định có ký lời khai hay không.
+
+Chương khép lại trong sự tĩnh lặng tuyệt đối của phòng thẩm vấn. Cường trải qua một sự thức tỉnh đầy đau đớn. Anh nhận ra mình không phải nạn nhân của hệ thống hay một kẻ cô đơn đáng thương, mà là một kẻ lạm dụng tàn nhẫn. Để thỏa mãn dục vọng và trốn tránh thực tại, anh đã biến một con người bằng xương bằng thịt đang nằm hấp hối thành công cụ, âm thầm giết chết cô từng chút một. Sự tuyệt vọng ập đến không ồn ào mà tĩnh lặng, lạnh lẽo, giống như nhịp tim thoi thóp của cô gái vẫn đang đập trong lồng ngực anh.

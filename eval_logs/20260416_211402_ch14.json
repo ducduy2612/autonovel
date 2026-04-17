@@ -1,0 +1,102 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "S\u1ef1 c\u00f4 \u0111\u01a1n c\u1ee7a anh \u2014 s\u1ef1 c\u00f4 \u0111\u01a1n m\u00e0 anh \u0111\u00e3 ch\u1ea1y tr\u1ed1n su\u1ed1t hai n\u0103m, tr\u1ed1n v\u00e0o h\u1ea7m, tr\u1ed1n v\u00e0o b\u1ed3n dung d\u1ecbch, tr\u1ed1n v\u00e0o v\u00f2ng tay \u1ea3o \u2014 kh\u00f4ng ph\u1ea3i h\u1eadu qu\u1ea3 c\u1ee7a th\u1ebf gi\u1edbi. N\u00f3 l\u00e0 h\u1eadu qu\u1ea3 c\u1ee7a vi\u1ec7c anh b\u1ea1o h\u00e0nh ng\u01b0\u1eddi kh\u00e1c.",
+    "fix": "Cut this passage entirely. The voice profile explicitly states: 'KH\u00d4NG l\u00e3ng m\u1ea1n h\u00f3a s\u1ef1 c\u00f4 \u0111\u01a1n.' The realization should arrive through a physical detail or a clinical observation, not through a thesis statement about his loneliness. Let the reader do the moral math.",
+    "note": "The chapter mostly nails the cold, surgical tone. The ping/heartbeat counting, the temperature measurements, the clinical observation of the seizing girl \u2014 these are strong voice moments. But the final pages collapse into direct emotional exposition that violates the 'body before emotion' principle. The voice is best when it's a technician recording system failure, worst when it becomes a moral philosopher."
+  },
+  "beat_coverage": {
+    "score": 7,
+    "weakest_moment": "The 'C\u01b0\u1eddng ph\u1ee7 nh\u1eadn' beat is executed through a single word \u2014 'Kh\u00f4ng' \u2014 repeated mechanically rather than dramatized through behavior or a specific lie that reveals character.",
+    "fix": "Give C\u01b0\u1eddng a real lie. Not denial, but a technical deflection that sounds convincing: 'T\u00f4i c\u00f3 server ri\u00eang. H\u1ec7 th\u1ed1ng \u0111\u00f3ng. Kh\u00f4ng li\u00ean quan \u0111\u1ebfn b\u1ec7nh vi\u1ec7n.' This line exists but comes too late and is abandoned too quickly. Let him construct a genuine argument before H\u1ea1nh dismantles it.",
+    "note": "All four outline beats are present and dramatized in-scene. The video reveal is effective. H\u1ea1nh's accusation about the bruise lands well. The shift from 'I am victim' to 'I am perpetrator' is clearly executed. The main gap is that C\u01b0\u1eddng's denial feels passive \u2014 he should fight harder before breaking."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "C\u01b0\u1eddng n\u00edn th\u1edf.",
+    "fix": "Replace with a physical detail that shows his reaction without naming the emotion: 'Ng\u00f3n tay C\u01b0\u1eddng d\u1eebng gi\u1eefa kh\u00f4ng kh\u00ed. Nh\u1ecbp n\u0103m m\u01b0\u01a1i tr\u00ean ng\u1ef1c nh\u1ea3y m\u1ed9t nh\u1ecbp. R\u1ed3i hai.' The voice profile demands body-before-emotion; 'n\u00edn th\u1edf' is too generic.",
+    "note": "H\u1ea1nh's voice is well-differentiated \u2014 the controlled questions, the strategic silence, the technical precision. Her dialogue reads as someone who interrogates for a living. C\u01b0\u1eddng's internal voice is mostly strong but occasionally slips into generic protagonist narration. The differentiation between them is clear when they speak; less clear in C\u01b0\u1eddng's interior monologue, which sometimes sounds like any frightened person rather than a specific accountant-addict."
+  },
+  "plants_seeded": {
+    "score": 7,
+    "weakest_moment": "The SpO2 91% detail is mentioned but not given enough weight to function as a true plant for future complications.",
+    "fix": "Let C\u01b0\u1eddng notice the SpO2 number and have a specific technical reaction \u2014 he knows what 91% means for a coma patient, and the reader should feel the dread without being told. 'SpO2: 91%. Th\u1ea5p. Ph\u1ed5i c\u00f4 \u0111ang suy y\u1ebfu. Ho\u1eb7c c\u01a1 ch\u1ebf h\u00f4 h\u1ea5p. Ho\u1eb7c th\u1ee9 g\u00ec \u0111\u00f3 \u0111ang \u0103n m\u00f2n t\u1eeb b\u00ean trong.' Then cut \u2014 let the reader carry the implication.",
+    "note": "The video evidence plant is well-integrated \u2014 it feels like H\u1ea1nh's method, not an authorial device. The data correlation between C\u01b0\u1eddng's server traffic and the patient's spikes is planted naturally through H\u1ea1nh's investigation. The 'seven lovers' reveal is a strong plant for future chapters. The main weakness is that some plants are stated rather than embedded."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "Anh c\u00f4 \u0111\u01a1n v\u00ec anh \u0111\u00e3 bi\u1ebfn m\u1ed9t con ng\u01b0\u1eddi th\u00e0nh c\u00f4ng c\u1ee5.",
+    "fix": "Delete. This is the thesis statement of a theme essay, not a line of fiction. The reader has already arrived at this conclusion through the scene work. Trust the scene.",
+    "strongest_sentence": "Nh\u1ecbp tim tr\u00ean m\u00e0n h\u00ecnh: 152. 'Ng\u1eebng \u0111i,' C\u01b0\u1eddng th\u00ec th\u1ea7m. 'Ng\u1eebng.'",
+    "note": "The prose is strongest when it's clinical and rhythmic \u2014 the counting, the measurements, the short declarative sentences that mimic system readouts. It's weakest when it reaches for emotional resonance through abstract statement. There are some repeated constructions ('Anh bi\u1ebft. Anh lu\u00f4n bi\u1ebft. Anh ch\u1ec9 ch\u1ecdn kh\u00f4ng nh\u1edb.') that work once but become a crutch. The chapter would benefit from cutting approximately 300 words from the final section."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Strong continuity from the previous chapter. C\u01b0\u1eddng is still wearing the Neural Mantle, still has the dual heartbeat (40 + 80), still carrying the wound. The ping: 0ms motif continues. His physical state (weak legs, running, exhaustion) tracks. The emotional state \u2014 fleeing the virtual world, trying to stay in the real \u2014 leads logically to being picked up by H\u1ea1nh. One minor issue: the previous chapter ends with him walking through Haymarket at night, but this chapter opens in an interrogation room with no transition. A brief bridging sentence would help."
+  },
+  "canon_compliance": {
+    "score": 8,
+    "violations": [
+      "Minor: The chapter states C\u01b0\u1eddng has used 'b\u1ea3y ng\u01b0\u1eddi t\u00ecnh \u1ea3o' rendered from patient data, but canon says 12 patients are connected to Neural Mantle and 7 are women. The chapter implies all 7 of C\u01b0\u1eddng's lovers come from these patients, which is consistent, but the exact mapping could be clearer.",
+      "Minor: H\u1ea1nh says she obtained data 'kh\u00f4ng ch\u00ednh th\u1ee9c, qua m\u1ed9t ngu\u1ed3n t\u00f4i tin t\u01b0\u1edfng' \u2014 this is likely B\u00e1c s\u0129 Tu\u1ea5n, but the connection isn't made explicit. Not a violation, but a missed opportunity for continuity."
+    ],
+    "note": "No major canon violations. The interrogation setting at tr\u1ee5 s\u1edf C\u1ea3nh s\u00e1t Li\u00ean bang on \u0111\u01b0\u1eddng Liverpool is consistent with established geography. H\u1ea1nh's behavior \u2014 not arresting C\u01b0\u1eddng, using the interrogation to make him understand rather than to extract a confession \u2014 is consistent with her character profile (she wants him to understand the consequences, not just face punishment). The patient details (22 years old, 4 years in coma, no family) are new but don't contradict anything."
+  },
+  "lore_integration": {
+    "score": 7,
+    "weakest_moment": "H\u1ea1nh's explanation of how the system works \u2014 'Hemera thi\u1ebft k\u1ebf \u0111\u1ec3 b\u1ec7nh nh\u00e2n h\u00f4n m\u00ea c\u00f3 th\u1ec3 duy tr\u00ec ho\u1ea1t \u0111\u1ed9ng n\u00e3o th\u00f4ng qua t\u00edn hi\u1ec7u t\u1eeb b\u00ean ngo\u00e0i' \u2014 reads as exposition directed at the reader rather than something this character would say to this person in this moment.",
+    "fix": "Break up the explanation. Have H\u1ea1nh show rather than tell \u2014 point to the data, ask C\u01b0\u1eddng to explain the correlation himself. She's an interrogator; she should make him say it. 'Nh\u1ecbp tim 167. Co gi\u1eadt to\u00e0n th\u00e2n. Anh l\u00e0 k\u1ef9 s\u01b0. Anh n\u00f3i cho t\u00f4i bi\u1ebft \u0111i\u1ec1u \u0111\u00f3 c\u00f3 ngh\u0129a g\u00ec.' Then let C\u01b0\u1eddng's internal monologue supply the technical explanation she's withholding.",
+    "note": "The lore does real work in this chapter \u2014 the Neural Mantle system, the two-way sync, the patient-as-data-source concept, the legal framework of \u0110i\u1ec1u 47B. The interrogation is the right vehicle for revealing system mechanics. But the delivery occasionally feels like a textbook passage inserted into dialogue. The world is present; it just needs to be more deeply embedded in character voice."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The final two pages, where C\u01b0\u1eddng's realization is spelled out in successive declarative sentences: 'Anh c\u00f4 \u0111\u01a1n v\u00ec anh \u0111\u00e3 bi\u1ebfn m\u1ed9t con ng\u01b0\u1eddi th\u00e0nh c\u00f4ng c\u1ee5. Anh tr\u1ed1n tr\u00e1nh v\u00ec anh kh\u00f4ng th\u1ec3 \u0111\u1ed1i m\u1eb7t v\u1edbi vi\u1ec7c m\u00ecnh \u0111\u00e3 l\u00e0m.'",
+    "fix": "Cut the explicit statements. End with the physical: C\u01b0\u1eddng sitting alone, hand on the wound, feeling the fifty-four beats per minute that aren't his. The reader has seen the video. The reader knows. Trust the reader. The silence after H\u1ea1nh leaves is more powerful than any internal monologue.",
+    "note": "The video reveal is genuinely gripping \u2014 the seizing patient, the climbing numbers, the realization of what '\u0111\u1ed5 b\u1ed9' actually costs someone. H\u1ea1nh's cold competence as an interrogator creates real tension. The chapter's central reversal (C\u01b0\u1eddng is not victim but perpetrator) is powerful. But the ending over-explains, deflating the tension that was so carefully built. A more restrained close would push this to an 8."
+  },
+  "three_weakest_sentences": [
+    "Anh c\u00f4 \u0111\u01a1n v\u00ec anh \u0111\u00e3 bi\u1ebfn m\u1ed9t con ng\u01b0\u1eddi th\u00e0nh c\u00f4ng c\u1ee5.",
+    "Anh tr\u1ed1n tr\u00e1nh v\u00ec anh kh\u00f4ng th\u1ec3 \u0111\u1ed1i m\u1eb7t v\u1edbi vi\u1ec7c m\u00ecnh \u0111\u00e3 l\u00e0m.",
+    "Anh qu\u00ean \u2014 k\u00fd \u1ee9c th\u1eadt b\u1ecb ghi \u0111\u00e8, s\u00e1u m\u01b0\u01a1i ph\u1ea7n tr\u0103m m\u1ea5t, t\u00ean \u0111\u01b0\u1eddng kh\u00f4ng nh\u1edb, m\u00f9a kh\u00f4ng ph\u00e2n bi\u1ec7t \u2014 v\u00ec n\u1ebfu anh nh\u1edb, anh s\u1ebd ph\u1ea3i nh\u1edb c\u1ea3 c\u00f4."
+  ],
+  "three_strongest_sentences": [
+    "Nh\u1ecbp tim tr\u00ean m\u00e0n h\u00ecnh: 152. 'Ng\u1eebng \u0111i,' C\u01b0\u1eddng th\u00ec th\u1ea7m. 'Ng\u1eebng.'",
+    "V\u1ebft x\u01b0\u1edbc pulsing \u2014 n\u0103m m\u01b0\u01a1i b\u1ed1n nh\u1ecbp m\u1ed9t ph\u00fat \u2014 n\u00f3ng r\u1ef1c d\u01b0\u1edbi l\u1edbp v\u1ea3i.",
+    "\u0110\u00f3 kh\u00f4ng ph\u1ea3i v\u1ebft b\u1ea7m c\u1ee7a anh. \u0110\u00f3 l\u00e0 v\u1ebft th\u01b0\u01a1ng c\u1ee7a c\u00f4 \u1ea5y."
+  ],
+  "ai_patterns_detected": [
+    "Successive declarative sentences explaining theme at chapter end ('Anh c\u00f4 \u0111\u01a1n v\u00ec... Anh tr\u1ed1n tr\u00e1nh v\u00ec... Anh qu\u00ean v\u00ec...') \u2014 classic AI pattern of moral summarization",
+    "Slight paragraph rhythm uniformity in the middle section \u2014 many paragraphs follow the same pattern of action \u2192 internal reaction \u2192 short punchy closer",
+    "The 'Anh bi\u1ebft. Anh lu\u00f4n bi\u1ebft. Anh ch\u1ec9 ch\u1ecdn kh\u00f4ng nh\u1edb.' construction is a rhetorical pattern that AI text often uses for emphasis but that feels manufactured"
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "prose_quality",
+  "top_3_revisions": [
+    "Cut the final two pages of internal monologue (from 'C\u01b0\u1eddng nh\u1eadn ra m\u00ecnh kh\u00f4ng ph\u1ea3i n\u1ea1n nh\u00e2n' onward). Replace with a single, physical moment: C\u01b0\u1eddng alone, hand on wound, counting the fifty-four beats that aren't his. End on the cold. Trust the scene to have done its work.",
+    "Strengthen C\u01b0\u1eddng's denial beat. Give him a real technical argument \u2014 'Server ri\u00eang, h\u1ec7 th\u1ed1ng \u0111\u00f3ng, kh\u00f4ng k\u1ebft n\u1ed1i v\u1edbi m\u1ea1ng b\u1ec7nh vi\u1ec7n' \u2014 and let H\u1ea1nh dismantle it with evidence rather than letting him collapse after one push.",
+    "Convert H\u1ea1nh's exposition about how the system works into interrogation. Make C\u01b0\u1eddng explain it himself under her questioning. She's an interrogator; she should be making him say the terrible things, not saying them for him."
+  ],
+  "new_canon_entries": [
+    "B\u1ec7nh nh\u00e2n 04-\u0110M: n\u1eef, 22 tu\u1ed5i, h\u00f4n m\u00ea do ch\u1ea5n th\u01b0\u01a1ng s\u1ecd n\u00e3o sau tai n\u1ea1n giao th\u00f4ng, b\u1ed1n n\u0103m, kh\u00f4ng c\u00f3 ng\u01b0\u1eddi th\u00e2n.",
+    "C\u01b0\u1eddng \u0111\u00e3 tr\u1ea3i qua 850 l\u1ea7n \u0111\u1ed5 b\u1ed9 (t\u0103ng t\u1eeb 847 \u1edf c\u00e1c ch\u01b0\u01a1ng tr\u01b0\u1edbc).",
+    "V\u1ebft x\u01b0\u1edbc tr\u00ean ng\u1ef1c C\u01b0\u1eddng \u0111\u00e3 ph\u00e1t tri\u1ec3n: d\u00e0i g\u1ea5p ba l\u1ea7n v\u1ebft b\u1ea7m ban \u0111\u1ea7u, ch\u1ea1y d\u1ecdc x\u01b0\u01a1ng s\u01b0\u1eddn tr\u00e1i, vi\u1ec1n \u0111\u1ecf th\u1eabm, trung t\u00e2m t\u00edm ng\u1eaft, nhi\u1ec7t \u0111\u1ed9 37.5\u00b0C.",
+    "Nh\u1ecbp 'b\u1ed1n m\u01b0\u01a1i' (t\u1eeb K\u1ebb \u0110u\u1ed5i) c\u00f3 th\u1ec3 t\u0103ng \u2014 l\u00ean \u0111\u1ebfn n\u0103m m\u01b0\u01a1i b\u1ed1n \u2014 khi C\u01b0\u1eddng x\u00fac \u0111\u1ed9ng ho\u1eb7c khi b\u1ec7nh nh\u00e2n ph\u1ea3n \u1ee9ng.",
+    "H\u1ea1nh \u0111\u00e3 th\u1ea9m v\u1ea5n C\u01b0\u1eddng \u00edt nh\u1ea5t ba l\u1ea7n (ch\u01b0\u01a1ng n\u00e0y l\u00e0 l\u1ea7n th\u1ee9 ba, hai l\u1ea7n tr\u01b0\u1edbc \u0111\u00e3 \u0111\u01b0\u1ee3c \u0111\u1ec1 c\u1eadp tr\u01b0\u1edbc \u0111\u00f3).",
+    "C\u01b0\u1eddng b\u1ecb \u0111\u01b0a v\u00e0o tr\u1ee5 s\u1edf C\u1ea3nh s\u00e1t Li\u00ean bang tr\u00ean \u0111\u01b0\u1eddng Liverpool \u0111\u1ec3 th\u1ea9m v\u1ea5n (kh\u00f4ng b\u1ecb b\u1eaft ch\u00ednh th\u1ee9c)."
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 24.43,
+    "sentence_length_cv": 0.977,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 7
+}

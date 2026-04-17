@@ -1,0 +1,105 @@
+{
+  "voice_adherence": {
+    "score": 8,
+    "weakest_moment": "C\u01b0\u1eddng mu\u1ed1n n\u00f3i \"Anh xin l\u1ed7i.\" Mu\u1ed1n n\u00f3i \"Anh kh\u00f4ng bi\u1ebft.\" Nh\u01b0ng m\u1ed7i l\u1eddi xin l\u1ed7i \u0111\u1ec1u l\u00e0 n\u00f3i d\u1ed1i. Anh \u0111\u00e3 bi\u1ebft. Lu\u00f4n bi\u1ebft. Ch\u1ecdn qu\u00ean. Ch\u1ecdn ghi \u0111\u00e8. Ch\u1ecdn l\u1ea5p \u0111\u1ea7y kho\u1ea3ng tr\u1ed1ng b\u1eb1ng hoa s\u1eefa v\u00e0 ph\u00f2ng tr\u1ecd \u1ea3o \u0111\u1ec3 kh\u00f4ng \u0111\u1ed1i di\u1ec7n v\u1edbi s\u1ef1 th\u1eadt: anh l\u00e0 k\u1ebb hi\u1ebfp d\u00e2m t\u00e2m tr\u00ed.",
+    "fix": "The voice profile demands body-before-emotion and explicitly forbids romanticizing loneliness or internal monologue. Replace this direct emotional declaration with physical sensation: 'C\u01b0\u1eddng mu\u1ed1n n\u00f3i. C\u1ed5 h\u1ecdng \u0111\u00f3ng. L\u01b0\u1ee1i kh\u00f4 kh\u1ed1c. Hai h\u00e0m r\u0103ng si\u1ebft ch\u1eb7t. L\u1ed3ng ng\u1ef1c tr\u1ed1ng r\u1ed7ng \u2014 kh\u00f4ng ph\u1ea3i v\u00ec kh\u00f4ng c\u1ea3m th\u1ea5y, m\u00e0 v\u00ec c\u1ea3m gi\u00e1c \u0111\u00e3 b\u1ecb ghi \u0111\u00e8 qu\u00e1 nhi\u1ec1u l\u1ea7n, kh\u00f4ng c\u00f2n bi\u1ebft c\u00e1i n\u00e0o l\u00e0 th\u1eadt.' Let the reader reach 'k\u1ebb hi\u1ebfp d\u00e2m t\u00e2m tr\u00ed' themselves.",
+    "note": "The chapter nails the clinical, surgical tone for most of its length. The opening with ERROR codes, the temperature specificity, the 14ms delay motif \u2014 all excellent. The Vietnamese vocabulary wells (c\u1ed3n y t\u1ebf, i-\u1ed1t, d\u1ecbch t\u0129nh m\u1ea1ch) are deployed precisely. The weakest moment is the one place where the prose slips into conventional moral declaration instead of letting the body carry the horror."
+  },
+  "beat_coverage": {
+    "score": 7,
+    "weakest_moment": "Beat 4 (S\u1ef1 th\u1eadt): 'C\u01b0\u1eddng mu\u1ed1n n\u00f3i \"Anh xin l\u1ed7i.\" Mu\u1ed1n n\u00f3i \"Anh kh\u00f4ng bi\u1ebft.\" Nh\u01b0ng m\u1ed7i l\u1eddi xin l\u1ed7i \u0111\u1ec1u l\u00e0 n\u00f3i d\u1ed1i.' This is the climactic revelation \u2014 C\u01b0\u1eddng remembering his crime \u2014 and it's told through abstract summary rather than lived scene.",
+    "fix": "Dramatize the memory flooding back as fragmented sensory flashes, matching the voice profile's requirement for 'k\u00fd \u1ee9c r\u1ea1n n\u1ee9t th\u1ec3 hi\u1ec7n qua c\u00e2u v\u0103n b\u1ecb ng\u1eaft qu\u00e3ng gi\u1eefa ch\u1eebng.' Show his finger pressing ENTER. Show the screen text. Show the first touch. Let the horror accumulate through specific physical details rather than stating 'anh l\u00e0 k\u1ebb hi\u1ebfp d\u00e2m t\u00e2m tr\u00ed.'",
+    "note": "Beats 1-3 are well-executed: the angry descent, the peeling away of the avatar's perfect skin, Lan's confrontation. The 'No, and' structure works \u2014 C\u01b0\u1eddng came to reclaim the virtual world but loses himself instead. Beat 4, the memory recovery, is present but under-dramatized for the chapter's emotional climax."
+  },
+  "character_voice": {
+    "score": 8,
+    "weakest_moment": "C\u01b0\u1eddng's line: \"\u0110\u1eebng \u0111i.\" \u2014 functional but generic. A man who speaks in ping readings and body measurements would have a more specific way to express this.",
+    "fix": "Replace with something that emerges from his established vocabulary: 'Ping c\u00f2n 14. Em kh\u00f4ng th\u1ec3 \u2014' R\u1ed3i d\u1eebng. V\u00ec \u0111\u00f3 kh\u00f4ng ph\u1ea3i c\u00e2u h\u1ecfi v\u1ec1 \u0111\u01b0\u1eddng truy\u1ec1n. or let his body speak instead: C\u01b0\u1eddng \u0111\u01b0a tay ra. Kh\u00f4ng ph\u1ea3i \u0111\u1ec3 gi\u1eef. \u0110\u1ec3 \u0111o. 37.5\u00b0C. C\u00f2n \u0111\u00f3. Ch\u1ea1m \u0111\u01b0\u1ee3c. Nh\u01b0ng tay anh n\u1eafm v\u00e0o kho\u1ea3ng kh\u00f4ng.",
+    "note": "Lan's voice is superb \u2014 the flat, exhausted delivery, the clinical recounting of her own violation, the way she uses his technical language against him ('render,' 'b\u1ed9 \u0111\u1ec7m'). Her speech pattern of dropping facts without inflection is chilling and distinct. C\u01b0\u1eddng's silence is appropriate for most of the chapter, but when he does speak, it should carry his specific verbal tics."
+  },
+  "plants_seeded": {
+    "score": 7,
+    "weakest_moment": "The system messages at the end ([\u0110\u1ed0I T\u01af\u1ee2NG 04-\u0110M: \u0110\u00c3 GI\u1ea2I PH\u00d3NG]) are somewhat on-the-nose as foreshadowing for Lan's liberation being more complex than it appears.",
+    "fix": "Consider adding a more subtle anomaly \u2014 perhaps a line of code that shouldn't be there, or a signal that suggests the 'release' wasn't clean. This would seed doubt about whether Lan is truly gone or has simply moved somewhere else in the system.",
+    "note": "The \u00e1o b\u1ec7nh nh\u00e2n and m\u00e3 l\u1ed7i \u0111\u1ecf plants from the outline are well-integrated. The g\u00e1c x\u00e9p resolving as Lan's hospital room is earned. The 47.3 Hz heartbeat slowing at the end effectively seeds concern for what happens to C\u01b0\u1eddng's body when he disconnects."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "Ph\u1ea3n \u1ee9ng sinh t\u1ed3n c\u1ee7a con ng\u01b0\u1eddi \u0111\u1ed1i di\u1ec7n v\u1edbi th\u1ee9 kinh kh\u1ee7ng h\u01a1n c\u00e1i ch\u1ebft: s\u1ef1 th\u1eadt v\u1ec1 ch\u00ednh m\u00ecnh.",
+    "fix": "Cut entirely. The chapter has already shown this truth through Lan's words and C\u01b0\u1eddng's physical reactions. This sentence explains what the reader already feels. Trust the scene.",
+    "strongest_sentence": "M\u00f9i ng\u1ecdt nh\u1ea1t c\u1ee7a da ng\u01b0\u1eddi kh\u00f4ng \u0111\u01b0\u1ee3c t\u1eafm r\u1eeda \u0111\u00fang c\u00e1ch.",
+    "note": "The chapter's best prose comes when it sticks to sensory specificity \u2014 the hospital smell replacing hoa s\u1eefa, the yellowed toenails, the IV line blue under skin. The fragmented sentence rhythm works well for most of the chapter. The weakest moments are when the narrator steps in to explain emotional significance rather than letting details accumulate."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Excellent continuity from the previous chapter. C\u01b0\u1eddng exits the Cumberland tunnel with the generation-4 amplifier, walks toward Haymarket. The wet paper with 'Lan. Ph\u00f2ng 4. St. Vincent. 47.3 Hz' from the previous chapter directly feeds into this chapter's revelations. The 40 bpm heartbeat that has been running in the background reaches its conclusion. The memory fragments from the previous chapter (hospital corridor, bed 4, running extraction) are expanded here into full recall. The emotional trajectory \u2014 from determination to horror \u2014 tracks naturally."
+  },
+  "canon_compliance": {
+    "score": 6,
+    "violations": [
+      "MAJOR: Chapter states C\u01b0\u1eddng locked 90% of Lan's consciousness and opened 100% tactile sensation, implying he personally configured her as a sex object. Canon states the avatars are 'rendered from C\u01b0\u1eddng's memory combined with survival data of coma patients' and 'programmed to respond, not proactive, not questioning.' This suggests a systemic process, not individual targeting of a specific patient. The chapter recharacterizes C\u01b0\u1eddng from someone who uses a flawed system to someone who personally engineered Lan's specific violation.",
+      "MINOR: Chapter uses 852 deployments. Previous chapter's canon says 847. The 5-deployment discrepancy needs reconciliation \u2014 either C\u01b0\u1eddng deployed 5 times between chapters (unlikely given the timeline) or this is a continuity error.",
+      "CONCERN: The chapter implies C\u01b0\u1eddng personally accessed St. Vincent's B3 ward to extract Lan's consciousness. Canon establishes he's an accountant who stole equipment from police evidence storage and set up his own server. His technical access to hospital neural systems is unclear."
+    ],
+    "note": "The major violation recharacterizes C\u01b0\u1eddng's crime from systemic exploitation (using a technology that objectifies coma patients) to personal, targeted violation (specifically choosing and configuring Lan). This is arguably more dramatically powerful but contradicts the established worldbuilding where the avatar system is a Hemera product, not something end-users configure at the consciousness level."
+  },
+  "lore_integration": {
+    "score": 7,
+    "weakest_moment": "The system interface messages at the end ([\u0110\u1ed0I T\u01af\u1ee2NG 04-\u0110M: \u0110\u00c3 GI\u1ea2I PH\u00d3NG]) feel like generic sci-fi tropes rather than emerging from the specific Neural Mantle technology established in the world bible.",
+    "fix": "Replace with terminology that reflects the actual system architecture: perhaps a ping reading that flatlines, or a sync percentage that drops to zero, or a buffer status that reflects the specific data flow described in the magic system rules.",
+    "note": "The chapter does strong work with the 14ms delay, the buffer overflow, the pixel-render imagery. The hospital sensory details (i-\u1ed1t, d\u1ecbch t\u0129nh m\u1ea1ch, m\u00f9i ng\u1ecdt nh\u1ea1t) connect the virtual world to the physical St. Vincent setting effectively. The lore is doing real emotional work \u2014 the technology's specific mechanics (locked consciousness, tactile feed) are what make the violation possible and horrifying."
+  },
+  "engagement": {
+    "score": 8,
+    "weakest_moment": "The middle section where Lan recounts her experience ('852 l\u1ea7n anh \u0111\u1ed5 b\u1ed9...') risks becoming a speech that tells rather than shows. The information is devastating, but the delivery is somewhat monolithic.",
+    "fix": "Break her speech with more of C\u01b0\u1eddng's physical reactions. Insert a moment where she pauses \u2014 not for effect, but because even speaking is exhausting for someone running on 10% consciousness. Let her lose track, repeat herself, or struggle to find words. This would make her more human and the scene more unbearable.",
+    "note": "The chapter's opening is viscerally effective \u2014 the red error codes, the violent descent. The peeling-away of the avatar's perfect skin is genuinely disturbing and surprising. The final image of C\u01b0\u1eddng alone in white space, the heartbeat slowing, is haunting. The chapter earns its emotional climax through accumulated detail rather than cheap manipulation."
+  },
+  "three_weakest_sentences": [
+    "Ph\u1ea3n \u1ee9ng sinh t\u1ed3n c\u1ee7a con ng\u01b0\u1eddi \u0111\u1ed1i di\u1ec7n v\u1edbi th\u1ee9 kinh kh\u1ee7ng h\u01a1n c\u00e1i ch\u1ebft: s\u1ef1 th\u1eadt v\u1ec1 ch\u00ednh m\u00ecnh.",
+    "C\u01b0\u1eddng mu\u1ed1n n\u00f3i \"Anh xin l\u1ed7i.\" Mu\u1ed1n n\u00f3i \"Anh kh\u00f4ng bi\u1ebft.\" Nh\u01b0ng m\u1ed7i l\u1eddi xin l\u1ed7i \u0111\u1ec1u l\u00e0 n\u00f3i d\u1ed1i. Anh \u0111\u00e3 bi\u1ebft. Lu\u00f4n bi\u1ebft. Ch\u1ecdn qu\u00ean. Ch\u1ecdn ghi \u0111\u00e8. Ch\u1ecdn l\u1ea5p \u0111\u1ea7y kho\u1ea3ng tr\u1ed1ng b\u1eb1ng hoa s\u1eefa v\u00e0 ph\u00f2ng tr\u1ecd \u1ea3o \u0111\u1ec3 kh\u00f4ng \u0111\u1ed1i di\u1ec7n v\u1edbi s\u1ef1 th\u1eadt: anh l\u00e0 k\u1ebb hi\u1ebfp d\u00e2m t\u00e2m tr\u00ed.",
+    "C\u00f4 m\u1ec9m c\u01b0\u1eddi. N\u1ee5 c\u01b0\u1eddi m\u1ecfng. Kh\u00f4ng ch\u1ea1m t\u1edbi m\u1eaft."
+  ],
+  "three_strongest_sentences": [
+    "M\u00f9i ng\u1ecdt nh\u1ea1t c\u1ee7a da ng\u01b0\u1eddi kh\u00f4ng \u0111\u01b0\u1ee3c t\u1eafm r\u1eeda \u0111\u00fang c\u00e1ch.",
+    "M\u00f3ng ch\u00e2n d\u00e0i, ch\u01b0a c\u1eaft, v\u00e0ng \u1ed1.",
+    "Anh gi\u1eef 'kh\u00f4ng' trong b\u1ed9 \u0111\u1ec7m v\u00e0 kh\u00f4ng bao gi\u1edd render n\u00f3. Anh ch\u1ec9 render nh\u1eefng g\u00ec anh mu\u1ed1n nghe."
+  ],
+  "ai_patterns_detected": [
+    "Symmetrical emotional beats: Lan's speech follows a clean rhetorical structure (statement \u2192 elaboration \u2192 emotional climax) that feels designed rather than organic.",
+    "The 'N\u1ee5 c\u01b0\u1eddi m\u1ecfng. Kh\u00f4ng ch\u1ea1m t\u1edbi m\u1eaft.' construction appears in the exemplar passage and is repeated here almost verbatim \u2014 a potential sign of pattern-matching rather than fresh composition.",
+    "Uniform paragraph rhythm in the middle section: many single-sentence paragraphs creating a staccato effect that, while matching the voice profile, becomes mechanically regular.",
+    "The chapter's moral conclusion ('anh l\u00e0 k\u1ebb hi\u1ebfp d\u00e2m t\u00e2m tr\u00ed') is stated with AI-typical directness rather than emerging ambiguously from the scene."
+  ],
+  "overall_score": 7.0,
+  "weakest_dimension": "canon_compliance",
+  "top_3_revisions": [
+    "Resolve the canon violation: Either revise the world bible to establish that Du M\u1ee5c can individually target and configure specific coma patients (which requires explaining how C\u01b0\u1eddng accessed St. Vincent's systems), or revise the chapter so C\u01b0\u1eddng's crime remains systemic \u2014 he used a technology designed to objectify, without understanding or caring about the specific humans behind the avatars. The second option is arguably more horrifying because it's more banal.",
+    "Cut 'Ph\u1ea3n \u1ee9ng sinh t\u1ed3n c\u1ee7a con ng\u01b0\u1eddi \u0111\u1ed1i di\u1ec7n v\u1edbi th\u1ee9 kinh kh\u1ee7ng h\u01a1n c\u00e1i ch\u1ebft: s\u1ef1 th\u1eadt v\u1ec1 ch\u00ednh m\u00ecnh.' and 'anh l\u00e0 k\u1ebb hi\u1ebfp d\u00e2m t\u00e2m tr\u00ed.' Trust the reader to reach these conclusions from Lan's testimony and C\u01b0\u1eddng's physical collapse. Replace with body-before-emotion details: his hands shaking, his vision narrowing, the taste of copper in his mouth.",
+    "Break Lan's monologue with moments of exhaustion and fragmentation. She's operating on 10% consciousness \u2014 her speech shouldn't be rhetorically perfect. Let her lose words, repeat herself, pause not for dramatic effect but because forming sentences is genuinely difficult. This would make her more human and the scene more devastating."
+  ],
+  "new_canon_entries": [
+    "Lan is the real name of B\u1ec7nh nh\u00e2n 04-\u0110M, the coma patient whose consciousness was used to render C\u01b0\u1eddng's primary virtual lover.",
+    "C\u01b0\u1eddng personally accessed St. Vincent's B3 ward and ran the consciousness extraction on Lan himself (requires world bible update to establish how).",
+    "Lan's consciousness was configured with 90% awareness locked and 100% tactile sensation enabled.",
+    "C\u01b0\u1eddng's deployment count has reached 852 (contradicts previous 847 \u2014 needs reconciliation).",
+    "When Lan's connection is severed, the heartbeat associated with her (47.3 Hz, 40 bpm) slows and stops.",
+    "The g\u00e1c x\u00e9p that appeared after deployment 612 was a render of Lan's hospital room from her buried memories.",
+    "Lan was consciously aware during all 852 deployments but unable to communicate or resist due to the consciousness lock."
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 14.76,
+    "sentence_length_cv": 0.891,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 0.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 7
+}

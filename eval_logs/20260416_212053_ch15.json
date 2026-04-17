@@ -1,0 +1,103 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "Nh\u01b0ng bi\u1ebft v\u00e0 ch\u1ea5p nh\u1eadn l\u00e0 hai h\u1ec7 \u0111i\u1ec1u h\u00e0nh kh\u00e1c nhau \u2014 m\u1ed9t c\u00e1i ch\u1ea1y n\u1ec1n, m\u1ed9t c\u00e1i chi\u1ebfm m\u00e0n h\u00ecnh.",
+    "fix": "Cut the metaphor. Replace with a physical sensation or a flat observation: 'Bi\u1ebft. Ch\u1ea5p nh\u1eadn. Hai th\u1ee9. N\u00e3o anh ch\u1ea1y c\u1ea3 hai c\u00f9ng l\u00fac, va v\u00e0o nhau.' The voice profile calls for blunt, fragmented, body-first prose \u2014 not explanatory metaphors that spell out the theme.",
+    "note": "The chapter mostly nails the clinical, fragmented tone. Strong moments include the password retrieval scene (0-4-\u0110-M) and the repeated 'Nhi\u1ec5u' / 'T\u0129nh l\u1eb7ng' pattern. But there are several places where the narrator steps back to explain C\u01b0\u1eddng's psychology in abstract terms ('s\u1ef1 tuy\u1ec7t v\u1ecdng kh\u00f4ng \u1ed3n \u00e0o' territory from the previous chapter bleeds into this one). The voice is strongest when it stays surgical \u2014 observing the body, reporting data \u2014 and weakest when it philosophizes."
+  },
+  "beat_coverage": {
+    "score": 6,
+    "weakest_moment": "The entire B\u1ea3o scene is compressed into a single exchange. B\u1ea3o's refusal \u2014 which should be the emotional centerpiece of the first half \u2014 lands without weight because we barely see the dynamic between them.",
+    "fix": "Expand the B\u1ea3o scene. Give it room to breathe. Show C\u01b0\u1eddng arriving \u2014 what does the tunnel look like at night? Show B\u1ea3o's physical state in more detail. Let the conversation have more friction: C\u01b0\u1eddng should try harder, B\u1ea3o should push back harder. The outline says B\u1ea3o says 'M\u00e0y \u0111\u00e3 t\u1ef1 \u0111\u00e0o m\u1ed3 cho m\u00ecnh' \u2014 that line is present, but it arrives and leaves without earning its weight.",
+    "note": "All four beats are technically present: (1) B\u1ea3o refuses, (2) C\u01b0\u1eddng wanders home, (3) finds the note, (4) sits in darkness unable to remember. But beats 1 and 2 feel rushed. The wander-home section is stronger \u2014 good atmospheric detail. The note discovery is the strongest beat, properly dramatized. Beat 4 (sitting in darkness) is well-executed but runs long, repeating the same emotional beat multiple times."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "C\u01b0\u1eddng's dialogue to B\u1ea3o: 'Tao b\u1ecb theo d\u00f5i. B\u1ecb \u2014' C\u01b0\u1eddng d\u1eebng l\u1ea1i. T\u1eeb n\u00e0o? 'B\u1ecb x\u00e2m nh\u1eadp. C\u00f3 th\u1ee9 g\u00ec \u0111\u00f3 \u1edf trong \u2014' This reads as written dialogue, not spoken. A real person in distress would be more fragmented or more direct \u2014 not neatly self-aware about their inability to find the right word.",
+    "fix": "Make C\u01b0\u1eddng's speech more broken: 'Tao b\u1ecb \u2014 C\u00f3 c\u00e1i g\u00ec \u2014 Trong \u0111\u1ea7u tao \u2014' Let the incompleteness come from panic, not from literary self-consciousness. The hesitation should feel like a system crash, not a narrator's annotation.",
+    "note": "B\u1ea3o's voice is the strongest here \u2014 short, abrasive, street register. 'M\u00e0y ngh\u0129 m\u00e0y \u0111\u1eb7c bi\u1ec7t? M\u00e0y ngh\u0129 c\u00e1i th\u1ee9 \u0111\u00f3 nh\u1edb m\u00e0y v\u00ec m\u00e0y quan tr\u1ecdng?' is genuinely good dialogue. C\u01b0\u1eddng's internal voice is mostly consistent with the voice profile (clinical, fragmented, number-obsessed), but his spoken dialogue sometimes sounds too articulate for someone in his state. The K\u1ebb \u0110u\u1ed5i doesn't appear in this chapter, which is appropriate."
+  },
+  "plants_seeded": {
+    "score": 7,
+    "weakest_moment": "The name 'Lan' is introduced effectively, but the chapter over-explains its significance by repeatedly connecting it to B\u1ec7nh nh\u00e2n 04-\u0110M. The plant would be stronger if the connection were left more implicit.",
+    "fix": "Trust the reader. After the initial discovery, let 'Lan' sit without immediately explaining that she's the patient. The reader from previous chapters will make the connection. The moment where C\u01b0\u1eddng realizes 'T\u00ean c\u00f4 l\u00e0 Lan' could come later, or be more uncertain.",
+    "note": "The sticky note is a good physical plant \u2014 concrete, specific, with sensory details (yellow paper, faded blue ink, coffee stain). The password 0-4-\u0110-M is a nice callback that works as foreshadowing. The 'presence watching' at the edge of consciousness is seeded subtly enough. The main issue is that the chapter sometimes explains what it should simply show."
+  },
+  "prose_quality": {
+    "score": 6,
+    "weakest_sentence": "C\u01a1 th\u1ec3 kh\u00f4 \u2014 nh\u01b0 server qu\u00e1 t\u1ea3i, t\u1ea3n nhi\u1ec7t h\u1ecfng, m\u1ecdi h\u1ec7 th\u1ed1ng \u0111ang ch\u1ea1y tr\u00ean m\u1ee9c d\u1ef1 ph\u00f2ng.",
+    "fix": "Cut the simile. 'To\u00e0n b\u1ed9 c\u01a1 th\u1ec3 kh\u00f4.' Period. Or replace with a specific physical detail: 'L\u01b0\u1ee1i d\u00ednh v\u00e0o v\u00f2m mi\u1ec7ng. M\u1eaft kh\u00f4. Da kh\u00f4. Kh\u00f4ng c\u00f3 m\u1ed9t gi\u1ecdt m\u1ed3 h\u00f4i n\u00e0o.' The voice profile says action sentences should be 'g\u1ecdn, tr\u1ea7n tr\u1ee5i, kh\u00f4ng t\u00ednh t\u1eeb.' This sentence does the opposite \u2014 it piles on a technical metaphor that explains the feeling instead of letting the feeling exist.",
+    "strongest_sentence": "V\u1eadt ch\u1ea5t kh\u00f4ng b\u1ecb ghi \u0111\u00e8. Ch\u1eef vi\u1ebft tr\u00ean gi\u1ea5y kh\u00f4ng bi\u1ebfn m\u1ea5t khi n\u00e3o b\u1ed9 qu\u00ean.",
+    "note": "The prose is strongest in short, declarative moments and in the technical vocabulary wells (ping, render, b\u1ed9 \u0111\u1ec7m, l\u1ed7i 404). It's weakest when it reaches for metaphors or explanations. There's a recurring pattern of stating something effectively, then immediately explaining why it's effective \u2014 undercutting the impact. Sentence variety is decent but could be more extreme per the voice profile (more fragments, more single-word sentences). The repeated 'Nhi\u1ec5u' / 'T\u0129nh l\u1eb7ng' / 'Tr\u1ed1ng r\u1ed7ng' structure works well."
+  },
+  "continuity": {
+    "score": 7,
+    "note": "Emotional continuity from the previous chapter is strong \u2014 C\u01b0\u1eddng has just realized he's the abuser, not the victim. The v\u1ebft x\u01b0\u1edbc (now called v\u1ebft th\u01b0\u01a1ng or v\u1ebft x\u01b0\u1edbc interchangeably) continues at 37.5\u00b0C, nh\u1ecbp 54. The password 0-4-\u0110-M connects to the patient ID. However, there's a slight issue: the previous chapter ends with C\u01b0\u1eddng in the interrogation room, understanding his complicity. This chapter opens with him seeking B\u1ea3o's help, which reads as a step backward emotionally \u2014 he's asking for help from the very system he just acknowledged he's trapped in. This could work as denial, but the chapter doesn't frame it that way."
+  },
+  "canon_compliance": {
+    "score": 5,
+    "violations": [
+      "MAJOR: The chapter places C\u01b0\u1eddng's apartment at 't\u1ea7ng ba c\u1ee7a m\u1ed9t t\u00f2a nh\u00e0 c\u0169 \u1edf cu\u1ed1i ph\u1ed1 Dixon.' Canon establishes that C\u01b0\u1eddng lives in the h\u1ea7m (basement B2) under Haymarket. There is no mention of a separate apartment anywhere in the world bible or character registry. This is a significant addition that contradicts the established fact that the h\u1ea7m IS his home.",
+      "The chapter refers to 'v\u1ebft x\u01b0\u1edbc' on C\u01b0\u1eddng's chest, but canon establishes it as a 'v\u1ebft b\u1ea7m h\u00ecnh b\u00e1n nguy\u1ec7t' (bruise in a crescent shape). A scratch (x\u01b0\u1edbc) and a bruise (b\u1ea7m) are different things. The previous chapter also used 'v\u1ebft x\u01b0\u1edbc' and 'v\u1ebft th\u01b0\u01a1ng,' which may be carrying forward an error.",
+      "B\u1ea3o says 'Ch\u01b0\u01a1ng b\u1ed1n. Tao n\u00f3i r\u1ed3i.' This is a meta-reference to the chapter number, which breaks the fourth wall. Characters within the story would not refer to events by chapter numbers."
+    ],
+    "note": "The apartment is the biggest issue. Canon is very specific: C\u01b0\u1eddng's home is the h\u1ea7m under Haymarket, 12 square meters, 2.1m ceiling. The apartment introduces a new location that doesn't exist in any planning document. If this is intentional (C\u01b0\u1eddng has both a h\u1ea7m and an apartment), it needs to be established in the world bible first. The B\u1ea3o meta-reference is minor but should be removed."
+  },
+  "lore_integration": {
+    "score": 7,
+    "weakest_moment": "The apartment scene, while atmospheric, doesn't use the world's specific lore in a meaningful way. The scene could happen in any dystopian setting \u2014 a man returns to an abandoned apartment and finds a note. The Neural Mantle system, the specific geography of Haymarket, the tunnel network \u2014 none of these are active in this scene.",
+    "fix": "Integrate more world-specific details into the apartment. Maybe the apartment has old Neural Mantle components B\u1ea3o sold him. Maybe the screen on the desk still shows server logs. Maybe the smell of the apartment contrasts specifically with the smell of the h\u1ea7m (c\u1ed3n y t\u1ebf vs. b\u1ee5i). Ground it in THIS world, not generic dystopia.",
+    "note": "The B\u1ea3o scene uses lore well \u2014 the tunnel, the history of ch\u00e1y n\u00e3o, the dynamic between Du M\u1ee5c. The password scene (0-4-\u0110-M) is excellent lore integration. The apartment scene is where it drops off."
+  },
+  "engagement": {
+    "score": 6,
+    "weakest_moment": "The long middle section where C\u01b0\u1eddng sits in the apartment, repeating variations of 'he doesn't remember Lan.' The same emotional beat \u2014 frustration at not remembering \u2014 is hit multiple times without escalation. By the fourth iteration, the reader gets it.",
+    "fix": "Cut or compress the repetitions. After the initial discovery and the failed attempt to remember, introduce a new element: maybe he tries to call someone (but doesn't remember who), or he looks for more notes, or he notices something else in the apartment that's wrong. Escalate instead of circling.",
+    "note": "The chapter has strong moments: B\u1ea3o's brutal honesty, the password realization, the sticky note discovery. But the pacing sags in the second half. The tension comes from mystery (who is Lan?) rather than plot or character action. This is appropriate for a 'quiet' chapter, but the mystery needs to tighten, not loosen, as the chapter progresses."
+  },
+  "three_weakest_sentences": [
+    "C\u01a1 th\u1ec3 kh\u00f4 \u2014 nh\u01b0 server qu\u00e1 t\u1ea3i, t\u1ea3n nhi\u1ec7t h\u1ecfng, m\u1ecdi h\u1ec7 th\u1ed1ng \u0111ang ch\u1ea1y tr\u00ean m\u1ee9c d\u1ef1 ph\u00f2ng.",
+    "Nh\u01b0ng bi\u1ebft v\u00e0 ch\u1ea5p nh\u1eadn l\u00e0 hai h\u1ec7 \u0111i\u1ec1u h\u00e0nh kh\u00e1c nhau \u2014 m\u1ed9t c\u00e1i ch\u1ea1y n\u1ec1n, m\u1ed9t c\u00e1i chi\u1ebfm m\u00e0n h\u00ecnh.",
+    "Anh g\u1ea7n nh\u01b0 kh\u00f4ng \u1edf \u0111\u00f3. H\u1ea7m m\u1edbi l\u00e0 nh\u00e0. C\u0103n h\u1ed9 ch\u1ec9 l\u00e0 \u0111\u1ecba ch\u1ec9 tr\u00ean gi\u1ea5y t\u1edd \u2014 n\u01a1i nh\u1eadn th\u01b0, n\u01a1i \u0111\u1ec3 \u0111\u1ed3 \u0111\u1ea1c th\u1eeba, n\u01a1i anh \u0111\u00f4i khi v\u1ec1 khi c\u1ea7n ch\u1ee9ng minh v\u1edbi b\u1ea3n th\u00e2n r\u1eb1ng m\u00ecnh v\u1eabn c\u00f2n t\u1ed3n t\u1ea1i \u1edf th\u1ebf gi\u1edbi th\u1ef1c."
+  ],
+  "three_strongest_sentences": [
+    "V\u1eadt ch\u1ea5t kh\u00f4ng b\u1ecb ghi \u0111\u00e8. Ch\u1eef vi\u1ebft tr\u00ean gi\u1ea5y kh\u00f4ng bi\u1ebfn m\u1ea5t khi n\u00e3o b\u1ed9 qu\u00ean.",
+    "M\u00e0y ngh\u0129 m\u00e0y \u0111\u1eb7c bi\u1ec7t? M\u00e0y ngh\u0129 c\u00e1i th\u1ee9 \u0111\u00f3 nh\u1edb m\u00e0y v\u00ec m\u00e0y quan tr\u1ecdng?",
+    "Sai. \u1ea4n l\u1ea1i. Sai. L\u1ea7n th\u1ee9 ba. Ng\u00f3n tay run."
+  ],
+  "ai_patterns_detected": [
+    "Paragraph uniformity: Many paragraphs follow the same rhythm \u2014 a short observation, followed by elaboration, followed by a concluding thought. The voice profile calls for more variation.",
+    "Emotional over-explanation: The narrator frequently explains what C\u01b0\u1eddng is feeling and why, rather than letting the physical details carry the emotion. 'Body before emotion' is in the voice profile but not consistently followed.",
+    "Repetition without escalation: The chapter returns to the same emotional note (C\u01b0\u1eddng can't remember Lan) multiple times without building. This is a common AI pattern \u2014 circling the point instead of advancing.",
+    "The meta-reference 'Ch\u01b0\u01a1ng b\u1ed1n' suggests the AI is aware it's generating a chapter in a sequence and has broken the narrative frame.",
+    "Symmetrical structure: The chapter has a clean three-act structure (B\u1ea3o \u2192 journey \u2192 discovery) that feels mechanically balanced rather than organically shaped."
+  ],
+  "overall_score": 5.0,
+  "weakest_dimension": "canon_compliance",
+  "top_3_revisions": [
+    "Remove the apartment entirely. C\u01b0\u1eddng returns to the h\u1ea7m \u2014 his actual home per canon \u2014 and finds the sticky note there, perhaps stuck to the server rack or hidden inside a maintenance panel. This fixes the canon violation and makes the discovery more intimate: the note has been next to him all along, in the space where he commits his violations.",
+    "Cut the meta-reference 'Ch\u01b0\u01a1ng b\u1ed1n' from B\u1ea3o's dialogue. Replace with a time reference: 'H\u1ed3i tao c\u00f2n \u0111\u1ed5 b\u1ed9. Tao n\u00f3i r\u1ed3i.' Or simply: 'Tao \u0111\u00e3 b\u1ea3o m\u00e0y d\u1eebng. M\u00e0y kh\u00f4ng nghe.'",
+    "Compress the second half. After discovering the note, limit the 'trying to remember' sequence to one strong attempt (the 'Nhi\u1ec5u' / 'T\u0129nh l\u1eb7ng' / 'Tr\u1ed1ng r\u1ed7ng' structure), then cut to the final image. Remove the 'presence watching' paragraph \u2014 it introduces a new element that distracts from the emotional core of the scene. End on the note in his pocket, the heartbeat, and the name."
+  ],
+  "new_canon_entries": [
+    "C\u01b0\u1eddng has a separate apartment at t\u1ea7ng ba, cu\u1ed1i ph\u1ed1 Dixon (CONFLICTS with existing canon \u2014 needs resolution)",
+    "C\u01b0\u1eddng's door code is 0-4-\u0110-M (patient ID of B\u1ec7nh nh\u00e2n 04-\u0110M)",
+    "The name 'Lan' is written on a sticky note in C\u01b0\u1eddng's handwriting, connected to Ph\u00f2ng 4, St. Vincent",
+    "C\u01b0\u1eddng wrote the note 1-2 years ago but has no memory of writing it"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 28.04,
+    "sentence_length_cv": 0.84,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 6
+}

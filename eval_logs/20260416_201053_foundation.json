@@ -1,0 +1,100 @@
+{
+  "magic_system": {
+    "score": 9,
+    "gap": "The climactic resolution relies on C\u01b0\u1eddng using 'k\u1ef9 n\u0103ng k\u1ebf to\u00e1n' to 'qu\u00e1 t\u1ea3i c\u00e1c giao d\u1ecbch d\u1eef li\u1ec7u' \u2014 this is the one moment where the hard rules bend into vagueness. The document doesn't specify what an accounting-based exploit looks like in a neural signal architecture.",
+    "fix": "Define one concrete exploit: e.g., C\u01b0\u1eddng floods the server's memory allocation by generating thousands of redundant sensory loops (like double-entry bookkeeping errors), each consuming buffer space until the system crashes. This keeps the resolution within established rules.",
+    "note": "Otherwise exceptional. Three hard rules with escalating costs, each directly driving plot. The ping/latency rule is particularly elegant \u2014 it's both a technical constraint and a metaphor for emotional distance. Societal implications are explored through Article 47B, the Du M\u1ee5c underclass, and the Hemera profit motive. Testable across all three required scenes."
+  },
+  "world_history": {
+    "score": 9,
+    "gap": "The 2033 'Li\u1ec7u ph\u00e1p Gi\u1ea5c m\u01a1' expansion and the 2036-38 black market formation lack specific named events or incidents that could serve as flashback material or character-defining moments.",
+    "fix": "Add 1-2 specific incidents: e.g., the first black market arrest (which could be someone B\u1ea3o knew), or a specific protest/lawsuit after the 2035 incident that led to Article 47B's passage.",
+    "note": "Every historical event maps to present tension: 2031 tech \u2192 C\u01b0\u1eddng's addiction; 2035 incident \u2192 H\u1ea1nh's trauma and the Gi\u00e1m \u0111\u1ed1c's guilt; 2036-38 black market \u2192 B\u1ea3o's backstory; 2039 theft \u2192 C\u01b0\u1eddng's current situation. No decorative history detected."
+  },
+  "geography_and_culture": {
+    "score": 9,
+    "gap": "The Vietnamese cultural specificity is strong in the virtual world but thin in the real-world Sydney setting \u2014 we don't know how the Vietnamese diaspora community in Haymarket relates to C\u01b0\u1eddng's isolation or the neural black market.",
+    "fix": "Add 2-3 details about the Haymarket Vietnamese community's relationship to the neural underground: do they protect Du M\u1ee5c? Exploit them? Are there specific restaurants or shops that serve as fronts? This would ground C\u01b0\u1eddng's alienation in cultural displacement.",
+    "note": "Sensory signatures are exceptional \u2014 each location has distinct smell, light, and texture. The contrast between the sterile real world and the sensory-rich virtual world is thematically deliberate. Cultural details like 'ng\u01b0\u1eddi n\u1eb1m' slang, the barista's single phrase, and B\u00e0 L\u00e0nh's Southern Vietnamese speech patterns feel authentic."
+  },
+  "lore_interconnection": {
+    "score": 9,
+    "gap": "Removing the magic system would collapse the political structure (Hemera's revenue, Article 47B, the police unit) but the class tensions between Du M\u1ee5c and mainstream society might survive \u2014 suggesting the economic layer could be slightly more developed independent of the technology.",
+    "fix": "Add one detail about pre-Neural Mantle inequality in Sydney that the technology exacerbated rather than created \u2014 e.g., the Cumberland tunnels were already homeless shelters before the neural black market moved in.",
+    "note": "Interconnection is remarkably strong. The technology creates: a corporate villain (Hemera), a legal framework (Article 47B), an underclass (Du M\u1ee5c), a black market economy, a new form of sexual violence, and a philosophical question about consciousness. Changing any element cascades."
+  },
+  "iceberg_depth": {
+    "score": 8,
+    "gap": "The 'Ng\u01b0\u1eddi Th\u1ee9 13' mystery is explicitly flagged as unresolved \u2014 the document admits uncertainty about whether they're the missing technician or something new. This is appropriate for a mystery but risks being a handwave if the author hasn't decided.",
+    "fix": "The author should privately decide the answer (even if it's never fully revealed in-text) and plant 2-3 subtle clues pointing toward that answer in the world-building. Currently the clues could point either direction.",
+    "note": "The 'V\u1ecdng \u00e2m' phenomenon, the 14 dead patients, the Gi\u00e1m \u0111\u1ed1c's role in 2035, and Lan's true identity all have specific answers planted in the documents. The iceberg is genuine depth, not mystery-box handwaving. The unreliable narrator framing ('m\u1ecdi th\u1ee9 c\u00f3 th\u1ec3 sai') is a sophisticated choice that justifies inconsistencies."
+  },
+  "character_depth": {
+    "score": 9,
+    "gap": "B\u00e1c s\u0129 Tu\u1ea5n's wound/want/need chain is the weakest \u2014 his 'ghost' (a patient death unrelated to Neural Mantle) doesn't causally connect to his current dilemma about the neural experiments. It's thematically parallel but not causally linked.",
+    "fix": "Make Tu\u1ea5n's ghost directly relevant: e.g., he failed to report an anomaly in a patient's vitals once before, and that patient died. This would make his current silence about Patient #4 a direct repetition of his wound, strengthening the causal chain.",
+    "note": "C\u01b0\u1eddng's chain is masterful: wound (emotional paralysis) \u2192 lie (virtual is enough) \u2192 want (maintain addiction) \u2192 need (accept loss). The K\u1ebb \u0110u\u1ed5i's chain is equally strong. H\u1ea1nh's chain works. B\u1ea3o's chain works. The causal logic holds for all major characters."
+  },
+  "character_distinctiveness": {
+    "score": 9,
+    "gap": "Gi\u00e1m \u0111\u1ed1c Y khoa and Thanh tra H\u1ea1nh share a 'cold, technical, emotionless' speaking style \u2014 both use short declarative sentences and avoid personal pronouns. In a scene with both, they might be hard to distinguish without tags.",
+    "fix": "Differentiate their 'coldness': H\u1ea1nh's coldness is investigative (she asks questions, uses law enforcement framing, references Article 47B). The Gi\u00e1m \u0111\u1ed1c's coldness is corporate (she makes statements, uses statistical framing, references ROI and data). Make this distinction sharper in their dialogue examples.",
+    "note": "Otherwise excellent. C\u01b0\u1eddng's fragmented, number-obsessed speech is immediately identifiable. K\u1ebb \u0110u\u1ed5i's poetic-repetitive style is haunting and distinct. B\u1ea3o's street slang is authentic. B\u00e0 L\u00e0nh's Southern Vietnamese warmth is beautifully specific. Removing tags, I could identify 6 of 8 characters by speech alone."
+  },
+  "character_secrets": {
+    "score": 9,
+    "gap": "B\u00e0 L\u00e0nh's second secret (seeing Ng\u01b0\u1eddi Th\u1ee9 13) is powerful but its plot impact is unclear \u2014 she 'never tells anyone,' so how does this secret affect the trajectory? It risks being atmospheric rather than structural.",
+    "fix": "Create a specific moment where B\u00e0 L\u00e0nh's knowledge becomes plot-critical: e.g., H\u1ea1nh interviews her in a late chapter, and B\u00e0 L\u00e0nh's description of what she saw provides the final clue about the Gi\u00e1m \u0111\u1ed1c's surveillance system.",
+    "note": "Every other major secret is plot-driving: C\u01b0\u1eddng's knowledge of K\u1ebb \u0110u\u1ed5i's autonomy, the Gi\u00e1m \u0111\u1ed1c's role in 2035, H\u1ea1nh's knowledge of Patient 13, B\u1ea3o's understanding of what C\u01b0\u1eddng did to Lan, Tu\u1ea5n's suppressed data. These secrets, when revealed, fundamentally shift the story's direction."
+  },
+  "outline_completeness": {
+    "score": 7,
+    "gap": "The outline contains 37 chapters but the structure document only details 24 \u2014 chapters 25-37 appear in a separate section with overlapping percentage marks (Ch 25 covers 52-56%, same as Ch 14). This creates confusion about which version is canonical.",
+    "fix": "Consolidate into a single outline with clear chapter numbering. Resolve the overlap: either the story is 24 chapters or 37 chapters. If 37, redistribute percentage marks. If 24, remove chapters 25-37 and integrate any essential beats into the main sequence.",
+    "note": "Individual chapter beats are strong \u2014 each has POV, location, emotional arc, try-fail cycle, and Save the Cat beat placement. The foreshadowing ledger is meticulous. But the structural confusion from the duplicate outline sections is a significant drafting risk."
+  },
+  "foreshadowing_balance": {
+    "score": 9,
+    "gap": "Thread 17 (K\u1ef9 n\u0103ng k\u1ebf to\u00e1n) is planted in Ch 1 but has no reinforcement before payoff in Ch 22/35 \u2014 a 20+ chapter gap with no reminder to the reader that this skill exists and matters.",
+    "fix": "Add 2-3 small moments where C\u01b0\u1eddng's accounting mindset surfaces: e.g., in Ch 10 he organizes data signals like ledger entries, in Ch 15 he notices the paper's date patterns like audit discrepancies. These reinforce the skill without telegraphing the climax.",
+    "note": "The foreshadowing ledger is exemplary \u2014 20 threads tracked with plant/reinforce/payoff chapters and type classifications. Most threads have 2-3 reinforcements. The bruise thread (Ch 1\u21925,6,9,11,14\u219223) is particularly well-managed. The system is professional-quality."
+  },
+  "internal_consistency": {
+    "score": 8,
+    "gap": "The outline states C\u01b0\u1eddng 'kh\u00f4ng nh\u1edb Lan l\u00e0 ai' (Ch 15) but also says he 'nh\u1edb m\u1ecdi th\u1ee9' (Ch 17) after the K\u1ebb \u0110u\u1ed5i shows him memories. The world bible states memory loss is permanent ('kh\u00f4ng th\u1ec3 nh\u1edb l\u1ea1i, ch\u1ec9 c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c nh\u1eafc'). Being 'reminded' by the K\u1ebb \u0110u\u1ed5i may violate this rule.",
+    "fix": "Clarify the mechanism: the K\u1ebb \u0110u\u1ed5i doesn't restore C\u01b0\u1eddng's memories \u2014 she shows him HER memories of their shared past, which he experiences as new information. He doesn't remember; he learns what happened from her perspective. This preserves the 'no recovery' rule while delivering the revelation.",
+    "note": "Otherwise remarkably consistent across five documents. Timeline checks out (2031-2041). Character ages align. Ping values match. Location distances are coherent. The 12 connected patients \u2192 7 women \u2192 C\u01b0\u1eddng's unknowing use of coma patients is internally sound. The one contradiction is significant but addressable."
+  },
+  "voice_clarity": {
+    "score": 9,
+    "gap": "The exemplar passage contains one borderline Tier 2 cluster: 'ho\u00e0n h\u1ea3o... ho\u00e0n h\u1ea3o... ho\u00e0n h\u1ea3o' \u2014 while thematically deliberate (reinforcing artificiality), the triple repetition of the same adjective risks reading as a different kind of slop (repetition-as-depth).",
+    "fix": "Vary the repetition: 'Qu\u00e1 ho\u00e0n h\u1ea3o... M\u1ed9t h\u1eb1ng s\u1ed1... Kh\u00f4ng dao \u0111\u1ed9ng.' This maintains the obsessive measurement theme while avoiding word-level repetition.",
+    "note": "The voice definition is exceptional \u2014 one of the most specific and actionable I've seen. The 'Body Before Emotion' section alone would be worth the document. The exemplar passage demonstrates the voice perfectly: clinical observation, sensory wrongness, technical vocabulary bleeding into intimacy. The anti-exemplars ('KH\u00d4NG l\u00e3ng m\u1ea1n h\u00f3a s\u1ef1 c\u00f4 \u0111\u01a1n') are precise and necessary."
+  },
+  "canon_coverage": {
+    "score": 9,
+    "gap": "The canon doesn't track the outline's chapter-by-chapter revelations \u2014 e.g., 'C\u01b0\u1eddng remembers Lan is Patient #4' (Ch 16/28) is a major factual shift that should be logged as an established in-story fact with chapter source.",
+    "fix": "Add an 'In-Story Revelations' section to the canon that tracks when major truths are established in the narrative, so a writer knows what C\u01b0\u1eddng knows at any given chapter.",
+    "note": "Geographic, timeline, character, political, and cultural facts are comprehensively logged with source citations. The level of granularity is sufficient to catch most contradictions. A writer could verify new facts against this document reliably."
+  },
+  "slop_in_planning_docs": {
+    "found": [
+      "Minor: The phrase '\u0111ang tr\u1edf n\u00ean th\u1eadt h\u01a1n c\u1ea3' in the exemplar passage echoes the 'not just X, but Y' pattern (Tier 3 filler) \u2014 though in Vietnamese it reads more naturally than the English equivalent.",
+      "Minor: Several character descriptions use parallel structure (three-item lists of habits, three-item lists of secrets) \u2014 the symmetry addiction warning applies, though the content itself is strong enough to compensate."
+    ],
+    "note": "Remarkably little AI slop detected. The Vietnamese prose reads as native literary writing, not machine-translated English. Dialogue examples use appropriate register shifts (B\u00e0 L\u00e0nh's Southern particles, B\u1ea3o's 'm\u00e0y-tao', H\u1ea1nh's formal 't\u00f4i-anh'). The voice document's anti-slop guardrails appear to have been internalized by the author."
+  },
+  "contradictions_found": [
+    "MAJOR: Outline contains two overlapping chapter sequences (Ch 1-24 and Ch 25-37) with conflicting percentage marks for the same story positions (e.g., Ch 14 and Ch 25 both cover ~52-56%).",
+    "MODERATE: Memory recovery rule \u2014 world bible states memories cannot be recovered, only 'reminded,' but outline implies C\u01b0\u1eddng regains memories of Lan through K\u1ebb \u0110u\u1ed5i's intervention (Ch 16/28). Needs clarification on mechanism.",
+    "MINOR: The foreshadowing ledger lists 'K\u1ef9 n\u0103ng k\u1ebf to\u00e1n' as planted in Ch 1, but the chapter beats don't explicitly mention accounting skills in Ch 1's action."
+  ],
+  "overall_score": 8,
+  "lore_score": 9,
+  "weakest_dimension": "outline_completeness",
+  "top_3_improvements": [
+    "Consolidate the dual outline into a single canonical chapter sequence with non-overlapping percentage marks. This is the biggest drafting risk \u2014 a writer needs one clear roadmap, not two conflicting ones.",
+    "Clarify the memory-recovery mechanism for C\u01b0\u1eddng's revelation about Lan. Specify that the K\u1ebb \u0110u\u1ed5i shows him her memories (new information) rather than restoring his own (which would violate established rules).",
+    "Add 2-3 reinforcements of C\u01b0\u1eddng's accounting skill between Ch 1 and Ch 22/35 to prevent the climactic resolution from feeling unearned. The foreshadowing ledger identifies this gap."
+  ]
+}

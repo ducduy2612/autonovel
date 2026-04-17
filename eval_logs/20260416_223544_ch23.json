@@ -1,0 +1,104 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "C\u01b0\u1eddng ngh\u0129. Th\u1eadt s\u1ef1 ngh\u0129 \u2014 d\u00f9ng 4.9% n\u00e3o c\u00f2n l\u1ea1i \u0111\u1ec3 suy ngh\u0129 v\u1ec1 c\u00e2u h\u1ecfi.",
+    "fix": "Replace with a body-before-emotion physical response: 'Huy\u1ebft \u00e1p d\u1ed3n l\u00ean th\u00e1i d\u01b0\u01a1ng. \u0110au nh\u00f3i \u1edf s\u1ed1ng m\u0169i. N\u00e3o anh ch\u1ea1y \u2014 4.9% c\u00f2n l\u1ea1i \u2014 c\u1ed1 g\u1eafng x\u1eed l\u00fd c\u00e2u h\u1ecfi nh\u01b0 m\u1ed9t g\u00f3i tin b\u1ecb l\u1ed7i.'",
+    "note": "The chapter largely nails the cold, surgical tone and the vocabulary wells (ping, b\u1ed9 \u0111\u1ec7m, nhi\u1ec5u, render). Sentence rhythm varies well between clipped action beats and longer sensory passages. But several emotional moments tell rather than manifesting through the body, violating the 'Body Before Emotion' principle."
+  },
+  "beat_coverage": {
+    "score": 5,
+    "weakest_moment": "The entire sequence of C\u01b0\u1eddng overloading the buffer with millions of write override commands \u2014 this is the chapter's core action, yet it's described in abstract, repetitive summary rather than lived experience.",
+    "fix": "Dramatize the physical cost of sending these commands. Show his body convulsing in the tank, the specific sensations of neural overload, the gradual loss of motor control. Make us feel each million commands as a physical event, not a number ticking up.",
+    "note": "All four outline beats are present but Beat 1 (overloading the system) is summarized rather than dramatized. The buffer percentage ticking up reads like a status screen, not a scene. Beats 2-4 are better executed, especially Lan's final smile."
+  },
+  "character_voice": {
+    "score": 6,
+    "weakest_moment": "\"Anh xin l\u1ed7i.\" C\u00e2u n\u00f3i tho\u00e1t ra tr\u01b0\u1edbc khi anh k\u1ecbp suy ngh\u0129. Kh\u00f4ng ph\u1ea3i phong c\u00e1ch c\u1ee7a anh. Anh kh\u00f4ng xin l\u1ed7i. Anh ghi nh\u1eadn, ph\u00e2n lo\u1ea1i, b\u1ecf qua.",
+    "fix": "If he apologizes, it should come out wrong \u2014 truncated, mechanical, like a corrupted file. Not a clean 'Anh xin l\u1ed7i' followed by narratorial explanation. Try: 'Xin\u2014' D\u1eebng. T\u1eeb ch\u01b0a t\u1eebng t\u1ed3n t\u1ea1i trong b\u1ed9 t\u1eeb v\u1ef1ng. '...Ghi nh\u1eadn. L\u1ed7i h\u1ec7 th\u1ed1ng. B\u1ecf qua.'",
+    "note": "C\u01b0\u1eddng's voice is mostly consistent \u2014 clipped, technical, number-driven. But the apology moment and several emotional reflections ('Anh l\u00e0 ng\u01b0\u1eddi bu\u00f4ng tay') feel like a different, more introspective character. Lan's voice is stronger \u2014 the glitchy repetition, the wrong-context metaphors."
+  },
+  "plants_seeded": {
+    "score": 5,
+    "weakest_moment": "The 47.3 Hz frequency callback \u2014 mentioned multiple times but never seeded subtly in this chapter; it's just repeated from previous context as a refrain.",
+    "fix": "The frequency should appear once, obliquely, in an unexpected context \u2014 perhaps the hum of the water pump matches 47.3 Hz, or his heartbeat briefly syncs to it before the final disconnect. Let the reader make the connection.",
+    "note": "The outline says 'Kh\u00f4ng c\u00f3' for gieo m\u1ea7m, so no plants were required. The v\u1ebft s\u1eb9o resolution is handled. The 8 nh\u1ecbp/ph\u00fat callback to Lan's real body is effective but stated too directly."
+  },
+  "prose_quality": {
+    "score": 6,
+    "weakest_sentence": "Kh\u00f4ng ph\u1ea3i \u0111au \u0111\u1ea7u. \u0110au to\u00e0n b\u1ed9 c\u01a1 th\u1ec3. T\u1eebng d\u00e2y th\u1ea7n kinh c\u00f9ng l\u00fac ph\u00e1t t\u00edn hi\u1ec7u b\u00e1o \u0111\u1ed9ng \u2014 nh\u01b0 h\u00e0ng tri\u1ec7u c\u00e2y kim \u0111\u00e2m xuy\u00ean qua da, c\u01a1, x\u01b0\u01a1ng, n\u1ed9i t\u1ea1ng.",
+    "fix": "The 'h\u00e0ng tri\u1ec7u c\u00e2y kim' metaphor is generic pain description. Replace with something from C\u01b0\u1eddng's vocabulary well: 'T\u1eebng d\u00e2y th\u1ea7n kinh ph\u00e1t t\u00edn hi\u1ec7u l\u1ed7i \u2014 ping v\u00f4 h\u1ea1n, packet loss 100%, m\u1ecdi c\u1ed5ng nh\u1eadn c\u00f9ng l\u00fac b\u00e1o \u0111\u1ecf. C\u01a1 th\u1ec3 anh l\u00e0 m\u1ed9t server \u0111ang ch\u00e1y.'",
+    "strongest_sentence": "N\u01b0\u1edbc m\u1eaft \u0111\u1ee9ng y\u00ean tr\u00ean m\u00e1 \u2014 m\u1ed9t kh\u1ed1i d\u1eef li\u1ec7u b\u1ecb \u0111\u00f3ng b\u0103ng, kh\u00f4ng \u0111\u1ee7 th\u00f4ng tin \u0111\u1ec3 render chuy\u1ec3n \u0111\u1ed9ng.",
+    "note": "Strong when leaning into the technical vocabulary wells. Weak when falling back on generic emotional language. The 'tinh' sound of a tear falling is a perfect recurring motif. Paragraph rhythm varies well but several passages repeat the same structure (short declarative \u2192 elaboration \u2192 technical detail)."
+  },
+  "continuity": {
+    "score": 7,
+    "note": "Picks up directly from the previous chapter's ending \u2014 C\u01b0\u1eddng at 95.1% brain damage, server deleted, Lan freed. The v\u1ebft s\u1eb9o callback tracks. The 47.3 Hz resonance continues. However, the previous chapter ended with him already losing consciousness ('R\u1ed3i t\u1eaft'), which makes his reawakening in this chapter feel slightly disconnected \u2014 a brief acknowledgment of the gap would help."
+  },
+  "canon_compliance": {
+    "score": 6,
+    "violations": [
+      "Outline specifies 'C\u01b0\u1eddng b\u1eaft \u0111\u1ea7u qu\u00e1 t\u1ea3i h\u1ec7 th\u1ed1ng b\u1eb1ng c\u00e1ch g\u1eedi h\u00e0ng tri\u1ec7u l\u1ec7nh ghi \u0111\u00e8 c\u00f9ng l\u00fac' as the opening action, but the chapter has him first wandering in white space, finding a green dot, then beginning \u2014 a significant structural deviation from the planned beat sequence.",
+      "The 'Hemera-Root \u0111\u00e3 kh\u00f3a m\u1ecdi th\u1ee9. Gi\u00e1m \u0111\u1ed1c Y khoa \u0111\u00e3 ch\u1eb7n qu\u00e1 tr\u00ecnh ng\u1eaft k\u1ebft n\u1ed1i' line introduces new information not established in canon \u2014 when did this happen? The previous chapter showed C\u01b0\u1eddng deleting the server himself.",
+      "B\u1ed9 \u0111\u1ec7m mechanics (sending write override commands to overflow a buffer) are not established in the magic system rules. The system describes ping, neural sync, and memory fragmentation \u2014 not buffer overflow as a deliberate action.",
+      "The chapter refers to 'Lan' by name throughout, but canon only calls her 'K\u1ebb \u0110u\u1ed5i' or 'N\u00e0ng' \u2014 the name 'Lan' is not established in any planning document."
+    ],
+    "note": "The most significant issue is the introduction of 'Lan' as a name \u2014 this character has never been named in the planning docs. Either this was established in an earlier chapter (not provided) or it's a canon violation. The buffer overflow mechanic also needs grounding in established rules."
+  },
+  "lore_integration": {
+    "score": 7,
+    "weakest_moment": "The buffer overflow sequence \u2014 while dramatic, it doesn't connect to established lore about how the Neural Mantle system actually works. It reads more like generic hacking than the specific neurological technology described in world.md.",
+    "fix": "Ground the overflow in established mechanics: instead of 'write override commands,' describe it as flooding neural pathways with redundant sensory data \u2014 overwhelming the synapses that store virtual memories. Use the vocabulary wells: '\u0111\u1ed5 b\u1ed9 ng\u01b0\u1ee3c,' 'nhi\u1ec5u t\u00edn hi\u1ec7u,' 'qu\u00e1 t\u1ea3i d\u00e2y th\u1ea7n kinh.'",
+    "note": "Strong integration of specific details: 1.2 km distance to St. Vincent, B\u1ec7nh nh\u00e2n s\u1ed1 4, 8 nh\u1ecbp/ph\u00fat, bu\u1ed3ng tri\u1ec7t gi\u00e1c specs, the h\u1ea7m Haymarket sensory details (ozon, c\u00e1p quang, m\u00e1y \u0111i\u1ec1u h\u00f2a). The world does work here \u2014 it's not just set dressing."
+  },
+  "engagement": {
+    "score": 6,
+    "weakest_moment": "The middle section \u2014 from 'B\u1ed1n n\u0103m' through the millions of commands \u2014 where the chapter becomes a technical exercise in buffer percentages ticking upward. Tension flatlines here because we're watching a progress bar, not experiencing a scene.",
+    "fix": "Interleave the command-sending with physical consequences \u2014 each million commands costs him something. A memory erased. A sensation lost. The ability to smell ozone fading. His daughter's face (no \u2014 he doesn't have family memories). The taste of bread from the corner shop. Make the buffer filling a countdown to personal annihilation, not just a number.",
+    "note": "The opening is atmospheric and the final Lan scene is genuinely moving \u2014 her imperfect smile, the tear that falls with a 'tinh' sound. But the middle sags. The chapter's best moments (Lan's dialogue, the v\u1ebft s\u1eb9o dissolving) are strong enough to carry it, but the technical padding between them dilutes the impact."
+  },
+  "three_weakest_sentences": [
+    "Kh\u00f4ng ph\u1ea3i \u0111au \u0111\u1ea7u. \u0110au to\u00e0n b\u1ed9 c\u01a1 th\u1ec3. T\u1eebng d\u00e2y th\u1ea7n kinh c\u00f9ng l\u00fac ph\u00e1t t\u00edn hi\u1ec7u b\u00e1o \u0111\u1ed9ng \u2014 nh\u01b0 h\u00e0ng tri\u1ec7u c\u00e2y kim \u0111\u00e2m xuy\u00ean qua da, c\u01a1, x\u01b0\u01a1ng, n\u1ed9i t\u1ea1ng.",
+    "C\u01b0\u1eddng ngh\u0129. Th\u1eadt s\u1ef1 ngh\u0129 \u2014 d\u00f9ng 4.9% n\u00e3o c\u00f2n l\u1ea1i \u0111\u1ec3 suy ngh\u0129 v\u1ec1 c\u00e2u h\u1ecfi.",
+    "Anh g\u1eedi m\u01b0\u1eddi l\u1ec7nh. M\u1ed9t tr\u0103m l\u1ec7nh. M\u1ed9t ng\u00e0n."
+  ],
+  "three_strongest_sentences": [
+    "N\u01b0\u1edbc m\u1eaft \u0111\u1ee9ng y\u00ean tr\u00ean m\u00e1 \u2014 m\u1ed9t kh\u1ed1i d\u1eef li\u1ec7u b\u1ecb \u0111\u00f3ng b\u0103ng, kh\u00f4ng \u0111\u1ee7 th\u00f4ng tin \u0111\u1ec3 render chuy\u1ec3n \u0111\u1ed9ng.",
+    "N\u1ebfp nh\u0103n nh\u1ecf \u1edf \u0111u\u00f4i m\u1eaft \u2014 chi ti\u1ebft ch\u01b0a t\u1eebng xu\u1ea5t hi\u1ec7n trong render tr\u01b0\u1edbc \u0111\u00e2y, v\u00ec anh ch\u01b0a t\u1eebng l\u1eadp tr\u00ecnh n\u1ebfp nh\u0103n. N\u00f3 \u0111\u1ebfn t\u1eeb \u0111\u00e2u \u0111\u00f3 kh\u00e1c. T\u1eeb d\u1eef li\u1ec7u sinh t\u1ed3n c\u1ee7a B\u1ec7nh nh\u00e2n s\u1ed1 4.",
+    "Nh\u1edb m\u00f9i hoa s\u1eefa kh\u00f4ng n\u1edf \u1edf Sydney. Nh\u1edb n\u01b0\u1edbc m\u1eaft r\u01a1i tr\u00ean kho\u1ea3ng tr\u1eafng t\u1ea1o ra \u00e2m thanh tinh."
+  ],
+  "ai_patterns_detected": [
+    "Uniform paragraph rhythm in the middle section \u2014 many paragraphs follow the same pattern: short setup sentence \u2192 technical elaboration \u2192 buffer percentage update.",
+    "The 'Not X. Y.' rhetorical structure appears repeatedly: 'Kh\u00f4ng ph\u1ea3i \u0111au \u0111\u1ea7u. \u0110au to\u00e0n b\u1ed9 c\u01a1 th\u1ec3.' / 'Kh\u00f4ng ph\u1ea3i tan bi\u1ebfn. Tan.' / 'Kh\u00f4ng ph\u1ea3i k\u00fd \u1ee9c ho\u00e0n h\u1ea3o. K\u00fd \u1ee9c th\u1eadt.' \u2014 this is a common AI-generated parallelism pattern.",
+    "Several emotional beats are explained rather than enacted: 'Kh\u00f4ng ph\u1ea3i v\u00ec anh \u0111\u00e3 ch\u1ea5p nh\u1eadn. Kh\u00f4ng ph\u1ea3i v\u00ec anh \u0111\u00e3 tha th\u1ee9 cho ch\u00ednh m\u00ecnh.' \u2014 the narrator tells us what the feeling ISN'T before showing what it is.",
+    "The counting/number escalation pattern ('M\u01b0\u1eddi l\u1ec7nh. M\u1ed9t tr\u0103m. M\u1ed9t ng\u00e0n.' then 'M\u1ed9t tri\u1ec7u' then 'Hai tri\u1ec7u') is a classic AI-generated tension-building device that reads mechanically."
+  ],
+  "overall_score": 5.0,
+  "weakest_dimension": "beat_coverage",
+  "top_3_revisions": [
+    "Replace the abstract buffer-overflow sequence with a physical, embodied experience: each 'million commands' should cost C\u01b0\u1eddng a specific sensory capability or memory. Show him losing the smell of ozone, then the feeling of his own heartbeat, then the ability to perceive temperature \u2014 make the reader feel him being erased in real time, not watching a percentage counter.",
+    "Rename 'Lan' to 'N\u00e0ng' or 'K\u1ebb \u0110u\u1ed5i' unless the name was established in a previous chapter not provided. If it was established, the transition from 'K\u1ebb \u0110u\u1ed5i' to 'Lan' should be noted as a significant emotional beat \u2014 using her name for the first time is itself a choice that deserves weight.",
+    "Cut or compress the wandering-in-white-space opening (first ~500 words). The chapter's emotional core is the final conversation with Lan \u2014 everything before it should build toward that, not delay it. Consider starting closer to the g\u00e1c x\u00e9p, with the buffer overload happening as they speak, raising the stakes of every line of dialogue."
+  ],
+  "new_canon_entries": [
+    "C\u01b0\u1eddng's server deletion method: flooding the neural buffer with write override commands until overflow (new mechanic, needs grounding in established rules)",
+    "The name 'Lan' for K\u1ebb \u0110u\u1ed5i (if not established in earlier chapters, this is a significant addition)",
+    "V\u1ebft s\u1eb9o on C\u01b0\u1eddng's x\u01b0\u01a1ng s\u01b0\u1eddn tr\u00e1i dissolves when Lan is fully freed \u2014 resolving the physical mark of their connection",
+    "C\u01b0\u1eddng's final brain damage: 95.1% and rising, leaving him paralyzed but conscious, able to hear and feel but not move or speak",
+    "The green dot / 4ms signal in the buffer \u2014 possibly a remnant of Lan's consciousness or a new phenomenon"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 26.41,
+    "sentence_length_cv": 0.891,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 6
+}

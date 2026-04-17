@@ -1,0 +1,106 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "C\u01a1 th\u1ec3 anh \u2014 c\u01a1 th\u1ec3 \u0111ang r\u1ec9 d\u1ecbch trong su\u1ed1t, c\u01a1 th\u1ec3 \u0111ang c\u00f3 m\u1ed9t l\u1ed7 \u0111en tr\u00ean x\u01b0\u01a1ng s\u01b0\u1eddn, c\u01a1 th\u1ec3 \u0111ang bi\u1ebfn \u0111\u1ed5i th\u00e0nh th\u1ee9 g\u00ec \u0111\u00f3 kh\u00f4ng ph\u1ea3i ng\u01b0\u1eddi \u2014 c\u01a1 th\u1ec3 \u1ea5y \u0111ang t\u1eeb ch\u1ed1i th\u1ee9c \u0103n. T\u1eeb ch\u1ed1i s\u1ef1 s\u1ed1ng. T\u1eeb ch\u1ed1i th\u1ebf gi\u1edbi th\u1ef1c.",
+    "fix": "Cut the em-dash parenthetical and the triple repetition. The voice profile demands restraint: 'C\u01a1 th\u1ec3 anh \u0111ang r\u1ec9 d\u1ecbch. C\u00f3 m\u1ed9t l\u1ed7 \u0111en tr\u00ean x\u01b0\u01a1ng s\u01b0\u1eddn. V\u00e0 n\u00f3 \u0111ang t\u1eeb ch\u1ed1i th\u1ee9c \u0103n \u2014 t\u1eeb ch\u1ed1i s\u1ef1 s\u1ed1ng \u2014 t\u1eeb ch\u1ed1i th\u1ebf gi\u1edbi th\u1ef1c.' Shorter. Colder. Let the facts accumulate horror without narrating the horror.",
+    "note": "The chapter mostly nails the surgical, technician-observing-system-failure tone. Best moments: the 47.3 Hz tracking, the polymer detail, the clinical description of the bruise transforming. But it leans too hard on explicit emotional statement ('v\u01b0\u1ee3t qua s\u1ef1 s\u1ee3 h\u00e3i v\u00e0 \u0111\u1ebfn b\u00ean kia, n\u01a1i kh\u00f4ng c\u00f2n g\u00ec \u0111\u1ec3 s\u1ee3 n\u1eefa') and triple-beat repetition ('T\u1eeb ch\u1ed1i X. T\u1eeb ch\u1ed1i Y. T\u1eeb ch\u1ed1i Z.') which is an AI-pattern crutch, not the voice profile's broken-signal rhythm."
+  },
+  "beat_coverage": {
+    "score": 6,
+    "weakest_moment": "C\u01b0\u1eddng b\u1ecf ch\u1ea1y. Anh nh\u1eadn ra c\u01a1 th\u1ec3 m\u00ecnh \u0111ang d\u1ea7n m\u1ea5t \u0111i quy\u1ec1n s\u1edf h\u1eefu.",
+    "fix": "The outline says Beat 4 is C\u01b0\u1eddng fleeing because he realizes his body is no longer his. The chapter does this, but buries it in pages of running/vomiting that dilute the beat. The realization should be a single, devastating moment \u2014 not narrated three times across three pages. Cut the alley vomiting sequence and make the 'body not mine' realization hit once, hard, at the moment he sees his fingers blur.",
+    "note": "Beat 1 (disconnect, bruise description): Strong. Beat 2 (stumble to caf\u00e9, see hospital, heart sync): Strong. Beat 3 (H\u1ea1nh present, pushes bread, pitying look): Present but H\u1ea1nh's dialogue is too on-the-nose \u2014 she essentially narrates the theme. Beat 4 (flee, realization): Overlong, repetitive. The outline's emotional arc (Pain \u2192 Fear \u2192 Despair) is followed but Despair is hammered so many times it loses impact."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "\"T\u00f4i bi\u1ebft c\u00f4 \u1ea5y l\u00e0 ai. T\u00f4i bi\u1ebft t\u00f4i \u0111\u00e3 l\u00e0m g\u00ec. T\u00f4i bi\u1ebft t\u00f4i l\u00e0 k\u1ebb g\u00ec.\"",
+    "fix": "This is C\u01b0\u1eddng at his most emotionally raw, and he sounds like a confession in a procedural drama. The voice profile says: 90% statements, no self-pity, counting and measuring. He should say something like: 'B\u1ec7nh nh\u00e2n s\u1ed1 4. Lan. 847 l\u1ea7n. Ghi nh\u1eadn.' Let the reader feel the weight through what he omits, not through a theatrical confession.",
+    "note": "H\u1ea1nh's voice is mostly right \u2014 cold, question-as-trap \u2014 but 'Anh bi\u1ebft t\u1eeb \u0111\u1ea7u' and 'Anh \u0111\u00e3 \u1edf trong \u0111\u00f3 bao l\u00e2u?' are too direct for a character who 'never asks to ask, only to trap.' She should already know the answers and be testing whether C\u01b0\u1eddng will lie. The barista's single line is perfect. C\u01b0\u1eddng's internal voice is strongest when clinical, weakest when it waxes philosophical."
+  },
+  "plants_seeded": {
+    "score": 7,
+    "weakest_moment": "Ch\u1ea5t d\u1ecbch trong su\u1ed1t. N\u00f3ng. 37.5 \u0111\u1ed9. V\u00e0 nh\u1ecbp \u0111\u1eadp \u2014 b\u1ed1n m\u01b0\u01a1i l\u1ea7n m\u1ed9t ph\u00fat \u2014 \u0111\u00e3 quay tr\u1edf l\u1ea1i.",
+    "fix": "The clear fluid and the returning pulse are effective seeds, but the chapter ends by essentially narrating their significance ('thu\u1ed9c v\u1ec1 c\u00f4 \u1ea5y... thu\u1ed9c v\u1ec1 K\u1ebb \u0110u\u1ed5i'). Let the seeds sit without explaining them. End on the physical detail \u2014 the warmth returning, the pulse \u2014 and let the reader dread what it means.",
+    "note": "The bread as a plant is well-handled \u2014 it echoes C\u01b0\u1eddng's daily breakfast (established in canon) and becomes a symbol of the real world he can no longer ingest. The polymer texture of the wound is a strong new element suggesting the virtual is colonizing the physical. The 47.3 Hz signal disappearing then returning at 40 bpm is an excellent hook. But the chapter over-explains what these mean rather than trusting the reader."
+  },
+  "prose_quality": {
+    "score": 6,
+    "weakest_sentence": "C\u01b0\u1eddng ng\u1ed3i \u0111\u00f3. Trong qu\u00e1n c\u00e0 ph\u00ea v\u1eafng. Hai gi\u1edd s\u00e1ng. B\u00ean ngo\u00e0i, xe c\u1ee9u th\u01b0\u01a1ng \u0111\u00e3 ch\u1ea1y \u0111i. Ti\u1ebfng chu\u00f4ng t\u1eaft. Nh\u1ecbp tim anh ch\u1eadm l\u1ea1i. 120. 100. 80. Tr\u1edf v\u1ec1 b\u00ecnh th\u01b0\u1eddng \u2014 n\u1ebfu \"b\u00ecnh th\u01b0\u1eddng\" c\u00f2n l\u00e0 m\u1ed9t t\u1eeb c\u00f3 ngh\u0129a.",
+    "fix": "The fragment-staccato rhythm is appropriate per voice profile, but this passage is pure pattern \u2014 every sentence is 2-6 words, same structure, same cadence. The voice profile says to vary: mix in a long, winding sentence. And 'n\u1ebfu b\u00ecnh th\u01b0\u1eddng c\u00f2n l\u00e0 m\u1ed9t t\u1eeb c\u00f3 ngh\u0129a' is a clich\u00e9. Cut it. End on '80.' Let the number do the work.",
+    "strongest_sentence": "Anh \u0111\u01b0a tay ch\u1ea1m v\u00e0o. L\u1ea1nh. T\u00ea. Kh\u00f4ng c\u1ea3m gi\u00e1c. Da quanh l\u1ed7 c\u1ee9ng l\u1ea1i, nh\u01b0 b\u1ecb \u0111\u00f3ng v\u1ea3y, nh\u01b0ng kh\u00f4ng ph\u1ea3i v\u1ea3y m\u00e1u \u2014 l\u00e0 th\u1ee9 g\u00ec \u0111\u00f3 kh\u00e1c. V\u1eadt li\u1ec7u l\u1ea1. Kh\u00f4ng ph\u1ea3i da ng\u01b0\u1eddi. Kh\u00f4ng ph\u1ea3i m\u00f4 s\u1ed1ng. Nh\u01b0 polymer. Nh\u01b0 nh\u1ef1a. Nh\u01b0 m\u1ed9t ph\u1ea7n x\u00e1c \u1ea3o \u0111\u00e3 b\u1ecb render nh\u1ea7m v\u00e0o th\u1ebf gi\u1edbi th\u1ef1c v\u00e0 k\u1eb9t l\u1ea1i.",
+    "note": "The polymer passage is this chapter at its best \u2014 clinical, specific, horrifying through accumulation of concrete detail. The weakest prose happens when the narrator reaches for abstract emotional statement ('s\u1ef1 th\u1eadt r\u1eb1ng c\u01a1 th\u1ec3 anh kh\u00f4ng c\u00f2n thu\u1ed9c v\u1ec1 anh' appears three times). Sentence variety is a real problem: long stretches of 2-5 word fragments with no longer sentences to break rhythm. Repeated constructions: 'Kh\u00f4ng ph\u1ea3i X. Kh\u00f4ng ph\u1ea3i Y. Kh\u00f4ng ph\u1ea3i Z.' appears at least four times."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Strong continuity from the previous chapter. C\u01b0\u1eddng was in the white void, Lan dissolved, he was ejected. This chapter opens with him waking in the tank with nosebleed and the bruise transformed \u2014 consistent with the previous chapter's final paragraphs describing his real-body vitics spiking. The 47.3 Hz signal carries over. His emotional state (guilt, recognition that he was the exploiter) tracks. One minor issue: the previous chapter ends with him understanding 'Anh l\u00e0 k\u1ebb \u0111\u00e3 b\u00f3c l\u1ed9t n\u00e0ng' but this chapter has him still processing \u2014 which works, as real emotional integration isn't instant."
+  },
+  "canon_compliance": {
+    "score": 7,
+    "violations": [
+      "MAJOR: The chapter names 'Lan' as the patient/source of K\u1ebb \u0110u\u1ed5i. Canon states the K\u1ebb \u0110u\u1ed5i is 's\u1ef1 k\u1ebft tinh c\u1ee7a \u00fd th\u1ee9c d\u01b0 th\u1eeba t\u1eeb nhi\u1ec1u b\u1ec7nh nh\u00e2n h\u00f4n m\u00ea \u2014 kh\u00f4ng ph\u1ea3i m\u1ed9t ng\u01b0\u1eddi, m\u00e0 l\u00e0 nhi\u1ec1u m\u1ea3nh gh\u00e9p.' Naming a single patient as the source contradicts this established fact.",
+      "MINOR: H\u1ea1nh says 'B\u1ec7nh nh\u00e2n s\u1ed1 4. Nh\u1ecbp tim \u1ed5n \u0111\u1ecbnh r\u1ed3i. B\u00e1c s\u0129 Tu\u1ea5n g\u1ecdi \u0111i\u1ec7n b\u00e1o l\u00fac n\u00e3y.' Canon establishes Tu\u1ea5n as someone who reports to the Gi\u00e1m \u0111\u1ed1c Y khoa, not to police. It's plausible H\u1ea1nh could have access to this information through other channels, but the casual attribution is loose.",
+      "MINOR: The chapter refers to 'gi\u01b0\u1eddng s\u1ed1 5' as C\u01b0\u1eddng's bed at St. Vincent. Canon establishes C\u01b0\u1eddng operates from h\u1ea7m Haymarket, not from a hospital bed. This may be metaphorical or an error \u2014 unclear."
+    ],
+    "note": "The Lan naming is the most serious issue. If the K\u1ebb \u0110u\u1ed5i is a composite consciousness, reducing her to a single patient undermines the thematic complexity. The 'gi\u01b0\u1eddng s\u1ed1 5' reference is confusing \u2014 is C\u01b0\u1eddng somehow also a registered patient? This needs clarification or correction."
+  },
+  "lore_integration": {
+    "score": 7,
+    "weakest_moment": "C\u01b0\u1eddng l\u1ea3o \u0111\u1ea3o ra kh\u1ecfi h\u1ea7m. B\u1eadc thang l\u00ean m\u1eb7t \u0111\u1ea5t d\u00e0i v\u00f4 t\u1eadn. M\u01b0\u1eddi m\u1ed9t b\u1eadc \u2014 anh \u0111\u1ebfm m\u1ed7i ng\u00e0y \u2014 nh\u01b0ng h\u00f4m nay n\u00f3 gi\u1ed1ng nh\u01b0 m\u1ed9t tr\u0103m.",
+    "fix": "The Haymarket location, the caf\u00e9, the hospital proximity \u2014 these are used well. But the Cumberland Tunnel, the Du M\u1ee5c community, the black market, Hemera's corporate machinations \u2014 none of this world is active in the chapter. The chapter could be set in any city with a hospital. One detail tying the running scene to the tunnel or the neighborhood's specific post-2040 decay would anchor it.",
+    "note": "The Neural Mantle system's rules (bidirectional sync, memory degradation, ping thresholds) are integrated naturally through C\u01b0\u1eddng's internal monitoring. The 47.3 Hz signal is an excellent lore-specific detail that does real narrative work. But the chapter is thin on world-specific texture outside the medical-tech vocabulary. The streets C\u01b0\u1eddng runs through could be anywhere."
+  },
+  "engagement": {
+    "score": 6,
+    "weakest_moment": "The three-page running/vomiting sequence from 'Anh b\u1eaft \u0111\u1ea7u ch\u1ea1y' to 'ch\u1ea5t d\u1ecbch trong su\u1ed1t nh\u1ecf tong tong xu\u1ed1ng m\u1eb7t \u0111\u01b0\u1eddng.'",
+    "fix": "Cut this sequence by 60%. The realization that his body isn't his is powerful the first time; by the third restatement, it's numbing. Replace with a single, specific, surprising detail \u2014 something we haven't seen. What does it look like when a real body loses 'resolution'? Show us one concrete image we couldn't have predicted.",
+    "note": "The chapter's best engagement comes from the physical horror (the bruise transforming, the polymer texture, the clear fluid) and from H\u1ea1nh's unexpected pity. The weakest engagement is the repetitive emotional narration. The ending \u2014 the breath on the neck, the pulse returning \u2014 is an effective hook, though it would be stronger without the preceding pages of explicit dread-statement. The chapter's central surprise (H\u1ea1nh offering pity instead of arrest) is well-earned but slightly undercut by her on-the-nose dialogue."
+  },
+  "three_weakest_sentences": [
+    "C\u01b0\u1eddng ng\u1ed3i \u0111\u00f3. Trong qu\u00e1n c\u00e0 ph\u00ea v\u1eafng. Hai gi\u1edd s\u00e1ng. B\u00ean ngo\u00e0i, xe c\u1ee9u th\u01b0\u01a1ng \u0111\u00e3 ch\u1ea1y \u0111i. Ti\u1ebfng chu\u00f4ng t\u1eaft. Nh\u1ecbp tim anh ch\u1eadm l\u1ea1i. 120. 100. 80. Tr\u1edf v\u1ec1 b\u00ecnh th\u01b0\u1eddng \u2014 n\u1ebfu \"b\u00ecnh th\u01b0\u1eddng\" c\u00f2n l\u00e0 m\u1ed9t t\u1eeb c\u00f3 ngh\u0129a.",
+    "Anh kh\u00f4ng c\u1ea3m nh\u1eadn \u0111\u01b0\u1ee3c m\u1eb7t \u0111\u01b0\u1eddng d\u01b0\u1edbi ch\u00e2n. Kh\u00f4ng c\u1ea3m nh\u1eadn \u0111\u01b0\u1ee3c s\u1ee9c n\u1eb7ng c\u1ee7a c\u01a1 th\u1ec3. Kh\u00f4ng c\u1ea3m nh\u1eadn \u0111\u01b0\u1ee3c kho\u1ea3ng c\u00e1ch gi\u1eefa m\u1ed7i b\u01b0\u1edbc.",
+    "C\u01b0\u1eddng ch\u1ea1y. Qua ng\u00e3 t\u01b0 Liverpool. Qua \u0111\u01b0\u1eddng George. V\u00e0o m\u1ed9t h\u1ebbm nh\u1ecf, t\u1ed1i, h\u1eb9p. \u0110\u00e2u \u0111\u00f3 gi\u1eefa Haymarket v\u00e0 Cumberland. \u0110\u00e2u \u0111\u00f3 gi\u1eefa th\u1ebf gi\u1edbi anh t\u1eebng bi\u1ebft v\u00e0 th\u1ebf gi\u1edbi anh \u0111ang bi\u1ebfn th\u00e0nh."
+  ],
+  "three_strongest_sentences": [
+    "Da quanh l\u1ed7 c\u1ee9ng l\u1ea1i, nh\u01b0 b\u1ecb \u0111\u00f3ng v\u1ea3y, nh\u01b0ng kh\u00f4ng ph\u1ea3i v\u1ea3y m\u00e1u \u2014 l\u00e0 th\u1ee9 g\u00ec \u0111\u00f3 kh\u00e1c. V\u1eadt li\u1ec7u l\u1ea1. Kh\u00f4ng ph\u1ea3i da ng\u01b0\u1eddi. Kh\u00f4ng ph\u1ea3i m\u00f4 s\u1ed1ng. Nh\u01b0 polymer. Nh\u01b0 nh\u1ef1a. Nh\u01b0 m\u1ed9t ph\u1ea7n x\u00e1c \u1ea3o \u0111\u00e3 b\u1ecb render nh\u1ea7m v\u00e0o th\u1ebf gi\u1edbi th\u1ef1c v\u00e0 k\u1eb9t l\u1ea1i.",
+    "Ch\u1ea5t d\u1ecbch trong su\u1ed1t r\u1ec9 ra nhi\u1ec1u h\u01a1n, tr\u00e0o qua mi\u1ebfng b\u00f4ng g\u00f2n, ch\u1ea3y xu\u1ed1ng b\u1ee5ng, th\u1ea5m v\u00e0o qu\u1ea7n.",
+    "B\u00e0 kh\u00f4ng r\u00ecnh m\u00f2 \u0111\u1ec3 b\u1eaft gi\u1eef. B\u00e0 th\u01b0\u01a1ng x\u00f3t cho m\u1ed9t k\u1ebb s\u1eafp ch\u1ebft."
+  ],
+  "ai_patterns_detected": [
+    "Triple-beat repetition ('Kh\u00f4ng ph\u1ea3i X. Kh\u00f4ng ph\u1ea3i Y. Kh\u00f4ng ph\u1ea3i Z.' / 'T\u1eeb ch\u1ed1i X. T\u1eeb ch\u1ed1i Y. T\u1eeb ch\u1ed1i Z.') appears 4+ times \u2014 classic AI rhetorical pattern",
+    "Uniform fragment rhythm across long stretches \u2014 consecutive 2-5 word sentences without variation",
+    "Emotional state explicitly narrated multiple times ('c\u01a1 th\u1ec3 anh kh\u00f4ng c\u00f2n thu\u1ed9c v\u1ec1 anh' appears 3 times, same phrasing)",
+    "Paragraph structure repetition: many paragraphs follow 'Short statement. Elaboration. Abstract emotional conclusion.' pattern",
+    "The running sequence uses listing ('Qua X. Qua Y. V\u00e0o Z.') \u2014 AI default for conveying movement",
+    "H\u1ea1nh's dialogue includes direct thematic statement ('Anh bi\u1ebft c\u00f4 \u1ea5y l\u00e0 ai') rather than her established pattern of trap-questions"
+  ],
+  "overall_score": 5.0,
+  "weakest_dimension": "prose_quality",
+  "top_3_revisions": [
+    "Fix the Lan canon violation: either remove the name 'Lan' and refer only to 'b\u1ec7nh nh\u00e2n s\u1ed1 4' / 'K\u1ebb \u0110u\u1ed5i,' or establish that C\u01b0\u1eddng has incorrectly fixated on one patient as the source when the truth is more complex \u2014 which could be a productive misunderstanding for future chapters.",
+    "Cut the alley running/vomiting sequence by 60% and replace with one specific, surprising physical detail we haven't seen before. The 'body not mine' realization should hit once, not three times. End that sequence on the fingers-blurring moment \u2014 that's the real horror \u2014 and cut the explicit narration that follows.",
+    "Rewrite H\u1ea1nh's dialogue to use her established voice (trap-questions, never direct statement). Replace 'Anh bi\u1ebft c\u00f4 \u1ea5y l\u00e0 ai' and 'Anh bi\u1ebft t\u1eeb \u0111\u1ea7u' with questions that test whether C\u01b0\u1eddng will lie \u2014 questions she already knows the answers to. Her pity should come through action (the bread, the not-arresting) not through dialogue."
+  ],
+  "new_canon_entries": [
+    "V\u1ebft b\u1ea7m tr\u00ean x\u01b0\u01a1ng s\u01b0\u1eddn tr\u00e1i C\u01b0\u1eddng \u0111\u00e3 chuy\u1ec3n t\u1eeb t\u00edm ng\u1eaft sang \u0111en b\u1ea7m, vi\u1ec1n \u0111\u1ecf th\u1eabm, r\u1ec9 ch\u1ea5t d\u1ecbch trong su\u1ed1t kh\u00f4ng ph\u1ea3i m\u00e1u kh\u00f4ng ph\u1ea3i m\u1ee7",
+    "Trung t\u00e2m v\u1ebft b\u1ea7m \u0111\u00e3 l\u00f5m xu\u1ed1ng th\u00e0nh m\u1ed9t l\u1ed7 s\u00e2u, \u0111\u00f3ng v\u1ea3y polymer \u2014 v\u1eadt li\u1ec7u kh\u00f4ng ph\u1ea3i da ng\u01b0\u1eddi kh\u00f4ng ph\u1ea3i m\u00f4 s\u1ed1ng",
+    "T\u00edn hi\u1ec7u 47.3 Hz \u0111\u00e3 bi\u1ebfn m\u1ea5t r\u1ed3i quay tr\u1edf l\u1ea1i \u1edf m\u1ee9c 40 nh\u1ecbp/ph\u00fat",
+    "C\u01b0\u1eddng nh\u00ecn th\u1ea5y vi\u1ec1n pixel nhi\u1ec5u quanh ng\u00f3n tay m\u00ecnh trong th\u1ebf gi\u1edbi th\u1ef1c (c\u00f3 th\u1ec3 l\u00e0 \u1ea3o gi\u00e1c do t\u1ed5n th\u01b0\u01a1ng th\u1ea7n kinh)",
+    "H\u1ea1nh bi\u1ebft v\u1ec1 t\u00ecnh tr\u1ea1ng c\u1ee7a b\u1ec7nh nh\u00e2n s\u1ed1 4 v\u00e0 c\u00f3\u6e20\u9053 th\u00f4ng tin t\u1eeb B\u00e1c s\u0129 Tu\u1ea5n ho\u1eb7c h\u1ec7 th\u1ed1ng b\u1ec7nh vi\u1ec7n",
+    "Ch\u1ea5t d\u1ecbch trong su\u1ed1t t\u1eeb v\u1ebft b\u1ea7m c\u00f3 \u0111\u1eb7c t\u00ednh k\u00e9o s\u1ee3i dai d\u1ebbo nh\u01b0 c\u00e1p quang miniature"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 19.78,
+    "sentence_length_cv": 0.979,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 6
+}

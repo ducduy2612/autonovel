@@ -1,0 +1,104 @@
+{
+  "voice_adherence": {
+    "score": 8,
+    "weakest_moment": "C\u01b0\u1eddng c\u00f3 th\u1ec3 kh\u00f4ng bi\u1ebft. \u0110\u00f3 l\u00e0 l\u1ef1a ch\u1ecdn. Anh c\u00f3 th\u1ec3 t\u1eaft terminal, \u0111i n\u1eb1m, ch\u1edd b\u00ecnh minh, \u0103n b\u00e1nh m\u00ec ngu\u1ed9i, v\u00e0 ti\u1ebfp t\u1ee5c s\u1ed1ng nh\u01b0 h\u00f4m qua v\u00e0 h\u00f4m kia v\u00e0 ba n\u0103m tr\u01b0\u1edbc.",
+    "fix": "Cut this passage entirely. It explains a choice the reader already understands from the action. The voice is strongest when it shows C\u01b0\u1eddng's accounting brain at work, not when it narrates his internal debate in generic terms.",
+    "note": "The chapter nails the cold, surgical tone. The terminal sequences read like genuine system diagnostics \u2014 specific, technical, unemotional. The body-before-emotion principle works beautifully: 'l\u00f4ng n\u1ed5i, da bu\u1ed1t, huy\u1ebft \u00e1p d\u1ed3n l\u00ean th\u00e1i d\u01b0\u01a1ng' instead of naming the feeling. The vocabulary wells (neural, hospital, digital-render) are deployed precisely. The weakest moments are where the prose slips into explaining C\u01b0\u1eddng's psychology rather than demonstrating it through action and observation."
+  },
+  "beat_coverage": {
+    "score": 7,
+    "weakest_moment": "Beat 2 (g\u01b0\u01a1ng, kh\u00f4ng nh\u1eadn ra m\u1eb7t, k\u00fd \u1ee9c nhi\u1ec5u v\u1ec1 ng\u01b0\u1eddi ph\u1ee5 n\u1eef) is executed but the corrupted memory feels underexplored \u2014 it arrives and departs without leaving enough residue.",
+    "fix": "Extend the memory-corruption sequence by 2-3 sentences. Let the reader feel the shape of what's missing. A specific detail that almost resolves then fractures \u2014 a gesture, a word fragment \u2014 would make the loss visceral rather than abstract.",
+    "note": "Beat 1 (ch\u01b0\u1eddm \u0111\u00e1, 36.8\u00b0C) is excellent \u2014 dramatized through action, measurement, and the ice melting unnoticed. Beat 3 (k\u00edch ho\u1ea1t ph\u00e2n t\u00edch s\u00e2u) is the chapter's strongest section, earning its tension through genuine technical discovery. The transition into Act II feels earned because C\u01b0\u1eddng's choice to investigate flows from his accounting identity, not from plot necessity."
+  },
+  "character_voice": {
+    "score": 8,
+    "weakest_moment": "Anh kh\u00f4ng bi\u1ebft ng\u01b0\u1eddi n\u00e0y. Anh kh\u00f4ng bi\u1ebft m\u00ecnh.",
+    "fix": "Replace with something specific to C\u01b0\u1eddng's voice: a measurement that fails, a comparison to data corruption, or simply cut it \u2014 the preceding observation ('Khu\u00f4n m\u1eb7t \u1ea5y thu\u1ed9c v\u1ec1 m\u1ed9t ng\u01b0\u1eddi l\u1ea1') already carries the weight.",
+    "note": "C\u01b0\u1eddng's voice is remarkably consistent: counting, measuring, comparing to systems. '\u0110\u00f3 l\u00e0 c\u00e1ch k\u1ebf to\u00e1n l\u00e0m vi\u1ec7c. Kh\u00f4ng v\u1ed9i. Kh\u00f4ng ho\u1ea3ng. Thu th\u1eadp d\u1eef li\u1ec7u.' \u2014 this reads as genuine self-description, not exposition. The terminal commands feel authentic. His decision-making process (observe, contain, analyze) maps perfectly to his accounting mindset. The voice only falters when it reaches for universal statements about identity or choice."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "The B\u1ea3o text message ('d\u1eebng') is effective but slightly conspicuous \u2014 arriving at exactly the moment of maximum tension feels engineered.",
+    "fix": "Consider having C\u01b0\u1eddng notice the message earlier in the chapter (perhaps when he first sits down at the server) and dismiss it, then return to it later. This would make the plant feel less perfectly timed.",
+    "note": "The corrupted memory of the woman is seeded with excellent subtlety \u2014 the reader can't tell if this is a real memory, a planted one, or a hallucination. The '\u5f02\u5e38' glyph error is a superb plant: it suggests the system is encountering something it literally cannot name. The hoa s\u1eefa smell bleeding into the real world is perfectly calibrated \u2014 it's been established as purely virtual, so its presence here is genuinely alarming."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "Ranh gi\u1edbi \u1ea5y v\u1eeba v\u1ee1, v\u00e0 C\u01b0\u1eddng \u0111\u1ee9ng gi\u1eefa m\u1ea3nh v\u1ee1, nh\u00ecn xu\u1ed1ng, v\u00e0 th\u1ea5y r\u1eb1ng anh kh\u00f4ng th\u1ec3 \u2014 kh\u00f4ng mu\u1ed1n \u2014 s\u1ebd kh\u00f4ng \u2014 d\u1ecdn d\u1eb9p.",
+    "fix": "Cut or simplify: 'Ranh gi\u1edbi v\u1eeba v\u1ee1. C\u01b0\u1eddng \u0111\u1ee9ng gi\u1eefa m\u1ea3nh v\u1ee1. Anh kh\u00f4ng d\u1ecdn d\u1eb9p.' The em-dash chain and the triple negation feel performative rather than precise.",
+    "strongest_sentence": "Nh\u01b0 ng\u00f3n tay ch\u1ea1m v\u00e0o l\u1ed7 r\u0103ng s\u00e2u v\u00e0 bi\u1ebft r\u1eb1ng \u1edf \u0111\u00f3 t\u1eebng c\u00f3 c\u00e1i r\u0103ng.",
+    "note": "Sentence variety is strong: fragments ('H\u1eb1ng s\u1ed1.'), technical lists, and longer sensory passages. The best sentences use C\u01b0\u1eddng's specific experience (accounting, servers, dental pain) rather than generic metaphor. The weakest sentences reach for lyrical effect ('m\u1ea3nh v\u1ee1') or explain emotions the prose has already evoked. The terminal output sections are genuinely well-crafted \u2014 they feel like real system diagnostics, not fictional approximations."
+  },
+  "continuity": {
+    "score": 9,
+    "note": "Excellent continuity from the previous chapter. The bruise measurement (36.8\u00b0C), the log entry (L\u1ea7n \u0111\u1ed5 b\u1ed9: 848, Ph\u1ea3n h\u1ed3i kh\u00f4ng x\u00e1c \u0111\u1ecbnh: 1), the hiccup sound, and the hoa s\u1eefa smell all carry forward precisely. C\u01b0\u1eddng's physical state (wet, cold, on the floor) at the end of the previous chapter transitions logically to him standing and moving to get ice. The ping (14ms) remains consistent. Emotional continuity is strong: the dawning realization from the previous chapter's ending ('L\u00e0 d\u1ea5u v\u1ebft tay') now becomes the catalyst for investigation."
+  },
+  "canon_compliance": {
+    "score": 9,
+    "violations": [
+      "Minor: The chapter states C\u01b0\u1eddng has a refrigerator ('t\u1ee7 l\u1ea1nh') in the bunker, which hasn't been previously established. The canon describes the bunker as 12m\u00b2 with minimal equipment. A refrigerator is plausible but should be noted."
+    ],
+    "note": "All major canon elements are respected: the bruise location (x\u01b0\u01a1ng s\u01b0\u1eddn th\u1ee9 4, b\u00ean tr\u00e1i), the temperature constant (36.8\u00b0C), the ping (14ms), the bunker location (Haymarket), the bunker dimensions and smell profile, the Neural Mantle mechanics (two-way sync, tactile feedback), B\u1ea3o's character (says 'd\u1eebng,' doesn't explain), and the prohibition on family references (no mention of parents or sister). The deep-scan terminal commands feel consistent with the established technology."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "The explanation of 't\u1ef1 t\u1ed5 ch\u1ee9c' (self-organizing) briefly risks info-dump: 'Trong sinh h\u1ecdc, \u0111\u00f3 l\u00e0 c\u00e1ch... Trong k\u1ef9 thu\u1eadt, \u0111\u00f3 l\u00e0 c\u00e1ch...'",
+    "fix": "Condense to a single comparison rooted in C\u01b0\u1eddng's experience: 'T\u1ef1 t\u1ed5 ch\u1ee9c. Nh\u01b0 s\u1ed5 s\u00e1ch t\u1ef1 c\u00e2n b\u1eb1ng khi m\u1ecdi con s\u1ed1 \u0111\u00e3 \u0111\u00fang. Ho\u1eb7c nh\u01b0 m\u1ed9t c\u00e1i g\u00ec \u0111\u00f3 kh\u00f4ng c\u1ea7n k\u1ebf to\u00e1n vi\u00ean \u0111\u1ec3 bi\u1ebft c\u00e1ch \u0111\u1ebfm.'",
+    "note": "The Neural Mantle system does genuine work in this chapter \u2014 it's not set dressing. The technical discovery (frequency 47.3 Hz, inbound signal, tactile pathway) drives the plot forward. The concept of 't\u1ea7ng 4' (Tier 4) as a restricted zone adds depth to the world. The 'anomaly t\u1eeb ch\u1ed1i di chuy\u1ec3n' moment is excellent: it uses the system's own logic to reveal the entity's agency. The lore serves the story rather than the reverse."
+  },
+  "engagement": {
+    "score": 8,
+    "weakest_moment": "The middle section (C\u01b0\u1eddng debating whether to run the malware scan) loses momentum slightly \u2014 the internal debate is clear but could be tighter.",
+    "fix": "Cut 2-3 sentences from the debate section. The tension is strongest when C\u01b0\u1eddng acts rather than deliberates. Move from 'Qu\u00e9t m\u00e3 \u0111\u1ed9c \u2014 ngh\u0129a l\u00e0...' directly to the decision to press Y.",
+    "note": "The chapter builds genuine dread through technical precision. The moment when the anomaly refuses to move to the sandbox ('L\u1ed7i: anomaly t\u1eeb ch\u1ed1i di chuy\u1ec3n') is genuinely surprising and unsettling \u2014 it's a perfect fusion of system logic and horror. The decoded signal (\u00e1p su\u1ea5t, nhi\u1ec7t \u0111\u1ed9, v\u1ecb tr\u00ed, th\u1eddi gian) landing on 'Th\u1eddi gian: b\u00e2y gi\u1edd' is a superb jump-scare delivered through data. The ending (0ms ping, no distance, no delay) reframes the entire threat in chilling terms. A reader would absolutely turn the page."
+  },
+  "three_weakest_sentences": [
+    "Ranh gi\u1edbi \u1ea5y v\u1eeba v\u1ee1, v\u00e0 C\u01b0\u1eddng \u0111\u1ee9ng gi\u1eefa m\u1ea3nh v\u1ee1, nh\u00ecn xu\u1ed1ng, v\u00e0 th\u1ea5y r\u1eb1ng anh kh\u00f4ng th\u1ec3 \u2014 kh\u00f4ng mu\u1ed1n \u2014 s\u1ebd kh\u00f4ng \u2014 d\u1ecdn d\u1eb9p.",
+    "Anh kh\u00f4ng bi\u1ebft ng\u01b0\u1eddi n\u00e0y. Anh kh\u00f4ng bi\u1ebft m\u00ecnh.",
+    "C\u01b0\u1eddng c\u00f3 th\u1ec3 kh\u00f4ng bi\u1ebft. \u0110\u00f3 l\u00e0 l\u1ef1a ch\u1ecdn. Anh c\u00f3 th\u1ec3 t\u1eaft terminal, \u0111i n\u1eb1m, ch\u1edd b\u00ecnh minh, \u0103n b\u00e1nh m\u00ec ngu\u1ed9i, v\u00e0 ti\u1ebfp t\u1ee5c s\u1ed1ng nh\u01b0 h\u00f4m qua v\u00e0 h\u00f4m kia v\u00e0 ba n\u0103m tr\u01b0\u1edbc."
+  ],
+  "three_strongest_sentences": [
+    "Nh\u01b0 ng\u00f3n tay ch\u1ea1m v\u00e0o l\u1ed7 r\u0103ng s\u00e2u v\u00e0 bi\u1ebft r\u1eb1ng \u1edf \u0111\u00f3 t\u1eebng c\u00f3 c\u00e1i r\u0103ng.",
+    "N\u1ed9i dung: \u00e1p su\u1ea5t. nhi\u1ec7t \u0111\u1ed9. v\u1ecb tr\u00ed. th\u1eddi gian.",
+    "Ping: 0ms (n\u1ed9i b\u1ed9 \u2014 kh\u00f4ng qua m\u1ea1ng)"
+  ],
+  "ai_patterns_detected": [
+    "Slight paragraph-length uniformity in the middle section \u2014 several consecutive paragraphs follow the same structure (observation \u2192 technical detail \u2192 emotional beat).",
+    "The triple negation pattern ('kh\u00f4ng th\u1ec3 \u2014 kh\u00f4ng mu\u1ed1n \u2014 s\u1ebd kh\u00f4ng') is a common AI rhetorical device for building intensity.",
+    "Minor: the 'what if I just walked away' internal debate ('Anh c\u00f3 th\u1ec3 t\u1eaft terminal, \u0111i n\u1eb1m...') is a standard AI-generated tension-building pattern."
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "prose_quality",
+  "top_3_revisions": [
+    "Cut or condense the internal debate before pressing Y (from 'Qu\u00e9t m\u00e3 \u0111\u1ed9c \u2014 ngh\u0129a l\u00e0...' to 'C\u01b0\u1eddng h\u00edt th\u1edf. R\u1ed3i anh g\u00f5. > Y'). The action is stronger than the deliberation.",
+    "Replace the generic identity-crisis sentences ('Anh kh\u00f4ng bi\u1ebft ng\u01b0\u1eddi n\u00e0y. Anh kh\u00f4ng bi\u1ebft m\u00ecnh.') with something specific to C\u01b0\u1eddng's voice \u2014 a failed measurement, a comparison to corrupted data, or simply cut them.",
+    "Condense the 't\u1ef1 t\u1ed5 ch\u1ee9c' explanation from three sentences to one, rooted in C\u01b0\u1eddng's accounting experience rather than generic biology/engineering definitions."
+  ],
+  "new_canon_entries": [
+    "C\u01b0\u1eddng has a refrigerator in the bunker (implied by ice pack).",
+    "The Neural Mantle system has a deep-scan/diagnostic mode accessible via terminal commands (neural_mantle --diagnostic --deep-scan).",
+    "The system has at least 4 tiers in its neural buffer; Tier 4 is restricted to high-level Hemera technicians.",
+    "The anomaly operates at frequency 47.3 Hz (fluctuating to 48.2 Hz), located in Tier 4 of the neural buffer.",
+    "The anomaly can send tactile signals through neural_pathway_4 (k\u1ebft n\u1ed1i x\u00fac gi\u00e1c \u2014 v\u00f9ng ng\u1ef1c) with specific parameters: \u00e1p su\u1ea5t 0.3 N/cm\u00b2, nhi\u1ec7t \u0111\u1ed9 36.8\u00b0C.",
+    "Internal ping (within the same neural system) is 0ms.",
+    "The system displays corrupted glyphs (\u5f02\u5e38 / empty box with question mark) when encountering data it cannot classify.",
+    "C\u01b0\u1eddng's chapter takes place at approximately 3:00-3:17 AM.",
+    "B\u1ea3o sent C\u01b0\u1eddng a single-word encrypted message: 'd\u1eebng' (stop)."
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 28.03,
+    "sentence_length_cv": 1.142,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 7
+}

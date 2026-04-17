@@ -1,0 +1,104 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "L\u00e0m anh uncomfortable, mu\u1ed1n k\u00e9o \u00e1o ch\u1eb7t h\u01a1n, che \u0111i th\u1ee9 b\u00e0 nh\u00ecn th\u1ea5y.",
+    "fix": "Replace the English loanword 'uncomfortable' with a body-based sensation per the voice profile: 'Da anh n\u1ed5i gai l\u1ea1nh d\u1ecdc s\u1ed1ng l\u01b0ng. Tay t\u1ef1 \u0111\u1ed9ng k\u00e9o \u00e1o \u2014 che v\u1ebft b\u1ea7m kh\u1ecfi \u00e1nh m\u1eaft b\u00e0.' This restores the body-before-emotion principle and eliminates the jarring English intrusion.",
+    "note": "The chapter largely nails the clinical, fragmented voice. Sentences like 'C\u1ed3n. Ozon. Kim lo\u1ea1i b\u1ecdc nh\u1ef1a. V\u00e0 th\u1ee9 g\u00ec \u0111\u00f3 kh\u00e1c \u2014 ngai ng\u00e1i, ng\u1ecdt nh\u1ea1t \u2014 kh\u00f4ng thu\u1ed9c v\u1ec1 h\u1ea7m.' are textbook voice adherence. The ping/Hz measurements, the temperature obsessions, the counting \u2014 all present and effective. The weakest moment is the English word 'uncomfortable' which shatters the Vietnamese prose texture and violates the body-before-emotion principle by naming an emotional state instead of describing a physical sensation. A few other passages edge toward telling ('S\u1ef1 th\u1eadt \u1ea5y \u0111\u00e1m v\u00e0o ng\u1ef1c C\u01b0\u1eddng s\u1eafc h\u01a1n v\u1ebft th\u01b0\u01a1ng') rather than staying in the body. But overall, this reads like the voice profile was internalized, not just consulted."
+  },
+  "beat_coverage": {
+    "score": 7,
+    "weakest_moment": "C\u01b0\u1eddng l\u1ea3o \u0111\u1ea3o ra qu\u00e1n c\u00e0 ph\u00ea \u0111\u1ec3 mua b\u0103ng g\u1ea1c v\u00e0 r\u01b0\u1ee3u m\u1ea1nh. Anh nh\u00ecn qua c\u1eeda k\u00ednh B\u1ec7nh vi\u1ec7n St. Vincent \u0111\u1ed1i di\u1ec7n. B\u1ed7ng nhi\u00ean, nh\u1ecbp tim anh \u0111\u1eadp lo\u1ea1n x\u1ea1, \u0111\u1ed3ng b\u1ed9 v\u1edbi ti\u1ebfng chu\u00f4ng xe c\u1ee9u th\u01b0\u01a1ng.",
+    "fix": "The outline specifies C\u01b0\u1eddng goes to the qu\u00e1n c\u00e0 ph\u00ea, but the chapter has him go to a ti\u1ec7m ti\u1ec7n l\u1ee3i first, then wait outside the qu\u00e1n. The ambulance synchronization beat is present but feels rushed \u2014 it could be expanded into a genuine scene beat rather than a transitional moment. Give the synchronization more physical weight: make C\u01b0\u1eddng's heartbeat visible in his throat, make the ambulance sound feel like it's inside his chest rather than just '\u0111\u1ed3ng b\u1ed9.'",
+    "note": "All four outline beats are hit: (1) disconnection and wound examination, (2) caf\u00e9/ambulance/heart sync, (3) H\u1ea1nh's appearance with b\u00e1nh m\u00ec, (4) flight and loss of bodily control. The H\u1ea1nh scene is the strongest beat \u2014 dramatized through dialogue and gesture rather than summary. The weakest is beat 2, which reads more like a transitional paragraph than a lived moment. The emotional arc (pain \u2192 fear \u2192 despair) tracks correctly. The 'No, and' cycle works: C\u01b0\u1eddng tries to treat the wound, but the wound fights back (r\u1ec9, \u0103n t\u1eeb b\u00ean trong, m\u1ea5t ki\u1ec3m so\u00e1t ng\u00f3n tay c\u00e1i)."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "C\u01b0\u1eddng nh\u00ecn b\u00e0. L\u1ea7n \u0111\u1ea7u ti\u00ean th\u1ef1c s\u1ef1 nh\u00ecn. N\u1ebfp nh\u0103n quanh m\u1eaft. Da n\u00e2u s\u1ea1m. B\u00e0 ng\u1ed3i nghi\u00eang, kh\u00f4ng \u0111\u1ed1i di\u1ec7n tr\u1ef1c ti\u1ebfp. Tay tr\u00e1i tr\u00ean \u0111\u00f9i, ng\u00f3n tay g\u00f5 nh\u1ecbp ch\u1eadm. M\u1ed9t. Hai. Ba. B\u1ed1n. B\u00e0 lu\u00f4n \u0111\u1ebfm.",
+    "fix": "This passage reads like C\u01b0\u1eddng is reciting H\u1ea1nh's character sheet rather than perceiving her. Replace with something tied to his specific worldview: 'C\u01b0\u1eddng nh\u00ecn b\u00e0. K\u00ednh g\u1ecdng kim lo\u1ea1i \u2014 ph\u1ea3n chi\u1ebfu \u00e1nh \u0111\u00e8n \u0111\u01b0\u1eddng. G\u00f5 ng\u00f3n tay. Nh\u1ecbp \u0111\u1ec1u. \u0110\u1ebfm. B\u00e0 lu\u00f4n \u0111\u1ebfm. Nh\u01b0 ping. Nh\u01b0 ki\u1ec3m tra xem h\u1ec7 th\u1ed1ng c\u00f2n ch\u1ea1y kh\u00f4ng.' This filters his observation through his technical vocabulary rather than generic description.",
+    "note": "H\u1ea1nh's voice is excellent \u2014 her dialogue is clipped, controlled, every word deliberate. 'Kh\u00f4ng. Nhanh. D\u1ee9t kho\u00e1t.' captures her perfectly. Her th\u00f3i quen (lau k\u00ednh, g\u00f5 ng\u00f3n tay, ng\u1ed3i nghi\u00eang) are all present and natural. C\u01b0\u1eddng's internal voice is mostly strong \u2014 the counting, the measurements, the clinical self-observation. But there are moments where his POV slips into generic narrator mode, describing H\u1ea1nh's appearance as if reading from a dossier rather than perceiving her through his specific lens. The dialogue between them is the chapter's highlight \u2014 two people speaking around the truth, neither saying what they actually mean."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "Anh ta n\u00f3i anh ta \u0111ang b\u1ecb \u0103n t\u1eeb b\u00ean trong.",
+    "fix": "This is actually a strong plant, but it could be slightly more subtle. Instead of having H\u1ea1nh state it directly, have her quote the dead man: 'Anh ta n\u00f3i \u2014' B\u00e0 d\u1eebng. U\u1ed1ng c\u00e0 ph\u00ea. '\u2014 anh ta n\u00f3i c\u00f3 g\u00ec \u0111\u00f3 \u0111ang s\u1ed1ng trong v\u1ebft th\u01b0\u01a1ng. \u0102n. T\u1eeb b\u00ean trong ra.' The hesitation before delivering the key information makes it feel like H\u1ea1nh is deciding whether to share it, rather than just exposition-dumping.",
+    "note": "Both plants from the outline are present and well-integrated. The 'ch\u1ea5t d\u1ecbch trong su\u1ed1t' is introduced through C\u01b0\u1eddng's physical examination \u2014 he touches it, smells it, feels its texture \u2014 so it feels discovered rather than announced. The 'chi\u1ebfc b\u00e1nh m\u00ec ngu\u1ed9i' is beautifully handled: H\u1ea1nh pushing the b\u00e1nh m\u00ec toward C\u01b0\u1eddng is simultaneously a plant (echoing his daily routine) and a character revelation (her pity). The Cumberland death reference is a strong connective plant to the wider world. The 'ng\u00f3n c\u00e1i b\u1ea5t \u0111\u1ed9ng' at the end is a new, effective plant for future body horror. No plants feel forced or obvious."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "Cu\u1ed9c s\u1ed1ng b\u00ecnh th\u01b0\u1eddng ti\u1ebfp di\u1ec5n, kh\u00f4ng quan t\u00e2m r\u1eb1ng tr\u00ean b\u0103ng gh\u1ebf kim lo\u1ea1i, m\u1ed9t ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng \u0111ang b\u1ecb \u0103n t\u1eeb b\u00ean trong.",
+    "fix": "Cut this sentence entirely. It's a narrator stepping in to tell the reader how to feel \u2014 the contrast between normal life and C\u01b0\u1eddng's horror is already implicit in the image of 'm\u1ed9t ng\u01b0\u1eddi ph\u1ee5 n\u1eef \u0111\u1ea9y xe em b\u00e9' passing by. Trust the reader to feel the dissonance without spelling it out. If you must keep the sentiment, make it physical: 'Xe \u0111\u1ea9y em b\u00e9 l\u0103n qua. B\u00e1nh xe k\u00eau l\u1ecdc c\u1ed1c tr\u00ean v\u1ec9a h\u00e8 n\u1ee9t. C\u01b0\u1eddng nh\u00ecn em b\u00e9. Em b\u00e9 kh\u00f4ng nh\u00ecn anh.'",
+    "strongest_sentence": "Nh\u01b0ng kh\u00f4ng c\u00f3 ma s\u00e1t n\u00e0o. Anh n\u1eb1m m\u1ed9t m\u00ecnh trong h\u1ea7m.",
+    "note": "The prose is strongest when it's most physical and most clinical simultaneously. 'Nh\u01b0ng kh\u00f4ng c\u00f3 ma s\u00e1t n\u00e0o. Anh n\u1eb1m m\u1ed9t m\u00ecnh trong h\u1ea7m.' is perfect \u2014 a technical observation that becomes devastating through context. The fragment rhythms ('C\u1ed3n. Ozon. Kim lo\u1ea1i b\u1ecdc nh\u1ef1a.') work well. Sentence variety is generally good \u2014 short bursts interspersed with longer sensory passages. The weakest passages are those where the narrator explains emotional significance ('S\u1ef1 th\u1eadt \u1ea5y \u0111\u00e1m v\u00e0o ng\u1ef1c C\u01b0\u1eddng s\u1eafc h\u01a1n v\u1ebft th\u01b0\u01a1ng') rather than letting the reader feel it. The repeated 'Anh kh\u00f4ng ph\u1ea3i n\u1ea1n nh\u00e2n' motif is effective but risks overuse \u2014 twice in the chapter is enough."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Excellent continuity from the previous chapter. C\u01b0\u1eddng's disconnection from the blank space, his nosebleed, the 47.3 Hz signal, the bruise changing color \u2014 all carry forward naturally. The emotional state tracks: he's just been forced to confront that he's the exploiter, not the victim, and the chapter opens with him processing that in a daze. The detail about Lan (K\u1ebb \u0110u\u1ed5i) having been 'x\u00f3a' is a bit ambiguous \u2014 the previous chapter showed her dissolving, but 'x\u00f3a' implies active deletion by C\u01b0\u1eddng, which may or may not be accurate. Minor point. The v\u1ebft b\u1ea7m progression (t\u00edm ng\u1eaft \u2192 \u0111en b\u1ea7m \u2192 r\u1ec9 d\u1ecbch) is consistent with the previous chapter's setup. H\u1ea1nh's knowledge of C\u01b0\u1eddng's visit to Khu N\u1eb1m references events that feel like they happened in a recent chapter, tracking correctly."
+  },
+  "canon_compliance": {
+    "score": 8,
+    "violations": [
+      "Minor ambiguity: The chapter references C\u01b0\u1eddng visiting 'Khu N\u1eb1m' and 'Gi\u01b0\u1eddng s\u1ed1 4' two nights ago \u2014 this event isn't explicitly in the provided materials but could have occurred in an unprovided chapter. Not a true violation, just unverifiable.",
+      "The chapter says C\u01b0\u1eddng's ping reads 0ms when disconnected. This is technically accurate (no connection = no ping) but the display showing '0ms' rather than '---' or 'NO SIGNAL' is a minor interface logic question, not a canon violation."
+    ],
+    "note": "All major canon facts are respected: h\u1ea7m Haymarket location and dimensions (12m\u00b2, 2.1m ceiling), the bruise on x\u01b0\u01a1ng s\u01b0\u1eddn tr\u00e1i, the smell profile (c\u1ed3n, ozon, kim lo\u1ea1i), H\u1ea1nh's appearance and habits (k\u00ednh g\u1ecdng kim lo\u1ea1i, \u00e1o kho\u00e1c kh\u00f4ng c\u00e0i c\u00fac, lau k\u00ednh, g\u00f5 ng\u00f3n tay, ng\u1ed3i nghi\u00eang), the qu\u00e1n c\u00e0 ph\u00ea g\u00f3c Liverpool, B\u1ec7nh vi\u1ec7n St. Vincent's location, \u0110i\u1ec1u 47B, C\u01b0\u1eddng's inability to remember street names, the b\u00e1nh m\u00ec details (ngu\u1ed9i, ru\u1ed9ng \u0111\u1eb7c, d\u01b0a leo th\u00e1i l\u1ee3n c\u1ee3n). The Cumberland reference aligns with established lore about high ch\u00e1y n\u00e3o rates there. No violations of the magic system rules. The 'kh\u00f4ng bao gi\u1edd nh\u1eafc \u0111\u1ebfn cha, m\u1eb9, hay ch\u1ecb' rule is respected \u2014 no family references appear."
+  },
+  "lore_integration": {
+    "score": 7,
+    "weakest_moment": "C\u01b0\u1eddng \u0111i v\u1ec1 ph\u00eda \u0111\u01b0\u1eddng Liverpool. Ti\u1ec7m ti\u1ec7n l\u1ee3i m\u1edf hai m\u01b0\u01a1i b\u1ed1n gi\u1edd. Mua b\u0103ng gacha \u1edf \u0111\u00f3.",
+    "fix": "The ti\u1ec7m ti\u1ec7n l\u1ee3i is a generic location that could exist in any city. Replace or enrich it with a world-specific detail: the ti\u1ec7m could be a former dimsum restaurant (per canon, ph\u1ed1 Dixon's restaurants closed and were replaced), or the clerk could be wearing a neural interface wristband (showing how ubiquitous the technology is), or there could be a Hemera poster on the wall. One detail that ties this generic errand to the specific world would elevate it.",
+    "note": "The world does work in this chapter \u2014 the Neural Mantle system's physical consequences are the engine of the entire plot. The v\u1ebft b\u1ea7m, the ch\u1ea5t d\u1ecbch, the loss of motor control \u2014 these are all direct manifestations of the magic system rules (Quy t\u1eafc 1: \u0111\u1ed3ng b\u1ed9 hai chi\u1ec1u). The Cumberland lore is deployed effectively through H\u1ea1nh's dialogue. The hospital setting is used well. However, the middle section (the walk to the ti\u1ec7m ti\u1ec7n l\u1ee3i) feels like it could happen in any city \u2014 the world-specific details (Haymarket, ph\u1ed1 Dixon bi\u1ebfn d\u1ea1ng, m\u00f9i d\u1ea7u \u0103n pha h\u00f3a ch\u1ea5t) are absent during this stretch. The strongest lore integration is the body horror itself, which is deeply tied to the Neural Mantle system's specific mechanics."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "C\u01b0\u1eddng nh\u00ecn b\u00e1nh m\u00ec. B\u00e0 \u0111\u00e3 mua cho anh. Thanh tra H\u1ea1nh \u2014 ng\u01b0\u1eddi c\u00f3 th\u1ec3 b\u1ecf t\u00f9 anh m\u01b0\u1eddi hai n\u0103m \u2014 \u0111\u00e3 mua b\u00e1nh m\u00ec s\u00e1ng, \u0111\u1ea9y v\u1ec1 ph\u00eda anh tr\u00ean \u0111\u0129a s\u1ee9 tr\u1eafng vi\u1ec1n m\u1ecfng.",
+    "fix": "This passage explains the emotional significance of the moment rather than letting it land. Cut the explanatory second sentence entirely. Trust the reader to understand the weight of H\u1ea1nh buying C\u01b0\u1eddng breakfast. Replace with a physical detail: 'C\u01b0\u1eddng nh\u00ecn chi\u1ebfc b\u00e1nh m\u00ec. Ngu\u1ed9i. C\u1ee9ng. Gi\u1ed1ng h\u1ec7t b\u00e1nh m\u00ec anh \u0103n m\u1ed7i s\u00e1ng. B\u00e0 \u0111\u00e3 mua tr\u01b0\u1edbc khi anh \u0111\u1ebfn. B\u00e0 \u0111\u00e3 bi\u1ebft anh s\u1ebd \u0111\u1ebfn.' This shows H\u1ea1nh's knowledge and care through action rather than narrator explanation.",
+    "note": "The chapter maintains tension well through three escalating horrors: the wound r\u1ec9 ch\u1ea5t d\u1ecbch, H\u1ea1nh's revelation about the Cumberland victim ('\u0103n t\u1eeb b\u00ean trong'), and the loss of ng\u00f3n c\u00e1i control. Each raises the stakes. The H\u1ea1nh scene is the engagement highlight \u2014 the tension between her role as police officer and her genuine pity creates an unpredictable dynamic. The weakest engagement is in the middle stretch (walk to ti\u1ec7m, purchase, wait) which functions as connective tissue but doesn't add tension. The final image \u2014 C\u01b0\u1eddng lying on the floor, hearing a heartbeat not his own \u2014 is genuinely creepy and effective. The chapter earns its despair ending through accumulated detail rather than melodrama."
+  },
+  "three_weakest_sentences": [
+    "Cu\u1ed9c s\u1ed1ng b\u00ecnh th\u01b0\u1eddng ti\u1ebfp di\u1ec5n, kh\u00f4ng quan t\u00e2m r\u1eb1ng tr\u00ean b\u0103ng gh\u1ebf kim lo\u1ea1i, m\u1ed9t ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng \u0111ang b\u1ecb \u0103n t\u1eeb b\u00ean trong.",
+    "L\u00e0m anh uncomfortable, mu\u1ed1n k\u00e9o \u00e1o ch\u1eb7t h\u01a1n, che \u0111i th\u1ee9 b\u00e0 nh\u00ecn th\u1ea5y.",
+    "S\u1ef1 th\u1eadt \u1ea5y \u0111\u00e1m v\u00e0o ng\u1ef1c C\u01b0\u1eddng s\u1eafc h\u01a1n v\u1ebft th\u01b0\u01a1ng."
+  ],
+  "three_strongest_sentences": [
+    "Nh\u01b0ng kh\u00f4ng c\u00f3 ma s\u00e1t n\u00e0o. Anh n\u1eb1m m\u1ed9t m\u00ecnh trong h\u1ea7m.",
+    "Anh ta n\u00f3i anh ta \u0111ang b\u1ecb \u0103n t\u1eeb b\u00ean trong.",
+    "B\u1ecf tay kia ra. Ng\u00f3n c\u00e1i b\u1eadt m\u1edf. Th\u1eb3ng. B\u1ea5t \u0111\u1ed9ng."
+  ],
+  "ai_patterns_detected": [
+    "Occasional narrator explanation of emotional significance ('S\u1ef1 th\u1eadt \u1ea5y \u0111\u00e1m v\u00e0o ng\u1ef1c C\u01b0\u1eddng s\u1eafc h\u01a1n v\u1ebft th\u01b0\u01a1ng') \u2014 a common AI pattern of telling rather than trusting the reader.",
+    "One English loanword ('uncomfortable') used where Vietnamese would be more natural and immersive.",
+    "Slight uniformity in paragraph rhythm in the middle section \u2014 several paragraphs follow the same 'short observation \u2192 slightly longer elaboration' pattern.",
+    "The 'Cu\u1ed9c s\u1ed1ng b\u00ecnh th\u01b0\u1eddng ti\u1ebfp di\u1ec5n' sentence is a classic AI-style contrast construction (normal world vs. protagonist's suffering) that feels manufactured."
+  ],
+  "overall_score": 6.21,
+  "weakest_dimension": "prose_quality",
+  "top_3_revisions": [
+    "Cut three sentences where the narrator explains emotional significance: 'Cu\u1ed9c s\u1ed1ng b\u00ecnh th\u01b0\u1eddng ti\u1ebfp di\u1ec5n...', 'S\u1ef1 th\u1eadt \u1ea5y \u0111\u00e1m v\u00e0o ng\u1ef1c C\u01b0\u1eddng...', and 'Thanh tra H\u1ea1nh \u2014 ng\u01b0\u1eddi c\u00f3 th\u1ec3 b\u1ecf t\u00f9 anh m\u01b0\u1eddi hai n\u0103m \u2014 \u0111\u00e3 mua b\u00e1nh m\u00ec s\u00e1ng...' Trust the reader to feel these moments without being told their meaning.",
+    "Replace 'uncomfortable' with a body-based sensation and add one world-specific detail to the ti\u1ec7m ti\u1ec7n l\u1ee3i scene (a Hemera poster, a former restaurant sign, a neural interface on the clerk's wrist) to ground the generic errand in the specific world.",
+    "Enrich the ambulance synchronization beat by making it more visceral \u2014 C\u01b0\u1eddng should feel his heartbeat in his throat, his vision pulsing, the ambulance sound seeming to come from inside his chest rather than across the street. This is a key plot beat that deserves more than a transitional paragraph."
+  ],
+  "new_canon_entries": [
+    "V\u1ebft b\u1ea7m tr\u00ean x\u01b0\u01a1ng s\u01b0\u1eddn tr\u00e1i chuy\u1ec3n t\u1eeb t\u00edm ng\u1eaft sang \u0111en b\u1ea7m v\u00e0 b\u1eaft \u0111\u1ea7u r\u1ec9 ch\u1ea5t d\u1ecbch trong su\u1ed1t kh\u00f4ng ph\u1ea3i m\u00e1u, kh\u00f4ng ph\u1ea3i m\u1ee7.",
+    "Ch\u1ea5t d\u1ecbch trong su\u1ed1t c\u00f3 m\u00f9i hoa s\u1eefa thoang tho\u1ea3ng ng\u1ecdt nh\u1ea1t.",
+    "M\u1ed9t ng\u01b0\u1eddi Du M\u1ee5c t\u1ea1i Cumberland \u0111\u00e3 ch\u1ebft ba n\u0103m tr\u01b0\u1edbc v\u1edbi tri\u1ec7u ch\u1ee9ng t\u01b0\u01a1ng t\u1ef1: v\u1ebft th\u01b0\u01a1ng r\u1ec9 ch\u1ea5t d\u1ecbch trong su\u1ed1t, b\u00e1o r\u1eb1ng \u0111ang 'b\u1ecb \u0103n t\u1eeb b\u00ean trong.'",
+    "C\u01b0\u1eddng m\u1ea5t kh\u1ea3 n\u0103ng t\u1ef1 ch\u1ee7 ki\u1ec3m so\u00e1t ng\u00f3n c\u00e1i tay ph\u1ea3i \u2014 t\u00edn hi\u1ec7u t\u1eeb n\u00e3o \u0111\u1ebfn c\u01a1 b\u1ecb nhi\u1ec5u ho\u1eb7c kh\u00f4ng \u0111\u1ebfn.",
+    "H\u1ea1nh bi\u1ebft C\u01b0\u1eddng \u0111\u00e3 v\u00e0o Khu N\u1eb1m, t\u1ea7ng B3, gi\u01b0\u1eddng s\u1ed1 4, hai \u0111\u00eam tr\u01b0\u1edbc.",
+    "H\u1ea1nh bi\u1ebft C\u01b0\u1eddng \u0111\u00e3 c\u1ed1 gi\u1ea3i ph\u00f3ng b\u1ec7nh nh\u00e2n 04-\u0110M (Lan).",
+    "C\u01b0\u1eddng nghe th\u1ea5y m\u1ed9t nh\u1ecbp \u0111\u1eadp th\u1ee9 hai b\u00ean trong c\u01a1 th\u1ec3 m\u00ecnh \u2014 ch\u1eadm, kho\u1ea3ng 40 nh\u1ecbp/ph\u00fat ho\u1eb7c 8 \u2014 kh\u00f4ng thu\u1ed9c v\u1ec1 anh."
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 17.62,
+    "sentence_length_cv": 0.732,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 0.79,
+    "language": "vi"
+  },
+  "raw_judge_score": 7
+}

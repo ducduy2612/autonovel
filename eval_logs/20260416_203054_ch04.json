@@ -1,0 +1,103 @@
+{
+  "voice_adherence": {
+    "score": 8,
+    "weakest_moment": "C\u01b0\u1eddng m\u1edf mi\u1ec7ng. \u0110\u00f3ng. M\u1edf l\u1ea1i. Kh\u00f4ng c\u00f3 l\u1eddi n\u00e0o ra. \u0110\u1ea7u anh \u2014 ti\u1ebfng \u00f9 nh\u1eb9, nh\u01b0 t\u1ea7n s\u1ed1 cao b\u1ecb nhi\u1ec5u, nh\u01b0 radio ch\u01b0a b\u1eaft s\u00f3ng, nh\u01b0 \u2014",
+    "fix": "The triple 'nh\u01b0' simile chain is the one place the prose slips into generic literary mode. Cut to: 'C\u01b0\u1eddng m\u1edf mi\u1ec7ng. \u0110\u00f3ng. Kh\u00f4ng c\u00f3 l\u1eddi n\u00e0o ra. \u0110\u1ea7u anh \u00f9 \u2014 t\u1ea7n s\u1ed1 cao, ch\u01b0a b\u1eaft s\u00f3ng.' Let the fragment do the work instead of stacking comparisons.",
+    "note": "The chapter largely nails the cold, surgical tone. Body-before-emotion is consistently applied (x\u01b0\u01a1ng s\u01b0\u1eddn n\u00f3ng, tay ch\u1ea1m v\u1ebft b\u1ea7m, c\u1ed5 h\u1ecdng kh\u00f4). The vocabulary wells \u2014 neural/technical, hospital/decay, uncanny digital \u2014 are drawn from appropriately. Sentence rhythm varies well between clipped action beats and longer sensory passages. The weakest moment is a rare lapse into overwrought simile-stacking."
+  },
+  "beat_coverage": {
+    "score": 7,
+    "weakest_moment": "Beat 1 (T\u1eeb ch\u1ed1i \u00fd th\u1ee9c, tin tin t\u1eb7c) is spread across multiple internal monologue repetitions rather than concentrated in a single sharp scene moment. The denial becomes somewhat circular.",
+    "fix": "Consolidate C\u01b0\u1eddng's 'tin t\u1eb7c' rationalization into one sharp, early scene beat \u2014 perhaps have him actively attempt a trace or security scan, showing his denial through ACTION rather than repeated internal assertion. Then let the Cumberland experience complicate it.",
+    "note": "All three outline beats are present and dramatized. Beat 2 (entering Cumberland) is the strongest \u2014 vivid, sensory, horrifying. Beat 3 (B\u1ea3o's warning) is emotionally powerful and well-delivered. The 'Yes, but' cycle works. The shift from denial to fear to stubbornness tracks. Only weakness is Beat 1 being more told than shown through action."
+  },
+  "character_voice": {
+    "score": 8,
+    "weakest_moment": "B\u1ea3o's extended monologue about his experience ('Ba tu\u1ea7n tr\u01b0\u1edbc, tao c\u00f2n \u0111\u1ed5 b\u1ed9...') occasionally slips into a more eloquent, structured narrative register than his character sheet suggests \u2014 particularly the passage describing the encounter in the 'v\u00f9ng m\u1edd.'",
+    "fix": "Break B\u1ea3o's monologue with more physical interruptions \u2014 xoa th\u00e1i d\u01b0\u01a1ng, pause, almost stop talking. Shorten some sentences to 3-5 words as per his profile. Replace 'Tao v\u00e0o khu v\u1ef1c nhi\u1ec5u \u2014 v\u00f9ng m\u1edd, m\u00e0y bi\u1ebft kh\u00f4ng, n\u01a1i render b\u1ecb l\u1ed7i, n\u01a1i c\u00f3 b\u00f3ng ng\u01b0\u1eddi kh\u00f4ng c\u00f3 ch\u1ee7' with something more fragmented: 'V\u00f9ng m\u1edd. M\u00e0y bi\u1ebft. Render l\u1ed7i. B\u00f3ng ng\u01b0\u1eddi. Tao \u0111i nhi\u1ec1u l\u1ea7n. V\u00f4 h\u1ea1i.'",
+    "note": "C\u01b0\u1eddng's voice is excellent \u2014 flat, counting, technical, avoiding emotional language. His dialogue is appropriately curt and denial-driven. B\u1ea3o's voice is mostly strong (c\u1ed9c l\u1ed1c, 'm\u00e0y-tao', cutting people off) but his longer monologue stretches beyond the 3-5 word sentence profile. The differentiation between characters is clear when they speak \u2014 you could remove tags and still identify them."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "The 'Ng\u01b0\u1eddi Th\u1ee9 13' cameo in the final paragraph is effective but slightly heavy-handed in its placement \u2014 immediately after C\u01b0\u1eddng's denial, creating an almost editorial irony.",
+    "fix": "Consider moving the Ng\u01b0\u1eddi Th\u1ee9 13 reference earlier \u2014 perhaps C\u01b0\u1eddng glimpses something in the Cumberland tunnels, a bu\u1ed3ng at the end of a corridor he doesn't approach, no number on the door \u2014 a detail he dismisses. Then the final paragraph can end on Kh\u00f4i's smile alone, which is more chilling.",
+    "note": "The trembling hand plant is well-executed \u2014 shown through action, not labeled. The 'ch\u00e1y n\u00e3o' concept is dramatized viscerally through Kh\u00f4i rather than merely explained. Hoa s\u1eefa as invasive signal is powerfully developed. The ping motif is threaded throughout effectively. The plants feel organic to the scene, not checklist items."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "Nh\u01b0ng n\u1ee5 c\u01b0\u1eddi \u0111\u00f3 \u2014 C\u01b0\u1eddng nh\u00ecn \u2014 n\u1ee5 c\u01b0\u1eddi \u0111\u00f3 ch\u1ea1m t\u1edbi m\u1eaft.",
+    "fix": "This sentence tries to create a chilling parallel to K\u1ebb \u0110u\u1ed5i's 'n\u1ee5 c\u01b0\u1eddi kh\u00f4ng ch\u1ea1m t\u1edbi m\u1eaft' but the construction is clunky with the double dash interruption. Rewrite: 'Nh\u01b0ng n\u1ee5 c\u01b0\u1eddi n\u00e0y \u2014 ch\u1ea1m t\u1edbi m\u1eaft.' Shorter. The contrast with K\u1ebb \u0110u\u1ed5i is sharper when the sentence structure itself is different.",
+    "strongest_sentence": "B\u1ea3o nh\u00ecn anh. L\u00e2u. Nh\u01b0 \u0111ang \u0111o l\u01b0\u1eddng \u2014 kh\u00f4ng ph\u1ea3i \u0111o \u0111\u1ed9 cao hay c\u00e2n n\u1eb7ng, m\u00e0 \u0111o \u0111\u1ed9 s\u00e2u. \u0110\u1ed9 s\u00e2u c\u1ee7a s\u1ef1 s\u1ee5p \u0111\u1ed5.",
+    "note": "Sentence variety is generally strong \u2014 fragments, medium sentences, occasional longer sensory passages. Concrete nouns dominate. The POV character's metaphors appropriately draw from technical/accounting wells. Some repeated constructions ('Kh\u00f4ng ph\u1ea3i... Kh\u00f4ng ph\u1ea3i... Kh\u00f4ng ph\u1ea3i...') work as deliberate rhythm but risk becoming crutch. The weakest sentence is a moment where the prose reaches for effect and stumbles."
+  },
+  "continuity": {
+    "score": 9,
+    "note": "Excellent continuity from the previous chapter. C\u01b0\u1eddng's bloody nose, the v\u1ebft b\u1ea7m on his ribs, the decision not to delete data, the mysterious ping from St. Vincent's direction \u2014 all carried forward naturally. His emotional state (shaken but in denial) tracks perfectly. The hoa s\u1eefa that crossed into the real world at the end of Ch.3 becomes a recurring invasive sensation in Ch.4. No inconsistencies detected."
+  },
+  "canon_compliance": {
+    "score": 8,
+    "violations": [
+      "B\u1ea3o's leg injury (kh\u1eadp khi\u1ec5ng) is introduced here without canon basis \u2014 his character sheet mentions hand tremor, headache, eye issues, but not a limp. This is a minor addition rather than a violation, but should be noted."
+    ],
+    "note": "All major canon facts are respected: Cumberland tunnel location and description, Haymarket dimensions, ping values, character appearances, B\u1ea3o's 70% vision loss, the 'ch\u00e1y n\u00e3o' phenomenon, hoa s\u1eefa not growing in Sydney, K\u1ebb \u0110u\u1ed5i's behavioral markers. The introduction of 'Kh\u00f4i' as a named victim is a new character but doesn't contradict established lore. The 'Ng\u01b0\u1eddi Th\u1ee9 13' reference is consistent with established canon."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "The explanation of 'ch\u00e1y n\u00e3o' \u2014 while visceral and well-placed \u2014 edges slightly toward info-dump in the paragraph beginning 'C\u01b0\u1eddng bi\u1ebft thu\u1eadt ng\u1eef \u0111\u00f3. \u0110\u00e3 nghe t\u1eeb B\u1ea3o...'",
+    "fix": "Trim the explanation paragraph. Trust the visual (the burned face) to convey most of the horror. Keep only: 'Ch\u00e1y n\u00e3o. N\u00e3o b\u1ecb qu\u00e1 t\u1ea3i khi t\u00edn hi\u1ec7u truy\u1ec1n ng\u01b0\u1ee3c c\u01b0\u1eddng \u0111\u1ed9 cao. N\u01a1-ron ch\u1ebft. Da ph\u1ea3n \u1ee9ng.' The image of Kh\u00f4i's face does more work than the technical explanation.",
+    "note": "The world does significant work in this chapter. Cumberland is not just a setting \u2014 it's a physical manifestation of the consequences C\u01b0\u1eddng refuses to acknowledge. The contrast between his clean, controlled setup and the squalor of DIY rigs is thematically potent. The ping system, render terminology, and neural concepts are woven into action and perception, not just explained."
+  },
+  "engagement": {
+    "score": 8,
+    "weakest_moment": "The section where C\u01b0\u1eddng returns to the surface and walks through Sydney (from 'C\u01b0\u1eddng \u0111i qua qu\u00e1n c\u00e0 ph\u00ea' to 'Ping. R\u1ed3i im.') loses some momentum \u2014 the tension dips before the final strong image.",
+    "fix": "Compress the surface walk. Cut or shorten the paragraph about looking at his reflection. The ping he feels in his chest/x\u01b0\u01a1ng s\u01b0\u1eddn is the important beat \u2014 everything else is transition that can be trimmed. Get from the tunnel exit to that moment faster.",
+    "note": "The chapter maintains strong tension throughout most of its length. The Cumberland sequence is genuinely unsettling \u2014 Kh\u00f4i's smile is a standout horror beat. B\u1ea3o's confession is emotionally gripping. The ending denial ('Nh\u01b0ng tao kh\u00e1c') is characterologically perfect and frustrating in the right way. The chapter earns its dread through specific, visceral details rather than generic danger assertions."
+  },
+  "three_weakest_sentences": [
+    "Nh\u01b0ng n\u1ee5 c\u01b0\u1eddi \u0111\u00f3 \u2014 C\u01b0\u1eddng nh\u00ecn \u2014 n\u1ee5 c\u01b0\u1eddi \u0111\u00f3 ch\u1ea1m t\u1edbi m\u1eaft.",
+    "C\u01b0\u1eddng m\u1edf mi\u1ec7ng. \u0110\u00f3ng. M\u1edf l\u1ea1i. Kh\u00f4ng c\u00f3 l\u1eddi n\u00e0o ra. \u0110\u1ea7u anh \u2014 ti\u1ebfng \u00f9 nh\u1eb9, nh\u01b0 t\u1ea7n s\u1ed1 cao b\u1ecb nhi\u1ec5u, nh\u01b0 radio ch\u01b0a b\u1eaft s\u00f3ng, nh\u01b0 \u2014",
+    "Anh kh\u00f4ng nh\u00ecn m\u00ecnh. Kh\u00f4ng mu\u1ed1n th\u1ea5y. Nh\u00ecn \u0111i ch\u1ed7 kh\u00e1c, nh\u00ecn \u0111\u01b0\u1eddng, nh\u00ecn v\u1ec9a h\u00e8 n\u1ee9t, nh\u00ecn b\u00e3i c\u1ecf ch\u1ebft gi\u1eefa \u0111\u01b0\u1eddng \u2014"
+  ],
+  "three_strongest_sentences": [
+    "B\u1ea3o nh\u00ecn anh. L\u00e2u. Nh\u01b0 \u0111ang \u0111o l\u01b0\u1eddng \u2014 kh\u00f4ng ph\u1ea3i \u0111o \u0111\u1ed9 cao hay c\u00e2n n\u1eb7ng, m\u00e0 \u0111o \u0111\u1ed9 s\u00e2u. \u0110\u1ed9 s\u00e2u c\u1ee7a s\u1ef1 s\u1ee5p \u0111\u1ed5.",
+    "N\u00f3 nh\u1edb tao. Nh\u1edb b\u1eb1ng c\u00e1ch m\u00e0 kh\u00f4ng ai n\u00ean nh\u1edb.",
+    "V\u00e0 \u0111\u00f3 \u2014 \u0111\u00f3 m\u1edbi l\u00e0 \u0111i\u1ec1u khi\u1ebfn anh s\u1ee3, s\u1ee3 h\u01a1n l\u1eddi B\u1ea3o, s\u1ee3 h\u01a1n ng\u01b0\u1eddi ch\u00e1y n\u00e3o trong b\u1ed3n s\u1ee9, s\u1ee3 h\u01a1n m\u00f9i hoa s\u1eefa trong \u0111\u01b0\u1eddng h\u1ea7m Cumberland: kh\u00f4ng ph\u1ea3i hi\u1ec7n t\u01b0\u1ee3ng k\u1ef3 l\u1ea1, kh\u00f4ng ph\u1ea3i \u00fd th\u1ee9c nh\u00e2n t\u1ea1o, m\u00e0 l\u00e0 vi\u1ec7c anh kh\u00f4ng c\u00f2n tin \u0111\u01b0\u1ee3c c\u1ea3m gi\u00e1c c\u1ee7a ch\u00ednh m\u00ecnh."
+  ],
+  "ai_patterns_detected": [
+    "Minor: The triple 'nh\u01b0' simile chain in one passage (t\u1ea7n s\u1ed1 cao b\u1ecb nhi\u1ec5u, nh\u01b0 radio ch\u01b0a b\u1eaft s\u00f3ng, nh\u01b0 \u2014) is a common AI rhetorical pattern of stacking comparisons",
+    "Minor: Some paragraphs follow a predictable structure of short declarative \u2192 elaboration \u2192 emotional beat, though this is less pronounced than typical AI output",
+    "The prose largely avoids major AI patterns \u2014 no 'delve', 'tapestry', 'nuanced', 'myriad' equivalents in Vietnamese. Paragraph rhythm varies appropriately. No symmetry addiction detected."
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "prose_quality",
+  "top_3_revisions": [
+    "Consolidate C\u01b0\u1eddng's 'tin t\u1eb7c' denial into one sharp action-based beat early in the chapter (have him actively run a trace or security diagnostic) rather than spreading it across multiple internal monologue repetitions that become circular.",
+    "Trim B\u1ea3o's monologue about his experience in the 'v\u00f9ng m\u1edd' to match his character profile \u2014 shorter sentences, more physical interruptions, less eloquent structure. Break his speech with action beats (xoa th\u00e1i d\u01b0\u01a1ng, d\u1eebng, su\u00fdt kh\u00f4ng ti\u1ebfp t\u1ee5c).",
+    "Compress the surface walk section after C\u01b0\u1eddng exits Cumberland \u2014 cut the reflection paragraph, tighten the transition, get to the chest-ping moment faster to maintain tension momentum into the chapter's end."
+  ],
+  "new_canon_entries": [
+    "New character: Kh\u00f4i, 32 tu\u1ed5i, Du M\u1ee5c t\u1ef1 ch\u1ebf b\u1ecb ch\u00e1y n\u00e3o trong \u0110\u01b0\u1eddng h\u1ea7m Cumberland. N\u00e3o ch\u1ebft nh\u01b0ng c\u01a1 th\u1ec3 v\u1eabn truy\u1ec1n t\u00edn hi\u1ec7u (ping 847ms). M\u1eb7t b\u1ecb b\u1ecfng t\u1eeb trong ra ngo\u00e0i, b\u1eaft \u0111\u1ea7u t\u1eeb th\u00e1i d\u01b0\u01a1ng.",
+    "B\u1ea3o c\u00f3 th\u1ec3 \u0111i kh\u1eadp khi\u1ec5ng (ch\u01b0a \u0111\u01b0\u1ee3c x\u00e1c nh\u1eadn trong canon tr\u01b0\u1edbc \u0111\u00f3).",
+    "Hi\u1ec7n t\u01b0\u1ee3ng m\u1edbi: Ng\u01b0\u1eddi ch\u00e1y n\u00e3o v\u1eabn c\u00f3 th\u1ec3 truy\u1ec1n t\u00edn hi\u1ec7u ping d\u00f9 n\u00e3o \u0111\u00e3 ch\u1ebft, v\u00e0 c\u00f3 th\u1ec3 bi\u1ec3u hi\u1ec7n ph\u1ea3n x\u1ea1 m\u1eb7t gi\u1ed1ng n\u1ee5 c\u01b0\u1eddi c\u00f3 c\u1ea3m x\u00fac.",
+    "B\u1ea3o \u0111\u00e3 ng\u1eebng \u0111\u1ed5 b\u1ed9 ba tu\u1ea7n tr\u01b0\u1edbc (th\u1eddi gian c\u1ee5 th\u1ec3).",
+    "B\u1ea3o g\u1eb7p 'th\u1ee9 g\u00ec \u0111\u00f3' trong v\u00f9ng m\u1edd \u2014 \u0111\u1ee9ng y\u00ean, kh\u00f4ng ch\u1edbp m\u1eaft, g\u1ecdi t\u00ean anh \u2014 tr\u01b0\u1edbc khi m\u1ea5t th\u1ecb l\u1ef1c.",
+    "B\u1ea3o v\u1eabn nh\u1eadn t\u00edn hi\u1ec7u t\u1eeb th\u1ebf gi\u1edbi \u1ea3o trong m\u1eaft m\u00f9 (nh\u1eafm m\u1eaft ph\u1ea3i v\u00e0 th\u1ea5y 'n\u00f3').",
+    "C\u01b0\u1eddng c\u00f3 th\u1ec3 c\u1ea3m nh\u1eadn ping trong c\u01a1 th\u1ec3 (kh\u00f4ng ch\u1ec9 qua thi\u1ebft b\u1ecb) \u2014 hi\u1ec7n t\u01b0\u1ee3ng m\u1edbi, ch\u01b0a r\u00f5 nguy\u00ean nh\u00e2n.",
+    "V\u1ebft b\u1ea7m tr\u00ean x\u01b0\u01a1ng s\u01b0\u1eddn C\u01b0\u1eddng c\u00f3 th\u1ec3 n\u00f3ng h\u01a1n da xung quanh \u2014 hi\u1ec7n t\u01b0\u1ee3ng kh\u00f4ng gi\u1ea3i th\u00edch \u0111\u01b0\u1ee3c."
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 29.48,
+    "sentence_length_cv": 0.913,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 7
+}

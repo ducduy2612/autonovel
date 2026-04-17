@@ -1,0 +1,105 @@
+{
+  "voice_adherence": {
+    "score": 8,
+    "weakest_moment": "C\u01b0\u1eddng b\u01b0\u1edbc \u0111i tr\u00ean v\u1ec9a h\u00e8. \u00c1o cho\u00e0ng th\u1ea7n kinh n\u00f3ng. Kh\u00f3a n\u1ed1i k\u1eb9p ch\u1eb7t. V\u1ebft x\u01b0\u1edbc rung. Nh\u1ecbp tim b\u1ed1n m\u01b0\u01a1i \u0111\u1eadp b\u00ean c\u1ea1nh nh\u1ecbp tim t\u00e1m m\u01b0\u01a1i. Hai ng\u01b0\u1eddi trong m\u1ed9t c\u01a1 th\u1ec3.",
+    "fix": "This passage is functional but edges toward summary-list. The voice works best when it lingers on one sensory detail and lets it metastasize. Replace the inventory-list rhythm with one image that carries the weight: 'Nh\u1ecbp tim b\u1ed1n m\u01b0\u01a1i \u2014 c\u1ee7a n\u00e0ng \u2014 \u0111\u1eadp b\u00ean c\u1ea1nh nh\u1ecbp t\u00e1m m\u01b0\u01a1i c\u1ee7a anh. Hai ng\u01b0\u1eddi trong m\u1ed9t l\u1ed3ng ng\u1ef1c. V\u00e0 l\u1ed3ng ng\u1ef1c n\u00e0y ch\u1ec9 \u0111\u1ee7 oxy cho m\u1ed9t.'",
+    "note": "The chapter largely nails the voice profile: surgical tone, body-before-emotion, technical vocabulary wells deployed without infodump. The ping/temperature refrains work as obsessive anchors. The weakest moments are where the voice slips into repetitive staccato without earning it \u2014 listing physical states rather than inhabiting one with disturbing specificity."
+  },
+  "beat_coverage": {
+    "score": 8,
+    "weakest_moment": "Beat 2 (ti\u1ebfng th\u1edf d\u00e0i t\u1eeb ph\u00eda sau g\u00e1y) is executed but the reveal \u2014 'H\u1ea7m tr\u1ed1ng' \u2014 lands slightly flat because the paragraph immediately before already primed the reader to expect nothing visible.",
+    "fix": "Delay the confirmation that the h\u1ea7m is empty. Let C\u01b0\u1eddng turn slowly. Describe what he sees in the dark corner BEFORE concluding it's nothing \u2014 let the reader see shapes, then nothing, creating a micro-tension spike. The emptiness should be a punch, not a confirmation.",
+    "note": "All four beats are present and dramatized in-scene rather than summarized. The mirror beat is the strongest \u2014 genuinely unsettling, earns its horror. The escape into Haymarket is visceral. The 'No, and' structure (he escapes, but she's already inside him) is executed effectively through the dual heartbeat motif."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "Nh\u01b0ng anh kh\u00f4ng cho ph\u00e9p. Kh\u00f4ng ph\u1ea3i v\u00ec anh m\u1ea1nh. Anh y\u1ebfu. Anh bi\u1ebft m\u00ecnh y\u1ebfu \u2014 k\u1ebf to\u00e1n, kh\u00f4ng ph\u1ea3i k\u1ef9 s\u01b0, kh\u00f4ng ph\u1ea3i chi\u1ebfn binh, ch\u1ec9 l\u00e0 k\u1ebb nghi\u1ec7n tr\u1ed1n trong h\u1ea7m, d\u00f9ng c\u01a1 th\u1ec3 ng\u01b0\u1eddi h\u00f4n m\u00ea \u0111\u1ec3 th\u1ecfa m\u00e3n nh\u1ee5c d\u1ee5c c\u00e1 nh\u00e2n.",
+    "fix": "This reads like the narrator explaining C\u01b0\u1eddng to the reader \u2014 a voice-profile summary inserted into a moment of action. Cut or compress to one clause: 'K\u1ebf to\u00e1n. Kh\u00f4ng chi\u1ebfn binh. Ch\u1ec9 k\u1ebb nghi\u1ec7n.' Let the reader remember his weakness from prior chapters rather than recapping it here.",
+    "note": "C\u01b0\u1eddng's internal monologue is appropriately clipped, technical, obsessive. The lack of dialogue is correct \u2014 he's alone. The K\u1ebb \u0110u\u1ed5i's voice appears only as remembered speech and the silent lip-reading, which is effective. The weakest point is the self-analysis passage that reads like character-doc exposition rather than in-moment thought."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "The B\u1ea3o reference \u2014 'Neural Mantle Gen 3 - Gi\u00e1 r\u1ebb - Li\u00ean h\u1ec7 B\u1ea3o' \u2014 appears during the flight through Haymarket but is not dramatized as a temptation C\u01b0\u1eddng actively resists.",
+    "fix": "Give C\u01b0\u1eddng a half-second of genuine temptation \u2014 his hand twitching toward the poster, or a flash of memory (B\u1ea3o's scarred temple, trembling hands) \u2014 before he rejects the impulse. This would seed future B\u1ea3o involvement more organically.",
+    "note": "The hot Neural Mantle is well-seeded \u2014 introduced as physical problem, escalates throughout, remains unresolved (smart). The mirror/reflection plant is the strongest element: introduced as normal shadow-play, then weaponized. The dual heartbeat (40 bpm vs. his own) is an excellent recurring motif that earns its final 'Ping: 0ms' payoff."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "Anh ch\u1ea1y. V\u00ec ph\u00eda sau \u2014 anh bi\u1ebft, anh c\u1ea3m nh\u1eadn, anh ch\u1eafc ch\u1eafn \u2014 c\u00f3 th\u1ee9 g\u00ec \u0111\u00f3 \u0111ang theo.",
+    "fix": "The triple affirmation ('bi\u1ebft, c\u1ea3m nh\u1eadn, ch\u1eafc ch\u1eafn') is rhetorically symmetrical in an AI-pattern way. Cut to: 'Anh ch\u1ea1y. V\u00ec ph\u00eda sau c\u00f3 th\u1ee9 g\u00ec \u0111\u00f3 \u2014 kh\u00f4ng ti\u1ebfng b\u01b0\u1edbc, kh\u00f4ng b\u00f3ng, kh\u00f4ng m\u00f9i hoa s\u1eefa \u2014 ch\u1ec9 \u00e1p l\u1ef1c nh\u1eb9 v\u00e0o sau g\u00e1y, nh\u01b0 c\u00f3 ai th\u1edf.' Let the sensory detail do the asserting.",
+    "strongest_sentence": "B\u00f3ng m\u1edf mi\u1ec7ng. Kh\u00f4ng c\u00f3 ti\u1ebfng. Ch\u1ec9 h\u00ecnh d\u00e1ng c\u1ee7a m\u00f4i \u2014 \u0111\u00f4i m\u00f4i quen thu\u1ed9c, m\u00f4i anh, m\u00f4i C\u01b0\u1eddng \u2014 \u0111ang u\u1ed1n th\u00e0nh ch\u1eef.",
+    "note": "The prose is strongest in the mirror sequence and the escape's physicality. Sentence variety is generally good \u2014 fragments, medium sentences, occasional longer ones. Weakest spots: rhetorical triplets, repeated 'Anh + verb' sentence starters in clusters, and several passages that list physical sensations rather than selecting one devastating detail."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Strong continuity from Ch 12's ending. The emotional state tracks: C\u01b0\u1eddng has just deleted his entire virtual world, the g\u00e1c x\u00e9p remains, the K\u1ebb \u0110u\u1ed5i said she'd remember. The chapter picks up in media res with the physical aftermath. The 40 bpm heartbeat carries over correctly. The v\u1ebft x\u01b0\u1edbc is new but plausible given the virtual events. One minor issue: the chapter says 'L\u1ea7n \u0111\u1ed5 b\u1ed9 th\u1ee9 850' but previous context established 847 \u2014 this could be intentional (time has passed) or an error worth flagging."
+  },
+  "canon_compliance": {
+    "score": 7,
+    "violations": [
+      "Chapter header says 'L\u1ea7n \u0111\u1ed5 b\u1ed9 th\u1ee9 850' but world.md states C\u01b0\u1eddng has undergone 847 l\u1ea7n \u0111\u1ed5 b\u1ed9. If this is 3 sessions later, that should be clarified; if it's an error, it contradicts established count.",
+      "V\u1ebft x\u01b0\u1edbc on the chest is described as new and bleeding. Canon establishes v\u1ebft b\u1ea7m (bruise, not scratch) on x\u01b0\u01a1ng s\u01b0\u1eddn tr\u00e1i. A scratch is a different injury \u2014 this may be an addition rather than a violation, but it should be noted as new canon.",
+      "The Neural Mantle heating up and refusing to unlock is new behavior not established in canon. This is fine as plot development but establishes new capabilities not previously hinted."
+    ],
+    "note": "No violations of the hard rules (no family mentions, no AI terminology for K\u1ebb \u0110u\u1ed5i, correct geography, correct ping values). The dual-heartbeat phenomenon is a logical extension of established rules rather than a contradiction."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "The B\u1ea3o poster reference is the only moment where worldbuilding feels like set dressing rather than lived environment \u2014 it's observed in passing without C\u01b0\u1eddng engaging with it.",
+    "fix": "See plants_seeded fix \u2014 give C\u01b0\u1eddng a moment of almost-contact with the B\u1ea3o connection.",
+    "note": "The chapter excels at making lore do work: the Haymarket geography isn't backdrop but escape route, the Neural Mantle isn't prop but prison, the ping concept isn't jargon but the character's entire framework for understanding reality. The Cumberland tunnel is referenced effectively as a place of death. The barista's 'Th\u00eam \u0111\u01b0\u1eddng kh\u00f4ng?' is a perfect lore touch \u2014 one line that grounds the world."
+  },
+  "engagement": {
+    "score": 8,
+    "weakest_moment": "The middle section \u2014 from C\u01b0\u1eddng reaching B1 to exiting the building \u2014 has the lowest tension because the outcome (he will escape the building) is never in doubt, and the obstacles (dark hallway, stuck door) are generic.",
+    "fix": "Introduce one genuinely uncertain element in the B1-to-exit sequence: a sound that might be footsteps, a light that turns on in a supposedly abandoned floor, or \u2014 better \u2014 a moment where the K\u1ebb \u0110u\u1ed5i's presence manifests physically (his reflection in a dark window, the shadow wrong) before he reaches the mirror-free outside.",
+    "note": "The mirror scene is the chapter's peak \u2014 genuinely frightening, original, visually precise. The final realization ('Ping: 0ms') is an excellent button. The chapter earns its horror through accumulation rather than jump scares. The weakest stretch is the escape logistics, which are necessary but mechanically described."
+  },
+  "three_weakest_sentences": [
+    "Anh ch\u1ea1y. V\u00ec ph\u00eda sau \u2014 anh bi\u1ebft, anh c\u1ea3m nh\u1eadn, anh ch\u1eafc ch\u1eafn \u2014 c\u00f3 th\u1ee9 g\u00ec \u0111\u00f3 \u0111ang theo.",
+    "Nh\u01b0ng anh kh\u00f4ng cho ph\u00e9p. Kh\u00f4ng ph\u1ea3i v\u00ec anh m\u1ea1nh. Anh y\u1ebfu. Anh bi\u1ebft m\u00ecnh y\u1ebfu \u2014 k\u1ebf to\u00e1n, kh\u00f4ng ph\u1ea3i k\u1ef9 s\u01b0, kh\u00f4ng ph\u1ea3i chi\u1ebfn binh, ch\u1ec9 l\u00e0 k\u1ebb nghi\u1ec7n tr\u1ed1n trong h\u1ea7m, d\u00f9ng c\u01a1 th\u1ec3 ng\u01b0\u1eddi h\u00f4n m\u00ea \u0111\u1ec3 th\u1ecfa m\u00e3n nh\u1ee5c d\u1ee5c c\u00e1 nh\u00e2n.",
+    "Th\u1ebf gi\u1edbi th\u1ef1c. X\u1ea5u x\u00ed. Th\u00f4 r\u00e1p. L\u1ea1nh. Nh\u01b0ng th\u1eadt."
+  ],
+  "three_strongest_sentences": [
+    "B\u00f3ng m\u1edf mi\u1ec7ng. Kh\u00f4ng c\u00f3 ti\u1ebfng. Ch\u1ec9 h\u00ecnh d\u00e1ng c\u1ee7a m\u00f4i \u2014 \u0111\u00f4i m\u00f4i quen thu\u1ed9c, m\u00f4i anh, m\u00f4i C\u01b0\u1eddng \u2014 \u0111ang u\u1ed1n th\u00e0nh ch\u1eef.",
+    "Ping: 0ms. Kh\u00f4ng c\u00f3 \u0111\u1ed9 tr\u1ec5. V\u00ec kh\u00f4ng c\u00f3 kho\u1ea3ng c\u00e1ch. V\u00ec n\u00e0ng \u1edf trong anh.",
+    "N\u00e0ng kh\u00f4ng c\u1ea7n \u0111i theo \u2014 v\u00ec n\u00e0ng \u0111\u00e3 \u1edf \u0111\u00e2y. \u1ede trong anh. \u1ede tr\u00ean da anh. \u1ede trong d\u00e2y th\u1ea7n kinh anh."
+  ],
+  "ai_patterns_detected": [
+    "Rhetorical triplets: 'anh bi\u1ebft, anh c\u1ea3m nh\u1eadn, anh ch\u1eafc ch\u1eafn' \u2014 symmetrical affirmation pattern",
+    "Self-exposition: the passage where C\u01b0\u1eddng recaps his own character flaws (k\u1ebf to\u00e1n, kh\u00f4ng ph\u1ea3i k\u1ef9 s\u01b0, k\u1ebb nghi\u1ec7n) reads like a character sheet summary inserted into prose",
+    "Uniform paragraph rhythm in the escape sequence: many paragraphs follow the same pattern (short action sentence, then sensory detail, then emotional beat)",
+    "Listing physical sensations rather than selecting one: several passages enumerate (cold, hot, pain, all real) rather than choosing the one devastating detail",
+    "The final paragraph attempts a 'summary of themes' closure that wraps too neatly \u2014 'hai nh\u1ecbp \u0111\u1eadp trong m\u1ed9t l\u1ed3ng ng\u1ef1c, ch\u1ea1y tr\u1ed1n kh\u1ecfi th\u1ee9 kh\u00f4ng th\u1ec3 ch\u1ea1y tr\u1ed1n' \u2014 which is effective but borders on AI-pattern concluding synthesis"
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "prose_quality",
+  "top_3_revisions": [
+    "Cut or compress the self-analysis passage ('Kh\u00f4ng ph\u1ea3i v\u00ec anh m\u1ea1nh... ch\u1ec9 l\u00e0 k\u1ebb nghi\u1ec7n...') to a fragment. Replace with one concrete detail that shows weakness without naming it \u2014 e.g., his hands shaking too hard to grip the door handle, or him not remembering B\u1ea3o's phone number despite having called it hundreds of times.",
+    "Break the uniform paragraph rhythm in the escape sequence (B1 to exit). Vary: one long paragraph of running, then a single-sentence paragraph of a sensory hit, then dialogue-with-self or memory-flash. Currently too many paragraphs follow: action \u2192 sensation \u2192 emotional note.",
+    "Clarify the \u0111\u1ed5 b\u1ed9 count: either establish that time has passed since Ch 12 (847\u2192850 = 3 more sessions, which has implications for memory fragmentation), or correct to 847/848. If intentional, add one line about the three sessions he doesn't clearly remember."
+  ],
+  "new_canon_entries": [
+    "Neural Mantle can heat up and refuse to unlock \u2014 new behavior, possibly caused by K\u1ebb \u0110u\u1ed5i's influence on the system",
+    "C\u01b0\u1eddng has a v\u1ebft x\u01b0\u1edbc (scratch) on his chest that bleeds and vibrates at 47.3 Hz / 40 bpm \u2014 distinct from the previously established v\u1ebft b\u1ea7m (bruise)",
+    "K\u1ebb \u0110u\u1ed5i can manifest in the real world as: auditory hallucination (breathing), visual hallucination (reflection smiling/mouthing words), and possibly tactile (the hot Neural Mantle, the vibrating scratch)",
+    "The dual-heartbeat phenomenon: C\u01b0\u1eddng's chest now carries two rhythms \u2014 his own (~80-120 bpm) and the K\u1ebb \u0110u\u1ed5i's (40 bpm)",
+    "C\u01b0\u1eddng has escaped the Haymarket bunker and is currently in the streets of Haymarket at night, wearing the hot Neural Mantle with the lock still engaged",
+    "The K\u1ebb \u0110u\u1ed5i's presence persists at Ping: 0ms \u2014 no server required, direct neural contact"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 19.79,
+    "sentence_length_cv": 1.01,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 7
+}

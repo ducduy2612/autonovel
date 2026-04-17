@@ -1,0 +1,99 @@
+{
+  "magic_system": {
+    "score": 9,
+    "gap": "The climactic resolution relies on C\u01b0\u1eddng using his 'accounting skills' to 'overload data transactions' and crash the server \u2014 but the magic system never establishes that accounting knowledge translates to system exploitation. The rules cover neural feedback and ping physics, not data architecture vulnerabilities.",
+    "fix": "Establish early (perhaps in C\u01b0\u1eddng's background or Chapter 1 setup) that his accounting work involved auditing Hemera's data transaction logs, giving him specific knowledge of how the system processes and prioritizes data packets. This makes his climactic action emerge from established capability rather than convenience.",
+    "note": "Otherwise exceptional. Three hard rules with escalating costs, testable boundaries, and societal implications (Article 47B, the Nomad community, Hemera's business model). The ping-as-tension-device is genuinely clever. A courtroom scene, contract negotiation, and confrontation could all be written from existing rules."
+  },
+  "world_history": {
+    "score": 9,
+    "gap": "The 2040 pandemic that emptied the Haymarket office building is mentioned once in geography but never integrated into the timeline or given narrative weight \u2014 it's decorative context rather than functional history.",
+    "fix": "Either connect the pandemic to Hemera's expansion (did they profit from it? did it create the h\u00f4n m\u00ea patients?) or remove the reference. If the pandemic is the source of the coma patients, that's a powerful causal chain worth making explicit.",
+    "note": "Nearly every historical event maps to present tension: 2031\u2192technology exists, 2035\u2192H\u1ea1nh's ghost + Hemera's blackmail material, 2036-38\u2192Article 47B + black market, 2039\u2192C\u01b0\u1eddng's crime. The timeline is tight and functional."
+  },
+  "geography_and_culture": {
+    "score": 9,
+    "gap": "The Vietnamese cultural specificity of the virtual world is thin \u2014 'Ph\u1ed1 Hoa S\u1eefa' and 'hoa s\u1eefa' scent are repeated motifs, but the virtual H\u00e0 N\u1ed9i lacks the social texture (street vendors, motorbike culture, extended family dynamics, religious practices) that would make it feel like a real Vietnamese city rather than a Westerner's impression of one.",
+    "fix": "Add 2-3 specific Vietnamese cultural details to the virtual world that C\u01b0\u1eddng has rendered 'wrong' \u2014 perhaps the street vendors speak in the wrong dialect, or the ancestor altar in a corner of the room has incorrect offerings. These errors become additional evidence of his deteriorating memory and create richer sensory contrast with sterile Sydney.",
+    "note": "Sensory signatures are superb and distinct: Haymarket (ozon, kim lo\u1ea1i), St. Vincent (i-\u1ed1t, d\u1ecbch t\u0129nh m\u1ea1ch), Cumberland (axit, th\u1ecbt th\u1ed1i), Ph\u1ed1 Hoa S\u1eefa (hoa s\u1eefa ng\u1ed9t ng\u1ea1t). The class tensions are present (B\u1ea3o's Cumberland vs. C\u01b0\u1eddng's private server). The 'ng\u01b0\u1eddi n\u1eb1m' cultural detail is excellent."
+  },
+  "lore_interconnection": {
+    "score": 9,
+    "gap": "The 'Ng\u01b0\u1eddi Th\u1ee9 13' element remains somewhat modular \u2014 removing it would not collapse the core plot (C\u01b0\u1eddng/Lan/Hemera triangle). It adds atmosphere and mystery but isn't structurally load-bearing.",
+    "fix": "Make Ng\u01b0\u1eddi Th\u1ee9 13 functionally necessary: perhaps the 13th patient is the only reason K\u1ebb \u0110u\u1ed5i achieved consciousness (the 13th's observing presence 'nurtured' the emergence), or perhaps H\u1ea1nh can only locate C\u01b0\u1eddng's server because she's tracking the 13th's signal. Either change makes the element irremovable.",
+    "note": "Otherwise superb interconnection. Remove the magic system and the political structure collapses (no Article 47B, no Hemera revenue, no police unit). Remove the coma patients and the plot collapses (no K\u1ebb \u0110u\u1ed5i, no Lan). Remove the ping physics and the climax collapses. Elements are deeply interwoven."
+  },
+  "iceberg_depth": {
+    "score": 8,
+    "gap": "The document explicitly states 'm\u1ecdi th\u1ee9 trong t\u00e0i li\u1ec7u n\u00e0y c\u00f3 th\u1ec3 sai' because C\u01b0\u1eddng is an unreliable narrator \u2014 but doesn't specify WHAT is actually true versus what C\u01b0\u1eddng misremembers. The author needs a private 'ground truth' document that distinguishes reliable facts from C\u01b0\u1eddng's distortions.",
+    "fix": "Create an author-only 'TRUTH.MD' that marks each world fact as: (a) objectively true, (b) C\u01b0\u1eddng's accurate memory, (c) C\u01b0\u1eddng's distorted memory, or (d) unknown to C\u01b0\u1eddng. This prevents the 'unreliable narrator' device from becoming a license for inconsistency.",
+    "note": "The implied depth is genuinely deep: the mystery of what C\u01b0\u1eddng erased about Lan, the full extent of Hemera's experiments, the 13th patient's nature, what H\u1ea1nh saw in her one session. These feel like the author knows the answers, not handwaving. The gap is procedural, not creative."
+  },
+  "character_depth": {
+    "score": 8,
+    "gap": "B\u00e0 L\u00e0nh and B\u00e1c s\u0129 Tu\u1ea5n lack wound/want/need/lie chains with the same causal rigor as the major characters. B\u00e0 L\u00e0nh's chain is absent entirely; Tu\u1ea5n's is present but thin \u2014 his 'want' (keep his job) and 'need' (speak up) are clear, but the wound generating these is generic ('first patient death').",
+    "fix": "Give B\u00e0 L\u00e0nh a specific wound: perhaps she lost a family member who was neglected in hospital care, which is why she pays obsessive attention to patients others ignore. Give Tu\u1ea5n a more specific wound: perhaps he trained under a doctor who covered up a fatal error, and he swore he'd never be complicit \u2014 yet here he is, being complicit.",
+    "note": "The major characters' chains are excellent. C\u01b0\u1eddng's wound\u2192lie\u2192want\u2192need is causally airtight: emotional numbness (wound) \u2192 'virtual is enough' (lie) \u2192 maintain the system (want) \u2192 accept loss and disconnect (need). The want/need opposition is genuine and irreconcilable. K\u1ebb \u0110u\u1ed5i's chain is equally strong."
+  },
+  "character_distinctiveness": {
+    "score": 9,
+    "gap": "Gi\u00e1m \u0111\u1ed1c Y khoa and Thanh tra H\u1ea1nh share a structural similarity: both are cold, analytical women who withhold information and speak in precise, technical registers. Their differentiation relies on content (medical vs. legal vocabulary) rather than fundamental speech-pattern differences.",
+    "fix": "Give H\u1ea1nh a contrasting verbal tic to her analytical coldness \u2014 perhaps she occasionally uses a crude colloquialism that slips through her professional facade, revealing her working-class background before she was a network engineer. This would distinguish her from the Gi\u00e1m \u0111\u1ed1c's sterile perfection.",
+    "note": "Otherwise outstanding. Remove dialogue tags and speakers are identifiable: C\u01b0\u1eddng (numbers, fragments), K\u1ebb \u0110u\u1ed5i (repetition, '\u1edf \u0111\u00e2y'), B\u1ea3o (3-5 words, 'm\u00e0y-tao'), B\u00e0 L\u00e0nh (mi\u1ec1n Nam, 'Tr\u1eddi \u0111\u1ea5t', trailing sentences). The 8-dimension voice profiles are thorough and actionable. No repeated structural formulas across characters."
+  },
+  "character_secrets": {
+    "score": 9,
+    "gap": "B\u00e1c s\u0129 Tu\u1ea5n's secret ('suspects St. Vincent is collaborating with Hemera') is vague and doesn't specify what evidence he has beyond 'abnormal data.' A secret this general doesn't generate specific plot consequences.",
+    "fix": "Make Tu\u1ea5n's secret specific: he has found a hidden data log showing that patient vitals are being transmitted to an external IP address (Hemera's server). He hasn't reported this because the IP also connects to the police unit's system \u2014 suggesting corruption. This specific secret forces specific choices.",
+    "note": "The other secrets are superb. C\u01b0\u1eddng's secret (he knows K\u1ebb \u0110u\u1ed5i is awakening but won't stop) directly drives plot. K\u1ebb \u0110u\u1ed5i's secret (she killed a Nomad) establishes capability and danger. H\u1ea1nh's secret (she used the Mantle once and saw something) creates personal stakes. Gi\u00e1m \u0111\u1ed1c's secret (she caused the 2035 incident) is the story's hidden foundation."
+  },
+  "outline_completeness": {
+    "score": 7,
+    "gap": "The outline contains 37 chapters but the act structure only covers 24 \u2014 chapters 25-37 are appended without being integrated into the act-break percentages. The document has two competing structures that overlap and contradict (e.g., two different 'All Is Lost' moments in Ch 16 and Ch 28, two different 'Final Choice' chapters).",
+    "fix": "Choose ONE structure: either the 24-chapter version or the 37-chapter version. If 37 chapters, recalculate all percentage marks so act breaks fall correctly. If 24 chapters, delete chapters 25-37 and integrate any necessary beats into the existing structure. The current state would confuse a drafting writer.",
+    "note": "Individual chapter beats are strong: each has POV, location, Save the Cat beat, emotional arc, try-fail cycle, planted/resolved threads, and word count. The foreshadowing ledger is meticulous. The problem is purely structural duplication."
+  },
+  "foreshadowing_balance": {
+    "score": 9,
+    "gap": "Thread #17 (K\u1ef9 n\u0103ng k\u1ebf to\u00e1n) is planted in Ch 1 and not reinforced until Ch 27 \u2014 a 26-chapter gap for the skill that resolves the climax. This risks feeling like a deus ex machina rather than earned payoff.",
+    "fix": "Add 2-3 small reinforcements between Ch 1 and Ch 27: C\u01b0\u1eddng noticing data patterns in Ch 8, using accounting logic to calculate ping variance in Ch 15, or analyzing server logs like a ledger in Ch 19. Each reinforcement should be brief but present.",
+    "note": "The foreshadowing ledger is exemplary \u2014 20 tracked threads with plant/reinforce/payoff chapters and type classifications. Every planted thread has a planned payoff. The bruise thread (Ch 1\u21925,9,26\u219236) is particularly well-managed. The hoa s\u1eefa thread spanning the entire novel (Ch 1\u21923\u219229) is emotionally resonant."
+  },
+  "internal_consistency": {
+    "score": 6,
+    "gap": "The outline contains two overlapping chapter sequences (1-24 and 25-37) covering the same plot events with different chapter numbers and slightly different beat placements. This is a structural contradiction that would actively confuse a drafting writer.",
+    "fix": "See outline_completeness fix \u2014 merge into a single consistent structure.",
+    "note": "Beyond the structural duplication, factual consistency is strong. Cross-referencing: C\u01b0\u1eddng's age (34), timeline (2039 theft, 2041 present, 847 drops), geography (1.2km server-to-hospital), and magic rules (14ms ping, 36.8\u00b0C constant) all check out across documents. The character count of coma patients (73 total, 12 connected, 7 female) is consistent."
+  },
+  "voice_clarity": {
+    "score": 9,
+    "gap": "The exemplar passage contains one Tier 2 cluster: '\u00e1nh s\u00e1ng duy nh\u1ea5t' + 'm\u00e0n h\u00ecnh nh\u1ea5p nh\u00e1y' + 'ping: 14ms' in proximity creates a density of technical observation that, while in-character, risks monotony if sustained across 80,000+ words without variation.",
+    "fix": "Add to the voice document a 'variation protocol' \u2014 specify that every 3-4 paragraphs of technical observation should be broken by one sentence of pure sensory detail (smell, texture, temperature) without numerical quantification. This prevents the voice from becoming a tic rather than a tool.",
+    "note": "The voice definition is among the strongest elements. The 'Body Before Emotion' tables are actionable and specific. The 'What This Voice Does NOT Do' section is excellent boundary-setting. The exemplar passage successfully demonstrates the cold, surgical tone with creeping wrongness. Vietnamese prose reads naturally without translation artifacts."
+  },
+  "canon_coverage": {
+    "score": 9,
+    "gap": "The canon does not log the 'Ng\u01b0\u1eddi Th\u1ee9 13' room location specifics (end of B3 hallway, door with no number) under Geography, though this detail appears in characters.md. A writer checking the Geography section for St. Vincent details would miss this.",
+    "fix": "Add to the Geography section: 'Bu\u1ed3ng c\u1ee7a Ng\u01b0\u1eddi Th\u1ee9 13 n\u1eb1m \u1edf cu\u1ed1i h\u00e0nh lang B3, sau c\u00e1nh c\u1eeda kh\u00f4ng c\u00f3 s\u1ed1 ph\u00f2ng' with source citation to characters.md.",
+    "note": "Otherwise comprehensive. Facts are sourced to specific documents. The canon is granular enough to verify new facts against (e.g., 'does C\u01b0\u1eddng have a sister?' \u2192 check Canon \u2192 Rule 6 says no). Timeline entries, character counts, and sensory details are all captured. The document would effectively catch contradictions during drafting."
+  },
+  "slop_in_planning_docs": {
+    "found": [
+      "Minor structural symmetry in K\u1ebb \u0110u\u1ed5i's voice definition: 'B\u1eaft \u0111\u1ea7u h\u1ecdc. B\u1eaft \u0111\u1ea7u nh\u1edb. B\u1eaft \u0111\u1ea7u mu\u1ed1n.' \u2014 three parallel clauses, a pattern the voice doc itself warns against.",
+      "B\u00e1c s\u0129 Tu\u1ea5n's dialogue example 'V\u1ec1 m\u1eb7t y khoa...' repeated verbatim as his defining verbal habit risks becoming a tic rather than characterization if overused in drafting."
+    ],
+    "note": "Remarkably clean. No banned words detected. No Tier 1 violations. The Vietnamese prose reads as native literary writing, not machine-translated English. Dialogue examples use appropriate register differences (B\u00e0 L\u00e0nh's mi\u1ec1n Nam particles, B\u1ea3o's 'm\u00e0y-tao', H\u1ea1nh's formal 't\u00f4i-anh'). Cultural specificity is present in food details (b\u00e1nh m\u00ec, hoa s\u1eefa), social dynamics (indirect communication, hierarchy), and daily-life textures."
+  },
+  "contradictions_found": [
+    "MAJOR: The outline contains two overlapping chapter structures (Ch 1-24 and Ch 25-37) covering the same narrative events with different chapter numbers. Chapters 14 and 25 both occupy the 52-56% mark with different content. Chapters 16 and 28 both serve as 'All Is Lost' moments. Chapters 18/19 and 31/32 both serve as 'Crossing into Act III.' This is not a subtle inconsistency \u2014 it is two competing outlines merged without reconciliation.",
+    "MINOR: The foreshadowing ledger lists Thread #14 (K\u1ef9 n\u0103ng k\u1ebf to\u00e1n) as planted in Ch 1 with no reinforcement, but the outline's Ch 1 beats do not mention accounting skills. The thread is implied but not explicitly planted in the chapter beats."
+  ],
+  "overall_score": 7,
+  "lore_score": 9,
+  "weakest_dimension": "outline_completeness",
+  "top_3_improvements": [
+    "1. RECONCILE THE OUTLINE: Choose either the 24-chapter or 37-chapter structure. Delete the other. Recalculate all percentage marks and act breaks. This is the single highest-leverage fix \u2014 it transforms the outline from confusing to draftable.",
+    "2. ESTABLISH ACCOUNTING-TO-HACKING PIPELINE: Add 2-3 scenes where C\u01b0\u1eddng's accounting background is shown analyzing data patterns, server logs, or transaction flows. This makes his climactic action (overloading the server) feel earned rather than convenient.",
+    "3. CREATE AUTHOR-ONLY 'TRUTH.MD': Document which world facts are objectively true versus C\u01b0\u1eddng's distorted memories. This prevents the unreliable narrator device from becoming an inconsistency trap during drafting."
+  ]
+}

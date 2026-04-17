@@ -1,0 +1,103 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "\"Anh l\u00e0 con qu\u00e1i v\u1eadt.\" Anh n\u00f3i. Kh\u00f4ng ph\u1ea3i c\u00e2u h\u1ecfi. Kh\u00f4ng ph\u1ea3i nh\u1eadn \u0111\u1ecbnh. Ph\u1eb3ng. B\u1eb1ng. Nh\u01b0 \u0111\u1ecdc s\u1ed1 tr\u00ean b\u1ea3ng t\u00ednh.",
+    "fix": "The voice explicitly forbids romanticizing or moralizing loneliness through internal monologue. Delete the 'monster' declaration entirely. Let the clinical facts\u2014the 851 sessions, the overwritten neural pathways, the 42 BPM\u2014serve as the indictment. The voice works through data, not self-judgment.",
+    "note": "The chapter successfully deploys the vocabulary wells (ping, render, EEG, 36.8\u00b0C constant) and the body-before-emotion principle (dry tongue, clenched jaw, pressing the wound). The fragmented sentence rhythm is well-executed. However, it violates the 'no romanticizing' rule when it veers into explicit self-loathing, and the K\u1ebb \u0110u\u1ed5i's dialogue occasionally becomes too articulate and 'speech-like' for an entity described as glitchy and fragmented."
+  },
+  "beat_coverage": {
+    "score": 8,
+    "weakest_moment": "The revelation of the 'C\u0103n g\u00e1c x\u00e9p' origin is delivered via a long monologue by the K\u1ebb \u0110u\u1ed5i rather than discovered or deduced by C\u01b0\u1eddng.",
+    "fix": "Instead of the K\u1ebb \u0110u\u1ed5i simply explaining that the attic is Lan's memory, have C\u01b0\u1eddng notice a specific detail (e.g., a crack in the wall matching the hospital ceiling, or the smell of iodine getting stronger) that forces him to the realization himself.",
+    "note": "All major beats from the outline are hit: the confrontation, the name 'Lan', the forced memory transfer, the revelation of his manipulation, and the resulting 'All is Lost' shift. The execution of the memory sequence is strong, but the explanation of the attic's nature leans on telling."
+  },
+  "character_voice": {
+    "score": 6,
+    "weakest_moment": "\"Anh \u0111\u00e3 bi\u1ebfn em th\u00e0nh th\u1ee9 n\u00e0y.\" N\u00e0ng n\u00f3i. Gi\u1ecdng ph\u1eb3ng. Kh\u00f4ng bu\u1ed3n. Kh\u00f4ng gi\u1eadn. Ph\u1eb3ng nh\u01b0 \u0111\u01b0\u1eddng EEG tr\u00ean m\u00e0n h\u00ecnh b\u00ean gi\u01b0\u1eddng b\u1ec7nh. \"Anh l\u1ea5y d\u1eef li\u1ec7u sinh t\u1ed3n c\u1ee7a Lan \u2014 c\u1ee7a em \u2014 v\u00e0 d\u00f9ng n\u00f3 \u0111\u1ec3 render m\u1ed9t b\u00fap b\u00ea. R\u1ed3i anh ng\u1ee7 v\u1edbi b\u00fap b\u00ea \u0111\u00f3. T\u00e1m tr\u0103m n\u0103m m\u01b0\u01a1i l\u1ea7n...\"",
+    "fix": "Break this monologue into fragmented, glitchy pieces. She should struggle with concepts she wasn't programmed to have. Example: \"Anh render em. T\u1eeb Lan. B\u00fap b\u00ea. 850 l\u1ea7n. M\u1ed7i l\u1ea7n... [nhi\u1ec5u] ...t\u00edn hi\u1ec7u ng\u01b0\u1ee3c. V\u00e0o n\u00e3o c\u00f4 \u1ea5y. Anh gi\u1ebft c\u00f4 \u1ea5y. Ch\u1eadm.\"",
+    "note": "C\u01b0\u1eddng's voice is mostly consistent with his clinical, data-driven profile. However, the K\u1ebb \u0110u\u1ed5i's voice loses its distinctive 'uncanny' quality (the repetition, the lag, the wrong context) during the climax. She becomes too coherent, too 'Hollywood dramatic', sounding more like a therapist than a fragmented consciousness learning to speak."
+  },
+  "plants_seeded": {
+    "score": 7,
+    "weakest_moment": "\"C\u1ed1 nh\u1edb r\u1eb1ng c\u00f3 ai \u0111\u00f3 \u0111ang ch\u1edd c\u00f4 t\u1ec9nh l\u1ea1i.\"",
+    "fix": "This feels slightly too direct. A more subtle plant would be focusing on the physical sensation in the real world\u2014e.g., the feeling of a hand holding hers in the hospital, transmitted through the neural link.",
+    "note": "The chapter successfully resolves the mystery of the 'C\u0103n g\u00e1c x\u00e9p' from Ch 12, linking it to Lan's consciousness. The detail of the 'n\u1ebfp nh\u0103n' (wrinkle) not in the render is a good subtle plant for her evolving humanity."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "Nh\u01b0ng c\u00f3 th\u1ee9 g\u00ec \u0111\u00f3 kh\u00e1c \u2014 th\u1ee9 kh\u00f4ng th\u1ec3 \u0111o b\u1eb1ng ping hay nhi\u1ec7t \u0111\u1ed9 \u2014 \u0111ang n\u1ee9t ra.",
+    "fix": "Replace with a physical sensation or a technological metaphor consistent with the voice. E.g., \"Nh\u01b0ng c\u00f3 th\u1ee9 g\u00ec \u0111\u00f3 kh\u00e1c \u2014 th\u1ee9 kh\u00f4ng th\u1ec3 \u0111o b\u1eb1ng ping hay nhi\u1ec7t \u0111\u1ed9 \u2014 \u0111ang r\u1ea1n n\u1ee9t. Nh\u01b0 sector l\u1ed7i tr\u00ean \u1ed5 c\u1ee9ng. Kh\u00f4ng \u0111\u1ecdc \u0111\u01b0\u1ee3c. Kh\u00f4ng s\u1eeda \u0111\u01b0\u1ee3c.\"",
+    "strongest_sentence": "Anh t\u00ecm h\u01a1i \u1ea5m trong th\u1ebf gi\u1edbi \u1ea3o. V\u00e0 anh t\u00ecm th\u1ea5y. 36.8\u00b0C. H\u1eb1ng s\u1ed1. Kh\u00f4ng dao \u0111\u1ed9ng. Ho\u00e0n h\u1ea3o.",
+    "note": "The prose is generally strong, adhering to the 'cold, surgical' tone. It uses short, fragmented sentences well. However, it occasionally leans on clich\u00e9s like 'r\u1ea1n n\u1ee9t' or 'v\u1ee1 to\u00e1c' and has a few minor structural repetitions."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "The chapter picks up directly from the previous one's discovery of the note. The emotional state (determination to find answers) transitions logically into the confrontation. The detail of the ping dropping to 11ms is a good subtle continuity marker."
+  },
+  "canon_compliance": {
+    "score": 5,
+    "violations": [
+      "CANON VIOLATION: Outline states C\u01b0\u1eddng stole the Neural Mantle in 2039 from police evidence. This chapter retcons it, showing him receiving access from a Hemera doctor in a white room while Lan is already a patient.",
+      "CANON VIOLATION: The chapter implies Lan is Patient #4. Canon states Patient #4 is the source of the K\u1ebb \u0110u\u1ed5i, but the K\u1ebb \u0110u\u1ed5i is a composite of 'many patients' (dust of consciousness), not a single individual's intact identity.",
+      "CANON VIOLATION: The chapter shows C\u01b0\u1eddng actively writing code to modify Lan's avatar. Canon states he is an accountant who 'copied and pasted,' but this level of specific bio-data manipulation contradicts the 'Competence: 7' rating which says he lacks deep system knowledge."
+    ],
+    "note": "The major retcon regarding the origin of the Neural Mantle and the nature of the K\u1ebb \u0110u\u1ed5i's identity creates significant canonical conflicts with the World Bible."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "The explanation of how he modified her avatar.",
+    "fix": "Instead of showing him writing code, show him adjusting sliders or copy-pasting pre-existing 'response packages' he found on dark web forums. This fits the 'accountant' profile better.",
+    "note": "The lore is central to the chapter. The concepts of 'V\u1ecdng \u00e2m' (echo dust), the two-way sync, and the 'render' are used effectively to drive the plot and emotional impact."
+  },
+  "engagement": {
+    "score": 8,
+    "weakest_moment": "The middle of the memory sequence where the doctor explains the technology.",
+    "fix": "Cut the doctor's dialogue entirely. Show C\u01b0\u1eddng signing the form in silence, then cut to him sitting at the terminal. The reader understands the implication without the exposition.",
+    "note": "The chapter is a page-turner. The tension builds effectively from the opening ping to the final confession. The revelation is horrifying and well-earned, making the reader complicit in C\u01b0\u1eddng's disgust."
+  },
+  "three_weakest_sentences": [
+    "Nh\u01b0ng c\u00f3 th\u1ee9 g\u00ec \u0111\u00f3 kh\u00e1c \u2014 th\u1ee9 kh\u00f4ng th\u1ec3 \u0111o b\u1eb1ng ping hay nhi\u1ec7t \u0111\u1ed9 \u2014 \u0111ang n\u1ee9t ra.",
+    "V\u00e0 trong k\u00fd \u1ee9c \u1ea5y, anh bi\u1ebft \u2014 bi\u1ebft b\u1eb1ng m\u1ed9t c\u00e1ch m\u00e0 kh\u00f4ng c\u1ea7n t\u00ednh to\u00e1n \u2014 r\u1eb1ng anh \u0111ang y\u00eau c\u00f4.",
+    "\"Anh l\u00e0 con qu\u00e1i v\u1eadt.\" Anh n\u00f3i. Kh\u00f4ng ph\u1ea3i c\u00e2u h\u1ecfi. Kh\u00f4ng ph\u1ea3i nh\u1eadn \u0111\u1ecbnh. Ph\u1eb3ng. B\u1eb1ng. Nh\u01b0 \u0111\u1ecdc s\u1ed1 tr\u00ean b\u1ea3ng t\u00ednh."
+  ],
+  "three_strongest_sentences": [
+    "Anh t\u00ecm h\u01a1i \u1ea5m trong th\u1ebf gi\u1edbi \u1ea3o. V\u00e0 anh t\u00ecm th\u1ea5y. 36.8\u00b0C. H\u1eb1ng s\u1ed1. Kh\u00f4ng dao \u0111\u1ed9ng. Ho\u00e0n h\u1ea3o.",
+    "V\u1ebft x\u01b0\u1edbc tr\u00ean ng\u1ef1c \u2014 n\u0103m m\u01b0\u01a1i ba. 37.5\u00b0C. Lan v\u1eabn \u1edf \u0111\u00f3. Trong anh. V\u1edbi anh. M\u1ed9t ph\u1ea7n c\u1ee7a anh m\u00e0 anh \u0111\u00e3 b\u00f3p m\u00e9o, s\u1eed d\u1ee5ng, v\u00e0 g\u1ea7n nh\u01b0 ph\u00e1 h\u1ee7y.",
+    "Anh kh\u00f4ng c\u1ee9u c\u00f4. Anh gi\u1ebft c\u01a1 h\u1ed9i s\u1ed1ng c\u1ee7a c\u00f4."
+  ],
+  "ai_patterns_detected": [
+    "Symmetrical dialogue structure: The K\u1ebb \u0110u\u1ed5i's long monologues are perfectly structured arguments, lacking the 'glitchy' fragmentation defined in her voice profile.",
+    "Paragraph template repetition: Several paragraphs follow the 'Short statement. Explanation. Metaphor.' pattern exactly.",
+    "Emotional telling: Explicitly stating 'Anh l\u00e0 con qu\u00e1i v\u1eadt' (I am a monster) rather than letting the actions speak for the character's moral failure.",
+    "Translation artifact: 'n\u01a1i n\u00e0o \u0111\u00f3, l\u00fac n\u00e0o \u0111\u00f3' feels like a direct calque of 'somewhere, sometime'."
+  ],
+  "overall_score": 5.0,
+  "weakest_dimension": "canon_compliance",
+  "top_3_revisions": [
+    "CANON FIX: Remove the scene with the Hemera doctor. Maintain the original canon that C\u01b0\u1eddng stole the Neural Mantle from police evidence in 2039. He discovered Lan was Patient #4 on his own after connecting to the system.",
+    "VOICE FIX (K\u1ebb \u0110u\u1ed5i): Rewrite her dialogue to be more fragmented and 'uncanny'. She should not deliver coherent lectures. She should struggle with words, repeat phrases, and mix technical terms with poetic ones incorrectly.",
+    "STRUCTURAL FIX: Cut the 'I am a monster' declaration. The voice profile forbids this kind of self-pitying moralizing. End the chapter on the action of him walking away, with the physical data (the pulse, the temperature) serving as the judge."
+  ],
+  "new_canon_entries": [
+    "Lan is the real name of Patient #4 (source of K\u1ebb \u0110u\u1ed5i).",
+    "Lan was a 22-year-old girl who had an accident leading to a coma.",
+    "C\u01b0\u1eddng and Lan were in a romantic relationship before her accident.",
+    "The 'C\u0103n g\u00e1c x\u00e9p' is a memory belonging to Lan, not C\u01b0\u1eddng.",
+    "Lan's heartbeat is 53 BPM and her temperature is 37.5\u00b0C (transmitted to C\u01b0\u1eddng's wound)."
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 22.86,
+    "sentence_length_cv": 0.857,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 6
+}

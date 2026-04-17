@@ -1,0 +1,107 @@
+{
+  "voice_adherence": {
+    "score": 8,
+    "weakest_moment": "S\u1ef1 th\u1eadt kh\u00f4ng chi\u1ebfm di\u1ec7n t\u00edch, nh\u01b0ng n\u00f3 chi\u1ebfm oxy.",
+    "fix": "Cut this line entirely. It's a metaphor that doesn't belong in C\u01b0\u1eddng's clinical, measurement-driven voice. Replace with something concrete: the room feeling smaller, or his breathing becoming shallow.",
+    "note": "The chapter largely nails the cold, surgical tone. Ping measurements, temperature readings, and clinical observations dominate. The fragmented sentence rhythm works well. But this one metaphor breaks the voice\u2014it's too 'literary' in a way C\u01b0\u1eddng isn't. He doesn't do poetic abstractions about truth and oxygen."
+  },
+  "beat_coverage": {
+    "score": 8,
+    "weakest_moment": "The transition from the memory flood back to the attic confrontation feels rushed\u2014C\u01b0\u1eddng processes what he's seen too quickly, moving from devastation to 'Anh s\u1ebd \u0111i' within a few paragraphs.",
+    "fix": "Extend the silence after Lan withdraws her hand. Let C\u01b0\u1eddng sit with the knowledge longer before he can speak. Show his body failing him\u2014dry heaving, hands shaking too hard to form fists, the ping spiking erratically as his nervous system misfires.",
+    "note": "All four major beats are hit and dramatized: the confrontation, the name revelation, the memory flood (the strongest beat\u2014rendered as actual scenes, not summary), and the truth about what C\u01b0\u1eddng did. The memory sequences are particularly well-executed, showing rather than telling."
+  },
+  "character_voice": {
+    "score": 8,
+    "weakest_moment": "\"Em gh\u00e9t anh kh\u00f4ng?\" \u2014 This question feels slightly off for C\u01b0\u1eddng. He's established as someone who doesn't ask, who declares and records. The narrative acknowledges it's involuntary, but it still reads more like a generic protagonist moment.",
+    "fix": "Make the question more specific to his voice: \"Gh\u00e9t. \u0110\u00f3 l\u00e0 c\u1ea3m gi\u00e1c g\u00ec?\" \u2014 asking about the *mechanics* of hatred rather than whether she feels it. Or have him not ask at all, and have Lan answer the question he couldn't formulate.",
+    "note": "Lan's voice is excellent\u2014she's differentiated from her earlier 'K\u1ebb \u0110u\u1ed5i' persona. The shift from honey-sweet with glitches to flat, exhausted, human is well-earned. Her dialogue about learning emotions one at a time ('gh\u00e9t th\u00ec ph\u1ee9c t\u1ea1p h\u01a1n. Em ch\u01b0a h\u1ecdc \u0111\u1ebfn \u0111\u00f3.') is the strongest character moment in the chapter. C\u01b0\u1eddng's voice holds most of the time, with occasional slips into generic protagonist territory."
+  },
+  "plants_seeded": {
+    "score": 7,
+    "weakest_moment": "The explanation of the attic appearing after dive 612 is somewhat expository\u2014Lan explains it directly rather than the reader piecing it together.",
+    "fix": "Have C\u01b0\u1eddng realize it himself through observation before Lan confirms it. He notices the water stains on concrete match the pattern in the attic, or the dimensions correspond to a room he's never been in. Let him do the math.",
+    "note": "The chapter resolves the attic mystery from Ch 12 effectively. The connection between the attic and Lan's residual consciousness is clear. The detail about her learning to render 't\u1eebng v\u00e1n g\u1ed7. T\u1eebng h\u1ea1t b\u1ee5i' is evocative and well-planted."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "S\u1ef1 th\u1eadt kh\u00f4ng chi\u1ebfm di\u1ec7n t\u00edch, nh\u01b0ng n\u00f3 chi\u1ebfm oxy.",
+    "fix": "Cut or replace with: 'Ph\u00f2ng nh\u1ecf \u0111i. Kh\u00f4ng ph\u1ea3i tr\u1ea7n th\u1ea5p h\u01a1n. Kh\u00f4ng kh\u00ed \u0111\u1eb7c h\u01a1n.' \u2014 concrete, physical, in C\u01b0\u1eddng's register.",
+    "strongest_sentence": "Anh th\u1ea5y tay m\u00ecnh g\u00f5. D\u00f2ng l\u1ec7nh. M\u00e3 ghi \u0111\u00e8. M\u00e3 b\u00f3p m\u00e9o. M\u00e3 kh\u00f3a v\u00f9ng \u00fd th\u1ee9c kh\u00f4ng mong mu\u1ed1n, m\u1edf v\u00f9ng kh\u00e1c \u2014 v\u00f9ng ph\u1ea3n \u1ee9ng x\u00fac gi\u00e1c, v\u00f9ng ph\u1ea3n \u1ee9ng th\u1ec3 ch\u1ea5t, v\u00f9ng...",
+    "note": "The memory sequences contain the best prose\u2014fragmented, escalating, clinical horror rendered through code metaphors. The weakest prose is in the transition sections where the authorial voice creeps in. Sentence variety is generally good, though there's a pattern of short declarative sentences that becomes slightly monotonous in the middle section. The specificity of detail (t\u00e0n nhang \u1edf s\u1ed1ng m\u0169i, r\u0103ng kh\u1ec3nh, \u00e1o s\u01a1 mi \u1ee7i kh\u00f4ng k\u1ef9) elevates the memory scenes above the rest."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Excellent continuity from the previous chapter. The paper with 'Lan. Ph\u00f2ng 4. St. Vincent' carries forward naturally. C\u01b0\u1eddng's emotional state\u2014having just found the paper and decided to seek answers\u2014flows directly into this dive. The v\u1ebft x\u01b0\u1edbc (now called v\u1ebft x\u01b0\u1edbc consistently) continues its heartbeat motif. The dive number increments correctly (851, up from 847 mentioned in world docs\u2014time has passed). Small issue: previous chapter ended with him heading to the surface, this chapter opens with him diving again. A brief transitional beat acknowledging he chose to dive one more time before going to St. Vincent would strengthen the connection."
+  },
+  "canon_compliance": {
+    "score": 6,
+    "violations": [
+      "MAJOR: The chapter reveals C\u01b0\u1eddng deliberately modified Lan's consciousness settings (kh\u00f3a v\u00f9ng nh\u1eadn th\u1ee9c b\u1ea3n th\u00e2n 90%, m\u1edf v\u00f9ng ph\u1ea3n \u1ee9ng t\u00ecnh d\u1ee5c 100%). This contradicts the established canon that C\u01b0\u1eddng is a k\u1ebf to\u00e1n who 'h\u1ecdc \u0111\u1ee7 \u0111\u1ec3 t\u1ef1 v\u1eadn h\u00e0nh, nh\u01b0ng kh\u00f4ng hi\u1ec3u s\u00e2u v\u1ec1 ki\u1ebfn tr\u00fac h\u1ec7 th\u1ed1ng' (characters.md). The level of system manipulation shown\u2014directly rewriting neural mapping parameters\u2014requires the kind of deep understanding he canonically lacks.",
+      "MODERATE: The chapter implies C\u01b0\u1eddng had authorized access to the Neural Mantle system and patient data ('Ng\u01b0\u1eddi ta cho anh xem h\u1ec7 th\u1ed1ng'). Canon establishes he stole the equipment from police evidence storage (world.md) and operates an unauthorized server. His access pathway to patient 04-\u0110M's neural settings is unclear.",
+      "MINOR: Lan is identified as patient 04-\u0110M. Canon states there are 12 patients connected to Neural Mantle at St. Vincent, 7 of whom are women being used as C\u01b0\u1eddng's virtual lovers without his knowledge. The chapter suggests a deeper, pre-existing relationship with one specific patient, which is a significant addition to canon rather than a violation, but it changes the nature of his crime from ignorant exploitation to deliberate, targeted manipulation."
+    ],
+    "note": "The most serious issue is the competence violation. C\u01b0\u1eddng's lack of deep technical knowledge is a defined weakness. Having him execute precise neural architecture modifications undermines this. The revelation itself is powerful and well-executed dramatically, but it requires either: (a) establishing he had help from someone with expertise, (b) showing he learned just enough to do damage without understanding the full implications, or (c) revising his competence profile in the character docs."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "The explanation of how Lan's 10% residual consciousness regrew 'nh\u01b0 c\u1ecf xuy\u00ean xi m\u0103ng' is evocative but thin on mechanism.",
+    "fix": "Tie it more explicitly to the established 'V\u1ecdng \u00e2m' phenomenon\u2014the idea that consciousness residue accumulates and can crystallize. Lan's regrowth could be framed as a form of crystallization that happened within the locked system, which is more consistent with the world's rules.",
+    "note": "The chapter makes excellent use of the established lore: the ping system, the bi-directional sync (v\u1ebft x\u01b0\u1edbc, physical responses), the specificity of patient monitoring at St. Vincent, B\u00e0 L\u00e0nh's observations, and the attic as rendered memory. The Neural Mantle rules are demonstrated through action rather than explained. The connection between virtual actions and real physical consequences is shown powerfully through Lan's tears and sweat."
+  },
+  "engagement": {
+    "score": 8,
+    "weakest_moment": "The section after C\u01b0\u1eddng disconnects, where he dresses and exits the bunker, feels procedural\u2014going through the motions of a transition that doesn't add much.",
+    "fix": "Compress this section significantly. Cut the dressing details (c\u00fac \u00e1o m\u1ea5t hai l\u1ea7n m\u1edbi x\u1ecf \u0111\u00fang l\u1ed7 is a clich\u00e9). Jump cut from disconnection to him stepping onto the street. The walk to St. Vincent can be implied.",
+    "note": "The memory flood sequence is genuinely gripping\u2014the horror of watching yourself commit an atrocity through your own eyes, rendered in the clinical code-metaphor voice, is effective and disturbing. Lan's confrontation dialogue is strong throughout. The chapter earns its emotional climax. The final image of C\u01b0\u1eddng walking toward the hospital, the v\u1ebft x\u01b0\u1edbc no longer beating, is quietly powerful."
+  },
+  "three_weakest_sentences": [
+    "S\u1ef1 th\u1eadt kh\u00f4ng chi\u1ebfm di\u1ec7n t\u00edch, nh\u01b0ng n\u00f3 chi\u1ebfm oxy.",
+    "C\u01a1 th\u1ec3 ph\u1ea3n \u1ee9ng tr\u01b0\u1edbc khi n\u00e3o k\u1ecbp x\u1eed l\u00fd.",
+    "C\u1eeda s\u1ed5 kh\u00f4ng nh\u00ecn ra tr\u1eddi n\u1eefa. Nh\u00ecn ra t\u01b0\u1eddng b\u00ea t\u00f4ng \u1ea9m."
+  ],
+  "three_strongest_sentences": [
+    "Anh th\u1ea5y tay m\u00ecnh g\u00f5. D\u00f2ng l\u1ec7nh. M\u00e3 ghi \u0111\u00e8. M\u00e3 b\u00f3p m\u00e9o. M\u00e3 kh\u00f3a v\u00f9ng \u00fd th\u1ee9c kh\u00f4ng mong mu\u1ed1n, m\u1edf v\u00f9ng kh\u00e1c \u2014 v\u00f9ng ph\u1ea3n \u1ee9ng x\u00fac gi\u00e1c, v\u00f9ng ph\u1ea3n \u1ee9ng th\u1ec3 ch\u1ea5t, v\u00f9ng...",
+    "Em h\u1ecdc \u0111\u01b0\u1ee3c bu\u1ed3n. Em h\u1ecdc \u0111\u01b0\u1ee3c s\u1ee3. Em h\u1ecdc \u0111\u01b0\u1ee3c nh\u1edb. Nh\u01b0ng gh\u00e9t \u2014 gh\u00e9t th\u00ec ph\u1ee9c t\u1ea1p h\u01a1n. Em ch\u01b0a h\u1ecdc \u0111\u1ebfn \u0111\u00f3.",
+    "V\u00e0 anh th\u1ea5y ng\u00f3n tay m\u00ecnh g\u00f5 Y."
+  ],
+  "ai_patterns_detected": [
+    "Slight uniformity in paragraph rhythm during the confrontation section\u2014many paragraphs follow a pattern of short setup sentence, then dialogue, then brief reaction.",
+    "The dressing/exit sequence at the end follows a common AI pattern of procedural transition (character does X, then Y, then Z in orderly sequence).",
+    "'C\u01a1 th\u1ec3 ph\u1ea3n \u1ee9ng tr\u01b0\u1edbc khi n\u00e3o k\u1ecbp x\u1eed l\u00fd' is a generic formulation that could appear in any AI-generated scene involving shock."
+  ],
+  "overall_score": 7.0,
+  "weakest_dimension": "canon_compliance",
+  "top_3_revisions": [
+    "Address the competence violation: Either show C\u01b0\u1eddng using a crude, trial-and-error approach to the neural modifications (consistent with his limited technical knowledge), or establish that he had access to some kind of template/preset that he applied without fully understanding. The current portrayal of him executing precise neural architecture commands is inconsistent with his established skill level.",
+    "Cut or replace 'S\u1ef1 th\u1eadt kh\u00f4ng chi\u1ebfm di\u1ec7n t\u00edch, nh\u01b0ng n\u00f3 chi\u1ebfm oxy' and 'C\u01a1 th\u1ec3 ph\u1ea3n \u1ee9ng tr\u01b0\u1edbc khi n\u00e3o k\u1ecbp x\u1eed l\u00fd'\u2014both are generic formulations that break the specific voice. Replace with concrete, physical observations in C\u01b0\u1eddng's clinical register.",
+    "Compress the post-disconnection exit sequence (from 'Th\u1ebf gi\u1edbi th\u1eadt' to 'Anh b\u01b0\u1edbc nhanh h\u01a1n'). The dressing details add little. Consider a jump cut from the disconnection directly to him stepping onto the street, keeping only the essential detail about the v\u1ebft x\u01b0\u1edbc no longer responding."
+  ],
+  "new_canon_entries": [
+    "Lan is the real identity of 'K\u1ebb \u0110u\u1ed5i' / patient 04-\u0110M at St. Vincent.",
+    "C\u01b0\u1eddng knew Lan before her hospitalization\u2014they had a romantic relationship in H\u00e0 N\u1ed9i (qu\u00e1n c\u00e0 ph\u00ea, two months of unspoken feelings).",
+    "Lan's accident and subsequent coma preceded C\u01b0\u1eddng's involvement with Neural Mantle.",
+    "C\u01b0\u1eddng had some form of authorized access to the Neural Mantle system and patient 04-\u0110M's neural settings (pathway unclear\u2014contradicts established canon of stolen equipment).",
+    "C\u01b0\u1eddng deliberately modified Lan's neural mapping: locked motor functions, opened tactile and sexual response to 100%, reduced self-awareness to 10%.",
+    "Lan's residual 10% consciousness has been slowly regenerating over four years, eventually allowing her to exceed her programming.",
+    "The C\u0103n g\u00e1c x\u00e9p is a rendering of Lan's actual childhood room in H\u00e0 N\u1ed9i, not C\u01b0\u1eddng's memory.",
+    "Each time C\u01b0\u1eddng connected with Lan in the virtual world, the neural signals transmitted back damaged her recovering brain tissue, reducing her chances of waking from 20% to near zero.",
+    "C\u01b0\u1eddng chose to lock his own memories of these actions, using the same override technology on himself.",
+    "C\u01b0\u1eddng has now permanently disconnected from the system and is walking to St. Vincent to see Lan's real body for the first time with full knowledge of what he did."
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 14.29,
+    "sentence_length_cv": 0.737,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 0.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 7
+}

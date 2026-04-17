@@ -1,0 +1,107 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "C\u01a1 th\u1ec3 anh kh\u00f4ng c\u00f2n thu\u1ed9c v\u1ec1 anh. \u0110\u00e3 kh\u00f4ng c\u00f2n t\u1eeb l\u00e2u. Giao th\u1ee9c 7-B ch\u1ee9ng minh \u0111i\u1ec1u \u0111\u00f3 \u2014 anh vi\u1ebft m\u00e3 \u0111\u1ec3 b\u1ea3o v\u1ec7 n\u00e0ng, v\u00e0 gi\u1edd m\u00e3 \u1ea5y b\u1ea3o v\u1ec7 anh kh\u1ecfi c\u00e1i ch\u1ebft m\u00e0 anh mu\u1ed1n. Anh x\u00e2y h\u1ec7 th\u1ed1ng \u0111\u1ec3 gi\u1eef c\u00f4, v\u00e0 h\u1ec7 th\u1ed1ng gi\u1edd gi\u1eef anh. Anh kh\u00f3a 90% nh\u1eadn th\u1ee9c c\u1ee7a Lan, v\u00e0 gi\u1edd n\u00e3o anh b\u1ecb t\u1ed5n th\u01b0\u01a1ng 91%, kh\u00f3a ch\u00ednh anh trong th\u00e2n x\u00e1c t\u00ea li\u1ec7t n\u00e0y.",
+    "fix": "This passage explains the irony three times in succession with the same rhetorical structure (anh X, v\u00e0 Y). Cut to one concrete instance. The 91% figure feels invented and breaks the clinical precision. Replace with a single observed detail: the protocol light blinking on the dead screen, keeping him alive against his will.",
+    "note": "The voice mostly nails the cold, surgical tone. Strong moments include the suicide attempt procedure described like a technician following instructions, and the memory of Lan's perfume rendered as data retrieval. But the chapter leans too hard on explicit statement of theme ('\u0110\u1ea3o ng\u01b0\u1ee3c. M\u1ecdi th\u1ee9 \u0111\u1ea3o ng\u01b0\u1ee3c.') which violates the voice's principle of showing collapse through wrong details, not declarations."
+  },
+  "beat_coverage": {
+    "score": 5,
+    "weakest_moment": "Beat 3 (anh nh\u1edb l\u1ea1i m\u00f9i hoa s\u1eefa \u2014 \u0111\u00f3 kh\u00f4ng ph\u1ea3i m\u00f9i thi\u1ebft k\u1ebf, \u0111\u00f3 l\u00e0 m\u00f9i n\u01b0\u1edbc hoa c\u1ee7a Lan) is executed but the memory scene is thin. 'B\u00e0n nh\u1ef1a. Qu\u00e1n c\u00e0 ph\u00ea v\u1ec9a h\u00e8. Gh\u1ebf th\u1ea5p, \u0111\u1ea7u g\u1ed1i anh cao h\u01a1n m\u1eb7t b\u00e0n.' reads like a list, not a lived moment.",
+    "fix": "Expand the Lan memory with one specific sensory detail that only someone who was there would know \u2014 the exact way she held the perfume bottle, a stain on the table, the sound of something specific. The outline says this resolves the hoa s\u1eefa seed from Ch 1; it needs to land with more weight.",
+    "note": "Beat 1 (suicide attempt) is well dramatized. Beat 2 (system refusal) works but the protocol reveal is over-explained. Beat 4 (v\u1ebft b\u1ea7m t\u00ea li\u1ec7t, Lan \u0111ang ch\u1ebft) is stated rather than felt. The outline's emotional arc (T\u1ed9i l\u1ed7i \u2192 T\u1ef1 h\u1ee7y ho\u1ea1i \u2192 Ch\u1ea5p nh\u1eadn) is present but the transitions are abrupt \u2014 acceptance arrives because the chapter ends, not because something shifted."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "'Kh\u00f4ng ph\u1ea3i nh\u1edb \u2014 l\u00e0 b\u1ecb nh\u1edb. K\u00fd \u1ee9c tr\u1ed3i l\u00ean t\u1eeb \u0111\u00e1y b\u1ed9 \u0111\u1ec7m, t\u1eeb v\u00f9ng n\u00e3o ch\u01b0a b\u1ecb ghi \u0111\u00e8, t\u1eeb n\u01a1i anh \u0111\u00e3 ch\u00f4n v\u00f9i b\u1ed1n n\u0103m.' This is the narrator explaining the mechanism instead of C\u01b0\u1eddng experiencing it. The voice doc says 90% ph\u00e1t bi\u1ec3u, but this is the wrong kind of statement \u2014 it's exposition disguised as introspection.",
+    "fix": "Cut the explanation. Just have the memory arrive: 'Hoa s\u1eefa. M\u00f9i \u0111\u1ebfn tr\u01b0\u1edbc h\u00ecnh \u1ea3nh. N\u1ed3ng. Ng\u1ecdt. R\u1ed3i qu\u00e1n c\u00e0 ph\u00ea. R\u1ed3i Lan.' Let the reader infer the memory retrieval process from the fragmented presentation.",
+    "note": "No dialogue in this chapter, so this score reflects internal voice only. C\u01b0\u1eddng's voice is mostly consistent \u2014 short sentences, numbers, technical vocabulary. The Lan memory section is where it wavers, becoming more conventionally literary ('N\u01b0\u1edbc m\u1eaft l\u0103n xu\u1ed1ng th\u00e1i d\u01b0\u01a1ng, xu\u1ed1ng t\u00f3c, th\u1ea5m v\u00e0o b\u1ee5i s\u00e0n. \u1ea8m. M\u1eb7n.') which is actually a strong moment of body-before-emotion. The weakest is when the voice becomes explanatory."
+  },
+  "plants_seeded": {
+    "score": 6,
+    "weakest_moment": "The Giao th\u1ee9c 7-B reveal is the chapter's main plant. It's functional but telegraphed \u2014 the moment C\u01b0\u1eddng mentions writing protocols 'ba n\u0103m tr\u01b0\u1edbc,' the reader knows it will block him. The irony is stated explicitly rather than discovered.",
+    "fix": "Let C\u01b0\u1eddng not remember writing it immediately. Have him try the switch multiple times, check the cable, check the outlet, go through troubleshooting steps like a technician, and only then notice the small text on the dead screen. The delay would make the reveal feel earned rather than arranged.",
+    "note": "The hoa s\u1eefa resolution is the strongest plant payoff \u2014 connecting the virtual world's signature scent to a real, cheap perfume bottle. The t\u00ea li\u1ec7t of the bruise seeding future consequences is subtle. But the protection protocol plant is too neat, too symmetrical, which is an AI-pattern weakness the voice doc explicitly warns against."
+  },
+  "prose_quality": {
+    "score": 6,
+    "weakest_sentence": "S\u1ef1 m\u1ec9a mai. N\u1ebfu anh c\u00f2n \u0111\u1ee7 c\u1ea3m x\u00fac \u0111\u1ec3 c\u1ea3m nh\u1eadn m\u1ec9a mai.",
+    "fix": "Delete entirely. The irony has already been demonstrated by the protocol blocking him. This sentence tells the reader what to feel and breaks the cold, surgical voice by becoming self-aware about emotion.",
+    "strongest_sentence": "Giao th\u1ee9c anh vi\u1ebft \u0111\u1ec3 b\u1ea3o v\u1ec7 ng\u01b0\u1eddi t\u00ecnh \u1ea3o. \u0110\u1ec3 \u0111\u1ea3m b\u1ea3o khi anh \u0111\u1ed5 b\u1ed9, d\u00f2ng \u0111i\u1ec7n kh\u00f4ng b\u1ecb nhi\u1ec5u, kh\u00f4ng b\u1ecb qu\u00e1 t\u1ea3i, kh\u00f4ng l\u00e0m h\u1ecfng l\u1edbp render. \u0110\u1ec3 n\u00e0ng lu\u00f4n ho\u00e0n h\u1ea3o. Lu\u00f4n 36.8\u00b0C. Lu\u00f4n kh\u00f4ng t\u00ec v\u1ebft.",
+    "note": "Sentence variety is decent \u2014 short fragments, medium action sentences, occasional longer ones. But there's a repetitive pattern of starting consecutive sentences with 'Kh\u00f4ng' (appears in clusters throughout). The chapter has several strong concrete details (dung d\u1ecbch Epsom 35.5\u00b0C, \u0111\u1ea7u c\u1eafm \u0111\u1ed3ng b\u1ecb oxy h\u00f3a xanh, chai n\u01b0\u1edbc hoa t\u00e1m m\u01b0\u01a1i ng\u00e0n) but also several vague abstract statements that dilute them. The French word 'depuis' appearing mid-Vietnamese sentence is either a deliberate glitch-effect or a bug \u2014 if deliberate, it needs more context to read as intentional."
+  },
+  "continuity": {
+    "score": 7,
+    "note": "Picks up well from the previous chapter's system collapse and Lan's 'gi\u1ea3i ph\u00f3ng.' The bruise progression (t\u00edm \u2192 \u0111en \u2192 t\u00ea li\u1ec7t) tracks. Emotional state is consistent \u2014 the previous chapter ended with C\u01b0\u1eddng standing in the white space, facing truth; this chapter shows the aftermath of that confrontation. One issue: the previous chapter says C\u01b0\u1eddng's pour count was 852, but this chapter doesn't reference the number, which is fine. The bruise description shifts from 'nh\u1ecbp \u0111\u1eadp' in previous chapter to 't\u00ea li\u1ec7t' here, which works as progression."
+  },
+  "canon_compliance": {
+    "score": 5,
+    "violations": [
+      "Outline Beat 3 specifies Lan as the source of the hoa s\u1eefa memory from the last date. The chapter executes this but introduces 'Lan' as a named character with specific history (H\u00e0 N\u1ed9i, c\u00e0 ph\u00ea v\u1ec9a h\u00e8, n\u01b0\u1edbc hoa si\u00eau th\u1ecb) \u2014 this is NEW information not established in canon docs. The character registry has no 'Lan' entry. If Lan is the real identity of B\u1ec7nh nh\u00e2n s\u1ed1 4 / K\u1ebb \u0110u\u1ed5i, this is a major reveal that should be flagged.",
+      "Outline says C\u01b0\u1eddng's apartment is the location ('C\u0103n h\u1ed9 tr\u1ed1ng c\u1ee7a C\u01b0\u1eddng'), but the chapter is set in the h\u1ea7m Haymarket (underground bunker). These may be the same location described differently, but 'c\u0103n h\u1ed9' and 'h\u1ea7m tr\u00fa \u1ea9n' are different words with different connotations.",
+      "The chapter states C\u01b0\u1eddng wrote Giao th\u1ee9c 7-B himself. Canon says C\u01b0\u1eddng is a k\u1ebf to\u00e1n, kh\u00f4ng ph\u1ea3i k\u1ef9 s\u01b0 \u2014 his competence is 7, meaning 'h\u1ecdc \u0111\u1ee7 \u0111\u1ec3 t\u1ef1 v\u1eadn h\u00e0nh, nh\u01b0ng kh\u00f4ng hi\u1ec3u s\u00e2u v\u1ec1 ki\u1ebfn tr\u00fac h\u1ec7 th\u1ed1ng.' Writing protection protocols is plausible but pushes against his established skill ceiling.",
+      "French word 'depuis' appears in first paragraph: 'ch\u01b0a bao gi\u1edd \u0111\u01b0\u1ee3c lau depuis c\u00e1i ng\u00e0y C\u01b0\u1eddng d\u1ecdn v\u00e0o.' This is either a glitch in the text or an intentional code-switching choice. If intentional, it needs narrative justification.",
+      "\u66fe\u662f (Chinese characters) appear mid-sentence: 'ch\u1ed7\u66fe\u662f t\u00edm ng\u1eaft.' Same issue \u2014 unexplained code-switching that may be intentional glitch or error."
+    ],
+    "note": "The Lan reveal is the biggest canon concern. If this is the chapter where K\u1ebb \u0110u\u1ed5i's real identity is exposed, it's a major plot point that needs to match whatever the broader plan establishes. The outline mentions 'Lan' by name, so this may be intentional, but the canon docs don't include her."
+  },
+  "lore_integration": {
+    "score": 7,
+    "weakest_moment": "The description of the Neural Mantle suit ('L\u1edbp v\u1ea3i b\u1ecdc kim lo\u1ea1i n\u1eb1m g\u1ea5p tr\u00ean gi\u00e1 s\u1eaft t\u1ef1 ch\u1ebf. H\u00e0ng tri\u1ec7u vi c\u1ea3m bi\u1ebfn g\u1eafn l\u1ea5m t\u1ea5m b\u00ean trong') reads like a first-time introduction rather than C\u01b0\u1eddng interacting with something he's used 852 times. He wouldn't describe it this way.",
+    "fix": "Replace the descriptive passage with an action-based one that shows familiarity: the way he knows which fold to grab first, the specific worn spot on the collar connector, the smell of the fabric that's absorbed four years of his sweat. Details that only a long-time user would notice.",
+    "note": "The world does work in this chapter \u2014 the bunker, the Epsom solution, the server, the cable infrastructure all function as more than set dressing. The ping/temperature/Hz numbers ground the emotion in the story's specific technical vocabulary. Strongest integration: the protection protocol as dramatic obstacle. Weakest: the suit description that reads like wiki text."
+  },
+  "engagement": {
+    "score": 6,
+    "weakest_moment": "The long middle section where C\u01b0\u1eddng explains the protocol, then explains the irony, then explains what it means. Pages of internal monologue that restate the same revelation without advancing or complicating it.",
+    "fix": "After the protocol blocks him, cut directly to the Lan memory. Let the irony sit without commentary. The reader understands. Trust them. Then the memory arrives as a new development rather than more explanation of the same development.",
+    "note": "The suicide attempt opening is strong \u2014 specific, procedural, disturbing. The protocol block is a good twist. The Lan memory has genuine emotional weight. But the chapter sags in the middle with too much restatement, and the ending, while competent, feels like it's performing 'literary resolution' rather than earning it. A reader would finish this chapter but might skim the middle."
+  },
+  "three_weakest_sentences": [
+    "S\u1ef1 m\u1ec9a mai. N\u1ebfu anh c\u00f2n \u0111\u1ee7 c\u1ea3m x\u00fac \u0111\u1ec3 c\u1ea3m nh\u1eadn m\u1ec9a mai.",
+    "\u0110\u1ea3o ng\u01b0\u1ee3c. M\u1ecdi th\u1ee9 \u0111\u1ea3o ng\u01b0\u1ee3c.",
+    "Anh kh\u00f4ng nh\u1edb l\u1ea7n cu\u1ed1i \u0103n l\u00e0 khi n\u00e0o. B\u00e1nh m\u00ec ngu\u1ed9i? H\u00f4m kia? H\u00f4m kia?"
+  ],
+  "three_strongest_sentences": [
+    "Giao th\u1ee9c anh vi\u1ebft \u0111\u1ec3 b\u1ea3o v\u1ec7 ng\u01b0\u1eddi t\u00ecnh \u1ea3o. \u0110\u1ec3 \u0111\u1ea3m b\u1ea3o khi anh \u0111\u1ed5 b\u1ed9, d\u00f2ng \u0111i\u1ec7n kh\u00f4ng b\u1ecb nhi\u1ec5u, kh\u00f4ng b\u1ecb qu\u00e1 t\u1ea3i, kh\u00f4ng l\u00e0m h\u1ecfng l\u1edbp render. \u0110\u1ec3 n\u00e0ng lu\u00f4n ho\u00e0n h\u1ea3o. Lu\u00f4n 36.8\u00b0C. Lu\u00f4n kh\u00f4ng t\u00ec v\u1ebft.",
+    "Kh\u00f4ng kh\u00f3c. Kh\u00f3c \u0111\u00f2i h\u1ecfi co c\u01a1, \u0111\u00f2i h\u1ecfi \u00e2m thanh, \u0111\u00f2i h\u1ecfi m\u1ed9t qu\u00e1 tr\u00ecnh v\u1eadt l\u00fd m\u00e0 anh kh\u00f4ng c\u00f2n \u0111\u1ee7 n\u0103ng l\u01b0\u1ee3ng th\u1ef1c hi\u1ec7n. Ch\u1ec9 l\u00e0 n\u01b0\u1edbc. M\u1eaft t\u1ef1 \u0111\u1ed5 n\u01b0\u1edbc.",
+    "V\u00e0 anh \u0111\u00e3 l\u1ea5y m\u00f9i \u0111\u00f3, b\u1ed1n n\u0103m tr\u01b0\u1edbc, c\u00e0i v\u00e0o h\u1ec7 th\u1ed1ng, bi\u1ebfn n\u00f3 th\u00e0nh \u0111\u1eb7c tr\u01b0ng c\u1ee7a Ph\u1ed1 Hoa S\u1eefa, bi\u1ebfn n\u00f3 th\u00e0nh m\u00f9i c\u1ee7a 'n\u00e0ng,' bi\u1ebfn n\u00f3 th\u00e0nh l\u1edbp v\u1ecf b\u1ecdc nh\u1ee5c d\u1ee5c cho m\u1ed9t ng\u01b0\u1eddi ph\u1ee5 n\u1eef \u0111ang n\u1eb1m h\u00f4n m\u00ea kh\u00f4ng th\u1ec3 n\u00f3i kh\u00f4ng."
+  ],
+  "ai_patterns_detected": [
+    "Symmetrical structure: the chapter has a clean three-act shape (attempt \u2192 block \u2192 memory \u2192 acceptance) that's almost too neat for a chapter about mental collapse",
+    "Repeated sentence starters: 'Kh\u00f4ng' appears at the start of 15+ sentences, often in clusters of 3-4",
+    "The ending performs 'literary resolution' with parallel structure ('Trong b\u00f3ng t\u1ed1i th\u1eadt. Trong im l\u1eb7ng th\u1eadt. Trong s\u1ef1 t\u00ea li\u1ec7t th\u1eadt.') \u2014 aesthetically pleasing but emotionally pat",
+    "Self-aware emotional commentary ('S\u1ef1 m\u1ec9a mai,' '\u0110\u1ea3o ng\u01b0\u1ee3c') that explains what the prose should be showing",
+    "Uniform paragraph length in the middle sections \u2014 most paragraphs are 2-4 sentences, lacking the extreme variation the voice doc calls for"
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "beat_coverage",
+  "top_3_revisions": [
+    "Cut all explicit statements of theme/irony ('S\u1ef1 m\u1ec9a mai,' '\u0110\u1ea3o ng\u01b0\u1ee3c. M\u1ecdi th\u1ee9 \u0111\u1ea3o ng\u01b0\u1ee3c,' 'Anh x\u00e2y h\u1ec7 th\u1ed1ng \u0111\u1ec3 gi\u1eef c\u00f4, v\u00e0 h\u1ec7 th\u1ed1ng gi\u1edd gi\u1eef anh'). The protocol blocking him IS the irony. The bruise going cold IS the reversal. Trust the image.",
+    "Rewrite the Neural Mantle suit description from C\u01b0\u1eddng's experienced-user perspective \u2014 not what it looks like, but how his hands know it. The worn connector, the specific fold, the smell. Replace wiki-description with lived-detail.",
+    "Expand the Lan memory scene with one more specific sensory detail that makes it undeniable as real memory (not render). Currently it's thin \u2014 'b\u00e0n nh\u1ef1a, qu\u00e1n c\u00e0 ph\u00ea v\u1ec9a h\u00e8, gh\u1ebf th\u1ea5p' could be anyone's memory. What detail would only C\u01b0\u1eddng notice? The stain on her collar? The way she held the bottle with her left hand because her right was bandaged? Something that hurts because it's specific."
+  ],
+  "new_canon_entries": [
+    "Lan is the real name/identity of B\u1ec7nh nh\u00e2n s\u1ed1 4 / K\u1ebb \u0110u\u1ed5i \u2014 a woman C\u01b0\u1eddng knew in H\u00e0 N\u1ed9i before she became a coma patient",
+    "C\u01b0\u1eddng's last date with Lan was at a sidewalk caf\u00e9 in H\u00e0 N\u1ed9i, autumn, approximately 22\u00b0C",
+    "Lan wore cheap hoa s\u1eefa perfume (80,000 VND, supermarket brand) that C\u01b0\u1eddng later coded into the virtual world as Ph\u1ed1 Hoa S\u1eefa's signature scent",
+    "C\u01b0\u1eddng wrote Giao th\u1ee9c 7-B three years ago \u2014 a protection protocol that blocks non-standard power sources to protect both user and '\u0111\u1ed1i t\u01b0\u1ee3ng k\u1ebft n\u1ed1i'",
+    "The bruise on C\u01b0\u1eddng's ribs has progressed from purple to black and is now numb/paralyzed, suggesting tissue necrosis",
+    "C\u01b0\u1eddng's pour count at time of system collapse: 852 (from previous chapter context)"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 10.14,
+    "sentence_length_cv": 0.926,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 0.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 6
+}

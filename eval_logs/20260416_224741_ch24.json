@@ -1,0 +1,108 @@
+{
+  "voice_adherence": {
+    "score": 5,
+    "weakest_moment": "B\u00e0 L\u00e0nh lau ch\u00e2n ph\u1ea3i c\u00f4 g\u00e1i. C\u1eb3ng ch\u00e2n. M\u1eaft c\u00e1. B\u00e0n ch\u00e2n. M\u00f3ng ch\u00e2n \u2014 d\u00e0i h\u01a1n m\u1ee9c b\u00e0 th\u00edch. B\u00e0 s\u1ebd c\u1eaft sau.",
+    "fix": "B\u00e0 L\u00e0nh's section should use her warm Southern Vietnamese voice with characteristic 'h\u00ean', 'Tr\u1eddi \u0111\u1ea5t', and the gentle rambling quality defined in her profile. Instead she speaks in clipped, clinical fragments that belong to C\u01b0\u1eddng's POV. Rewrite her internal monologue to match her established voice: longer sentences, digressive details from daily life (cooking, weather), ending with ellipses.",
+    "note": "The chapter has three POVs but only Tu\u1ea5n's section occasionally captures the defined voice. H\u1ea1nh's section reads like generic police procedural prose \u2014 none of her defined habits (lau k\u00ednh, \u0111\u1ee9ng nghi\u00eang, g\u00f5 \u0111\u00f9i) appear. B\u00e0 L\u00e0nh's POV completely violates her voice profile: she should think in slow, warm, Southern Vietnamese with cooking/garden metaphors, not in the cold fragmented style meant for C\u01b0\u1eddng. The clinical, fragmented sentence rhythm defined for C\u01b0\u1eddng bleeds into every POV."
+  },
+  "beat_coverage": {
+    "score": 6,
+    "weakest_moment": "H\u1ea1nh d\u1eabn \u0111\u1ed9i \u0111\u1ebfn H\u1ea7m Haymarket. H\u1ecd t\u00ecm th\u1ea5y C\u01b0\u1eddng \u2014 n\u1eb1m trong bu\u1ed3ng tri\u1ec7t gi\u00e1c, m\u1eaft m\u1edf, kh\u00f4ng ch\u1edbp.",
+    "fix": "The note's confession ('T\u00f4i \u0111\u00e3 gi\u1ebft Lan') is a significant addition that needs more weight \u2014 it should be discovered in a way that creates dramatic tension rather than being picked up as just another piece of evidence. H\u1ea1nh's reaction should be more complex, wrestling with what 'gi\u1ebft' means when Lan's body still lives.",
+    "note": "All four outline beats are present: Tu\u1ea5n checking Patient 4, H\u1ea1nh finding C\u01b0\u1eddng, C\u01b0\u1eddng's fate as mirror to Lan, and B\u00e0 L\u00e0nh's final line. However, the beats are executed with varying quality. Tu\u1ea5n's scene is the most complete. H\u1ea1nh's investigation scene is functional but lacks the weight the outline implies. The 'gi\u1ebft Lan' confession note is added but not in the outline \u2014 it's a reasonable addition that resolves the foreshadowing thread, but it's introduced too easily."
+  },
+  "character_voice": {
+    "score": 4,
+    "weakest_moment": "\"Tr\u1eddi \u0111\u1ea5t \u01a1i, c\u00f4 b\u00e9,\" b\u00e0 th\u00ec th\u1ea7m. \"H\u00f4m nay kh\u1ecfe h\u01a1n h\u00e9n? Da h\u1ed3ng h\u00e0o l\u1eafm. B\u00e0 L\u00e0nh m\u1eebng.\"",
+    "fix": "B\u00e0 L\u00e0nh's dialogue should include more natural Southern particles and her characteristic trailing quality: 'Tr\u1eddi \u0111\u1ea5t \u01a1i, c\u00f4 b\u00e9... H\u00f4m nay da h\u1ed3ng h\u00e0o l\u1eafm h\u00e9n... B\u00e0 L\u00e0nh m\u1eebng l\u1eafm...' The 'h\u00e9n' is correct but the rhythm is too clean, too literary. Real Southern Vietnamese speech would be more meandering.",
+    "note": "Major voice differentiation failure. Tu\u1ea5n, H\u1ea1nh, and the narrator in B\u00e0 L\u00e0nh's section all share the same clipped, fragmented prose style. Tu\u1ea5n's 'V\u1ec1 m\u1eb7t y khoa' habit appears once \u2014 his defined verbal tic. H\u1ea1nh never displays her defined habits (lau k\u00ednh, \u0111\u1ee9ng nghi\u00eang, g\u00f5 ng\u00f3n tay v\u00e0o \u0111\u00f9i). B\u00e0 L\u00e0nh's dialogue is closest to her profile but her internal narration reads like C\u01b0\u1eddng's POV. No character says anything surprising or real \u2014 all dialogue is functional and expected."
+  },
+  "plants_seeded": {
+    "score": 7,
+    "weakest_moment": "Nh\u01b0ng t\u1eeb ph\u00eda sau c\u00e1nh c\u1eeda kh\u00f4ng s\u1ed1 \u1ea5y, c\u00f3 th\u1ee9 g\u00ec \u0111\u00f3 \u2014 ho\u1eb7c ai \u0111\u00f3 \u2014 \u0111ang quan s\u00e1t.",
+    "fix": "The Person 13 reference is too explicit. The horror works better if B\u00e0 L\u00e0nh simply pauses at the door, feels something she can't name, and moves on \u2014 leaving the reader to remember what's behind that door without being told directly.",
+    "note": "The chapter resolves several foreshadowing threads effectively: the note from Ch 19 is found by H\u1ea1nh, C\u01b0\u1eddng's fate mirrors Lan's, and the v\u1ebft b\u1ea7m is acknowledged. The Person 13 door callback is a nice touch but slightly over-explained. The confession note about 'Lan' ties back to the m\u1ea3nh gi\u1ea5y thread. The parallel placement of C\u01b0\u1eddng and Lan in adjacent beds is a strong visual payoff."
+  },
+  "prose_quality": {
+    "score": 5,
+    "weakest_sentence": "B\u00e0 nh\u1eafm m\u1eaft. M\u1edf l\u1ea1i. B\u01b0\u1edbc v\u1ec1 ph\u00eda xe.",
+    "fix": "This is generic action writing that could appear in any novel. For H\u1ea1nh's defined voice, this moment should carry her specific weight \u2014 perhaps she adjusts her glasses (her defined habit), or the sentence should reflect her analytical nature: 'H\u1ea1nh lau k\u00ednh \u2014 th\u00f3i quen khi c\u1ea7n suy ngh\u0129. K\u00ednh s\u1ea1ch. B\u00e0 b\u01b0\u1edbc \u0111i.'",
+    "strongest_sentence": "Hai c\u01a1 th\u1ec3, hai gi\u01b0\u1eddng, c\u00e1ch nhau hai m\u00e9t, v\u00e0 gi\u1eefa h\u1ecd l\u00e0 kho\u1ea3ng tr\u1ed1ng kh\u00f4ng th\u1ec3 \u0111o b\u1eb1ng m\u00e9t, kh\u00f4ng th\u1ec3 \u0111o b\u1eb1ng d\u1eef li\u1ec7u, kh\u00f4ng th\u1ec3 \u0111o b\u1eb1ng g\u00ec c\u1ea3.",
+    "note": "The prose has moments of genuine power (the parallel beds image, B\u00e0 L\u00e0nh's final repetition) but suffers from AI-pattern uniformity. Sentence rhythms are monotonously short and fragmented across all POVs. The opening Tu\u1ea5n section is the strongest prose; H\u1ea1nh's section is the weakest, reading like a procedural report. Several paragraphs could be cut entirely (the team entry, the ambulance arrival) without loss. The chapter is approximately 500 words too long."
+  },
+  "continuity": {
+    "score": 7,
+    "note": "The chapter follows logically from Ch 23's ending. C\u01b0\u1eddng's self-disconnect, the 95% brain damage, the 12 bpm heart rate \u2014 all carry forward accurately. The emotional trajectory (acceptance through letting go) is maintained. One minor issue: Ch 23 ends with C\u01b0\u1eddng's consciousness fading in darkness, but Ch 24 opens with Tu\u1ea5n checking Patient 4 without establishing the time gap. The transition works but could be smoother."
+  },
+  "canon_compliance": {
+    "score": 6,
+    "violations": [
+      "Tu\u1ea5n's internal thought 'B\u1ed1n n\u0103m h\u00f4n m\u00ea' for Patient 4 \u2014 the canon establishes 2039 as C\u01b0\u1eddng's first deployment and 2041 as present, meaning maximum 2 years of connection, not 4 years of coma.",
+      "H\u1ea1nh's team is described as arriving with equipment, but canon states the Neural Intrusion Unit has only 7 people total with budget cuts \u2014 the scene implies a larger, better-resourced operation.",
+      "The confession note 'T\u00f4i \u0111\u00e3 gi\u1ebft Lan' is dramatically effective but contradicts the established fact that Lan/Patient 4 is still alive with stable vitals \u2014 C\u01b0\u1eddng would know he didn't 'kill' her in any literal sense.",
+      "B\u00e0 L\u00e0nh's section uses simplified Chinese character '\u89c1\u8fc7' \u2014 this is a Vietnamese text and should not contain Chinese characters."
+    ],
+    "note": "The '4 years' violation is the most significant, as it affects the timeline's internal logic. The confession note is a dramatic choice that may be defensible as C\u01b0\u1eddng's subjective guilt, but it's presented as factual evidence H\u1ea1nh takes literally."
+  },
+  "lore_integration": {
+    "score": 6,
+    "weakest_moment": "H\u1ea1nh checks the server and equipment with generic descriptions: 'Th\u1ebf h\u1ec7 th\u1ee9 t\u01b0. Y t\u1ebf. Lo\u1ea1i ch\u1ec9 c\u00f3 \u1edf b\u1ec7nh vi\u1ec7n ho\u1eb7c ph\u00f2ng th\u00ed nghi\u1ec7m.'",
+    "fix": "H\u1ea1nh is a former network engineer \u2014 her observation should use her specific expertise. She should note the cable routing, the signal path, the modifications C\u01b0\u1eddng made. She should recognize the specific Hemera technology and what it means that C\u01b0\u1eddng had it.",
+    "note": "The Neural Mantle technology is present but doesn't do meaningful work in this chapter \u2014 it's set dressing. The sensory deprivation tank, the Epsom salt solution, the server setup are all described but don't generate any dramatic tension or reveal character. The strongest lore moment is the implicit parallel between C\u01b0\u1eddng's fate and the system's rules about brain damage, but it's never explicitly connected."
+  },
+  "engagement": {
+    "score": 5,
+    "weakest_moment": "The entire H\u1ea1nh investigation section (from entering the basement to the ambulance departure) reads as procedural without dramatic tension.",
+    "fix": "Cut the team arrival and ambulance departure entirely. Focus on H\u1ea1nh alone in the basement with C\u01b0\u1eddng's body \u2014 her discovery of the notes, her internal reckoning with what 'gi\u1ebft' means, her decision about what to do with the confession. Make the scene about her moral weight, not police logistics.",
+    "note": "The chapter is a quiet epilogue by design, but it's too quiet and too long. The Tu\u1ea5n opening is effective but overlong. H\u1ea1nh's section is the dullest \u2014 it reads like a report, not a scene. B\u00e0 L\u00e0nh's section recovers some emotional ground, and the final image of two beds is powerful, but by then the reader has been through too much procedural filler. The chapter needs to be 30% shorter with the cuts coming from H\u1ea1nh's section."
+  },
+  "three_weakest_sentences": [
+    "B\u00e0 nh\u1eafm m\u1eaft. M\u1edf l\u1ea1i. B\u01b0\u1edbc v\u1ec1 ph\u00eda xe.",
+    "H\u1ecd \u0111\u01b0a anh l\u00ean xe. C\u1eeda \u0111\u00f3ng. C\u00f2i h\u00fa nh\u1eb9. Xe ch\u1ea1y \u0111i.",
+    "B\u00e0 \u0111i qua c\u00e1c gi\u01b0\u1eddng. Gi\u01b0\u1eddng 1. Gi\u01b0\u1eddng 2. Gi\u01b0\u1eddng 3. M\u1ed7i gi\u01b0\u1eddng m\u1ed9t b\u1ec7nh nh\u00e2n. M\u1ed7i b\u1ec7nh nh\u00e2n m\u1ed9t c\u01a1 th\u1ec3 \u0111ang ch\u1edd."
+  ],
+  "three_strongest_sentences": [
+    "Hai c\u01a1 th\u1ec3, hai gi\u01b0\u1eddng, c\u00e1ch nhau hai m\u00e9t, v\u00e0 gi\u1eefa h\u1ecd l\u00e0 kho\u1ea3ng tr\u1ed1ng kh\u00f4ng th\u1ec3 \u0111o b\u1eb1ng m\u00e9t, kh\u00f4ng th\u1ec3 \u0111o b\u1eb1ng d\u1eef li\u1ec7u, kh\u00f4ng th\u1ec3 \u0111o b\u1eb1ng g\u00ec c\u1ea3.",
+    "Tr\u00ean m\u00e1 c\u00f4, m\u1ed9t v\u1ec7t \u01b0\u1edbt.",
+    "B\u00e0 n\u00f3i nh\u1ecf. Kh\u00f4ng ph\u1ea3i \u0111\u1ec3 ai nghe. B\u00e0 n\u00f3i v\u00ec hai m\u01b0\u01a1i hai n\u0103m b\u00e0 \u0111\u00e3 lau m\u1eb7t cho nh\u1eefng ng\u01b0\u1eddi kh\u00f4ng th\u1ec3 t\u1ef1 lau, v\u00e0 \u0111\u00f4i khi \u2014 ch\u1ec9 \u0111\u00f4i khi \u2014 b\u00e0 c\u1ea7n n\u00f3i th\u1ee9 g\u00ec \u0111\u00f3 \u0111\u1ec3 kh\u00f4ng b\u1ecb nu\u1ed1t ch\u1eedng b\u1edfi s\u1ef1 im l\u1eb7ng."
+  ],
+  "ai_patterns_detected": [
+    "Uniform short sentence rhythm across all POVs \u2014 the fragmented style bleeds from C\u01b0\u1eddng's defined voice into Tu\u1ea5n, H\u1ea1nh, and B\u00e0 L\u00e0nh's sections",
+    "Excessive use of sentence fragments standing alone as paragraphs (count: 40+ instances)",
+    "Repetitive paragraph structure: short observation \u2192 short observation \u2192 slightly longer reflection \u2192 fragment",
+    "Lists presented as sentence fragments ('Gi\u01b0\u1eddng 1. Gi\u01b0\u1eddng 2. Gi\u01b0\u1eddng 3.') \u2014 AI pattern of enumeration",
+    "Emotional moments told rather than shown through body-before-emotion principle",
+    "Characters performing actions without their defined physical habits (H\u1ea1nh never adjusts glasses, never stands at angle)",
+    "Procedural completeness \u2014 every logistical step is narrated (team arrival, ambulance, equipment handling) without dramatic selectivity",
+    "Chinese character '\u89c1\u8fc7' inserted in Vietnamese text \u2014 likely AI generation artifact"
+  ],
+  "overall_score": 4.0,
+  "weakest_dimension": "character_voice",
+  "top_3_revisions": [
+    "Rewrite B\u00e0 L\u00e0nh's entire section in her defined voice: longer sentences, Southern Vietnamese particles (tui, h\u00e9n, tr\u1eddi \u0111\u1ea5t), cooking/garden metaphors, trailing ellipses. Her internal monologue should feel warm and rambling, not clinical. She should think about her garden, her grandchildren, the weather \u2014 and through those mundane thoughts, arrive at the tragedy of what she sees.",
+    "Cut 400-500 words from H\u1ea1nh's section: remove the team arrival, the ambulance departure, the equipment handling. Focus on H\u1ea1nh alone with C\u01b0\u1eddng's body and the two notes. Give her one moment of genuine moral complexity \u2014 not just observing that 'lu\u1eadt kh\u00f4ng \u0111\u1ee7,' but wrestling with whether she should submit the confession or destroy it. Add her defined physical habits (lau k\u00ednh, g\u00f5 \u0111\u00f9i).",
+    "Fix the timeline violation: change 'B\u1ed1n n\u0103m h\u00f4n m\u00ea' to match the established canon (C\u01b0\u1eddng began deploying in 2039, current year is 2041). Clarify whether the confession 'T\u00f4i \u0111\u00e3 gi\u1ebft Lan' is meant literally or as C\u01b0\u1eddng's subjective guilt \u2014 if the latter, have H\u1ea1nh explicitly note the discrepancy between the confession and Patient 4's living status."
+  ],
+  "new_canon_entries": [
+    "C\u01b0\u1eddng wrote a confession note: 'T\u00f4i l\u00e0 Tr\u1ea7n C\u01b0\u1eddng. T\u00f4i \u0111\u00e3 gi\u1ebft Lan. \u0110\u00e2y l\u00e0 s\u1ef1 chu\u1ed9c l\u1ed7i.'",
+    "C\u01b0\u1eddng possessed a separate note reading 'Lan. Ph\u00f2ng 4. St. Vincent.' in different handwriting",
+    "Patient 4's brain activity dropped to 0.3% two days before Ch 24, with vital signs remaining stable",
+    "C\u01b0\u1eddng is placed in bed number 5, adjacent to Patient 4 in bed number 4",
+    "B\u00e0 L\u00e0nh observes a faded b\u00e1n nguy\u1ec7t scar on C\u01b0\u1eddng's left ribs"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 19.16,
+    "sentence_length_cv": 0.846,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 5
+}

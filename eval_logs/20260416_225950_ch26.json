@@ -1,0 +1,103 @@
+{
+  "voice_adherence": {
+    "score": 8,
+    "weakest_moment": "Anh \u0111\u00e3 c\u1ed1 g\u1ea5p ng\u00f3n c\u00e1i v\u00e0o trong l\u00f2ng b\u00e0n tay. \u0110\u01a1n gi\u1ea3n. Ph\u1ea3n x\u1ea1. Nh\u01b0ng ng\u00f3n c\u00e1i kh\u00f4ng g\u1eadp \u0111\u01b0\u1ee3c. Kh\u00f4ng ph\u1ea3i v\u00ec \u0111au. Kh\u00f4ng ph\u1ea3i v\u00ec c\u1ee9ng. V\u00ec\u2014 v\u00ec t\u00edn hi\u1ec7u t\u1eeb n\u00e3o \u0111\u1ebfn c\u01a1 kh\u00f4ng \u0111\u1ebfn. Ho\u1eb7c \u0111\u1ebfn nh\u01b0ng b\u1ecb nhi\u1ec5u. Ho\u1eb7c \u0111\u1ebfn nh\u01b0ng c\u01a1 kh\u00f4ng nh\u1eadn di\u1ec7n \u0111\u01b0\u1ee3c nh\u01b0 l\u1ec7nh c\u1ee7a anh.",
+    "fix": "The voice profile demands body-before-emotion \u2014 describe the failure through sensation, not through diagnostic explanation. Cut the 't\u00edn hi\u1ec7u t\u1eeb n\u00e3o \u0111\u1ebfn c\u01a1' line entirely. Let the reader infer the mechanism from the image alone: 'G\u1eadp ng\u00f3n c\u00e1i. Kh\u00f4ng g\u1eadp \u0111\u01b0\u1ee3c. Kh\u00f4ng \u0111au. Kh\u00f4ng c\u1ee9ng. Ch\u1ec9 \u2014 kh\u00f4ng.'",
+    "note": "The cold, surgical tone is largely nailed. The vocabulary wells (neural/tech, hospital/decay, digital-render) are drawn from naturally. The sentence rhythm \u2014 short, staccato, fragmented \u2014 matches the 'R\u00e3 k\u1ebft n\u1ed1i' directive. The weakest moment is the one place where the prose explains a physical failure instead of simply presenting it, violating the 'no tech explanation' rule."
+  },
+  "beat_coverage": {
+    "score": 7,
+    "weakest_moment": "C\u01b0\u1eddng l\u1ea3o \u0111\u1ea3o ra qu\u00e1n c\u00e0 ph\u00ea \u0111\u1ec3 mua b\u0103ng gacha v\u00e0 r\u01b0\u1ee3u m\u1ea1nh. Anh nh\u00ecn qua c\u1eeda k\u00ednh B\u1ec7nh vi\u1ec7n St. Vincent \u0111\u1ed1i di\u1ec7n. B\u1ed7ng nhi\u00ean, nh\u1ecbp tim anh \u0111\u1eadp lo\u1ea1n x\u1ea1, \u0111\u1ed3ng b\u1ed9 v\u1edbi ti\u1ebfng chu\u00f4ng xe c\u1ee9u th\u01b0\u01a1ng.",
+    "fix": "This beat is dramatized well in the actual text, but the transition from h\u1ea7m to street feels rushed. Add one beat of C\u01b0\u1eddng pausing at the top of the stairs, orienting himself in real space after the virtual collapse \u2014 a moment of spatial disorientation before the physical journey begins.",
+    "note": "All four outline beats are present and dramatized rather than summarized. Beat 1 (wound examination) is the strongest \u2014 visceral, specific, disturbing. Beat 3 (H\u1ea1nh encounter) is well-executed but slightly long. Beat 4 (loss of ownership) is powerful but the thumb moment could be more subtle."
+  },
+  "character_voice": {
+    "score": 8,
+    "weakest_moment": "\"V\u1ebft th\u01b0\u01a1ng.\" C\u01b0\u1eddng n\u00f3i. Gi\u1ecdng anh kh\u00f4ng ph\u1ea3i gi\u1ecdng h\u1ecfi. Ph\u00e1t bi\u1ec3u. \"B\u00e0 th\u1ea5y.\"",
+    "fix": "This is actually in-character for C\u01b0\u1eddng's flat, declarative style. The weaker moment is when H\u1ea1nh says '\u0102n \u0111i' three times \u2014 the repetition is effective but the third instance could vary slightly: '\u0102n \u0111i. R\u1ed3i v\u1ec1.' to show her shifting from command to concern.",
+    "note": "C\u01b0\u1eddng's voice is distinct \u2014 terse, measurement-obsessed, emotionally flat but physically precise. H\u1ea1nh's voice is differentiated: longer sentences, strategic pauses, the 'lau k\u00ednh' habit deployed meaningfully. The dialogue reads as speech, not prose. Both characters say surprising things \u2014 H\u1ea1nh sharing the Cumberland death, C\u01b0\u1eddng volunteering information about the clear fluid."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "V\u1ecf b\u00e1nh n\u1eb1m tr\u00ean \u0111\u0129a, tr\u01b0\u1edbc qu\u00e1n c\u00e0 ph\u00ea, c\u1ea1nh ly c\u00e0 ph\u00ea c\u1ee7a Thanh tra H\u1ea1nh. V\u1ecf b\u00e1nh m\u00e0 anh kh\u00f4ng nhai \u0111\u01b0\u1ee3c. V\u1ecf b\u00e1nh m\u00e0\u2014",
+    "fix": "The bread crust callback is almost too on-the-nose as a 'last meal' symbol. Cut one iteration of 'V\u1ecf b\u00e1nh m\u00e0' and let the thought trail off sooner. The plant is already seeded \u2014 the crust doesn't need to be highlighted again.",
+    "note": "The clear fluid is planted naturally \u2014 it emerges from the wound examination, not from exposition. The cold bread as a plant is subtler than expected \u2014 it connects to C\u01b0\u1eddng's established breakfast routine while gaining new meaning through H\u1ea1nh's gesture. The Cumberland death reference is well-placed foreshadowing."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "S\u1ef1 th\u1eadt \u1ea5y \u0111\u00e2m v\u00e0o ng\u1ef1c C\u01b0\u1eddng s\u1eafc h\u01a1n b\u1ea5t k\u1ef3 v\u1ebft th\u01b0\u01a1ng n\u00e0o.",
+    "fix": "Rewrite to match the voice's surgical coldness: 'S\u1ef1 th\u1eadt \u1ea5y \u2014 b\u00e0 \u0111ang th\u01b0\u01a1ng x\u00f3t m\u1ed9t k\u1ebb s\u1eafp ch\u1ebft \u2014 \u0111\u00e2m v\u00e0o ng\u1ef1c anh. Kh\u00f4ng ph\u1ea3i h\u00ecnh th\u1ee9c. Anh \u0111\u00e3 quen v\u1edbi dao k\u00e9o. M\u00e0 l\u00e0 th\u1ee9 g\u00ec \u0111\u00f3 kh\u00f4ng c\u00f3 l\u01b0\u1ee1i, kh\u00f4ng c\u00f3 chu\u00f4i, kh\u00f4ng th\u1ec3 r\u00fat ra.'",
+    "strongest_sentence": "V\u1ebft b\u1ea7m tr\u00ean x\u01b0\u01a1ng s\u01b0\u1eddn tr\u00e1i \u2014 n\u01a1i t\u1eebng l\u00e0 d\u1ea5u m\u00f4i c\u1ee7a n\u00e0ng, n\u01a1i t\u1eebng nh\u1ecbp \u0111\u1eadp \u0111\u1ed3ng b\u1ed9 v\u1edbi nh\u1ecbp tim c\u1ee7a Lan \u2014 kh\u00f4ng c\u00f2n t\u00edm ng\u1eaft. N\u00f3 chuy\u1ec3n sang m\u00e0u \u0111en. \u0110en b\u1ea7m, nh\u01b0 m\u1ef1c \u0111\u1ed5 tr\u00ean da, nh\u01b0 m\u00f4 ch\u1ebft \u0111ang ho\u1ea1i t\u1eed d\u01b0\u1edbi \u00e1nh \u0111\u00e8n LED xanh.",
+    "note": "Sentence variety is strong \u2014 fragments, medium sentences, and occasional longer ones. The specificity is excellent (47.3 Hz, 36.8\u00b0C, 2.1m tr\u1ea7n). The weakest sentence is a tell-not-show emotional statement that breaks the cold voice. Several paragraphs could be tightened \u2014 the convenience store scene adds little."
+  },
+  "continuity": {
+    "score": 9,
+    "note": "Excellent emotional continuity from the previous chapter. C\u01b0\u1eddng's revelation ('Anh l\u00e0 k\u1ebb \u0111\u00e3 b\u00f3c l\u1ed9t n\u00e0ng') carries directly into this chapter's physical collapse. The wound progression (purple \u2192 black \u2192 oozing) tracks logically. His disorientation upon waking matches the traumatic disconnection. The Lan reference is consistent with the previous chapter's naming."
+  },
+  "canon_compliance": {
+    "score": 8,
+    "violations": [
+      "Minor: C\u01b0\u1eddng's h\u1ea7m is described as B2 of an abandoned office building, but the outline says 'h\u1ea7m tr\u00fa \u1ea9n d\u01b0\u1edbi khu Haymarket' \u2014 the B2 specification is from world.md, so this is actually compliant, just worth noting.",
+      "The convenience store purchase scene implies C\u01b0\u1eddng has money (18 dollars), which is consistent with him having '\u0111\u1ea7u t\u01b0 to\u00e0n b\u1ed9 ti\u1ec1n ti\u1ebft ki\u1ec7m v\u00e0o c\u00e1p quang ri\u00eang' \u2014 but he should be nearly destitute by now. This is a minor tension but not a violation.",
+      "H\u1ea1nh says C\u01b0\u1eddng entered 'Khu N\u1eb1m. T\u1ea7ng B3. Gi\u01b0\u1eddng s\u1ed1 4. Hai \u0111\u00eam tr\u01b0\u1edbc.' \u2014 this references events that may have occurred in chapters between the outline entries, so it's not a violation but should be verified against actual previous chapters."
+    ],
+    "note": "All major canon facts are respected: h\u1ea7m location (Haymarket, 12m\u00b2, 2.1m ceiling), wound location (x\u01b0\u01a1ng s\u01b0\u1eddn tr\u00e1i), St. Vincent location (1.2km from server), H\u1ea1nh's appearance and habits, the caf\u00e9 details, ping measurements, and the Cumberland tunnel history. The clear fluid is new but presented as an escalation, not a contradiction."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "C\u01b0\u1eddng l\u1ea3o \u0111\u1ea3o \u0111\u1ebfn b\u00e0n l\u00e0m vi\u1ec7c. M\u00e0n h\u00ecnh v\u1eabn ch\u1ea1y. D\u1eef li\u1ec7u log hi\u1ec7n ra, cu\u1ed9n l\u00ean, nh\u01b0ng m\u1eaft anh kh\u00f4ng t\u1eadp trung \u0111\u1ecdc \u0111\u01b0\u1ee3c.",
+    "fix": "This is a missed opportunity to show the lore doing work. The log data could contain a specific detail \u2014 a spike in neural activity from Patient 04-\u0110M, or an unauthorized connection attempt from an unknown ID \u2014 that adds tension and makes the world feel alive beyond C\u01b0\u1eddng's immediate crisis.",
+    "note": "The lore is doing real work: the wound mechanics (Rule 1 \u2014 bidirectional sync), the ping system, the Cumberland tunnel history, the 47B legal framework, the hospital layout. The weakest moment is when the server logs are mentioned but not used to add world-specific detail."
+  },
+  "engagement": {
+    "score": 8,
+    "weakest_moment": "C\u01b0\u1eddng \u0111\u1ea9y c\u1eeda ti\u1ec7m. Chu\u00f4ng k\u00eau lanh canh. Ng\u01b0\u1eddi b\u00e1n h\u00e0ng \u2014 thanh ni\u00ean, tai nghe, kh\u00f4ng ng\u1ea9ng l\u00ean \u2014 ng\u1ed3i sau qu\u1ea7y. Ti\u1ec7m nh\u1ecf, k\u1ec7 ch\u1eadt, m\u00f9i h\u00f3a ch\u1ea5t t\u1ea9y r\u1eeda v\u00e0 \u0111\u1ed3 h\u1ed9p. Anh l\u1ea5y m\u1ed9t cu\u1ed9n b\u0103ng g\u1ea1c. Chai c\u1ed3n y t\u1ebf 500ml. M\u1ed9t chai r\u01b0\u1ee3u r\u1ebb ti\u1ec1n \u2014 lo\u1ea1i m\u1ea1nh nh\u1ea5t h\u1ecd c\u00f3, 40%. Kh\u00f4ng ph\u1ea3i \u0111\u1ec3 u\u1ed1ng. \u0110\u1ec3 s\u00e1t tr\u00f9ng.",
+    "fix": "Cut or compress this scene significantly. We don't need the transaction details. 'Ti\u1ec7m ti\u1ec7n l\u1ee3i hai m\u01b0\u01a1i b\u1ed1n gi\u1edd. B\u0103ng gacha. C\u1ed3n. R\u01b0\u1ee3u 40% \u2014 m\u1ea1nh nh\u1ea5t h\u1ecd c\u00f3. M\u01b0\u1eddi b\u1ea3y n\u0103m m\u01b0\u01a1i. Anh kh\u00f4ng nh\u00ecn ng\u01b0\u1eddi b\u00e1n h\u00e0ng.' Three lines instead of eight.",
+    "note": "The chapter maintains strong tension throughout \u2014 the wound examination is viscerally disturbing, the H\u1ea1nh encounter is genuinely surprising (she's not there to arrest him), and the thumb moment is a gut-punch realization. The weakest section is the convenience store, which adds nothing and slows momentum."
+  },
+  "three_weakest_sentences": [
+    "S\u1ef1 th\u1eadt \u1ea5y \u0111\u00e2m v\u00e0o ng\u1ef1c C\u01b0\u1eddng s\u1eafc h\u01a1n b\u1ea5t k\u1ef3 v\u1ebft th\u01b0\u01a1ng n\u00e0o.",
+    "Anh \u0111\u00e3 c\u1ed1 g\u1ea5p ng\u00f3n c\u00e1i v\u00e0o trong l\u00f2ng b\u00e0n tay. \u0110\u01a1n gi\u1ea3n. Ph\u1ea3n x\u1ea1. Nh\u01b0ng ng\u00f3n c\u00e1i kh\u00f4ng g\u1eadp \u0111\u01b0\u1ee3c.",
+    "Cu\u1ed9c s\u1ed1ng b\u00ecnh th\u01b0\u1eddng ti\u1ebfp di\u1ec5n, kh\u00f4ng quan t\u00e2m r\u1eb1ng tr\u00ean b\u0103ng gh\u1ebf kim lo\u1ea1i tr\u01b0\u1edbc qu\u00e1n c\u00e0 ph\u00ea, m\u1ed9t ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng \u0111ang b\u1ecb \u0103n t\u1eeb b\u00ean trong."
+  ],
+  "three_strongest_sentences": [
+    "V\u1ebft b\u1ea7m tr\u00ean x\u01b0\u01a1ng s\u01b0\u1eddn tr\u00e1i \u2014 n\u01a1i t\u1eebng l\u00e0 d\u1ea5u m\u00f4i c\u1ee7a n\u00e0ng, n\u01a1i t\u1eebng nh\u1ecbp \u0111\u1eadp \u0111\u1ed3ng b\u1ed9 v\u1edbi nh\u1ecbp tim c\u1ee7a Lan \u2014 kh\u00f4ng c\u00f2n t\u00edm ng\u1eaft. N\u00f3 chuy\u1ec3n sang m\u00e0u \u0111en. \u0110en b\u1ea7m, nh\u01b0 m\u1ef1c \u0111\u1ed5 tr\u00ean da, nh\u01b0 m\u00f4 ch\u1ebft \u0111ang ho\u1ea1i t\u1eed d\u01b0\u1edbi \u00e1nh \u0111\u00e8n LED xanh.",
+    "B\u00e0 \u0111ang th\u01b0\u01a1ng x\u00f3t cho m\u1ed9t k\u1ebb s\u1eafp ch\u1ebft.",
+    "R\u1ed3i \u2014 b\u00ean d\u01b0\u1edbi nh\u1ecbp tim, s\u00e2u h\u01a1n, y\u00ean l\u1eb7ng h\u01a1n \u2014 m\u1ed9t nh\u1ecbp kh\u00e1c. Ch\u1eadm. 40 nh\u1ecbp/ph\u00fat. Ho\u1eb7c 8 nh\u1ecbp/ph\u00fat. Ho\u1eb7c kh\u00f4ng ph\u1ea3i nh\u1ecbp tim, m\u00e0 l\u00e0 nh\u1ecbp c\u1ee7a th\u1ee9 g\u00ec \u0111\u00f3 \u0111ang \u0111\u1ebfm th\u1eddi gian theo c\u00e1ch ri\u00eang c\u1ee7a n\u00f3."
+  ],
+  "ai_patterns_detected": [
+    "Slight paragraph rhythm uniformity in the middle section \u2014 several paragraphs follow the same pattern (action sentence, then sensory detail, then short fragment). More variation needed.",
+    "The convenience store scene reads like filler \u2014 a generic 'character buys supplies' beat that doesn't add character or world specificity.",
+    "One instance of emotional telling ('S\u1ef1 th\u1eadt \u1ea5y \u0111\u00e2m v\u00e0o ng\u1ef1c C\u01b0\u1eddng s\u1eafc h\u01a1n b\u1ea5t k\u1ef3 v\u1ebft th\u01b0\u01a1ng n\u00e0o') that reads as AI-generated emotional emphasis.",
+    "The ending section slightly over-explains the thematic resonance ('Anh l\u00e0 k\u1ebb b\u00f3c l\u1ed9t. V\u00e0 gi\u1edd \u0111\u00e2y, th\u1ee9 anh b\u00f3c l\u1ed9t \u0111ang b\u00f3c l\u1ed9t l\u1ea1i.') \u2014 this is on-the-nose in a way that the voice profile explicitly warns against."
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "prose_quality",
+  "top_3_revisions": [
+    "Cut or compress the convenience store scene from ~8 sentences to 3. The transaction adds nothing \u2014 the reader already knows what C\u01b0\u1eddng bought from H\u1ea1nh's dialogue. Replace with: 'Ti\u1ec7m ti\u1ec7n l\u1ee3i. B\u0103ng gacha. C\u1ed3n. R\u01b0\u1ee3u 40%. M\u01b0\u1eddi b\u1ea3y n\u0103m m\u01b0\u01a1i. Ra.' This maintains the staccato voice while removing filler.",
+    "Rewrite 'S\u1ef1 th\u1eadt \u1ea5y \u0111\u00e2m v\u00e0o ng\u1ef1c C\u01b0\u1eddng s\u1eafc h\u01a1n b\u1ea5t k\u1ef3 v\u1ebft th\u01b0\u01a1ng n\u00e0o' to match the surgical voice. Replace with a physical detail: the bread going cold in his hand, or his fingers going numb, or the wound pulsing once \u2014 something the body does, not a statement about what the truth does.",
+    "Trim the final thematic statement. Cut 'Anh l\u00e0 k\u1ebb b\u00f3c l\u1ed9t. V\u00e0 gi\u1edd \u0111\u00e2y, th\u1ee9 anh b\u00f3c l\u1ed9t \u0111ang b\u00f3c l\u1ed9t l\u1ea1i.' End on the physical: the alien heartbeat, the cold concrete, the unbandaged wound. The reader has already made the thematic connection \u2014 stating it aloud weakens it."
+  ],
+  "new_canon_entries": [
+    "The bruise on C\u01b0\u1eddng's left ribs has progressed from purple-black to black, and is now oozing a clear, viscous fluid.",
+    "A previous Du M\u1ee5c died in Cumberland tunnel three years ago from 'brain burn' after exhibiting the same clear fluid symptom. He described being 'eaten from the inside.'",
+    "C\u01b0\u1eddng has lost motor control of his right thumb \u2014 it remains extended and cannot be voluntarily flexed, suggesting progressive neurological damage.",
+    "H\u1ea1nh knows C\u01b0\u1eddng entered Khu N\u1eb1m (B3, bed 4) two nights prior and attempted to 'free' Patient 04-\u0110M.",
+    "C\u01b0\u1eddng's heart rate synchronized with an ambulance siren near St. Vincent, suggesting a connection between his wound and external electromagnetic/rhythmic stimuli."
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 23.16,
+    "sentence_length_cv": 0.818,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 7
+}

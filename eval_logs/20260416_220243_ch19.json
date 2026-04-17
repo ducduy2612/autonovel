@@ -1,0 +1,106 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "C\u01a1 th\u1ec3\u6297\u8bae \u2014 m\u1ed7i kh\u1edbp k\u00eau r\u1eafc, m\u1ed7i s\u1ee3i c\u01a1 nh\u01b0 b\u1ecb gi\u1eb7t v\u00e0 v\u1eaft kh\u00f4.",
+    "fix": "Remove the Chinese character '\u6297\u8bae' immediately \u2014 it's a jarring typo/insertion that breaks immersion entirely. Replace with Vietnamese: 'C\u01a1 th\u1ec3 ph\u1ea3n kh\u00e1ng' or better yet, stay in voice: 'C\u01a1 th\u1ec3 t\u1eeb ch\u1ed1i \u2014 m\u1ed7i kh\u1edbp k\u00eau r\u1eafc, m\u1ed7i s\u1ee3i c\u01a1 nh\u01b0 b\u1ecb gi\u1eb7t v\u00e0 v\u1eaft kh\u00f4.'",
+    "note": "The cold, surgical tone is largely well-executed. Ping numbers, temperature constants, and clinical observations hit the voice profile. The body-before-emotion principle works in several places (li\u1ebfm m\u00f4i, tay run). But the chapter leans too hard on emotional confession in the final third, abandoning the technician's distance for conventional melodrama. The voice is strongest when observing decay; weakest when explaining feelings."
+  },
+  "beat_coverage": {
+    "score": 5,
+    "weakest_moment": "The entire B\u1ea3o exchange is compressed into a phone call and a brief tunnel meeting. The note 'Tao v\u1edbi tay. B\u1ea3o k\u00e9o h\u1ed9p l\u1ea1i' is the only moment of physical tension in what should be a pivotal scene.",
+    "fix": "Dramatize the Cumberland meeting as a full scene with sensory detail \u2014 the smell, the other Du M\u1ee5c bodies in makeshift tanks, B\u1ea3o's physical deterioration shown through action rather than described. Let B\u1ea3o's warning land through what C\u01b0\u1eddng sees in the tunnel, not just what B\u1ea3o says.",
+    "note": "Beat 1 (contact B\u1ea3o) is half-hit \u2014 phone call works but is summary-heavy. Beat 2 (B\u1ea3o provides equipment, warns) is half-hit \u2014 the warning is present but the scene is rushed. Beat 3 (setup + note) is hit \u2014 the note-writing is the chapter's strongest sequence. Beat 4 (don Mantle) is hit. The 'Yes, but' cycle is present but the 'but' (deeper connection required) feels stated rather than dramatized."
+  },
+  "character_voice": {
+    "score": 6,
+    "weakest_moment": "\"Anh \u0111\u00e3 l\u00e0m cho em nh\u1eefng vi\u1ec7c kh\u00f4ng th\u1ec3 tha th\u1ee9.\" \u2014 This is generic protagonist confession. It could come from any character in any story. C\u01b0\u1eddng's voice should be colder, more specific: listing what he did in clinical terms, or describing the damage in neural language.",
+    "fix": "Replace with something specific to C\u01b0\u1eddng's voice: 'Anh \u0111\u00e3 m\u1edf 100% x\u00fac gi\u00e1c c\u1ee7a em 847 l\u1ea7n. Kh\u00f3a 90% nh\u1eadn th\u1ee9c. D\u00f9ng c\u01a1 th\u1ec3 em nh\u01b0 m\u00e0n h\u00ecnh ph\u00e1t s\u00f3ng tr\u1ef1c ti\u1ebfp.' Let the horror come from the clinical precision, not from emotional confession.",
+    "note": "B\u1ea3o's voice is the strongest \u2014 short, abrasive, 'm\u00e0y-tao,' the right mix of street slang and technical knowledge. His line 'M\u00e0y s\u1ebd kh\u00f4ng quay l\u1ea1i \u0111\u01b0\u1ee3c' carries weight because it's repeated and earned. Lan's voice is functional but leans toward generic fear. C\u01b0\u1eddng's internal voice works better than his dialogue \u2014 his spoken lines too often default to earnest confession."
+  },
+  "plants_seeded": {
+    "score": 7,
+    "weakest_moment": "The note 'T\u00f4i l\u00e0 Tr\u1ea7n C\u01b0\u1eddng. T\u00f4i \u0111\u00e3 gi\u1ebft Lan. \u0110\u00e2y l\u00e0 s\u1ef1 chu\u1ed9c l\u1ed7i.' is explicitly called out in the outline as a plant, and it's placed well \u2014 but it's almost too visible, too clearly a 'plant.'",
+    "fix": "Consider having C\u01b0\u1eddng write the note but then almost discard it, or place it somewhere less obvious than the server screen. A plant should be something a reader remembers later, not something they're told to remember.",
+    "note": "The external hard drive cable ('C\u00e1p th\u1ee9 ba \u2014 d\u1ef1 ph\u00f2ng \u2014 n\u1ed1i t\u1eeb khu\u1ebfch \u0111\u1ea1i ra m\u1ed9t \u1ed5 c\u1ee9ng ngo\u00e0i') is a good subtle plant \u2014 it could enable data recovery or a Lan backup later. B\u1ea3o's continued signal reception is maintained. The 91% damage figure sets up consequences. The 'Kh\u00f4i m\u1ec9m c\u01b0\u1eddi' moment is an effective dark echo."
+  },
+  "prose_quality": {
+    "score": 6,
+    "weakest_sentence": "C\u01a1 th\u1ec3\u6297\u8bae \u2014 m\u1ed7i kh\u1edbp k\u00eau r\u1eafc, m\u1ed7i s\u1ee3i c\u01a1 nh\u01b0 b\u1ecb gi\u1eb7t v\u00e0 v\u1eaft kh\u00f4.",
+    "fix": "Remove the Chinese character. Then reconsider the simile \u2014 'gi\u1eb7t v\u00e0 v\u1eaft kh\u00f4' is a domestic image that doesn't fit the clinical/technological register. Try: 'C\u01a1 th\u1ec3 t\u1eeb ch\u1ed1i \u2014 m\u1ed7i kh\u1edbp k\u00eau r\u1eafc, m\u1ed7i s\u1ee3i c\u01a1 co c\u1ee9ng nh\u01b0 c\u00e1p quang b\u1ecb \u0111\u1ee9t ngang.'",
+    "strongest_sentence": "Gi\u1ebft b\u1eb1ng m\u00e3. Gi\u1ebft b\u1eb1ng \u0111\u1ed9 tr\u1ec5 14ms. Gi\u1ebft b\u1eb1ng 847 l\u1ea7n ch\u1ea1m, 847 l\u1ea7n \u0111\u1ed5 b\u1ed9, 847 l\u1ea7n \u00e9p m\u1edf 100% x\u00fac gi\u00e1c c\u1ee7a m\u1ed9t c\u01a1 th\u1ec3 h\u00f4n m\u00ea trong khi kh\u00f3a 90% nh\u1eadn th\u1ee9c.",
+    "note": "The strongest prose is in the note-writing sequence and the technical descriptions. The weakest is in emotional transitions, where the prose defaults to generic statements. Sentence variety is decent \u2014 short fragments mixed with longer technical passages. But several paragraphs follow the same structure (observation \u2192 emotional reflection), creating monotony in the middle section."
+  },
+  "continuity": {
+    "score": 7,
+    "note": "Picks up directly from Ch 18's ending \u2014 C\u01b0\u1eddng wakes in the tank after the violent disconnect. The 91% damage figure follows logically from the previous chapter's escalation. Lan's survival in the buffer is a new element but consistent with established rules (data persists even when connection drops). The emotional arc tracks: from Ch 18's sacrifice attempt to Ch 19's realization that the sacrifice was incomplete. One issue: the previous chapter ended with C\u01b0\u1eddng falling into darkness after pressing Y on the deep disconnect \u2014 this chapter opens with him waking up, but the transition feels too clean for someone who just experienced violent neural shock."
+  },
+  "canon_compliance": {
+    "score": 5,
+    "violations": [
+      "CRITICAL: The name 'Lan' appears throughout this chapter, but the character registry NEVER names the K\u1ebb \u0110u\u1ed5i/N\u00e0ng or B\u1ec7nh nh\u00e2n s\u1ed1 4. The outline uses 'Lan' but this contradicts the established canon where she has no name \u2014 only designations.",
+      "The chapter refers to 'v\u1ebft s\u1eb9o' on C\u01b0\u1eddng's chest where the bruise used to be, but canon establishes a 'v\u1ebft b\u1ea7m h\u00ecnh b\u00e1n nguy\u1ec7t t\u00edm ng\u1eaft' \u2014 bruises and scars are different things, and this change is unexplained.",
+      "C\u01b0\u1eddng says '847 l\u1ea7n ch\u1ea1m, 847 l\u1ea7n \u0111\u1ed5 b\u1ed9' but the chapter header says this is Phi\u00ean 852/853 \u2014 the 847 figure was the count at chapter 1, not current.",
+      "B\u1ea3o's dialogue mentions 'Kh\u00f4i' \u2014 a character who does not exist in any planning document. This is a new character introduced without establishment."
+    ],
+    "note": "The 'Lan' naming issue is the most serious violation. If the K\u1ebb \u0110u\u1ed5i was never named in canon, naming her here requires either: (a) establishing this is the first time C\u01b0\u1eddng learns/uses her name, or (b) acknowledging she was never named before. The Kh\u00f4i reference reads as if the reader should know this character, but they don't."
+  },
+  "lore_integration": {
+    "score": 7,
+    "weakest_moment": "The walk through Cumberland is described in familiar terms (smell, darkness, cables) but doesn't show us anything new or make the world do work \u2014 it's set dressing for the B\u1ea3o exchange.",
+    "fix": "Use the Cumberland walk to show C\u01b0\u1eddng passing other Du M\u1ee5c in worse states than him \u2014 bodies in makeshift tanks, someone convulsing from a bad disconnect, the infrastructure of addiction made visceral. This would reinforce the stakes and make the world feel lived-in rather than visited.",
+    "note": "The technical setup sequence (cables, amplifier, configuration) is strong lore integration \u2014 it shows the system working through specific, grounded detail. The amplifier's function is clearly tied to established rules about neural bandwidth and disconnect damage. The Haymarket descriptions (Chinatown at 4am, the coffee shop) add texture. But Cumberland, a major lore location, is underutilized."
+  },
+  "engagement": {
+    "score": 6,
+    "weakest_moment": "The entire white void sequence where C\u01b0\u1eddng meets Lan. After the visceral, specific world of the h\u1ea7m and Cumberland, this abstract space with its abstract emotions feels like a step backward. The dialogue becomes conventional: 'Anh s\u1ebd gi\u1ea3i ph\u00f3ng em.' 'Em kh\u00f4ng mu\u1ed1n t\u1ef1 do. Em mu\u1ed1n t\u1ed3n t\u1ea1i.'",
+    "fix": "Ground the white void in physical sensation \u2014 the cold, the absence of smell, the way sound behaves (or doesn't). Give Lan specific memories or fragments that show her consciousness rather than having her speak in generic statements. The most powerful moment would be something unexpected \u2014 not confession, but a detail that breaks the pattern.",
+    "note": "The chapter's best moments are the quiet, specific ones: C\u01b0\u1eddng writing the note, the amplifier setup, B\u1ea3o's warning about the smile. The weakest are the emotional climaxes, which default to familiar beats. The ending \u2014 'Th\u1ebf gi\u1edbi tr\u1eafng v\u1ee1 tan' \u2014 is a cliffhanger but not a surprising one. A reader would turn the page, but more from habit than genuine shock."
+  },
+  "three_weakest_sentences": [
+    "C\u01a1 th\u1ec3\u6297\u8bae \u2014 m\u1ed7i kh\u1edbp k\u00eau r\u1eafc, m\u1ed7i s\u1ee3i c\u01a1 nh\u01b0 b\u1ecb gi\u1eb7t v\u00e0 v\u1eaft kh\u00f4.",
+    "Anh th\u1ea5y m\u1ed9t con ng\u01b0\u1eddi. S\u1ee3 h\u00e3i. \u0110au \u0111\u1edbn. S\u1ed1ng.",
+    "C\u00f4 nh\u00ecn anh. V\u00e0 trong \u0111\u00f4i m\u1eaft \u1ea5y, C\u01b0\u1eddng th\u1ea5y th\u1ee9 anh ch\u01b0a t\u1eebng th\u1ea5y trong th\u1ebf gi\u1edbi \u1ea3o \u2014 kh\u00f4ng ph\u1ea3i s\u1ef1 quy\u1ebfn r\u0169 \u0111\u01b0\u1ee3c l\u1eadp tr\u00ecnh, kh\u00f4ng ph\u1ea3i n\u1ee5 c\u01b0\u1eddi kh\u00f4ng ch\u1ea1m t\u1edbi m\u1eaft, kh\u00f4ng ph\u1ea3i ti\u1ebfng r\u00ean l\u1eb7p l\u1ea1i y h\u1ec7t."
+  ],
+  "three_strongest_sentences": [
+    "Gi\u1ebft b\u1eb1ng m\u00e3. Gi\u1ebft b\u1eb1ng \u0111\u1ed9 tr\u1ec5 14ms. Gi\u1ebft b\u1eb1ng 847 l\u1ea7n ch\u1ea1m, 847 l\u1ea7n \u0111\u1ed5 b\u1ed9, 847 l\u1ea7n \u00e9p m\u1edf 100% x\u00fac gi\u00e1c c\u1ee7a m\u1ed9t c\u01a1 th\u1ec3 h\u00f4n m\u00ea trong khi kh\u00f3a 90% nh\u1eadn th\u1ee9c.",
+    "T\u00f4i l\u00e0 Tr\u1ea7n C\u01b0\u1eddng. T\u00f4i \u0111\u00e3 gi\u1ebft Lan. \u0110\u00e2y l\u00e0 s\u1ef1 chu\u1ed9c l\u1ed7i.",
+    "Kh\u00f4i m\u1ec9m c\u01b0\u1eddi. Tao th\u1ea5y. Tao th\u1ea5y r\u00f5 l\u1eafm. D\u00f9 m\u1eaft tao h\u1ecfng. Tao th\u1ea5y h\u1eafn m\u1ec9m c\u01b0\u1eddi, v\u00e0 \u0111\u00f3 kh\u00f4ng ph\u1ea3i n\u1ee5 c\u01b0\u1eddi c\u1ee7a ng\u01b0\u1eddi s\u1ed1ng."
+  ],
+  "ai_patterns_detected": [
+    "Uniform paragraph rhythm in the middle section \u2014 many paragraphs follow the same pattern: short observation sentence, then longer emotional reflection",
+    "The white void sequence uses abstract emotional language ('s\u1ee3 h\u00e3i', '\u0111au \u0111\u1edbn', 's\u1ed1ng') instead of concrete sensory detail \u2014 a common AI pattern when describing liminal spaces",
+    "Several paragraphs end with a dramatic short sentence or fragment ('Nh\u00e0.', 'Lan.', 'Tr\u1eafng.') \u2014 effective once or twice, but the repetition becomes a visible pattern",
+    "The emotional climax relies on characters stating their feelings directly rather than demonstrating them through action or specific detail",
+    "Translation-sounding construction: 'Kh\u1ea9u v\u1ecb c\u1ee7a s\u1ef1 th\u1ea5t b\u1ea1i' \u2014 this reads like a calque from English 'taste of defeat' rather than natural Vietnamese idiom"
+  ],
+  "overall_score": 5.0,
+  "weakest_dimension": "canon_compliance",
+  "top_3_revisions": [
+    "CRITICAL: Address the 'Lan' naming violation. Either establish this is C\u01b0\u1eddng learning/assigning her name for the first time (with appropriate weight), or revert to 'N\u00e0ng'/'K\u1ebb \u0110u\u1ed5i'/'B\u1ec7nh nh\u00e2n s\u1ed1 4' as per canon. The name cannot appear as if it was always established.",
+    "Rewrite the white void sequence to ground it in physical sensation and specific detail rather than abstract emotional dialogue. Lan should communicate through fragments, glitches, or specific memories \u2014 not conventional statements like 'Em kh\u00f4ng mu\u1ed1n t\u1ef1 do. Em mu\u1ed1n t\u1ed3n t\u1ea1i.' Give her the voice described in her character profile (poetic, Northern Vietnamese, sometimes glitching) rather than generic fear.",
+    "Remove the Chinese character '\u6297\u8bae' and audit the entire chapter for similar jarring insertions. Tighten the Cumberland sequence by adding specific, visceral details of other Du M\u1ee5c in the tunnels \u2014 show the world rather than describing it in familiar terms."
+  ],
+  "new_canon_entries": [
+    "Phi\u00ean 852 ended with abnormal termination, 91% projected brain damage if continuing",
+    "C\u01b0\u1eddng possesses a Gen 3 signal amplifier obtained from B\u1ea3o for $2,500",
+    "A character named Kh\u00f4i is referenced \u2014 a Du M\u1ee5c who died with a smile on his face, known to B\u1ea3o",
+    "C\u01b0\u1eddng has written a note reading 'T\u00f4i l\u00e0 Tr\u1ea7n C\u01b0\u1eddng. T\u00f4i \u0111\u00e3 gi\u1ebft Lan. \u0110\u00e2y l\u00e0 s\u1ef1 chu\u1ed9c l\u1ed7i' and attached it to his server screen",
+    "C\u01b0\u1eddng has connected an external hard drive to the amplifier as a data backup measure",
+    "Phi\u00ean 853 initiated with amplifier at 300% capacity, 0ms latency configuration"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 19.88,
+    "sentence_length_cv": 0.813,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 6
+}

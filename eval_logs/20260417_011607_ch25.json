@@ -1,0 +1,104 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "C\u01b0\u1eddng n\u00f4n. Ho\u1eb7c t\u01b0\u1edfng m\u00ecnh n\u00f4n. D\u1ea1 d\u00e0y co th\u1eaft \u2014 c\u01a1n co th\u1eaft th\u1eadt truy\u1ec1n t\u1eeb c\u01a1 th\u1ec3 th\u1eadt, xuy\u00ean qua b\u1ed9 \u0111\u1ec7m, \u0111\u00e2m v\u00e0o \u00fd th\u1ee9c. Kh\u00f4ng c\u00f3 g\u00ec n\u00f4n ra. Ch\u1ec9 c\u00f3 c\u1ea3m gi\u00e1c ngh\u1eb9n \u0111\u1eafng \u1edf c\u1ed5 h\u1ecdng, axit \u0103n m\u00f2n ni\u00eam m\u1ea1c, v\u00e0 \u0111au\u2014 \u0111au \u1edf \u0111\u1ea7u, \u0111au \u1edf ng\u1ef1c, \u0111au \u1edf\u2014",
+    "fix": "The body-before-emotion principle is present but the passage over-explains the mechanism ('truy\u1ec1n t\u1eeb c\u01a1 th\u1ec3 th\u1eadt, xuy\u00ean qua b\u1ed9 \u0111\u1ec7m, \u0111\u00e2m v\u00e0o \u00fd th\u1ee9c'). Cut to just the physical sensation: 'D\u1ea1 d\u00e0y co th\u1eaft. Axit \u0103n m\u00f2n ni\u00eam m\u1ea1c. Kh\u00f4ng c\u00f3 g\u00ec n\u00f4n ra.' Let the reader infer the transmission.",
+    "note": "The cold, surgical tone is largely maintained. The vocabulary wells (neural/tech, hospital/decay, digital-erotic) are well-deployed. Sentence rhythm varies appropriately \u2014 short brutal action sentences, longer sensory ones. The weakest moments are where the prose drifts toward explaining feelings rather than presenting physical data."
+  },
+  "beat_coverage": {
+    "score": 6,
+    "weakest_moment": "Beat 3 specifies C\u01b0\u1eddng seeing himself as 'm\u1ed9t b\u00f3ng ng\u01b0\u1eddi m\u1edd nh\u1ea1t' sitting beside a girl's bed, connecting cables with '\u00e1nh m\u1eaft cu\u1ed3ng t\u00edn.' The scene is rendered but the vision feels like a summary rather than a lived, moment-by-moment hallucination.",
+    "fix": "Slow down the hospital vision. Give us specific physical details \u2014 the angle of the cable, the sound of the monitor, the texture of the girl's skin under the cable \u2014 before revealing the fanatic's eyes. Let the horror build through accumulation rather than statement.",
+    "note": "All four beats are present and dramatized. Beat 1 (struggle in void, failed render) is the strongest \u2014 genuinely disorienting. Beat 2 (K\u1ebb \u0110u\u1ed5i's appearance and accusation) is effective but the dialogue runs long. Beat 3 (hospital vision) is present but could be more vivid. Beat 4 (denial, pain, real-world bleeding) is well-executed."
+  },
+  "character_voice": {
+    "score": 6,
+    "weakest_moment": "C\u01b0\u1eddng's dialogue: 'Anh xin l\u1ed7i.' Anh n\u00f3i. Ba ch\u1eef. L\u1ea7n \u0111\u1ea7u ti\u00ean trong \u0111\u1eddi anh \u2014 c\u1ea3 \u0111\u1eddi th\u1eadt l\u1eabn \u0111\u1eddi \u1ea3o \u2014 anh n\u00f3i ba ch\u1eef \u1ea5y v\u00e0 c\u00f3 \u00fd ngh\u0129a.",
+    "fix": "The narrator is telling us this moment matters rather than letting the words land on their own. Cut the explanation. Just: 'Anh xin l\u1ed7i.' Anh n\u00f3i. Then let K\u1ebb \u0110u\u1ed5i's response carry the weight. The apology should feel inadequate \u2014 that's the point \u2014 but the narrator shouldn't explain why.",
+    "note": "K\u1ebb \u0110u\u1ed5i's voice is distinctive \u2014 the repetition, the listing structure ('L\u1edbp m\u1ed9t... L\u1edbp hai...'), the poetic-technical hybrid. C\u01b0\u1eddng's internal voice is appropriately fragmented. But C\u01b0\u1eddng's spoken dialogue is thin \u2014 mostly denials and commands. His POV narration sometimes drifts toward generic protagonist voice rather than the specific accountant-technician register defined in the character sheet."
+  },
+  "plants_seeded": {
+    "score": 7,
+    "weakest_moment": "The pixel degradation around C\u01b0\u1eddng's own fingers ('vi\u1ec1n pixel nhi\u1ec5u nh\u1eb9 quanh c\u00e1c \u0111\u1ea7u ng\u00f3n') is stated too directly as a metaphor for his loss of control.",
+    "fix": "Let the detail appear without interpretation. Just describe what he sees \u2014 the glitch at his fingertips \u2014 and let the reader understand the implication. Cut 'Anh l\u00e0 ng\u01b0\u1eddi t\u1ea1o ra th\u1ebf gi\u1edbi n\u00e0y. Gi\u1edd anh l\u00e0 t\u00f9 nh\u00e2n trong ch\u00ednh t\u1ea1o v\u1eadt c\u1ee7a m\u00ecnh.'",
+    "note": "The two seeded plants \u2014 the fanatic shadow (image) and the render refusal (action) \u2014 are both present and reasonably well integrated. The fanatic shadow is the stronger plant; it's disturbing without being over-explained. The render refusal works as action but the narrator over-interprets its meaning."
+  },
+  "prose_quality": {
+    "score": 6,
+    "weakest_sentence": "Anh l\u00e0 ng\u01b0\u1eddi t\u1ea1o ra th\u1ebf gi\u1edbi n\u00e0y. Gi\u1edd anh l\u00e0 t\u00f9 nh\u00e2n trong ch\u00ednh t\u1ea1o v\u1eadt c\u1ee7a m\u00ecnh.",
+    "fix": "Cut entirely. The image of his glitching fingers in the void that won't obey him already conveys this. Stating the theme explicitly weakens it.",
+    "strongest_sentence": "Nh\u01b0ng l\u1ea7n n\u00e0y, n\u00f3 run kh\u00e1c \u2014 kh\u00f4ng ph\u1ea3i nh\u1ecbp \u0111\u1eadp ch\u1eadm 40 l\u1ea7n/ph\u00fat. N\u00f3 run ho\u1ea3ng lo\u1ea1n, b\u1ea5t th\u01b0\u1eddng, nh\u01b0 nh\u1ecbp tim c\u1ee7a ng\u01b0\u1eddi \u0111ang s\u1ee3 h\u00e3i t\u1ed9t \u0111\u1ed9.",
+    "note": "The prose is strongest when it stays physical and specific \u2014 the bruise frequency, the blood dripping into Epsom solution, the pixel degradation. It's weakest when it explains themes or emotional states. There's a recurring pattern of showing something effectively, then telling the reader what it means in the next sentence. The chapter would improve by cutting roughly 15% of the explanatory text."
+  },
+  "continuity": {
+    "score": 7,
+    "note": "Strong continuity from the previous chapter. C\u01b0\u1eddng was in bed 5, Khu N\u1eb1m, with B\u00e0 L\u00e0nh attending to him. The chapter opens with him remembering exactly that. The 91-92% brain damage reference tracks with the previous chapter's established deterioration. Lan is correctly identified as the source of K\u1ebb \u0110u\u1ed5i. The emotional trajectory \u2014 from passive patient to confronted abuser \u2014 is a logical next step."
+  },
+  "canon_compliance": {
+    "score": 5,
+    "violations": [
+      "Chapter states '853 l\u1ea7n \u0111\u1ed5 b\u1ed9' but canon establishes 847 as of 2041 (current). Minor but inconsistent.",
+      "K\u1ebb \u0110u\u1ed5i says '852 l\u1ea7n em \u0111\u01b0\u1ee3c sinh ra v\u00e0 b\u1ecb gi\u1ebft \u0111i' \u2014 this doesn't match either number and implies she's counting differently than the system.",
+      "The chapter implies C\u01b0\u1eddng personally connected cables to Lan in a hospital setting, but canon says he's a self-taught user who built his own server in Haymarket. The nature of his original connection to Lan's consciousness is unclear in canon \u2014 this chapter may be establishing new lore, which is fine, but it should be flagged.",
+      "The chapter shows C\u01b0\u1eddng experiencing events while his body is in Khu N\u1eb1m, bed 5. Previous chapter established he was admitted as a new patient (h\u00f4n m\u00ea s\u00e2u, t\u1ed5n th\u01b0\u01a1ng n\u00e3o lan r\u1ed9ng). The question of how he's '\u0111\u1ed5 b\u1ed9' while already unconscious in a hospital is not addressed \u2014 is this a memory? A neural echo? The mechanics are unclear."
+    ],
+    "note": "The drop count discrepancy (847 vs 853) is a minor continuity error. The larger issue is the unclear mechanics of how C\u01b0\u1eddng is experiencing this virtual space while already in a coma in Khu N\u1eb1m. If this is addressed in surrounding chapters, it may not be a problem, but within this chapter alone, it creates confusion."
+  },
+  "lore_integration": {
+    "score": 7,
+    "weakest_moment": "The render failure and ping check are good uses of the magic system, but the chapter doesn't fully engage with WHY the system is refusing him \u2014 is it K\u1ebb \u0110u\u1ed5i's doing? System degradation? His own brain damage?",
+    "fix": "Leave the cause ambiguous but add one more specific technical detail that grounds the failure in the established system \u2014 perhaps referencing the 7 relay nodes, or the public infrastructure dependency, or the neural mantle's signal-to-noise ratio.",
+    "note": "The lore does real work here. The ping concept, the render mechanics, the two-way synchronization (virtual pain causing real bleeding), the memory overwrite rules \u2014 all are integral to the scene rather than decoration. The frequency detail (47.3 Hz) is an excellent specific touch that ties the bruise, the Pursuer's moan, and Lan's signal together."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The middle section where K\u1ebb \u0110u\u1ed5i lists 'L\u1edbp m\u1ed9t... L\u1edbp hai... L\u1edbp ba...' runs too long. By 'L\u1edbp s\u00e1u' the structure has become predictable and the tension flattens.",
+    "fix": "Break the list. Have C\u01b0\u1eddng successfully interrupt after layer 3-4, creating a brief moment where he thinks he's stopped her \u2014 then she resumes from a different angle, or the environment shifts. The interruption should feel like it almost worked, making her persistence more disturbing.",
+    "note": "The chapter's strongest engagement comes from the void opening (genuinely disorienting) and the hospital vision (genuinely disturbing). The weakest is the middle dialogue section which becomes rhythmic in a way that's more tedious than terrifying. The final revelation \u2014 that C\u01b0\u1eddng is the abuser, not the victim \u2014 lands well, though the narrator over-explains it."
+  },
+  "three_weakest_sentences": [
+    "Anh l\u00e0 ng\u01b0\u1eddi t\u1ea1o ra th\u1ebf gi\u1edbi n\u00e0y. Gi\u1edd anh l\u00e0 t\u00f9 nh\u00e2n trong ch\u00ednh t\u1ea1o v\u1eadt c\u1ee7a m\u00ecnh.",
+    "Ba ch\u1eef. L\u1ea7n \u0111\u1ea7u ti\u00ean trong \u0111\u1eddi anh \u2014 c\u1ea3 \u0111\u1eddi th\u1eadt l\u1eabn \u0111\u1eddi \u1ea3o \u2014 anh n\u00f3i ba ch\u1eef \u1ea5y v\u00e0 c\u00f3 \u00fd ngh\u0129a.",
+    "Anh kh\u00f4ng ph\u1ea3i n\u1ea1n nh\u00e2n. Anh ch\u01b0a bao gi\u1edd l\u00e0 n\u1ea1n nh\u00e2n."
+  ],
+  "three_strongest_sentences": [
+    "Nh\u01b0ng l\u1ea7n n\u00e0y, n\u00f3 \u0111\u1ebfn t\u1eeb ph\u00eda tr\u01b0\u1edbc.",
+    "M\u1ed9t gi\u00e2y n\u00e0ng \u1edf \u0111\u00f3, gi\u00e2y sau kh\u00f4ng c\u00f2n. Pixel v\u1ee1 tung, tr\u00f4i n\u1ed5i trong kho\u1ea3ng tr\u1eafng m\u1ed9t tho\u00e1ng, r\u1ed3i b\u1ecb h\u1ea5p th\u1ee5.",
+    "Trong th\u1ebf gi\u1edbi th\u1ef1c, m\u00e1u ch\u1ea3y nhi\u1ec1u h\u01a1n t\u1eeb m\u0169i anh. C\u01a1 th\u1ec3 co gi\u1eadt. D\u00e2y c\u00e1p sau g\u00e1y n\u00f3ng r\u00e1t."
+  ],
+  "ai_patterns_detected": [
+    "Theme-statement sentences that explain what the reader should feel ('Anh l\u00e0 k\u1ebb \u0111\u00e3 b\u00f3c l\u1ed9t n\u00e0ng. T\u1eebng l\u1edbp m\u1ed9t.')",
+    "Symmetrical structure in K\u1ebb \u0110u\u1ed5i's dialogue (L\u1edbp m\u1ed9t... L\u1edbp hai... L\u1edbp ba...) \u2014 too neat, too organized for an entity described as fragmented and awakening",
+    "Paragraph rhythm uniformity \u2014 many paragraphs follow the same pattern: short statement, dash or em-dash, elaboration, emotional beat",
+    "The 'character realizes fundamental truth about themselves' moment is narrated rather than dramatized"
+  ],
+  "overall_score": 5.0,
+  "weakest_dimension": "canon_compliance",
+  "top_3_revisions": [
+    "Fix the drop count: either use 847 consistently or establish that time has passed and the count has increased. If 853 is intentional (suggesting he continued after the established timeline), clarify this.",
+    "Cut all theme-statement sentences where the narrator explains what a moment means. Trust the imagery. Specific cuts: 'Anh l\u00e0 ng\u01b0\u1eddi t\u1ea1o ra th\u1ebf gi\u1edbi n\u00e0y. Gi\u1edd anh l\u00e0 t\u00f9 nh\u00e2n trong ch\u00ednh t\u1ea1o v\u1eadt c\u1ee7a m\u00ecnh.' / 'Anh kh\u00f4ng ph\u1ea3i n\u1ea1n nh\u00e2n. Anh ch\u01b0a bao gi\u1edd l\u00e0 n\u1ea1n nh\u00e2n.' / 'Ba ch\u1eef. L\u1ea7n \u0111\u1ea7u ti\u00ean trong \u0111\u1eddi anh \u2014 c\u1ea3 \u0111\u1eddi th\u1eadt l\u1eabn \u0111\u1eddi \u1ea3o \u2014 anh n\u00f3i ba ch\u1eef \u1ea5y v\u00e0 c\u00f3 \u00fd ngh\u0129a.'",
+    "Break the monotony of K\u1ebb \u0110u\u1ed5i's list structure. Have C\u01b0\u1eddng interrupt successfully after layer 3-4, creating false hope, then have her resume from a different direction or have the environment shift to reinforce her words. The list should feel like an assault, not a lecture."
+  ],
+  "new_canon_entries": [
+    "C\u01b0\u1eddng personally connected Lan to the Neural Mantle system, locking 90% of her consciousness and rendering her a reactive vessel \u2014 he was not merely a user but the architect of her captivity",
+    "K\u1ebb \u0110u\u1ed5i/Lan has catalogued nine to eleven 'layers' of herself that C\u01b0\u1eddng stripped away: name, memory, will, consent, ability to refuse, boundaries, body, ability to hate, ability to fear",
+    "C\u01b0\u1eddng's virtual body is now experiencing pixel degradation \u2014 the system can no longer render him completely",
+    "The bruise on C\u01b0\u1eddng's left ribcage has changed from purple to blackish and is leaking a strange clear fluid",
+    "C\u01b0\u1eddng's real body is in bed 5, Khu N\u1eb1m, with heart rate spiking to 160 and blood contaminating the Epsom solution"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 27.15,
+    "sentence_length_cv": 0.76,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 6
+}

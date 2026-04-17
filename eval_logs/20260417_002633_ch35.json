@@ -1,0 +1,105 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "\"S\u1ef1 th\u1eadt cu\u1ed1i c\u00f9ng: bu\u00f4ng tay l\u00e0 c\u00e1ch duy nh\u1ea5t \u0111\u1ec3 y\u00eau.\"",
+    "fix": "Cut this line entirely. The voice profile explicitly forbids romanticizing loneliness and emotional declarations. The chapter has already earned this truth through action \u2014 stating it directly violates the surgical, technician-observing-system-failure tone.",
+    "note": "The chapter mostly nails the cold, technical voice. Lines like 'Anh l\u00e0 \u0111au. \u0110au l\u00e0 anh.' and the accounting-as-attack logic feel authentically C\u01b0\u1eddng. But the ending slides into sentimentality that the voice profile explicitly prohibits. The 47.3 Hz motif is used well throughout. Body-before-emotion works in the physical descriptions of the real body deteriorating."
+  },
+  "beat_coverage": {
+    "score": 6,
+    "weakest_moment": "Beat 2 (Lan's dialogue about letting go) is present but delivered in a somewhat expository register that doesn't fully land emotionally. The line 'Kh\u00f4ng ph\u1ea3i \u0111\u1ec3 em t\u1ef1 do. M\u00e0 \u0111\u1ec3 anh t\u1ef1 do' is structurally clean but feels like a thesis statement rather than a dying woman's words.",
+    "fix": "Give Lan more fragmentation in this scene. She's at 0.1% brain activity \u2014 her speech should be more broken, more desperate, less articulate. Let the meaning emerge from broken phrases rather than polished declarations.",
+    "note": "Beat 1 (body convulsing) is well executed with visceral physical detail. Beat 3 (realization about destroying server) is the chapter's strongest beat \u2014 the accounting-to-attack logic is clever and earned. Beat 4 (using body as virus) is dramatized effectively through the buffer-overload sequence. All beats present, but Beat 2 needs more rawness."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "\"Em \u0111\u00e3 m\u1ea5t r\u1ed3i.\" Lan kh\u00f4ng do d\u1ef1. \"0.1% ho\u1ea1t \u0111\u1ed9ng n\u00e3o. 8 nh\u1ecbp/ph\u00fat. Em \u0111ang ch\u1ebft, C\u01b0\u1eddng. Ch\u1eadm, nh\u01b0ng \u0111ang ch\u1ebft.\"",
+    "fix": "A being at 0.1% consciousness shouldn't deliver such clean, structured exposition. Break this up: fragments, lost train of thought, circling back. 'Em \u0111ang... bao nhi\u00eau nh\u1ecbp? T\u00e1m. Em nh\u1edb. T\u00e1m nh\u1ecbp. Ch\u1eadm l\u1eafm, C\u01b0\u1eddng. Ch\u1eadm...' would feel more authentic to her deteriorating state.",
+    "note": "C\u01b0\u1eddng's voice is strong \u2014 the accounting metaphors ('thu\u1ebf giao d\u1ecbch'), the technical framing, the counting. Lan's voice captures the poetic-but-glitching quality well in places ('47.3 Hz rung y\u1ebfu h\u01a1n'), but sometimes becomes too articulate for a consciousness at 0.1%. The moment she says his real name works beautifully."
+  },
+  "plants_seeded": {
+    "score": 6,
+    "weakest_moment": "The accounting backstory (company hacked at age 29) is introduced and resolved within the same chapter \u2014 it functions as explanation rather than foreshadowing.",
+    "fix": "If this hacking incident was referenced earlier in the novel (even obliquely), this moment would feel like payoff rather than convenience. If not possible retroactively, make the connection feel more like muscle memory than recalled information: 'Something in the 3% remembers. Not the story. The pattern.'",
+    "note": "The body-as-virus plant from the outline is executed well \u2014 it emerges logically from established rules about bidirectional sync. The 47.3 Hz frequency continues to work as emotional shorthand. The note on the yellow paper ('T\u00f4i l\u00e0 Tr\u1ea7n C\u01b0\u1eddng...') returns effectively as a closing image."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "\"S\u1ef1 th\u1eadt cu\u1ed1i c\u00f9ng: bu\u00f4ng tay l\u00e0 c\u00e1ch duy nh\u1ea5t \u0111\u1ec3 y\u00eau.\"",
+    "fix": "Delete. The chapter has communicated this through action and sacrifice. Stating it explicitly is both redundant and tonally wrong.",
+    "strongest_sentence": "\"Anh l\u00e0 m\u1ed9t node m\u1ea1ng kh\u00f4ng c\u00f3 \u0111\u1ecba ch\u1ec9 IP, m\u1ed9t d\u00f2ng d\u1eef li\u1ec7u ch\u1edd \u0111\u01b0\u1ee3c x\u1eed l\u00fd.\"",
+    "note": "Strong sentence variety \u2014 the short punchy lines ('G\u1eedi. G\u1eedi. G\u1eedi.') create genuine rhythm. The technical vocabulary is deployed precisely without becoming impenetrable. The buffer-overload sequence builds tension effectively through escalating numbers. Main issues: the ending over-explains, and some emotional beats are told rather than felt ('S\u1ef1 th\u1eadt gi\u00e1ng xu\u1ed1ng. L\u1ea7n n\u00e0y kh\u00f4ng l\u1ea1nh. N\u00f3ng. B\u1ecfng. Nh\u01b0 axit \u0103n m\u00f2n ni\u00eam m\u1ea1c' \u2014 this is better than most tell-but still a tell)."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Excellent continuity from the previous chapter. Picks up precisely at 3% consciousness, trapped in unrendered space, with 47.3 Hz still vibrating. The yellow note, the Epsom solution, the LED lights \u2014 all consistent. Emotional state tracks: helplessness \u2192 calculation \u2192 sacrifice. The Gi\u00e1m \u0111\u1ed1c Y khoa's absence makes sense (she left, thinking him neutralized). Lan's presence at 0.1% and 8 beats/min matches established parameters."
+  },
+  "canon_compliance": {
+    "score": 5,
+    "violations": [
+      "MAJOR: The name 'Lan' is used throughout. The character is called 'K\u1ebb \u0110u\u1ed5i' or 'N\u00e0ng' in all planning documents. No 'Lan' appears in characters.md, world.md, or canon.md. This is either a naming error or an unregistered retcon.",
+      "MODERATE: The chapter implies C\u01b0\u1eddng can execute arbitrary write commands and a DELETE ALL operation from within the system. Canon establishes Hemera-Root blocks all admin commands and he's in a 'v\u00f9ng \u0111\u1ec7m an to\u00e0n' with no escape. The buffer overflow logic is clever but the ease of sending DELETE ALL through an emergency gate feels under-earned given the system's established sophistication.",
+      "MINOR: '847 l\u1ea7n anh \u0111\u00e1nh th\u1ee9c em. 853 l\u1ea7n anh ch\u1ea1m v\u00e0o em' \u2014 canon states 847 total dives, not 847 awakenings plus additional touches. The numbers suggest more interactions than dives, which may be an error or may imply multiple touches per dive."
+    ],
+    "note": "The 'Lan' naming issue is significant \u2014 if this is intentional, it needs to be established in earlier chapters and documented. If it's an error, it requires global find-replace. The DELETE ALL climax, while dramatically satisfying, strains the established rules about Hemera-Root's absolute control."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "The hacking backstory, while functional, is delivered in a summary paragraph that feels slightly disconnected from the visceral present-tense action.",
+    "fix": "Weave the memory more fragmentedly: '29 tu\u1ed5i. Server s\u1eadp. 47 ph\u00fat. B\u00e0i h\u1ecdc n\u1eb1m \u1edf \u0111\u00e2u \u0111\u00f3 trong 3% \u2014 qu\u00e1 t\u1ea3i. B\u1ed9 \u0111\u1ec7m \u0111\u1ea7y. H\u1ec7 th\u1ed1ng s\u1ee5p.' Shorter, more broken, more consistent with his deteriorating mental state.",
+    "note": "The world does genuine work here. The Neural Mantle rules (bidirectional sync, node architecture, buffer mechanics) aren't set dressing \u2014 they're the mechanism of the climax. The accounting skills aren't superpowers; they're a specific competence applied to a specific problem. The 1.2 km distance, the ping rates, the Epsom solution temperature \u2014 all functional details that ground the action."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The middle section (explaining the buffer overflow logic) slows momentum. While necessary for setup, the explanation paragraphs read more like a technical manual than a desperate man's last act.",
+    "fix": "Compress the explanation. Trust the reader to follow the logic without each step spelled out. Cut from 'C\u01b0\u1eddng th\u1eed m\u1ed9t l\u1ec7nh kh\u00e1c...' through 'Anh b\u1eaft \u0111\u1ea7u t\u00ednh to\u00e1n...' \u2014 jump faster to the execution. The audience for this novel can infer the overflow attack from the setup.",
+    "note": "The chapter builds genuine tension through the escalating buffer percentage (40%, 50%, 60%... 99%). The final DELETE ALL moment lands with weight. Lan's 'C\u1ea3m \u01a1n anh' before disappearing is quietly devastating. The ending image of 0.7% consciousness floating in darkness, no longer afraid of not-knowing, is the chapter's strongest beat. Main issue: pacing drags in the explanatory middle."
+  },
+  "three_weakest_sentences": [
+    "\"S\u1ef1 th\u1eadt cu\u1ed1i c\u00f9ng: bu\u00f4ng tay l\u00e0 c\u00e1ch duy nh\u1ea5t \u0111\u1ec3 y\u00eau.\"",
+    "\"C\u01b0\u1eddng bi\u1ebft \u0111i\u1ec1u n\u00e0y v\u00ec anh \u0111\u00e3 th\u1ea5y n\u00f3 x\u1ea3y ra. Kh\u00f4ng ph\u1ea3i trong th\u1ebf gi\u1edbi \u1ea3o. Trong \u0111\u1eddi th\u1eadt.\"",
+    "\"V\u00e0 trong kho\u1ea3nh kh\u1eafc \u1ea5y, m\u1ed9t \u00fd ngh\u0129 hi\u1ec7n ra. Kh\u00f4ng ph\u1ea3i t\u1eeb b\u00ean ngo\u00e0i. T\u1eeb b\u00ean trong. T\u1eeb ph\u1ea7n 3% c\u00f2n l\u1ea1i, n\u01a1i t\u1eebng l\u01b0u tr\u1eef k\u1ef9 n\u0103ng c\u1ee7a m\u1ed9t ng\u01b0\u1eddi k\u1ebf to\u00e1n.\""
+  ],
+  "three_strongest_sentences": [
+    "\"Anh l\u00e0 m\u1ed9t node m\u1ea1ng kh\u00f4ng c\u00f3 \u0111\u1ecba ch\u1ec9 IP, m\u1ed9t d\u00f2ng d\u1eef li\u1ec7u ch\u1edd \u0111\u01b0\u1ee3c x\u1eed l\u00fd.\"",
+    "\"Anh l\u00e0 \u0111au. \u0110au l\u00e0 anh.\"",
+    "\"Kh\u00f4ng ai bi\u1ebft. 0.7% kh\u00f4ng \u0111\u1ee7 \u0111\u1ec3 bi\u1ebft. N\u00f3 ch\u1ec9 \u0111\u1ee7 \u0111\u1ec3 t\u1ed3n t\u1ea1i. T\u1ed3n t\u1ea1i trong b\u00f3ng t\u1ed1i. T\u1ed3n t\u1ea1i trong t\u0129nh l\u1eb7ng. T\u1ed3n t\u1ea1i v\u00e0 ch\u1edd.\""
+  ],
+  "ai_patterns_detected": [
+    "Symmetrical paragraph structures: multiple paragraphs follow 'Statement. Not X. Y.' pattern (e.g., 'Kh\u00f4ng ph\u1ea3i im l\u1eb7ng c\u1ee7a t\u0129nh l\u1eb7ng. Im l\u1eb7ng c\u1ee7a h\u1ec7 th\u1ed1ng \u0111ang n\u00edn th\u1edf.')",
+    "Repetitive 'Not A. B.' rhetorical construction appears 10+ times across the chapter \u2014 effective in moderation but overused",
+    "The ending contains multiple summary paragraphs that explain the thematic meaning rather than letting the action speak",
+    "Some emotional beats use abstract language ('S\u1ef1 th\u1eadt gi\u00e1ng xu\u1ed1ng') rather than the body-before-emotion principle the voice profile demands",
+    "Uniform paragraph length in the middle sections \u2014 most paragraphs are 3-5 sentences with similar structure"
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "canon_compliance (the 'Lan' naming issue and the DELETE ALL ease)",
+  "top_3_revisions": [
+    "Delete the final three paragraphs starting from 'S\u1ef1 th\u1eadt cu\u1ed1i c\u00f9ng: bu\u00f4ng tay l\u00e0 c\u00e1ch duy nh\u1ea5t \u0111\u1ec3 y\u00eau.' End on 'Kh\u00f4ng ai bi\u1ebft.' or 'N\u00f3 ch\u1ec9 l\u00e0 s\u1ef1 th\u1eadt.' \u2014 the thematic meaning is already clear from the action.",
+    "Resolve the 'Lan' naming: either confirm this is an intentional reveal (and document it in canon) or replace with 'K\u1ebb \u0110u\u1ed5i'/'n\u00e0ng' throughout. If intentional, the name should land with more weight \u2014 perhaps C\u01b0\u1eddng reacts to hearing it for the first time.",
+    "Compress the buffer-overflow explanation by ~40%. Trust the reader. Jump from the initial discovery ('Qu\u00e1 nhi\u1ec1u request') to the execution faster. Cut the detailed calculation about 62 billion commands and 1,900 years \u2014 this slows momentum without adding tension."
+  ],
+  "new_canon_entries": [
+    "C\u01b0\u1eddng's pre-Neural Mantle occupation was at a company that was hacked via buffer overflow attack at age 29, resulting in 47 minutes of downtime and loss of Q2 data",
+    "Hemera-Root system has an emergency overflow gate that opens automatically when buffer reaches 100%, which cannot be locked even by root access",
+    "Neural Mantle Gen 3 buffer capacity is 4 terabytes",
+    "C\u01b0\u1eddng's real body experienced: nasal bleeding, ocular bleeding, 22 BPM heart rate, 2.1% then 0.7% brain activity, frontal-to-temporal lobe hemorrhaging during the overload attack",
+    "Server Hemera stored 553 terabytes of data that were deleted in the final command",
+    "The yellow note ('T\u00f4i l\u00e0 Tr\u1ea7n C\u01b0\u1eddng. T\u00f4i \u0111\u00e3 c\u01b0\u1ee1ng hi\u1ebfp v\u00e0 h\u1ee7y ho\u1ea1i Lan. \u0110\u00e2y l\u00e0 s\u1ef1 \u0111\u1ec1n t\u1ed9i.') was not removed by Gi\u00e1m \u0111\u1ed1c Y khoa"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 14.93,
+    "sentence_length_cv": 0.769,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 0.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 6
+}

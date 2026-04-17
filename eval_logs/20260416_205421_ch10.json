@@ -1,0 +1,103 @@
+{
+  "voice_adherence": {
+    "score": 8,
+    "weakest_moment": "C\u01b0\u1eddng \u00e9p l\u01b0ng v\u00e0o t\u01b0\u1eddng. B\u00ea t\u00f4ng c\u1ee9ng, g\u1ed3 gh\u1ec1, th\u1eadt. Anh c\u00f3 th\u1ec3 c\u1ea3m nh\u1eadn t\u1eebng h\u1ea1t c\u00e1t tr\u00ean b\u1ec1 m\u1eb7t. Th\u1eadt. Th\u1ebf gi\u1edbi th\u1ef1c. Ozon. C\u1ed3n. Kim lo\u1ea1i. Th\u1eadt.",
+    "fix": "The repetition of 'Th\u1eadt' feels slightly mechanical rather than earned. Replace with a single specific sensory detail that conveys reality without stating it: 'B\u00ea t\u00f4ng g\u1ed3 gh\u1ec1. M\u1ed9t m\u1ea3nh s\u1ecfi nh\u1ecf \u0111\u00e2m v\u00e0o vai. Ozon. C\u1ed3n. Kh\u00f4ng c\u00f3 pixel.'",
+    "note": "The chapter largely nails the cold, surgical voice. Technical vocabulary wells are used effectively (traceroute, TTL, hex, g\u00f3i tin). Sentence rhythm varies well between clipped action sentences and longer technical descriptions. The body-before-emotion principle is followed: C\u01b0\u1eddng's panic manifests through dry mouth, backing into walls, heat on his chest \u2014 never through named emotion. The weakest moment is a passage that tells 'th\u1eadt' four times when the voice profile demands showing through wrong details."
+  },
+  "beat_coverage": {
+    "score": 7,
+    "weakest_moment": "Beat 3 (th\u1ea5y b\u00f3ng ng\u01b0\u1eddi trong th\u1ebf gi\u1edbi \u1ea3o) is executed through a monitoring interface rather than direct experience. C\u01b0\u1eddng watches the render on screen instead of being inside the virtual world. This creates distance at the moment that should be most visceral.",
+    "fix": "Consider having C\u01b0\u1eddng briefly 'dive' into the virtual space \u2014 even a partial, unauthorized connection \u2014 to encounter the figure directly. The screen-mediated viewing dilutes the horror. Alternatively, lean harder into the uncanny: the figure on screen turns and looks at the CAMERA, breaking the fourth wall of the monitoring system.",
+    "note": "All four beats are present and dramatized. Beat 1 (truy xu\u1ea5t d\u1eef li\u1ec7u nhi\u1ec5u, ph\u00e1t hi\u1ec7n lu\u1ed3ng t\u00edn hi\u1ec7u l\u1ea1 t\u1eeb St. Vincent) is the strongest \u2014 methodical, building dread through technical discovery. Beat 2 (ph\u00e1t hi\u1ec7n Ng\u01b0\u1eddi Th\u1ee9 13) lands well through the traceroute returning '13.' Beat 4 (ping t\u0103ng v\u1ecdt, v\u1ee1 h\u1ea1t) is visceral and well-executed. The emotional arc (\u0111au \u0111\u1edbn \u2192 hoang mang \u2192 kinh ho\u00e0ng) tracks correctly."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "Anh c\u1ea7n b\u00ecnh t\u0129nh. B\u00ecnh t\u0129nh l\u00e0 m\u1ed9t h\u00e0m s\u1ed1: input + logic = output. Input: t\u00edn hi\u1ec7u b\u1ecb r\u1ebd h\u01b0\u1edbng. Logic: t\u00ecm ngu\u1ed3n. Output: gi\u1ea3i ph\u00e1p. \u0110\u01a1n gi\u1ea3n. Anh l\u00e0 k\u1ebf to\u00e1n. Anh gi\u1ea3i b\u00e0i to\u00e1n m\u1ed7i ng\u00e0y.",
+    "fix": "The equation metaphor is too clean, too 'written.' A real accountant in panic would reach for numbers differently \u2014 more fragmented, more desperate. Try: 'B\u00ecnh t\u0129nh. \u0110\u1ebfm. 849 l\u1ea7n \u0111\u1ed5 b\u1ed9. 60% ph\u00e2n m\u1ea3nh. 14ms ping. S\u1ed1 kh\u00f4ng n\u00f3i d\u1ed1i. S\u1ed1 kh\u00f4ng nh\u00ecn anh b\u1eb1ng \u0111\u00f4i m\u1eaft tr\u1ed1ng r\u1ed7ng.'",
+    "note": "C\u01b0\u1eddng's voice is consistent with the character profile: short sentences, technical vocabulary, avoidance of emotional language, 90% statements. His accounting mindset comes through in how he categorizes and counts. The dialogue from the entity ('Anh th\u1ea5y em kh\u00f4ng?') effectively mirrors K\u1ebb \u0110u\u1ed5i's speech pattern but with the described difference \u2014 deeper, older, like a scratched record. The POV character's internal monologue never breaks into sentimentality, respecting the voice profile."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "The connection between B\u1ec7nh nh\u00e2n 04-\u0110M and K\u1ebb \u0110u\u1ed5i is stated rather than discovered organically. C\u01b0\u1eddng receives a data packet that literally says 'NGU\u1ed2N: 04-\u0110M' \u2014 this feels too convenient, like the system labeling itself.",
+    "fix": "Instead of a labeled data packet, have C\u01b0\u1eddng cross-reference the IP address with hospital records he shouldn't have access to \u2014 or notice that the signal pattern from Device 13 matches the anomalous vital signs of Patient 4 that he overheard in the previous chapter's phone call. Make him WORK for the connection.",
+    "note": "The Ng\u01b0\u1eddi Th\u1ee9 13 plant is excellently integrated \u2014 introduced through technical investigation rather than exposition. The 'v\u1ee1 h\u1ea1t' phenomenon is foreshadowed through escalating ping rates, earning the payoff. The signal-transmission-without-cable mystery is a strong new thread. The final reflection \u2014 'Anh l\u00e0 con m\u1ed3i' \u2014 effectively shifts C\u01b0\u1eddng's self-perception without over-explaining."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "B\u00ecnh t\u0129nh l\u00e0 m\u1ed9t h\u00e0m s\u1ed1: input + logic = output.",
+    "fix": "Cut the equation. Replace with: 'B\u00ecnh t\u0129nh. G\u00f5. \u0110\u1ecdc. G\u00f5 ti\u1ebfp. Tay kh\u00f4ng run. Kh\u00f4ng run.' \u2014 showing attempted calm through action rather than explaining it through metaphor.",
+    "strongest_sentence": "Trong m\u1ed7i h\u1ed1c, c\u00f3 \u00e1nh s\u00e1ng \u2014 xanh nh\u1ea1t, c\u00f9ng m\u00e0u v\u1edbi \u0111\u00e8n hu\u1ef3nh quang \u1edf Khu N\u1eb1m \u2014 v\u00e0 \u00e1nh s\u00e1ng \u0111\u00f3 nh\u00ecn th\u1eb3ng v\u00e0o anh.",
+    "note": "Sentence variety is strong. The chapter mixes one-word paragraphs ('Im.'), technical run-ons, and medium-length observational sentences. Concrete sensory details dominate: b\u00ea t\u00f4ng l\u1ea1nh, da b\u1ecfng r\u00e1t t\u1eeb b\u00ean trong, m\u00f9i hoa s\u1eefa c\u00f3 tr\u1ecdng l\u01b0\u1ee3ng. The strongest sentence uses the specific color of hospital fluorescents to connect the virtual horror to the real-world setting \u2014 a detail that earns its creepiness. The weakest sentences tend to be ones where the narrator explains C\u01b0\u1eddng's thought process too explicitly."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Excellent continuity from the previous chapter. The v\u1ebft x\u01b0\u1edbc (scratch replacing the earlier v\u1ebft b\u1ea7m/bruise) is tracked with consistent parameters: 40 nh\u1ecbp/ph\u00fat, 37.5\u00b0C, transmitting at 47.3 Hz. C\u01b0\u1eddng's emotional state \u2014 shaken by the K\u1ebb \u0110u\u1ed5i's 'Em th\u1ea5y anh. \u1ede \u0111\u00e2y. V\u00e0 \u1edf ngo\u00e0i kia' \u2014 carries forward naturally into his investigative mindset here. The previous chapter ended with him noting the signal transmits to St. Vincent; this chapter follows that thread. The 'ba kh\u00f4ng bi\u1ebft' from the previous recording is referenced. The B\u1ec7nh nh\u00e2n s\u1ed1 4 detail from 'cu\u1ed9c \u0111i\u1ec7n tho\u1ea1i \u0111\u00eam qua' connects to established lore. One minor inconsistency: the previous chapter ends with C\u01b0\u1eddng standing, drinking water, deciding he needs something real. This chapter opens with him at the server, finger tapping \u2014 the transition is functional but could be smoother."
+  },
+  "canon_compliance": {
+    "score": 8,
+    "violations": [
+      "Minor: The chapter states C\u01b0\u1eddng's ping is normally 14ms, consistent with canon. However, the 'v\u1ee1 h\u1ea1t' threshold is described as above 50ms in canon, and the chapter shows significant system disruption at 51ms onward \u2014 this is actually compliant, just noting the escalation is accurate.",
+      "Minor: Canon states 'Kh\u00f4ng ai t\u1ed3n t\u1ea1i \u0111\u1ed3ng th\u1eddi c\u1ea3 hai th\u1ebf gi\u1edbi' (Rule 5), and the chapter respects this \u2014 C\u01b0\u1eddng observes the virtual world through a monitoring interface, not through a dive. However, the moment when the entity's voice enters his brain directly ('trong n\u00e3o anh, kh\u00f4ng ph\u1ea3i qua m\u00e0n h\u00ecnh') pushes against this rule. It's ambiguous enough to be acceptable \u2014 the voice comes through neural signal, not through a full dive \u2014 but worth flagging."
+    ],
+    "note": "All major canon facts are respected: 73 patients at St. Vincent, 12 connected to Neural Mantle, server 1.2 km from hospital, Cumberland Tunnel location, Patient 4 as source, Device 13 with no records. The technical details (traceroute, IP ranges, TTL values) are internally consistent. The 'Ng\u01b0\u1eddi Th\u1ee9 13' lore from Du M\u1ee5c rumors is accurately referenced."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "The explanation of how Patient 4 connects to K\u1ebb \u0110u\u1ed5i \u2014 while accurate to canon \u2014 is delivered in a paragraph of straight exposition near the chapter's end: 'B\u1ec7nh nh\u00e2n s\u1ed1 4 l\u00e0 ngu\u1ed3n c\u1ea5p d\u1eef li\u1ec7u cho K\u1ebb \u0110u\u1ed5i. V\u00e0 K\u1ebb \u0110u\u1ed5i \u0111\u00e3 d\u00f9ng ngu\u1ed3n \u0111\u00f3 \u0111\u1ec3 t\u00ecm \u0111\u01b0\u1eddng \u0111\u1ebfn anh.'",
+    "fix": "Weave this realization into action. Have C\u01b0\u1eddng discover the connection by noticing the signal pattern from Device 13 matches the vital sign anomalies of Patient 4 \u2014 connecting the dots himself rather than narrating the conclusion.",
+    "note": "The world does significant work in this chapter. The technical infrastructure (c\u00e1p quang, n\u00fat chuy\u1ec3n ti\u1ebfp, IP addressing) isn't set dressing \u2014 it's the medium through which horror arrives. The ping escalation isn't arbitrary; it follows established rules and the reader understands why 50ms+ means danger. The 'v\u1ee1 h\u1ea1t' phenomenon is earned through prior establishment. The hospital's physical layout (t\u1ea7ng B3, Khu N\u1eb1m, bu\u1ed3ng kh\u00f4ng s\u1ed1) grounds the virtual horror in a real location. Best of all: the mystery of signal transmission without cable at the end uses the world's rules to create a genuine 'oh no' moment."
+  },
+  "engagement": {
+    "score": 8,
+    "weakest_moment": "The middle section \u2014 C\u01b0\u1eddng running multiple traceroutes and scans \u2014 risks losing readers who aren't engaged by technical procedure. The sequence from 'Anh ch\u1ea1y traceroute l\u1ea7n hai' through 'scan to\u00e0n b\u1ed9 d\u1ea3i IP' is methodical but slightly repetitive.",
+    "fix": "Compress the second and third traceroute attempts into a single sentence: 'Hai l\u1ea7n traceroute n\u1eefa. C\u00f9ng k\u1ebft qu\u1ea3. Im l\u1eb7ng.' Then get to the '13' response faster. The reader's patience should be rewarded more quickly here.",
+    "note": "The chapter builds dread effectively through technical discovery \u2014 a hard trick to pull off. The moment when traceroute returns '13' is genuinely surprising and creepy. The escalation from digital investigation to physical horror (lights flickering, water rippling, smell of hoa s\u1eefa in the real world) is well-paced. The final image \u2014 C\u01b0\u1eddng seeing a reflection that isn't there when he turns around \u2014 is a strong page-turner. The chapter earns its horror through restraint: the entity doesn't attack, doesn't explain itself. It watches. That's worse."
+  },
+  "three_weakest_sentences": [
+    "B\u00ecnh t\u0129nh l\u00e0 m\u1ed9t h\u00e0m s\u1ed1: input + logic = output. Input: t\u00edn hi\u1ec7u b\u1ecb r\u1ebd h\u01b0\u1edbng. Logic: t\u00ecm ngu\u1ed3n. Output: gi\u1ea3i ph\u00e1p.",
+    "Anh c\u1ea7n t\u1eadp trung. T\u00edn hi\u1ec7u nhi\u1ec5u 47.3 Hz v\u1eabn truy\u1ec1n ra t\u1eeb c\u01a1 th\u1ec3 anh, v\u00e0 anh c\u1ea7n bi\u1ebft n\u00f3 \u0111i \u0111\u00e2u, l\u00e0m g\u00ec, k\u1ebft n\u1ed1i v\u1edbi ai.",
+    "C\u01b0\u1eddng nu\u1ed1t n\u01b0\u1edbc b\u1ecdt. Mi\u1ec7ng kh\u00f4. L\u01b0\u1ee1i d\u00ednh v\u00e0o v\u00f2m h\u1ecdng."
+  ],
+  "three_strongest_sentences": [
+    "Trong m\u1ed7i h\u1ed1c, c\u00f3 \u00e1nh s\u00e1ng \u2014 xanh nh\u1ea1t, c\u00f9ng m\u00e0u v\u1edbi \u0111\u00e8n hu\u1ef3nh quang \u1edf Khu N\u1eb1m \u2014 v\u00e0 \u00e1nh s\u00e1ng \u0111\u00f3 nh\u00ecn th\u1eb3ng v\u00e0o anh.",
+    "Nh\u01b0ng l\u1ea7n th\u1ee9 t\u01b0, c\u00f3 th\u1ee9 g\u00ec \u0111\u00f3 tr\u1ea3 v\u1ec1. Kh\u00f4ng ph\u1ea3i 'destination unreachable.' Kh\u00f4ng ph\u1ea3i 'no route to host.' L\u00e0 m\u1ed9t g\u00f3i tin duy nh\u1ea5t, ch\u1ee9a m\u1ed9t chu\u1ed7i byte ng\u1eafn. Anh d\u1ecbch m\u00e3: **13**",
+    "M\u00f9i n\u00e0y c\u00f3 tr\u1ecdng l\u01b0\u1ee3ng. C\u00f3 nhi\u1ec7t \u0111\u1ed9. C\u00f3 \u0111\u1ed9 \u1ea9m. N\u00f3 b\u00e1m v\u00e0o da anh, chui v\u00e0o l\u1ed7 ch\u00e2n l\u00f4ng, h\u00f2a v\u1edbi m\u00f9i ozon v\u00e0 c\u1ed3n t\u1ea1o th\u00e0nh th\u1ee9 g\u00ec \u0111\u00f3 m\u1edbi \u2014 th\u1ee9 gi\u1ed1ng nh\u01b0 m\u00f9i x\u00e1c \u01b0\u1edbp trong ph\u00f2ng th\u00ed nghi\u1ec7m."
+  ],
+  "ai_patterns_detected": [
+    "Slight paragraph-template repetition: several paragraphs follow the pattern of 'Action. Technical detail. Emotional/physical response.' This isn't severe but is noticeable in the middle investigation section.",
+    "The 'three examples' structure appears once: 'Kh\u00f4ng ph\u1ea3i m\u00e3 l\u1ed7i. Kh\u00f4ng ph\u1ea3i ID h\u1ec7 th\u1ed1ng. Ch\u1ec9 l\u00e0 con s\u1ed1.' \u2014 the rule-of-three rhythm is a common AI pattern, though it works here for emphasis.",
+    "Minor hedge language: 'ho\u1eb7c \u2014 anh ngh\u0129, n\u00e3o ch\u1ea1y nhanh h\u01a1n t\u1ed1c \u0111\u1ed9 an to\u00e0n \u2014 \u0111\u00f3 l\u00e0 danh t\u00ednh' \u2014 the em-dash parenthetical is slightly overused throughout the chapter (appears 8+ times)."
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "beat_coverage \u2014 specifically Beat 3, where the encounter with the figure is mediated through a screen rather than experienced directly, creating distance at the chapter's most critical horror moment.",
+  "top_3_revisions": [
+    "Rework Beat 3 to make the encounter with Ng\u01b0\u1eddi Th\u1ee9 13 more visceral. Either have C\u01b0\u1eddng experience a partial/unauthorized connection to the virtual space, or make the monitoring interface itself behave uncannily \u2014 the figure looks at the CAMERA, breaks through the interface, reaches toward the viewer. The screen-mediated viewing is the chapter's biggest missed opportunity.",
+    "Compress the middle investigation sequence (multiple traceroutes, IP scan). Cut the second and third traceroute attempts to a single line and get to the '13' response faster. The technical procedure is earning dread but testing patience \u2014 tighten by 20%.",
+    "Replace the 'B\u00ecnh t\u0129nh l\u00e0 m\u1ed9t h\u00e0m s\u1ed1' passage with action-based calm: C\u01b0\u1eddng forcing his hands to stop shaking, counting specific numbers from his life (849 dives, 14ms, 60% fragmentation). Show attempted control through body, not through explanatory metaphor."
+  ],
+  "new_canon_entries": [
+    "T\u00edn hi\u1ec7u outgoing t\u1eeb C\u01b0\u1eddng b\u1ecb r\u1ebd h\u01b0\u1edbng sang m\u1ea1ng St. Vincent t\u1eeb l\u1ea7n \u0111\u1ed5 b\u1ed9 th\u1ee9 846, v\u1edbi \u0111\u1ed9 d\u00e0i t\u0103ng d\u1ea7n (10-15 g\u00f3i ban \u0111\u1ea7u, 50 g\u00f3i \u1edf l\u1ea7n 849).",
+    "G\u00f3i tin b\u1ecb r\u1ebd h\u01b0\u1edbng ch\u1ee9a d\u1eef li\u1ec7u \u0111\u1ecbnh v\u1ecb: t\u1ecda \u0111\u1ed9, th\u1eddi gian, ID phi\u00ean \u0111\u1ed5 b\u1ed9, ID ng\u01b0\u1eddi d\u00f9ng.",
+    "Thi\u1ebft b\u1ecb th\u1ee9 13 t\u1ea1i St. Vincent c\u00f3 IP t\u1ef1 c\u1ea5p, kh\u00f4ng c\u00f3 hostname/MAC address, tr\u1ea1ng th\u00e1i LISTENING, ping response 8ms (nhanh h\u01a1n m\u1ecdi n\u00fat chuy\u1ec3n ti\u1ebfp).",
+    "Khi ping v\u01b0\u1ee3t 127ms, server C\u01b0\u1eddng t\u1eaft ho\u00e0n to\u00e0n r\u1ed3i b\u1eadt l\u1ea1i v\u1edbi m\u1ecdi log b\u1ecb x\u00f3a s\u1ea1ch.",
+    "Sau s\u1ef1 c\u1ed1, k\u1ebft n\u1ed1i \u0111\u1ebfn St. Vincent b\u1ecb \u0111\u1ee9t ho\u00e0n to\u00e0n nh\u01b0ng t\u00edn hi\u1ec7u 47.3 Hz v\u1eabn truy\u1ec1n \u2014 qua \u0111\u01b0\u1eddng kh\u00f4ng x\u00e1c \u0111\u1ecbnh.",
+    "M\u00e3 b\u1ec7nh nh\u00e2n '04-\u0110M' (\u0110o\u1ea1t M\u1ec7nh?) l\u00e0 \u0111\u1ecbnh danh c\u1ee7a b\u1ec7nh nh\u00e2n s\u1ed1 4 trong h\u1ec7 th\u1ed1ng.",
+    "Ng\u01b0\u1eddi Th\u1ee9 13 c\u00f3 th\u1ec3 x\u00f3a log server v\u00e0 c\u00f3 th\u1ec3 \u0111\u1ecdc ghi ch\u00fa c\u00e1 nh\u00e2n c\u1ee7a C\u01b0\u1eddng."
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 22.85,
+    "sentence_length_cv": 0.798,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 7
+}

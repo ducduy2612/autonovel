@@ -1,0 +1,105 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "C\u01b0\u1eddng mu\u1ed1n kh\u00f3c. Nh\u01b0ng 4.9% n\u00e3o kh\u00f4ng \u0111\u1ee7 \u0111\u1ec3 \u0111i\u1ec1u khi\u1ec3n tuy\u1ebfn l\u1ec7. M\u1eaft anh kh\u00f4. C\u1ed5 h\u1ecdng kh\u00f4. Ch\u1ec9 c\u00f3 m\u0169i \u2014 s\u1ed1ng m\u0169i \u2014 \u0111au nh\u00f3i. Huy\u1ebft \u00e1p d\u1ed3n l\u00ean th\u00e1i d\u01b0\u01a1ng. Hai h\u00e0m r\u0103ng si\u1ebft ch\u1eb7t.",
+    "fix": "The body-before-emotion principle is stated but feels mechanical here \u2014 like a checklist being ticked. The passage should be more visceral and less diagrammatic. Cut the explicit percentage reference and let the body failure speak for itself: 'C\u1ed5 h\u1ecdng kh\u00f3a. M\u1eaft kh\u00f4. S\u1ed1ng m\u0169i \u0111au nh\u00f3i \u2014 ph\u1ea3n x\u1ea1 cu\u1ed1i c\u1ee7a c\u01a1 th\u1ec3 khi mu\u1ed1n kh\u00f3c nh\u01b0ng kh\u00f4ng c\u00f2n n\u01b0\u1edbc.'",
+    "note": "The voice largely succeeds in its cold, surgical tone. The technical vocabulary wells are used effectively (ping, Hz, buffer, ghi \u0111\u00e8). Sentence rhythm varies between clipped action beats and longer sensory passages. The weakest moments are where the voice becomes self-conscious about its own rules rather than embodying them naturally."
+  },
+  "beat_coverage": {
+    "score": 6,
+    "weakest_moment": "C\u01b0\u1eddng g\u00f5. M\u1ed9t l\u1ec7nh. Hai l\u1ec7nh. M\u01b0\u1eddi l\u1ec7nh. Tr\u0103m l\u1ec7nh. sudo dd if=/dev/urandom of=/dev/hemera-buffer [...] M\u1ed7i l\u1ec7nh g\u1eedi h\u00e0ng ngh\u00ecn g\u00f3i tin r\u00e1c v\u00e0o b\u1ed9 \u0111\u1ec7m.",
+    "fix": "The overloading sequence is narratively flat \u2014 a list of commands followed by percentage counters. Dramatize the physical experience: the heat of the server, the smell of burning electronics, the way C\u01b0\u1eddng's hands feel as he types, the sound of the qu\u1ea1t spinning up. Make the reader feel the system dying rather than just reading progress bars.",
+    "note": "All four beats from the outline are present but unevenly executed. Beat 1 (overloading) is the weakest \u2014 it reads like a technical procedure rather than a lived moment. Beat 3 (Lan's smile and 'C\u1ea3m \u01a1n anh') is the strongest and most emotionally earned. Beat 4 (disconnect and shock) is visceral but somewhat repetitive with the previous chapter's ending."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "Anh l\u00e0 ng\u01b0\u1eddi bu\u00f4ng tay. V\u00e0 bu\u00f4ng tay \u2014 \u0111\u00f4i khi \u2014 l\u00e0 c\u00e1ch duy nh\u1ea5t \u0111\u1ec3 gi\u1eef.",
+    "fix": "This reads like a generic inspirational quote, not C\u01b0\u1eddng's voice. His voice is technical, clipped, avoids sentiment. Replace with something that sounds like him: 'Anh bu\u00f4ng tay. \u0110\u01a1n gi\u1ea3n. X\u00f3a. Ghi \u0111\u00e8. Kh\u00f4ng c\u00f2n g\u00ec \u0111\u1ec3 n\u1eafm.' Or let the action speak without the philosophical gloss.",
+    "note": "C\u01b0\u1eddng's internal monologue is mostly well-differentiated \u2014 the counting, the technical framing, the emotional flatness. Lan's single line 'C\u1ea3m \u01a1n anh' works because it's brief and the narration earns it through context. The weakest point is when C\u01b0\u1eddng's voice slips into generic reflective protagonist mode."
+  },
+  "plants_seeded": {
+    "score": 5,
+    "weakest_moment": "T\u1eeb xa. R\u1ea5t xa. C\u00e1ch \u0111\u00e2y 1.2 km, qua l\u1edbp b\u00ea t\u00f4ng v\u00e0 nh\u1ef1a \u0111\u01b0\u1eddng v\u00e0 c\u00e1p quang \u0111\u00e3 \u0111\u1ee9t, anh nghe \u2014 ho\u1eb7c t\u01b0\u1edfng m\u00ecnh nghe \u2014 m\u1ed9t nh\u1ecbp \u0111\u1eadp. 8 nh\u1ecbp/ph\u00fat.",
+    "fix": "This is explicit sequel-baiting rather than organic foreshadowing. If Lan th\u1eadt's status matters, weave it in earlier and more subtly \u2014 perhaps C\u01b0\u1eddng notices the 8 bpm during the overloading sequence, or the narrative mentions it once without the detailed speculation about her future.",
+    "note": "The outline says 'Kh\u00f4ng c\u00f3' for gieo m\u1ea7m, but the chapter adds significant sequel hooks: Lan th\u1eadt's 8 nh\u1ecbp/ph\u00fat, the 12.7% chance, B\u00e0 L\u00e0nh and B\u00e1c s\u0129 Tu\u1ea5n mentioned by name. These feel tacked on rather than earned. The v\u1ebft b\u1ea7m resolution is the strongest plant-payoff \u2014 it works because it was established early and resolves naturally."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "C\u00e1i n\u00e0y l\u00e0 thi\u00eau. T\u1eeb b\u00ean trong. T\u1eeb gi\u1eefa n\u00e3o, lan ra. Nh\u01b0 ai \u0111\u00f3 \u0111\u1ed5 axit v\u00e0o gi\u1eefa \u0111\u1ea7u v\u00e0 \u0111\u1ec3 n\u00f3 \u0103n m\u00f2n xuy\u00ean ra hai b\u00ean th\u00e1i d\u01b0\u01a1ng.",
+    "fix": "The 'Kh\u00f4ng \u2014 [X] l\u00e0 t\u1eeb d\u00e0nh cho [Y]. C\u00e1i n\u00e0y [Z]' structure appears three times in this chapter. It's a effective device once, repetitive three times. Cut at least two instances. Here, simplify: 'Thi\u00eau. T\u1eeb gi\u1eefa n\u00e3o, lan ra hai b\u00ean th\u00e1i d\u01b0\u01a1ng. Axit \u0111\u1ed5 v\u00e0o gi\u1eefa \u0111\u1ea7u.'",
+    "strongest_sentence": "V\u1ebft b\u1ea7m \u2014 d\u1ea5u \u1ea5n v\u1eadt l\u00fd duy nh\u1ea5t c\u1ee7a s\u1ef1 t\u1ed3n t\u1ea1i c\u00f4 trong th\u1ebf gi\u1edbi th\u1ef1c \u2014 \u0111\u00e3 m\u1ea5t. Khi c\u00f4 \u0111\u01b0\u1ee3c gi\u1ea3i ph\u00f3ng, n\u00f3 c\u0169ng m\u1ea5t. Nh\u01b0 m\u1ed9t l\u1eddi x\u00e1c nh\u1eadn: c\u00f4 kh\u00f4ng c\u00f2n \u1edf \u0111\u00e2y. C\u00f4 kh\u00f4ng c\u00f2n trong h\u1ec7 th\u1ed1ng. C\u00f4 kh\u00f4ng c\u00f2n trong anh.",
+    "note": "The prose is generally strong with good sentence variety. Specificity is high (18\u00b0C, 52 nh\u1ecbp/ph\u00fat, 4.9%). The main issues are: the repeated 'Kh\u00f4ng \u2014 [redefinition]' structure (3 times), some paragraphs that could be cut without loss (the m\u1ea3nh gi\u1ea5y note adds little), and a tendency toward over-explanation at emotional peaks."
+  },
+  "continuity": {
+    "score": 5,
+    "weakest_moment": "The chapter retcons the previous chapter's ending. Previous: C\u01b0\u1eddng is already in darkness, n\u00e3o 95.1%, co gi\u1eadt ng\u1eebng, \u00fd th\u1ee9c t\u1eaft. This chapter: C\u01b0\u1eddng is standing in the h\u1ea7m, looking at screens, typing commands, then re-experiences the g\u00e1c x\u00e9p collapse.",
+    "fix": "Either: (1) Revise the previous chapter's ending to leave C\u01b0\u1eddng conscious and mobile, or (2) Restructure this chapter to begin with C\u01b0\u1eddng already having executed the commands (in a fugue state) and waking to the aftermath. The current version creates a jarring discontinuity.",
+    "note": "The emotional continuity is strong \u2014 C\u01b0\u1eddng's determination to ensure Lan's freedom follows logically from the previous chapter. But the physical/plot continuity is broken. The previous chapter ends with his consciousness shutting down ('R\u1ed3i t\u1eaft'); this chapter opens with him standing and typing. This is a significant structural problem."
+  },
+  "canon_compliance": {
+    "score": 7,
+    "violations": [
+      "The note reads 'T\u00f4i \u0111\u00e3 gi\u1ebft Lan' \u2014 but Lan is B\u1ec7nh nh\u00e2n s\u1ed1 4, still alive at 8 bpm. C\u01b0\u1eddng didn't kill her body, he freed her consciousness. The note's wording is inaccurate to the situation.",
+      "Previous chapter states n\u00e3o t\u1ed5n th\u01b0\u01a1ng reached 95.1% before C\u01b0\u1eddng's consciousness shut down. This chapter has him functioning at 95.1% \u2014 typing complex commands, experiencing detailed sensory input. The 4.9% comparison to goldfish and cockroaches, while vivid, strains credulity for someone performing precise technical operations."
+    ],
+    "note": "Most canon facts are respected: h\u1ea7m Haymarket details, bu\u1ed3ng tri\u1ec7t gi\u00e1c, ping speeds, v\u1ebft b\u1ea7m history, Lan's 8 bpm, 1.2 km distance to St. Vincent. The '852 l\u1ea7n \u0111\u1ed5 b\u1ed9' matches the previous chapter. No family references appear. The violations are logical rather than factual."
+  },
+  "lore_integration": {
+    "score": 7,
+    "weakest_moment": "sudo rm -rf /hemera/buffer/* [...] sudo dd if=/dev/urandom of=/dev/hemera-buffer [...] while true; do echo \"0000000000000000\" >> /buffer/override; done",
+    "fix": "The technical commands are appropriate for the character and world, but they're presented as a visual list rather than integrated into prose. Weave them into C\u01b0\u1eddng's physical experience: 'Ng\u00f3n tay t\u00ecm l\u1ec7nh x\u00f3a. G\u00f5. G\u00f5 ti\u1ebfp. M\u1ed9t chu\u1ed7i ghi \u0111\u00e8 \u2014 urandom, zero, override \u2014 t\u1eebng l\u1ec7nh l\u00e0 m\u1ed9t vi\u00ean \u0111\u1ea1n v\u00e0o b\u1ed9 \u0111\u1ec7m.'",
+    "note": "The Neural Mantle system does real work here \u2014 the buffer concept, the ghi \u0111\u00e8 mechanic, the s\u1ed1c ng\u01b0\u1ee3c risk. The world isn't just set dressing. The strongest integration is the v\u1ebft b\u1ea7m disappearing when Lan is freed \u2014 this uses the magic system's rules (\u0111\u1ed3ng b\u1ed9 hai chi\u1ec1u) to create emotional payoff."
+  },
+  "engagement": {
+    "score": 6,
+    "weakest_moment": "The entire first section (before C\u01b0\u1eddng sits down at the keyboard) is re-establishing information the reader already knows from the previous chapter: the v\u1ebft s\u1eb9o is cold, the server is offline, t\u1ed5n th\u01b0\u01a1ng n\u00e3o is 95.1%. This is a pacing problem \u2014 the chapter should hit the ground running.",
+    "fix": "Open with C\u01b0\u1eddng's hand on the keyboard, not on his chest. Weave the status information (t\u1ed5n th\u01b0\u01a1ng, server offline) into the action rather than front-loading it. Let the reader discover the situation as C\u01b0\u1eddng acts, not before.",
+    "note": "The chapter's strongest engagement comes from the g\u00e1c x\u00e9p collapse sequence and Lan's final smile \u2014 these are genuinely moving. But the pacing drags in the first third (re-establishment) and the last third (repetitive lying-on-floor reflections). The middle section \u2014 the overloading and the final encounter \u2014 is compelling."
+  },
+  "three_weakest_sentences": [
+    "C\u00e1i n\u00e0y l\u00e0 thi\u00eau. T\u1eeb b\u00ean trong. T\u1eeb gi\u1eefa n\u00e3o, lan ra. Nh\u01b0 ai \u0111\u00f3 \u0111\u1ed5 axit v\u00e0o gi\u1eefa \u0111\u1ea7u v\u00e0 \u0111\u1ec3 n\u00f3 \u0103n m\u00f2n xuy\u00ean ra hai b\u00ean th\u00e1i d\u01b0\u01a1ng.",
+    "Anh l\u00e0 ng\u01b0\u1eddi bu\u00f4ng tay. V\u00e0 bu\u00f4ng tay \u2014 \u0111\u00f4i khi \u2014 l\u00e0 c\u00e1ch duy nh\u1ea5t \u0111\u1ec3 gi\u1eef.",
+    "\u0110\u1ee7 \u0111\u1ec3 nh\u1edb c\u00f4. Kh\u00f4ng \u0111\u1ee7 \u0111\u1ec3 nh\u1edb t\u1ea1i sao."
+  ],
+  "three_strongest_sentences": [
+    "V\u1ebft b\u1ea7m \u2014 d\u1ea5u \u1ea5n v\u1eadt l\u00fd duy nh\u1ea5t c\u1ee7a s\u1ef1 t\u1ed3n t\u1ea1i c\u00f4 trong th\u1ebf gi\u1edbi th\u1ef1c \u2014 \u0111\u00e3 m\u1ea5t. Khi c\u00f4 \u0111\u01b0\u1ee3c gi\u1ea3i ph\u00f3ng, n\u00f3 c\u0169ng m\u1ea5t.",
+    "N\u1ee5 c\u01b0\u1eddi n\u00e0y m\u00e9o. M\u00e9o m\u1ed9t ch\u00fat \u1edf kh\u00f3e mi\u1ec7ng ph\u1ea3i. M\u1eaft c\u00f4 nh\u0103n \u2014 kh\u00f4ng ph\u1ea3i nh\u0103n gi\u1ea3, nh\u0103n th\u1eadt, c\u01a1 m\u1eb7t co l\u1ea1i theo ph\u1ea3n x\u1ea1 t\u1ef1 nhi\u00ean.",
+    "C\u00f4 kh\u00f4ng c\u1ea7n anh c\u1ee9u. C\u00f4 \u0111\u00e3 \u0111\u01b0\u1ee3c gi\u1ea3i ph\u00f3ng [...] Ph\u1ea7n c\u00f2n l\u1ea1i trong c\u0103n g\u00e1c x\u00e9p \u2014 h\u00ecnh h\u00e0i \u0111ang \u0111\u1ee9ng tr\u01b0\u1edbc anh \u2014 ch\u1ec9 l\u00e0 b\u00f3ng ma. T\u00e0n d\u01b0. D\u1eef li\u1ec7u r\u00e1c trong b\u1ed9 \u0111\u1ec7m ch\u01b0a \u0111\u01b0\u1ee3c ghi \u0111\u00e8."
+  ],
+  "ai_patterns_detected": [
+    "Repeated rhetorical structure: 'Kh\u00f4ng \u2014 [redefinition]' appears 3 times (v\u1ee1/thi\u00eau/tan bi\u1ebfn). Effective once, AI-tell when repeated.",
+    "Uniform paragraph rhythm in the final section \u2014 many single-line paragraphs ending with periods, creating a monotone cadence.",
+    "The philosophical reflection 'bu\u00f4ng tay \u2014 \u0111\u00f4i khi \u2014 l\u00e0 c\u00e1ch duy nh\u1ea5t \u0111\u1ec3 gi\u1eef' reads like AI-generated inspirational closure.",
+    "Percentage-counting tension building (12%... 27%... 41%... 58%) is a common AI pacing device.",
+    "The ending's symmetrical structure (his heartbeat slowing, her heartbeat waiting, the space between) is too neat \u2014 real endings are lumpier."
+  ],
+  "overall_score": 5.0,
+  "weakest_dimension": "continuity",
+  "top_3_revisions": [
+    "Fix the continuity break with the previous chapter: either revise the previous chapter's ending to leave C\u01b0\u1eddng conscious, or restructure this chapter so the overloading happened during a fugue state and C\u01b0\u1eddng wakes to the aftermath. The current version has him conscious and mobile after the previous chapter established his consciousness shutting down.",
+    "Cut the repetitive 'Kh\u00f4ng \u2014 [redefinition]' structure to a single use (recommend keeping the first one about 'v\u1ee1'). Replace the others with direct statement. Also cut the m\u1ea3nh gi\u1ea5y note \u2014 it adds sentiment without earning it and the 'T\u00f4i \u0111\u00e3 gi\u1ebft Lan' line is factually wrong.",
+    "Compress the opening re-establishment section and the extended lying-on-floor ending. The chapter should open closer to the action (C\u01b0\u1eddng at the keyboard) and end sooner after the v\u1ebft b\u1ea7m discovery. The final reflections on Lan th\u1eadt, B\u00e0 L\u00e0nh, B\u00e1c s\u0129 Tu\u1ea5n read as sequel-baiting \u2014 trust the reader to wonder without spelling it out."
+  ],
+  "new_canon_entries": [
+    "C\u01b0\u1eddng executed a complete buffer overwrite using multiple commands (rm -rf, dd urandom, ping flood, zero fill) to ensure no data recovery was possible.",
+    "The v\u1ebft b\u1ea7m (bruise shaped like lips) on C\u01b0\u1eddng's ribs disappeared completely when Lan's consciousness was freed \u2014 confirming the \u0111\u1ed3ng b\u1ed9 hai chi\u1ec1u connection severs when the linked consciousness is deleted.",
+    "C\u01b0\u1eddng wrote a note before the final action: 'T\u00f4i l\u00e0 Tr\u1ea7n C\u01b0\u1eddng. T\u00f4i \u0111\u00e3 gi\u1ebft Lan. \u0110\u00e2y l\u00e0 s\u1ef1 chu\u1ed9c l\u1ed7i.'",
+    "C\u01b0\u1eddng's heartbeat stabilized at 52 bpm after the final disconnect \u2014 slower than normal but alive.",
+    "The buffer overwrite triggered a 94% risk of s\u1ed1c ng\u01b0\u1ee3c, which C\u01b0\u1eddng accepted by pressing Y."
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 36.6,
+    "sentence_length_cv": 0.771,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 6
+}

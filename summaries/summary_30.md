@@ -1,0 +1,9 @@
+**Tóm tắt Chương 30: Quyền Sở Hữu**
+
+Trần Cường lén vào khu Nằm (tầng B3) của Bệnh viện St. Vincent lúc đêm khuya để thăm "Bệnh nhân số 4" - Lan, người đàn bà hai mươi sáu tuổi đã hôn mê sâu bốn năm qua. Đối diện với thân thể teo tóp, đầy ống dẫn của Lan, Cường nhận ra sự khác biệt tàn khốc giữa búp bê nhục dục hoàn hảo trong thế giới ảo và con người thật đang dần chết mòn ở đời thực.
+
+Khi Cường chạm tay vào Lan, phản ứng sinh học diễn ra tức thì: nhịp tim cô tăng vọt lên 144, huyết áp dâng, cơ thể co giật và toát mồ hôi lạnh. Đó là phản xạ "chiến đấu hay bỏ chạy" nguyên thủy. Cơ thể Lan đã ghi nhớ anh như một mối đe dọa, một kẻ săn mồi. Sự thật giáng đòn mạnh vào Cường: Hơn 800 lần anh "đổ bộ" và bóc lột ý thức cô trong thế giới ảo đã khắc sâu nỗi sợ sinh học này. Sự tồn tại của anh chính là độc dược của cô. 
+
+Bà Lành - nữ hộ lý đã chăm sóc Lan hai mươi hai năm - thức giấc. Bà vô tình tiết lộ những nỗi đau thể xác của Lan (đổ mồ hôi, khóc, tim đập nhanh) mỗi khi có người đến thăm, và nghi ngờ Cường là nguyên nhân. Cường chỉ kịp thì thầm tên thật của cô gái ("Lan") và một lời xin lỗi muộn màng trước khi vội vã rời đi.
+
+Bước ra đường, đối diện với vết bầm trên ngực đã tê liệt và đứt gãy mọi kết nối, Cường đi đến một quyết định tàn nhẫn nhưng dứt khoát. Anh định tự hy sinh bằng cách sử dụng bộ khuếch đại để đảo ngược luồng dữ liệu, hấp thụ toàn bộ sóng ngược nhằm giải phóng phần não còn sống của Lan. Đánh đổi bằng 91% tổn thương não hoặc cái chết của chính mình, Cường coi đây là "phép tính cuối cùng" của một kẻ kế toán để triệt tiêu biến số gây nhiễu. Chương khép lại khi anh biến mất vào bóng tối Sydney, hướng về hầm Haymarket để thực hiện kế hoạch tự hủy này.

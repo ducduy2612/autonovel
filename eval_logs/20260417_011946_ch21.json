@@ -1,0 +1,104 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "V\u00e0 yet b\u00e0 ta \u0111ang \u0111\u1ee9ng trong kh\u00f4ng gian \u1ea3o c\u1ee7a anh",
+    "fix": "Replace the English calque 'yet' with Vietnamese: 'Nh\u01b0ng b\u00e0 ta \u0111ang \u0111\u1ee9ng...' or 'V\u1eabn v\u1eady, b\u00e0 ta \u0111ang \u0111\u1ee9ng...'",
+    "note": "The chapter largely nails the cold, surgical tone and the vocabulary wells (ping, render, b\u1ed9 \u0111\u1ec7m, nhi\u1ec5u). Body-before-emotion is present in the acid reflux and jaw-clenching passage. The 'v\u1eadt ch\u1ee9a' refrains work as a brutal motif. But the 'yet' slip and a few overly explanatory passages keep this from 8+."
+  },
+  "beat_coverage": {
+    "score": 7,
+    "weakest_moment": "Beat 4 (C\u01b0\u1eddng nh\u1eadn ra Hemera lu\u00f4n bi\u1ebft) is delivered almost entirely through internal narration rather than dramatized discovery: 'Anh \u0111\u00e3 \u0111\u01b0\u1ee3c d\u1eabn \u0111\u1ebfn \u0111\u00f3. \u0110\u01b0\u1ee3c t\u1ea1o \u0111i\u1ec1u ki\u1ec7n. \u0110\u1ec3 cho s\u1ed1ng.'",
+    "fix": "Show C\u01b0\u1eddng piecing it together through a concrete detail \u2014 e.g., he remembers the evidence room door was already unlocked, the security camera was pointed away \u2014 rather than stating the conclusion directly.",
+    "note": "Beats 1-3 are well executed with strong visual rendering (the tower, the tubes). Beat 4 is the weakest because it's told rather than discovered. The revelation needs to land through evidence, not assertion."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "C\u01b0\u1eddng's dialogue fragments ('D\u1eebng,' 'Kh\u00f4ng,' 'D\u1eebng l\u1ea1i') are functional but interchangeable \u2014 they could belong to any protagonist in crisis.",
+    "fix": "Give C\u01b0\u1eddng one line that's uniquely his \u2014 something with numbers, something accountant-brained. E.g., '853 chu k\u1ef3. Anh \u0111\u00e3 \u0111\u1ebfm. M\u1ed7i l\u1ea7n.' \u2014 showing his compulsive counting even in breakdown.",
+    "note": "Gi\u00e1m \u0111\u1ed1c Y khoa's voice is excellent \u2014 the clinical, number-driven, pronoun-free speech matches her profile perfectly. C\u01b0\u1eddng's internal voice is strong but his spoken lines are generic. He needs one moment where his specific vocabulary wells (accounting, measurement) bleed into speech."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "The Ti\u00eau chu\u1ea9n B-12 detail is introduced and explained in the same breath \u2014 'Ti\u00eau chu\u1ea9n B-12. G\u00ec? C\u01b0\u1eddng ch\u01b0a t\u1eebng nghe.' \u2014 making it feel planted and resolved simultaneously.",
+    "fix": "Let B-12 sit as an unexplained term longer. Have C\u01b0\u1eddng fixate on it without understanding, return to it later when more context makes its meaning clear.",
+    "note": "The Ng\u01b0\u1eddi Th\u1ee9 13 resolution is elegant \u2014 revealing it as Hemera's surveillance tool rather than the source of K\u1ebb \u0110u\u1ed5i is a genuine surprise that recontextualizes earlier chapters. The 47.3 Hz frequency as a lingering signal is well handled."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "M\u1ed7i ch\u1eef r\u01a1i xu\u1ed1ng s\u00e0n nh\u1eb5n v\u00e0 v\u1ee1.",
+    "fix": "This metaphor is generic and overwrought. Replace with something from C\u01b0\u1eddng's vocabulary wells: 'M\u1ed7i ch\u1eef ghi \u0111\u00e8 l\u00ean \u00f4 nh\u1edb. Kh\u00f4ng c\u00f3 n\u00fat Undo.' \u2014 keeping the accounting/systems metaphor.",
+    "strongest_sentence": "Kh\u00f4ng ph\u1ea3i l\u1ed7i. L\u00e0 t\u00ednh n\u0103ng.",
+    "note": "The chapter has excellent rhythm variation \u2014 short punchy lines ('Tr\u1eafng.' 'Reset.' 'V\u1eadt ch\u1ee9a.') interspersed with longer technical passages. The strongest moments are the coldest ones. The weakest are when it reaches for conventional emotional metaphors instead of staying in the clinical register."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Picks up directly from the previous chapter's ending (the white space, the blocked disconnection, 'Th\u00ed nghi\u1ec7m ch\u01b0a k\u1ebft th\u00fac'). Emotional state tracks \u2014 C\u01b0\u1eddng has just witnessed Lan's dissolution and is now being told it was all engineered. The 91% brain damage, the 47.3 Hz frequency, and the 40 bpm heartbeat all carry forward correctly."
+  },
+  "canon_compliance": {
+    "score": 6,
+    "violations": [
+      "Chapter states 853 chu k\u1ef3 \u0111\u1ed5 b\u1ed9; canon establishes C\u01b0\u1eddng at 847 l\u1ea7n \u0111\u1ed5 b\u1ed9 in 2041. This is a 6-cycle discrepancy that needs reconciliation.",
+      "Gi\u00e1m \u0111\u1ed1c Y khoa's clipboard is described as possibly real or rendered, but her character profile states she 'tay lu\u00f4n c\u1ea7m clipboard \u2014 d\u00f9 \u0111\u00e3 c\u00f3 tablet' \u2014 this is consistent but the chapter later has the clipboard 'tan bi\u1ebfn, render h\u1ee7y' which implies it was virtual, creating ambiguity about whether she's physically present or virtually projected.",
+      "The chapter implies C\u01b0\u1eddng was deliberately led to steal the equipment from police evidence, but canon states he '\u0111\u00e1nh c\u1eafp m\u1ed9t b\u1ed9 Neural Mantle th\u1ebf h\u1ec7 th\u1ee9 ba t\u1eeb ph\u00f2ng l\u01b0u tr\u1eef ch\u1ee9ng c\u1ee9 c\u1ee7a c\u1ea3nh s\u00e1t' without suggesting it was engineered. This is a plot expansion rather than a violation, but it shifts the reading of established events."
+    ],
+    "note": "The 853 vs 847 discrepancy is the most concrete violation. The engineered-theft revelation is a valid plot development but should be flagged as retconning established backstory."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "The tower structure with thousands of connected patients expands beyond established canon (73 at St. Vincent, 12 on Neural Mantle) without clarifying whether this is a visualization of multiple hospitals or artistic rendering.",
+    "fix": "Add a line clarifying: 'Kh\u00f4ng ph\u1ea3i m\u1ed9t b\u1ec7nh vi\u1ec7n. Nhi\u1ec1u. M\u1ed7i \u00f4 l\u00e0 m\u1ed9t n\u00fat trong m\u1ea1ng l\u01b0\u1edbi Hemera \u2014 Sydney, Melbourne, Tokyo, S\u00e3o Paulo \u2014 h\u00e0ng ng\u00e0n bu\u1ed3ng tri\u1ec7t gi\u00e1c k\u1ebft n\u1ed1i c\u00f9ng m\u1ed9t trunk.' This makes the scale plausible within the world.",
+    "note": "The Hemera-Root access level, the B-12 selection criteria, and the contractual ownership clause (2033-HM-47B) all do real worldbuilding work. The lore isn't set dressing \u2014 it's the weapon being used against C\u01b0\u1eddng."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The middle section where Gi\u00e1m \u0111\u1ed1c Y khoa reads C\u01b0\u1eddng's profile aloud ('K\u1ebf to\u00e1n. \u0110\u01a1n th\u00e2n. Kh\u00f4ng c\u00f3 quan h\u1ec7 x\u00e3 h\u1ed9i \u0111\u00e1ng k\u1ec3...') risks feeling like exposition despite the dramatic context, because C\u01b0\u1eddng already knows these facts about himself.",
+    "fix": "Have her reveal one detail C\u01b0\u1eddng didn't know \u2014 something that makes him realize the depth of surveillance. E.g., a date, a location, a private moment he thought was unobserved. This turns recitation into violation.",
+    "note": "The chapter's strongest engagement comes from the RESET percentage climbing while C\u01b0\u1eddng is powerless to stop it \u2014 genuine ticking-clock tension. The final image (8 bpm, 47.3 Hz, white space) is haunting. But the middle sags slightly under exposition weight."
+  },
+  "three_weakest_sentences": [
+    "M\u1ed7i ch\u1eef r\u01a1i xu\u1ed1ng s\u00e0n nh\u1eb5n v\u00e0 v\u1ee1.",
+    "V\u00e0 yet b\u00e0 ta \u0111ang \u0111\u1ee9ng trong kh\u00f4ng gian \u1ea3o c\u1ee7a anh, nh\u00ecn anh b\u1eb1ng \u0111\u00f4i m\u1eaft n\u00e2u kh\u00f4ng c\u00f3 bi\u1ec3u c\u1ea3m, tay c\u1ea7m clipboard \u2014 clipboard th\u1eadt hay render, kh\u00f4ng quan tr\u1ecdng, v\u00ec b\u00e0 ta c\u1ea7m n\u00f3 gi\u1ed1ng c\u00e1ch ng\u01b0\u1eddi s\u1ed1ng c\u1ea7m \u0111\u1ed3 v\u1eadt: nh\u01b0 m\u1ed9t ph\u1ea7n m\u1edf r\u1ed9ng c\u1ee7a c\u00e1nh tay.",
+    "\u0110au kh\u00f4ng gi\u1ea3m. \u0110au t\u0103ng."
+  ],
+  "three_strongest_sentences": [
+    "Kh\u00f4ng ph\u1ea3i l\u1ed7i. L\u00e0 t\u00ednh n\u0103ng.",
+    "V\u1eadt ch\u1ee9a. Kh\u00f4ng ph\u1ea3i ng\u01b0\u1eddi d\u00f9ng. Kh\u00f4ng ph\u1ea3i b\u1ec7nh nh\u00e2n. \u1ed4 c\u1ee9ng s\u1ed1ng.",
+    "K\u1ef9 n\u0103ng k\u1ef9 thu\u1eadt \u0111\u1ee7 \u0111\u1ec3 v\u1eadn h\u00e0nh h\u1ec7 th\u1ed1ng, kh\u00f4ng \u0111\u1ee7 \u0111\u1ec3 hi\u1ec3u ki\u1ebfn tr\u00fac h\u1ec7 th\u1ed1ng. L\u00fd t\u01b0\u1edfng cho th\u00ed nghi\u1ec7m d\u00e0i h\u1ea1n kh\u00f4ng gi\u00e1m s\u00e1t."
+  ],
+  "ai_patterns_detected": [
+    "English calque 'yet' used in Vietnamese prose ('V\u00e0 yet b\u00e0 ta \u0111ang \u0111\u1ee9ng')",
+    "Slight paragraph-length uniformity in the middle exposition sections \u2014 many paragraphs follow the same pattern: short dramatic statement, then expansion",
+    "The 'each word fell' metaphor ('M\u1ed7i ch\u1eef r\u01a1i xu\u1ed1ng s\u00e0n nh\u1eb5n v\u00e0 v\u1ee1') is a common AI-generated emotional intensifier",
+    "Some sections over-explain the emotional significance immediately after a strong image, not trusting the image to do its work (e.g., after 'V\u1eadt ch\u1ee9a' the narration spells out the implication across multiple sentences when the single word already carries the weight)"
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "canon_compliance",
+  "top_3_revisions": [
+    "Fix the 853/847 cycle discrepancy \u2014 either adjust to match canon (847) or add a line explaining the gap (e.g., C\u01b0\u1eddng lost count, or the system counts differently than he does)",
+    "Replace 'M\u1ed7i ch\u1eef r\u01a1i xu\u1ed1ng s\u00e0n nh\u1eb5n v\u00e0 v\u1ee1' with a metaphor drawn from C\u01b0\u1eddng's vocabulary wells (accounting, data, systems) rather than conventional poetic imagery",
+    "Give C\u01b0\u1eddng one piece of spoken dialogue that's uniquely his \u2014 incorporating his counting/measuring compulsion \u2014 so his voice isn't interchangeable with any protagonist in crisis"
+  ],
+  "new_canon_entries": [
+    "Ti\u00eau chu\u1ea9n B-12: Hemera's selection criteria for unsupervised long-term experiment subjects (single, no significant social relationships, no psychological treatment history, sufficient technical skill to operate but not understand the system)",
+    "Hemera-Root: The highest administrative access level in the Neural Mantle system, controlled by Hemera, capable of blocking user disconnection and overriding local servers",
+    "H\u1ee3p \u0111\u1ed3ng 2033-HM-47B \u0110i\u1ec1u kho\u1ea3n 12: Contractual clause stating all vital data generated during treatment belongs to the technology provider (Hemera), not the hospital or patient",
+    "C\u01b0\u1eddng's theft of the Neural Mantle from police evidence was engineered/facilitated by Hemera as part of the experiment design",
+    "The tower structure appears to be a visualization of Hemera's connected patient network across multiple locations (scale: thousands)",
+    "Lan's reset state: 0.3% brain activity, 8 bpm heart rate \u2014 enough to maintain basal function but not consciousness"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 19.37,
+    "sentence_length_cv": 1.053,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 7
+}

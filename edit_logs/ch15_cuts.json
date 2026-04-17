@@ -1,0 +1,149 @@
+{
+  "cuts": [
+    {
+      "quote": "M\u1eaft tr\u00e1i li\u1ebfc v\u1ec1 ph\u00eda C\u01b0\u1eddng tr\u01b0\u1edbc khi mi\u1ec7ng k\u1ecbp m\u1edf.",
+      "type": "OVER-EXPLAIN",
+      "reason": "The dialogue immediately following makes it clear B\u1ea3o is looking at and speaking to C\u01b0\u1eddng. The narrator is explaining the mechanics of a glance that doesn't need explaining.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "Kh\u00f4ng ph\u1ea3i gi\u1eadn d\u1eef. C\u0169ng kh\u00f4ng ph\u1ea3i th\u01b0\u01a1ng h\u1ea1i. L\u00e0 th\u1ee9 g\u00ec \u0111\u00f3 n\u1eb1m gi\u1eefa \u2014 gi\u1ed1ng nh\u01b0 c\u00e1ch ng\u01b0\u1eddi ta nh\u00ecn m\u1ed9t con ch\u00f3 s\u1eafp ch\u1ea1y ra \u0111\u01b0\u1eddng cao t\u1ed1c.",
+      "type": "TELL",
+      "reason": "Explicitly categorizing the emotion into 'not A, not B, but C' flattens the tension. The following action/dialogue carries the weight better without this emotional glossary.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "B\u1ed1n t\u1eeb. R\u01a1i xu\u1ed1ng nh\u01b0 b\u00faa \u0111\u1eadp v\u00e0o \u0111inh.",
+      "type": "GENERIC",
+      "reason": "A clich\u00e9 simile that adds melodrama without adding texture. The dialogue 'M\u00e0y \u0111\u00e3 t\u1ef1 \u0111\u00e0o m\u1ed3 cho m\u00ecnh' is sharp enough to stand on its own.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "C\u01b0\u1eddng m\u1edf mi\u1ec7ng nh\u01b0ng kh\u00f4ng c\u00f3 \u00e2m thanh n\u00e0o tho\u00e1t ra.",
+      "type": "GENERIC",
+      "reason": "A stock phrase for shock. It does nothing to characterize C\u01b0\u1eddng or deepen the world.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "Anh kh\u00f4ng nh\u1edb \u0111\u00e3 vi\u1ebft n\u00f3 khi n\u00e0o.",
+      "type": "REDUNDANT",
+      "reason": "This is the first instance of a theme that gets beaten to death. It's fine here, but becomes redundant when repeated multiple times later.",
+      "action": "REWRITE",
+      "rewrite": "Anh kh\u00f4ng nh\u1edb \u0111\u00e3 vi\u1ebft n\u00f3."
+    },
+    {
+      "quote": "Kh\u00f4ng c\u00f3 m\u00f9i hoa s\u1eefa. Kh\u00f4ng c\u00f3 m\u00f9i ozon. Ch\u1ec9 c\u00f3 m\u00f9i c\u1ee7a th\u1eddi gian \u2014 kh\u00f4, b\u1ee5i, v\u00f4 h\u1ed3n.",
+      "type": "FAT",
+      "reason": "The list of absent smells dilutes the sensory impact. The final clause is abstract and tells rather than shows.",
+      "action": "REWRITE",
+      "rewrite": "Ch\u1ec9 c\u00f3 m\u00f9i c\u1eb7n m\u1ef1c v\u00e0 b\u1ee5i."
+    },
+    {
+      "quote": "Kh\u00f4ng ph\u1ea3i \u0111en. \u0110en l\u00e0 kh\u00f4ng c\u00f3 d\u1eef li\u1ec7u. Nhi\u1ec5u l\u00e0 c\u00f3 d\u1eef li\u1ec7u nh\u01b0ng b\u1ecb b\u00f3p m\u00e9o \u2014 nh\u01b0 h\u00ecnh \u1ea3nh render v\u1edbi ping qu\u00e1 cao, v\u1ee1 th\u00e0nh pixel, kh\u00f4ng th\u1ec3 nh\u1eadn di\u1ec7n.",
+      "type": "OVER-EXPLAIN",
+      "reason": "The narrator is giving a technical lecture on the difference between absence of data and corrupted data. The metaphor is good but the explanation kills it.",
+      "action": "REWRITE",
+      "rewrite": "Kh\u00f4ng ph\u1ea3i \u0111en \u2014 kh\u00f4ng c\u00f3 d\u1eef li\u1ec7u. Nhi\u1ec5u. D\u1eef li\u1ec7u b\u1ecb b\u00f3p m\u00e9o, v\u1ee1 th\u00e0nh pixel."
+    },
+    {
+      "quote": "Hi\u1ec7n t\u01b0\u1ee3ng semantic satiation, n\u00e3o b\u1ed9 b\u00e3o h\u00f2a v\u1edbi t\u00edn hi\u1ec7u l\u1eb7p l\u1ea1i v\u00e0 ng\u1eebng x\u1eed l\u00fd ng\u1eef ngh\u0129a.",
+      "type": "OVER-EXPLAIN",
+      "reason": "Naming the psychological phenomenon and explaining its mechanism pulls the reader out of the character's experience and into a textbook.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "V\u1ebft x\u01b0\u1edbc \u2014 ba centimet, ch\u00e9o t\u1eeb x\u01b0\u01a1ng \u0111\u00f2n v\u1ec1 ph\u00eda x\u01b0\u01a1ng s\u01b0\u1eddn \u2014 n\u00f3ng d\u01b0\u1edbi \u0111\u1ea7u ng\u00f3n tay. Nhi\u1ec7t \u0111\u1ed9 ch\u00ednh x\u00e1c: 37.5. Kh\u00f4ng dao \u0111\u1ed9ng. H\u1eb1ng s\u1ed1. H\u1eb1ng s\u1ed1 c\u1ee7a c\u00f4.",
+      "type": "REDUNDANT",
+      "reason": "The precise measurements and the phrase 'H\u1eb1ng s\u1ed1 c\u1ee7a c\u00f4' have already been established. Repeating them here adds nothing new.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "Kh\u00f4ng nh\u1edb c\u00e1i g\u00ec trong ng\u0103n k\u00e9o. Kh\u00f4ng nh\u1edb khi n\u00e0o \u0111\u00e3 d\u1ecdn. Ch\u1ec9 bi\u1ebft b\u00e2y gi\u1edd ch\u00fang tr\u1ed1ng, v\u00e0 m\u1ea3nh gi\u1ea5y \u2014 m\u1ea3nh gi\u1ea5y duy nh\u1ea5t \u2014 n\u1eb1m trong ng\u0103n k\u00e9o \u0111\u1ea7u ti\u00ean, n\u01a1i anh v\u1eeba t\u00ecm th\u1ea5y.",
+      "type": "REDUNDANT",
+      "reason": "We already know the drawers are empty and the paper was in the first drawer. This paragraph restates established facts.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "Kh\u00f4ng ph\u1ea3i t\u1ed1i. Kho\u1ea3ng tr\u1ed1ng. Kh\u00e1c bi\u1ec7t quan tr\u1ecdng \u2014 t\u1ed1i l\u00e0 kh\u00f4ng c\u00f3 g\u00ec, kho\u1ea3ng tr\u1ed1ng l\u00e0 c\u00f3 g\u00ec \u0111\u00f3 \u0111\u00e3 b\u1ecb l\u1ea5y \u0111i.",
+      "type": "OVER-EXPLAIN",
+      "reason": "Another philosophical distinction that lectures the reader. The metaphor is powerful but the explanation defangs it.",
+      "action": "REWRITE",
+      "rewrite": "Kh\u00f4ng ph\u1ea3i t\u1ed1i. Kho\u1ea3ng tr\u1ed1ng. C\u00f3 g\u00ec \u0111\u00f3 \u0111\u00e3 b\u1ecb l\u1ea5y \u0111i."
+    },
+    {
+      "quote": "Nh\u01b0 t\u00edn hi\u1ec7u ping t\u1eeb server c\u00e1ch nhau n\u1eeda v\u00f2ng tr\u00e1i \u0111\u1ea5t, truy\u1ec1n qua b\u1ea3y n\u00fat chuy\u1ec3n ti\u1ebfp, m\u1ea5t g\u00f3i tin, nhi\u1ec5u t\u1ea7n s\u1ed1, nh\u01b0ng v\u1eabn \u0111\u1ebfn \u0111\u01b0\u1ee3c \u0111\u00edch.",
+      "type": "FAT",
+      "reason": "The technical detail of 'b\u1ea3y n\u00fat chuy\u1ec3n ti\u1ebfp' and 'm\u1ea5t g\u00f3i tin' is overwrought. The core image of a distant, degraded signal is enough.",
+      "action": "REWRITE",
+      "rewrite": "Nh\u01b0 t\u00edn hi\u1ec7u ping t\u1eeb n\u1eeda v\u00f2ng tr\u00e1i \u0111\u1ea5t \u2014 nhi\u1ec5u, \u0111\u1ee9t \u0111o\u1ea1n, nh\u01b0ng v\u1eabn \u0111\u1ebfn."
+    },
+    {
+      "quote": "Kh\u00f4ng bi\u1ebft. Hai ch\u1eef \u1ea5y. Anh \u0111\u00e3 vi\u1ebft ch\u00fang trong nh\u1eadt k\u00fd ba l\u1ea7n sau l\u1ea7n \u0111\u1ed5 b\u1ed9 th\u1ee9 850. Kh\u00f4ng bi\u1ebft. Kh\u00f4ng bi\u1ebft. Kh\u00f4ng bi\u1ebft. B\u00e2y gi\u1edd anh th\u00eam l\u1ea7n th\u1ee9 t\u01b0.",
+      "type": "STRUCTURAL",
+      "reason": "The repetition is meant to be haunting but feels performative. The reference to the diary entry is a 'tell' about his past despair.",
+      "action": "REWRITE",
+      "rewrite": "Kh\u00f4ng bi\u1ebft. L\u1ea7n th\u1ee9 t\u01b0 anh vi\u1ebft hai ch\u1eef \u1ea5y."
+    },
+    {
+      "quote": "Nh\u01b0ng m\u1ea3nh gi\u1ea5y th\u1eadt. M\u1ef1c th\u1eadt. Ch\u1eef vi\u1ebft th\u1eadt. V\u00e0 \u1edf \u0111\u00e2u \u0111\u00f3 \u2014 trong m\u1ed9t ph\u00f2ng b\u1ec7nh t\u1ea1i St. Vincent, c\u00e1ch \u0111\u00e2y 1.2 km c\u00e1p quang \u2014 m\u1ed9t c\u00f4 g\u00e1i 22 tu\u1ed5i \u0111ang n\u1eb1m h\u00f4n m\u00ea, da xanh, g\u1ea7y, s\u1ed1ng ch\u1ebft kh\u00f4ng ai bi\u1ebft, nh\u1ecbp tim \u0111\u1ed3ng b\u1ed9 v\u1edbi v\u1ebft th\u01b0\u01a1ng tr\u00ean ng\u1ef1c anh.",
+      "type": "REDUNDANT",
+      "reason": "This entire passage restates information we already have: the paper is real, the girl is in St. Vincent, her vitals sync with his wound. It's a summary of the chapter so far.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "Lan. Ph\u00f2ng 4. St. Vincent. B\u1ed1n t\u1eeb. Ba m\u01b0\u01a1i hai byte d\u1eef li\u1ec7u. M\u1ef1c \u0111\u00e3 nh\u1ea1t. Nh\u01b0ng v\u1eabn \u0111\u1ecdc \u0111\u01b0\u1ee3c.",
+      "type": "REDUNDANT",
+      "reason": "This specific four-word phrase has been repeated as a refrain multiple times. Here it adds no new weight or context.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "V\u1ebft x\u01b0\u1edbc tr\u00ean ng\u1ef1c v\u1eabn \u1ea5m. 37.5\u00b0C. Nh\u1ecbp n\u0103m m\u01b0\u01a1i ba \u2014 gi\u1ea3m m\u1ed9t nh\u1ecbp t\u1eeb l\u00fac n\u00e3y. C\u00f4 \u0111ang ng\u1ee7. Ho\u1eb7c \u0111ang t\u1ec9nh. Ho\u1eb7c \u0111ang \u1edf gi\u1eefa \u2014 n\u01a1i kh\u00f4ng ng\u1ee7 kh\u00f4ng t\u1ec9nh, n\u01a1i \u00fd th\u1ee9c d\u01b0 th\u1eeba t\u00edch t\u1ee5 th\u00e0nh b\u1ee5i v\u00e0 b\u1ee5i k\u1ebft tinh th\u00e0nh th\u1ee9 g\u00ec \u0111\u00f3 m\u1edbi.",
+      "type": "OVER-EXPLAIN",
+      "reason": "The precise temperature and the slight change in BPM is obsessive detail that adds nothing. The philosophical musing about consciousness is abstract filler.",
+      "action": "REWRITE",
+      "rewrite": "V\u1ebft x\u01b0\u1edbc v\u1eabn \u1ea5m. Nh\u1ecbp n\u0103m m\u01b0\u01a1i ba. C\u00f4 \u0111ang \u1edf gi\u1eefa \u2014 kh\u00f4ng ng\u1ee7, kh\u00f4ng t\u1ec9nh."
+    },
+    {
+      "quote": "Nh\u01b0ng anh bi\u1ebft m\u1ed9t th\u1ee9: m\u1ea3nh gi\u1ea5y n\u00e0y th\u1eadt. Th\u1eadt h\u01a1n Ph\u1ed1 Hoa S\u1eefa. Th\u1eadt h\u01a1n Ph\u00f2ng tr\u1ecd s\u1ed1 7. Th\u1eadt h\u01a1n c\u01a1 th\u1ec3 ho\u00e0n h\u1ea3o 36.8\u00b0C c\u1ee7a K\u1ebb \u0110u\u1ed5i. Th\u1eadt h\u01a1n m\u1ecdi th\u1ee9 anh \u0111\u00e3 ch\u1ea1m v\u00e0o trong t\u00e1m tr\u0103m n\u0103m m\u01b0\u01a1i l\u1ea7n \u0111\u1ed5 b\u1ed9.",
+      "type": "TELL",
+      "reason": "The narrator is explicitly ranking the 'realness' of objects. This should be felt, not catalogued.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "B\u1edfi v\u00ec m\u1ef1c \u0111\u00e3 nh\u1ea1t. B\u1edfi v\u00ec gi\u1ea5y \u0111\u00e3 c\u0169. B\u1edfi v\u00ec n\u00f3 kh\u00f4ng ho\u00e0n h\u1ea3o \u2014 v\u00e0 th\u1ebf gi\u1edbi \u1ea3o lu\u00f4n ho\u00e0n h\u1ea3o. Th\u1ebf gi\u1edbi \u1ea3o kh\u00f4ng c\u00f3 m\u1ef1c nh\u1ea1t. Kh\u00f4ng c\u00f3 gi\u1ea5y nh\u00e0u. Kh\u00f4ng c\u00f3 k\u00fd \u1ee9c b\u1ecb qu\u00ean.",
+      "type": "OVER-EXPLAIN",
+      "reason": "The insight that imperfection signifies reality is powerful, but spelling it out in a list of 'because' clauses makes it feel like an argument, not a realization.",
+      "action": "REWRITE",
+      "rewrite": "M\u1ef1c nh\u1ea1t. Gi\u1ea5y nh\u00e0u. Kh\u00f4ng ho\u00e0n h\u1ea3o. Th\u1ebf gi\u1edbi \u1ea3o kh\u00f4ng c\u00f3 nh\u1eefng th\u1ee9 n\u00e0y."
+    },
+    {
+      "quote": "M\u1ed9t m\u1ea3nh gi\u1ea5y. B\u1ed1n t\u1eeb. M\u1ef1c \u0111\u00e3 nh\u1ea1t.",
+      "type": "REDUNDANT",
+      "reason": "This description has been used verbatim or near-verbatim multiple times. It's lost all impact.",
+      "action": "CUT",
+      "rewrite": null
+    },
+    {
+      "quote": "V\u00e0 \u1edf \u0111\u00e2u \u0111\u00f3, trong c\u01a1 th\u1ec3 anh, v\u1ebft x\u01b0\u1edbc nh\u1ecbp nh\u00e0ng. N\u0103m m\u01b0\u01a1i ba. Ki\u00ean nh\u1eabn.",
+      "type": "REDUNDANT",
+      "reason": "The chapter ends by restating the synced heartbeat and the word 'ki\u00ean nh\u1eabn' one final time. It's one too many.",
+      "action": "CUT",
+      "rewrite": null
+    }
+  ],
+  "total_cuttable_words": 650,
+  "tightest_passage": "C\u01b0\u1eddng t\u00ecm th\u1ea5y B\u1ea3o \u1edf cu\u1ed1i \u0111\u01b0\u1eddng h\u1ea7m Cumberland, n\u01a1i c\u00e1p \u0111i\u1ec7n k\u00e9o l\u00ea tr\u00ean m\u1eb7t \u0111\u1ea5t nh\u01b0 ru\u1ed9t \u0111\u1ed9ng v\u1eadt b\u00f2 ra kh\u1ecfi b\u1ee5ng. B\u1ea3o ng\u1ed3i b\u1ec7t tr\u00ean m\u1ed9t th\u00f9ng c\u00e1c-t\u00f4ng \u01b0\u1edbt, l\u01b0ng d\u1ef1a v\u00e0o t\u01b0\u1eddng b\u00ea t\u00f4ng \u1ea9m m\u1ed1c.",
+  "loosest_passage": "Nh\u01b0ng anh bi\u1ebft m\u1ed9t th\u1ee9: m\u1ea3nh gi\u1ea5y n\u00e0y th\u1eadt. Th\u1eadt h\u01a1n Ph\u1ed1 Hoa S\u1eefa. Th\u1eadt h\u01a1n Ph\u00f2ng tr\u1ecd s\u1ed1 7. Th\u1eadt h\u01a1n c\u01a1 th\u1ec3 ho\u00e0n h\u1ea3o 36.8\u00b0C c\u1ee7a K\u1ebb \u0110u\u1ed5i. Th\u1eadt h\u01a1n m\u1ecdi th\u1ee9 anh \u0111\u00e3 ch\u1ea1m v\u00e0o trong t\u00e1m tr\u0103m n\u0103m m\u01b0\u01a1i l\u1ea7n \u0111\u1ed5 b\u1ed9. B\u1edfi v\u00ec m\u1ef1c \u0111\u00e3 nh\u1ea1t. B\u1edfi v\u00ec gi\u1ea5y \u0111\u00e3 c\u0169.",
+  "overall_fat_percentage": 22,
+  "one_sentence_verdict": "The chapter builds a haunting, visceral world but drowns its best ideas in repetitive refrains and over-explained metaphors, mistaking reiteration for resonance."
+}

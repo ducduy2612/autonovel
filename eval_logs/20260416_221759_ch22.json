@@ -1,0 +1,105 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "\"Tr\u01b0\u1edbc khi em g\u1eb7p anh,\" c\u00f4 n\u00f3i, gi\u1ecdng nh\u1eb9, \"em s\u1ee3 b\u00f3ng t\u1ed1i. Sau khi em g\u1eb7p anh, em v\u1eabn s\u1ee3. Nh\u01b0ng c\u00f3 anh trong b\u00f3ng t\u1ed1i v\u1edbi em.\"",
+    "fix": "Cut this speech entirely. The voice profile explicitly bans romanticizing loneliness and using direct emotional declaration. Replace with a physical detail \u2014 her hand tightening, a glitch in her render, a specific sensory fragment that conveys the same thing without the sentimentality.",
+    "note": "The chapter mostly nails the cold, surgical tone. The body-before-emotion principle works well in the co gi\u1eadt sequences and the 36.8\u00b0C h\u1eb1ng s\u1ed1 callback. But the emotional climax veers into the exact kind of romanticized declaration the voice profile forbids. The line about 'b\u00f3ng t\u1ed1i' is generic \u2014 could appear in any novel. The strongest voice moments are when C\u01b0\u1eddng thinks like a k\u1ebf to\u00e1n: counting transactions, finding the exploit. That's specific and true to character."
+  },
+  "beat_coverage": {
+    "score": 7,
+    "weakest_moment": "\"B\u1eb1ng k\u1ef9 n\u0103ng k\u1ebf to\u00e1n c\u1ee7a m\u00ecnh, anh t\u00ecm ra l\u1ed7 h\u1ed5ng trong h\u1ec7 th\u1ed1ng: qu\u00e1 t\u1ea3i c\u00e1c giao d\u1ecbch d\u1eef li\u1ec7u.\" \u2014 This beat is executed, but the execution feels too easy. C\u01b0\u1eddng goes from 'trapped and dying' to 'I have a plan' in about two paragraphs of internal monologue.",
+    "fix": "Make the discovery harder. Show him failing first \u2014 trying commands that don't work, hitting walls, the pain interrupting his thought process. The insight should feel earned through struggle, not gifted by the narrative.",
+    "note": "All four outline beats are present: trapped/co gi\u1eadt, Lan's 'bu\u00f4ng em ra' speech, the realization about destroying the server, and the accounting exploit. The sacrifice is genuine and the emotional arc tracks. But the accounting solution arrives too smoothly \u2014 a man with 93% brain damage shouldn't be able to execute a complex technical plan this cleanly."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "\"Em kh\u00f4ng s\u1ee3 n\u1eefa.\" C\u00f4 n\u00f3i. Gi\u1ecdng tan trong nhi\u1ec5u. \"Em\u2014\"",
+    "fix": "Give Lan a final line that's more specific to HER \u2014 something that references her unique existence as fragmented consciousness, not a generic brave farewell. Maybe she repeats a detail from earlier that only she would say, or her last word is a question (she's 70% questions in her voice profile).",
+    "note": "C\u01b0\u1eddng's voice is strong when he's in k\u1ebf to\u00e1n mode \u2014 flat, counting, procedural. The shift to 'Tao/M\u00e0y' register under stress is a good character detail. Lan's voice is mostly right: the poetic Northern Vietnamese quality, the glitching, the questions. But her farewell speeches are too composed, too eloquent for someone at 0.3% brain activity who's barely holding a render together. She should sound more fragmented, more desperate, less like she's delivering a screenplay goodbye."
+  },
+  "plants_seeded": {
+    "score": 6,
+    "weakest_moment": "The accounting exploit feels like it appears from nowhere. The outline says 'Gieo m\u1ea7m: K\u1ef9 n\u0103ng k\u1ebf to\u00e1n c\u1ee7a C\u01b0\u1eddng (H\u00e0nh \u0111\u1ed9ng)' \u2014 but this chapter doesn't seed it, it deploys it. There's no prior setup in the chapter itself showing C\u01b0\u1eddng using his accounting brain in a smaller way that foreshadows this.",
+    "fix": "Earlier in the chapter, before the crisis, show C\u01b0\u1eddng instinctively reading the system logs like a spreadsheet \u2014 noticing patterns, anomalies, the way an accountant would. Make the reader think 'oh, he's good at this' before the climax requires it.",
+    "note": "The 47.3 Hz frequency is a good callback. The v\u1ebft s\u1eb9o on his ribs is well-used. The 'Ng\u01b0\u1eddi Th\u1ee9 13' and the 'h\u00e0ng tr\u0103m b\u00f3ng ng\u01b0\u1eddi' in the system cracks are intriguing seeds for future chapters. But the core plant \u2014 the accounting skill as weapon \u2014 isn't seeded, it's just activated. The chapter assumes the reader already knows C\u01b0\u1eddng is an accountant rather than showing it organically."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "C\u00f4 m\u1ec9m c\u01b0\u1eddi. N\u1ee5 c\u01b0\u1eddi \u1ea5y \u2014 anh \u0111\u00e3 th\u1ea5y 852 l\u1ea7n. Nh\u01b0ng l\u1ea7n n\u00e0y n\u00f3 kh\u00e1c. Kh\u00f4ng ho\u00e0n h\u1ea3o. M\u00e9o m\u1ed9t b\u00ean. Nh\u01b0 ng\u01b0\u1eddi th\u1eadt.",
+    "fix": "Cut 'Nh\u01b0 ng\u01b0\u1eddi th\u1eadt.' The previous four words already show it. Adding the comparison flattens the image into explanation. Trust the reader to feel what 'M\u00e9o m\u1ed9t b\u00ean' conveys.",
+    "strongest_sentence": "C\u00f4 \u0111\u01b0a tay l\u00ean nh\u00ecn. Ng\u00f3n tay c\u00f4 trong su\u1ed1t \u2014 anh nh\u00ecn th\u1ea5y kho\u1ea3ng tr\u1eafng xuy\u00ean qua.",
+    "note": "The prose is strongest when it's most physical and specific: the 41\u00b0C port temperature, the taste of blood without a tongue, the transparent fingers. The short declarative sentences in the co gi\u1eadt sequences create genuine rhythm. Weaknesses: some emotional beats are explained rather than evoked ('Nh\u01b0 ng\u01b0\u1eddi th\u1eadt', 'Th\u1eadt h\u01a1n b\u1ea5t c\u1ee9 th\u1ee9 g\u00ec anh t\u1eebng ch\u1ea1m'), and there's a recurring pattern of ending sections with a single loaded word on its own line (Tr\u1eafng. \u0110au. Nh\u1edb.) that becomes predictable."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Excellent continuity from the previous chapter. The opening picks up exactly where Ch 21 left off \u2014 C\u01b0\u1eddng trapped in the white space, 91.3% brain damage, Hemera-Root lockout, Lan at 0.3%. The co gi\u1eadt is a logical consequence of the shock warning from the previous chapter's log. Emotional state tracks: C\u01b0\u1eddng moves from helpless to angry to determined to sacrificial. The 47.3 Hz callback connects to established lore. One minor issue: the previous chapter established Lan at 0.3% brain activity and 'reset,' but this chapter has her forming coherent sentences and even crying. The chapter attempts to explain this (t\u1ea7n s\u1ed1 47.3 Hz, v\u1ecdng \u00e2m), but it's a stretch that a reader might question."
+  },
+  "canon_compliance": {
+    "score": 7,
+    "violations": [
+      "Lan's coherence at 0.3% brain activity strains the established rule that this level is 'kh\u00f4ng \u0111\u1ee7 \u0111\u1ec3 h\u00ecnh th\u00e0nh suy ngh\u0129.' The chapter explains it but doesn't fully resolve the contradiction.",
+      "The SQL command 'DELETE FROM server.* WHERE status = \"ALL\"' is a simplification that doesn't match the sophisticated neural architecture established in world.md. A system this complex wouldn't have a single SQL-style kill switch.",
+      "C\u01b0\u1eddng's ability to execute complex technical operations at 92-95% brain damage contradicts the established effect of such damage. The canon states that after ~1,200 dives, users lose all recognition of real vs. fake \u2014 at 93% damage, he shouldn't be this functional."
+    ],
+    "note": "No violations of the hard rules (no family mentions, no breaking unbreakable rules). The geography, timeline, and character details are consistent. The main issues are plausibility gaps within the established system rather than direct contradictions."
+  },
+  "lore_integration": {
+    "score": 7,
+    "weakest_moment": "The 'h\u00e0ng tr\u0103m b\u00f3ng ng\u01b0\u1eddi' appearing in the system cracks is a striking image but feels like set dressing \u2014 it doesn't affect the plot or C\u01b0\u1eddng's decision-making.",
+    "fix": "Have the b\u00f3ng ng\u01b0\u1eddi do something \u2014 reach toward him, or away, or have one of them be recognizable (a face from Ph\u1ed1 Hoa S\u1eefa?). Make their presence mean something for the choice C\u01b0\u1eddng is about to make.",
+    "note": "The world does real work in this chapter: the ping/latency system, the buffer overflow mechanic, the transaction-based architecture. The accounting-to-hacking pipeline is clever use of established character skills. The weakest integration is the v\u1ecdng \u00e2m / b\u1ec7nh nh\u00e2n h\u00f4n m\u00ea elements \u2014 they appear visually but don't impact the action. The strongest is how the physical consequences (co gi\u1eadt, n\u00e3o t\u1ed5n th\u01b0\u01a1ng) create genuine stakes that the reader feels in every paragraph."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The middle section where C\u01b0\u1eddng explains his plan to Lan \u2014 approximately from 'M\u00e0y c\u00f3 bi\u1ebft h\u1ec7 th\u1ed1ng n\u00e0y ch\u1ea1y bao nhi\u00eau giao d\u1ecbch m\u1ed7i gi\u00e2y kh\u00f4ng?' to 'X\u00f3a h\u1ebft.' \u2014 slows the pacing. It's necessary exposition delivered in a calm conversation while the character is supposedly at 92% brain damage and dying.",
+    "fix": "Compress the explanation. C\u01b0\u1eddng shouldn't be able to explain this clearly \u2014 he should be executing while deteriorating. Show the plan through action and fragmentary thought, not a coherent lecture. Have him start the overload FIRST, then explain in broken pieces as it's already happening.",
+    "note": "The opening is strong \u2014 immediate physical crisis, no wasted time. The climax (the DELETE command, Lan's disappearance) is emotionally effective. The ending is haunting. The chapter's main engagement problem is the pacing dip in the middle where the technical plan is explained too thoroughly. A reader turning pages would feel the drag. The surprise element is moderate \u2014 the accounting exploit is clever but not shocking. The emotional payoff is genuine, especially 'Anh l\u00e0 ng\u01b0\u1eddi bu\u00f4ng tay.'"
+  },
+  "three_weakest_sentences": [
+    "Nh\u01b0ng l\u1ea7n n\u00e0y n\u00f3 kh\u00e1c. Kh\u00f4ng ho\u00e0n h\u1ea3o. M\u00e9o m\u1ed9t b\u00ean. Nh\u01b0 ng\u01b0\u1eddi th\u1eadt.",
+    "Th\u1eadt h\u01a1n b\u1ea5t c\u1ee9 th\u1ee9 g\u00ec anh t\u1eebng ch\u1ea1m trong 852 l\u1ea7n \u0111\u1ed5 b\u1ed9.",
+    "Tr\u01b0\u1edbc khi em g\u1eb7p anh, em s\u1ee3 b\u00f3ng t\u1ed1i. Sau khi em g\u1eb7p anh, em v\u1eabn s\u1ee3. Nh\u01b0ng c\u00f3 anh trong b\u00f3ng t\u1ed1i v\u1edbi em."
+  ],
+  "three_strongest_sentences": [
+    "C\u00f4 \u0111\u01b0a tay l\u00ean nh\u00ecn. Ng\u00f3n tay c\u00f4 trong su\u1ed1t \u2014 anh nh\u00ecn th\u1ea5y kho\u1ea3ng tr\u1eafng xuy\u00ean qua.",
+    "Anh \u0111\u01b0a tay l\u00ean c\u1ed5, n\u01a1i c\u00e1p Neural Mantle g\u1eafn v\u00e0o c\u1ed5ng n\u1ed1i. Ng\u00f3n tay ch\u1ea1m v\u00e0o kim lo\u1ea1i n\u00f3ng \u2014 41\u00b0C. Qu\u00e1 n\u00f3ng. B\u00ecnh th\u01b0\u1eddng 38.",
+    "C\u01b0\u1eddng c\u1ea3m nh\u1eadn r\u00f5 h\u00e0m r\u0103ng m\u00ecnh c\u1eafn v\u00e0o l\u01b0\u1ee1i \u2014 v\u1ecb m\u00e1u \u2014 nh\u01b0ng kh\u00f4ng c\u00f3 l\u01b0\u1ee1i. Kh\u00f4ng c\u00f3 m\u00e1u. Ch\u1ec9 c\u00f3 t\u00edn hi\u1ec7u th\u1ea7n kinh b\u00e1o r\u1eb1ng c\u01a1 th\u1ec3 th\u1eadt \u0111ang t\u1ef1 h\u1ee7y ho\u1ea1i m\u00ecnh."
+  ],
+  "ai_patterns_detected": [
+    "Symmetrical emotional structure: Lan's farewell speech is too perfectly composed, hitting exactly the right beats in exactly the right order (acknowledgment \u2192 acceptance \u2192 request \u2192 closure). Real dying people are messier.",
+    "The 'single loaded word on its own line' pattern (Tr\u1eafng. \u0110au. Nh\u1edb.) appears multiple times with identical effect \u2014 becomes a tic rather than a choice.",
+    "Emotional explanations appended to images that were already working ('Nh\u01b0 ng\u01b0\u1eddi th\u1eadt', 'Th\u1eadt h\u01a1n b\u1ea5t c\u1ee9 th\u1ee9 g\u00ec'). The AI habit of not trusting the image to do the work.",
+    "The plan explanation scene follows a clean question-answer structure that feels more like a briefing than a desperate conversation between a dying man and a dissolving consciousness."
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "plants_seeded",
+  "top_3_revisions": [
+    "Cut Lan's 'b\u00f3ng t\u1ed1i' speech entirely and replace with a physical moment \u2014 her render glitching in a way that conveys the same sentiment without words. Maybe she reaches for him and her hand passes through, or she tries to say something and the words come out as nhi\u1ec5u. The voice profile demands body-before-emotion; honor it at the climax.",
+    "Restructure the middle section: have C\u01b0\u1eddng begin the buffer overload BEFORE explaining the plan. Show him deteriorating as he works \u2014 fragmented thoughts, lost threads, pain interrupting. The reader should feel the cost of every second he spends executing. The calm lecture to Lan undermines the urgency.",
+    "Make the accounting discovery harder and more specific. Instead of a sudden insight, show him reading the logs and failing to find a way out, then noticing the transaction count almost by accident \u2014 a number his accountant brain can't ignore. The insight should feel like a last resort born from desperation, not a clever solution that appears on demand."
+  ],
+  "new_canon_entries": [
+    "C\u01b0\u1eddng's Neural Mantle port reaches 41\u00b0C during overload (normal: 38\u00b0C)",
+    "Buffer overflow at 100% triggers emergency port opening in Hemera's system",
+    "Lan's consciousness was definitively deleted in the server wipe",
+    "C\u01b0\u1eddng's brain damage reached approximately 95.1% before consciousness loss",
+    "Lan's physical body (gi\u01b0\u1eddng s\u1ed1 4, t\u1ea7ng B3, St. Vincent) continues at 8 nh\u1ecbp/ph\u00fat after consciousness deletion",
+    "C\u01b0\u1eddng's final action: DELETE command wiping the entire Haymarket server",
+    "The 47.3 Hz frequency persists in C\u01b0\u1eddng's consciousness even after Lan's deletion \u2014 suggesting it has become part of his neural architecture rather than an external signal"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 21.41,
+    "sentence_length_cv": 0.882,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi"
+  },
+  "raw_judge_score": 7
+}
