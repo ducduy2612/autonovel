@@ -438,3 +438,12 @@
 - Liên đã gửi dữ liệu cho nhà báo hôm qua (theo lời cô nói với Khoa). Bài báo dự định ra tuần sau. (ch_15)
 - Khoa xác nhận với Liên rằng chị cô đang mờ (nói 'Đúng' khi Liên hỏi). (ch_15)
 - Hoa dặm đêm nay Khoa ngửi thấy mùi cà phê rang cháy — đắng hơn, khét nhẹ — khác với mùi cà phê quen thuộc anh thường ngửi. (ch_15)
+
+
+## From Chapter 16
+- Cụ Ba biết Khoa đi vào rừng phi lao vì ai đó thấy — nguồn tin cụ thể chưa xác định trong chương. (ch_16)
+- Hội Đồng tịch thu sổ chính của Khoa (sổ da nâu ghi 46 người), toàn bộ bút, giấy, phong bì dưới chiếu — không chỉ cấm ghi mà triệt tiêu công cụ. (ch_16)
+- Khoa bị giam trong nhà số 17 — then cài bên ngoài, hai người canh. Khác với 'cấm rời nhà' cho Luyện (Ch 14). (ch_16)
+- Nhóm 12 người chia: Thầy Tuấn và 3 người đi Hội Đồng xin lỗi; cô Năm Thảo và ~7 người đứng lại không đi xin lỗi. (ch_16)
+- Luyện đến cửa sổ nhà Khoa chiều cùng ngày — nói 'Tui cũng không đợi nữa' — setup cho hành động tiếp. (ch_16)
+- Khoa nhận thấy bóng mình trên tường mờ hơn hôm qua — lần đầu anh tự nhận mình đang mờ. (ch_16)
