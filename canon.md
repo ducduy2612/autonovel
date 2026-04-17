@@ -382,3 +382,12 @@
 - Chữ trong sổ Khoa về người đã tan biến mờ hơn chữ về người còn sống — mực nằm lơ lửng trên bề mặt giấy thay vì thấm sâu. (ch_09)
 - Hoa dặm quanh nhà người đã tan biến cũng chuyển sang xám nhạt (không chỉ người sắp tan biến). (ch_09)
 - Khoa ghi nhận quy luật: đảo teo theo số người (47→46), nhàstanding teo theo (20→19), luống vườn teo theo (7→6). (ch_09)
+
+
+## From Chapter 10
+- Khoa nhìn thấy hình ảnh người thân trên đất liền trong nước giếng — bà già ăn cơm, người đàn ông câu cá bờ kênh, thiếu nữ ngủ với ảnh gia đình trên tường. (ch_10)
+- Khoa thấy phản chiếu mình trong giếng — trẻ hơn (khoảng 28-30 thay vì 34), mờ hơn tay anh trên thành giếng, tay trái không run. (ch_10)
+- Chị Tư hỏi trực tiếp Khoa tại sao sổ anh khác sổ chị — 'Sổ tui, chữ mờ. Sổ anh, chữ còn nguyên. Khác nhau ở đâu?' — Khoa nói 'Không biết' (lời nói dối). (ch_10)
+- Cụ Ba cảnh báo Khoa: 'Anh đừng nhìn giếng nhiều. Nước nhìn lại.' — nói lúc cụ ngồi sân nhà Hội Đồng hút thuốc lào, không nhìn Khoa. (ch_10)
+- Khoa nhớ cha mình lần đầu tiên trong hai năm — khi thấy Cụ Ba giữ khói thuốc lào giống cách cha anh giữ tách cà phê không uống ở Berlin. (ch_10)
+- Chị Tư thấy mẹ thím Hai trong giếng — 'Bảy mươi năm rồi. Bà còn sống. Bà còn ăn cơm.' — phản chiếu đặc (rõ nét), nghĩa là thím Hai còn được nhớ kỹ. (ch_10)
