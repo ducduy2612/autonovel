@@ -349,3 +349,11 @@
 - Khoa ngồi ghế tre sát cột hiên nhà Phương mỗi chiều — thói quen hình thành tự nhiên từ gần ba tháng nay. (ch_05)
 - Hoa dặm gần cửa nhà Phương đã bắt đầu chuyển sang xám nhạt. (ch_05)
 - Phương rút tay lại khi Khoa nắm tay cô — phản ứng 'nhanh, dứt khoát, như người vừa chạm vào than nóng.' (ch_05)
+
+
+## From Chapter 6
+- Khoa đã chính thức đề xuất xuất bản nghiên cứu trước Hội Đồng, đọc to 17 tên người tan biến trong 2.5 năm. (ch_06)
+- Cụ Ba kể công khai sự cố liên lạc ngoài cho Khoa và Hội Đồng — người đó bị coi ma quỷ, 17 người tan biến trong một mùa. (ch_06)
+- Hội Đồng biểu quyết: cấm xuất bản, cấm liên lạc ngoài, tịch thu vô tuyến trong 48 giờ. (ch_06)
+- Vài người trẻ (khoảng 4-5 người) đứng ngoài nhà Hội Đồng trong lúc họp, nhìn Khoa khi anh bước ra. (ch_06)
+- Khoa nhận ra hai người trong nhóm trẻ: người chết đuối 1978 và người chết 1980. (ch_06)
