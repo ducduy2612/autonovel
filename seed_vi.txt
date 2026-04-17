@@ -1,15 +1,13 @@
-ĐIỂM CHẠM CỦA KẺ ĐIÊN (Tone giọng: Cyber-Mythic - Hồi hộp Tâm lý)
-**HOOK:** Những người tình của Cường ở Việt Nam không phải con người. Họ là những đoạn mã ý thức lâm thời của những người phụ nữ bị hôn mê ở các bệnh viện tại Úc, truyền dữ liệu qua hệ thống "Áo choàng thần kinh" mà Cường đã đánh cắp để chạy trốn khỏi thực tại. 
+ĐẢO CỦA NHỮNG NGƯỜI MỚI CHẾT
 
-**SỰ KHÁC BIỆT:** Biến những cuộc tình trải dài khắp nơi thành một hình thức "thực tế ảo chạm". Cường sống tại Sydney nhưng chuyển ý thức (soul-catching) về Việt Nam. Những "người tình" quyến rũ, bầu ngực căng tràn, những tiếng rên rỉ nóng bỏng chỉ là ảo ảnh do máy móc tạo ra. Sự ma mị và nhục dục bị lồng ghép vào sự hiểu lầm về công nghệ. 
+**HOOK:** *Cảnh sát biên giới phát hiện hòn đảo không có trên bản đồ, dân trên đó nói tiếng Việt nhưng bằng từ vựng ba trăm năm trước — họ là những người chết đuối trên biển, được hồi sinh bằng ký ức của người thân, nhưng chỉ tồn tại được bao lâu người ta còn nhớ mình.*
 
-**THẾ GIỚI:** Những hầm trú ẩn dưới các tòa nhà chọc trời tại Sydney, bốc mùi thuốc sát trùng và ozon, đối lập với những phòng trọ ảo hoàn hảo ở Việt Nam (thơ mộng, rêu phong) được render lại bằng trí nhớ não bộ của Cường. 
+**HOW IT DIFFERS:** Thay đổi hoàn toàn — từ bối cảnh trường học sang một hòn đảo huyền bí giữa biển Đông. Không phải một người bị quên mà là cả một cộng đồng. Mở rộng quy mô từ cá nhân sang thế giới, từ thời hiện tại sang một nền văn minh song song đang dần tan biến.
 
-**PHÉP THUẬT / CHI PHÍ:** "Mộng Du Xác Ảo". Cường không cần đến gần họ để chạm. Anh dùng tín hiệu thần kinh để cảm nhận rõ ràng từng cái chạm mơn trớn trên da, từng cái siết chặt nóng rực từ người tình. Nhưng chi phí là sự "Rã kết nối": Mỗi lần đổ bộ vào thế giới ảo, ký ức thật của anh bị phân mảnh — khuôn mặt bạn bè, tên đường quen, mùi hương tuổi thơ đều dần tan biến. Anh đánh đổi toàn bộ quá khứ thật để giữ lấy một hiện tại giả tưởng hoàn hảo. 
+**WORLD:** Đảo giữa biển Đông, khí hậu nhiệt đới gió mùa, cây cỏ xanh quanh năm nhưng có điều kỳ lạ: hoa nở theo chu kỳ bảy ngày — nở rồi tàn, rồi nở lại, như nhịp thở. Dân trên đảo mặc áo bà ba, nói giọng Nghệ An nhưng xen lẫn từ cổ. Họ sống trong những căn nhà tranh mái lá dừa, ăn cá nướng trui, uống rượu cần. Hôn một người trên đảo nghe mùi muối biển và khói bếp lò.
 
-**CĂNG THẲNG:** Một "người tình ảo" bắt đầu có ý thức riêng, nhận ra mình đang bị thao túng và thoát ra khỏi hệ thống để quay sang ám ảnh Cường ở thế giới thực. Tình dục hoang dã, ám ảnh, kịch tính bỗng chuyển thành sự săn lùng đầy tính phản kháng của kẻ bị phó thác.
+**MAGIC/COST:** Mỗi người trên đảo từng chết đuối. Họ hồi sinh khi người thân trên đất liền nhớ đến họ và khóc. Họ tồn tại như hình hài được cấu tạo từ ký ức. Nhưng mỗi thế hệ mới sinh ra trên đất liền ít biết về người đã khuất hơn — và mỗi lần ai đó trên đất liền quên hẳn một người, người đó trên đảo tan biến như muối trong nước. Đảo đang teo dần. Cách duy nhất để tồn tại: khiến người trên đất liền nhớ mình. Nhưng luật đảo cấm liên lạc với thế giới bên ngoài.
 
-**CHỦ ĐỀ:** *Sự cô đơn tột cùng của thời đại. Ham muốn vô tận về một nhục dục hoàn hảo sẽ dẫn đến sự phủ nhận cả sinh học của chính mình.*
+**TENSION:** Một nhà nghiên cứu gây chú ý chính phủ nước ngoài. Phát hiện hòn đảo. Muốn công bố — đưa lên truyền thông để hàng triệu người biết đến đảo, nhớ đến những người đã khuất, cứu họ khỏi biến mất. Nhưng chính phủ biết = quân sự biết = đế quốc biết. Đảo có thể bị chiếm, khai thác, biến thành bảo tàng. Biết = giết chết sự riêng tư. Không biết = giết chết sự tồn tại.
 
-**RÀNG BUỘC NGHIÊM NGẶT (STRICT CONSTRAINTS):**
-- KHÔNG BAO GIỜ nhắc đến mẹ, cha (bố), hoặc chị của nhân vật chính — không xuất hiện trong hội thoại, hồi tưởng, ký ức, hay bất kỳ hình thức nào.
+**THEME:** Người đã khuất thuộc về ai? Ký ức là sự cứu rỗi hay là xiềng xích?
