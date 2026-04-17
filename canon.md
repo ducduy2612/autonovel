@@ -28,7 +28,7 @@
 
 **Cù Lao Chàm** — Quần đảo ngoài khơi Quảng Nam. Ngư dân nơi đây thỉnh thoảng bắt gặp "bóng thuyền" — hình ảnh mờ nhạt của thuyền buồm cũ. Không ai liên hệ với Bãi Chờ. (world.md)
 
-**Vũng Rổ** — Vịnh nhỏ ở Phú Yên, nơi nhiều tàu cá neo đậu, cũng là nơi Nguyễn Cảnh Khoa xuất phát. Ngư dân Vũng Rổ biết vùng biển Bãi Chờ là vùng "sóng lạ" — la bàn nhiễu, sóng đổi hướng bất thường — nên tránh. (world.md)
+**Vũng Rổ** — Vịnh nhỏ ở Phú Yên, nơi nhiều tàu cá neo đậu, cũng là nơi Nguyễn Minh Khoa xuất phát. Ngư dân Vũng Rổ biết vùng biển Bãi Chờ là vùng "sóng lạ" — la bàn nhiễu, sóng đổi hướng bất thường — nên tránh. (world.md)
 
 **Bãi Biển Tuy Hòa** — Bờ biển gần nhất. Du khách thỉnh thoảng chụp ảnh "bóng người trên sóng" — mờ nhạt, thoáng qua — coi là ảo ảnh. (world.md)
 
@@ -42,7 +42,7 @@
 - 1884–1945 (Thời Pháp thuộc): Lần đầu tiên dân số đảo giảm. (world.md)
 - 1954–1975 (Chiến tranh chia cắt): Bãi Chờ nhận đợt người mới lớn nhưng cũng mất người cũ hàng loạt. Dân số giảm một nửa. (world.md)
 - 1990–nay: Ít người mới đến. Đảo teo nhanh. Hiện nay chỉ còn khoảng 47 người. (world.md)
-- Ba năm trước (~2012): Nguyễn Cảnh Khoa phát hiện Bãi Chờ. (world.md)
+- Ba năm trước (~2012): Nguyễn Minh Khoa phát hiện Bãi Chờ. (world.md)
 - Hai năm rưỡi trước: Hội Đồng quyết định cho Khoa ở lại tạm thời, không cho quay về đất liền. (world.md)
 - Một năm trước: Khoa đề xuất xuất bản nghiên cứu. Hội Đồng cấm. Khoa không chịu. (world.md)
 - Hiện tại (~2015): Khoa vẫn ở trên đảo, bí mật liên lạc với đồng nghiệp ngoài đất liền qua máy vô tuyến. Công ty dầu khí nước ngoài đang xin phép thăm dò. Quân sự hai nước cũng để ý. (world.md)
@@ -108,7 +108,7 @@
 
 ## Nhân Vật — Sự Thực Cụ Thể
 
-### Nguyễn Cảnh Khoa
+### Nguyễn Minh Khoa
 
 - 34 tuổi. (characters.md)
 - Người Việt gốc Đức. Nhà nghiên cứu pháp yếu học. (world.md, characters.md)
@@ -306,18 +306,9 @@
 
 *Cơ sở dữ liệu này compiled từ seed.txt, world.md, và characters.md. Mỗi sự thật đều truy nguyên được nguồn. Mâu thuẫn nội bộ về thời gian Cụ Ba đã giải quyết: cụ chết 1954, ở đảo ≈61 năm, thấy hơn trăm người tan biến trong sáu thập kỷ — nhất quán với mọi chi tiết khác. Ký ức gián tiếp và bất thường từ trường đã thêm như hiện tượng chưa giải thích, gắn ngoại угроз với hệ thống phép thuật.*
 
-
 ## From Chapter 1
 - Nhà Khoa nằm ở vị trí số 17 trong sơ đồ ngôi làng. (ch_01)
 - Nhà 21 vẫn còn người ở vào tháng trước, nhưng nay người đó đã tan biến. Trên giường vẫn để lại quần áo được gấp gọn. (ch_01)
 - Chữ viết trong cuốn sổ của chị Tư Hồng mờ dần từ cuối từ lùi về trước (ví dụ: từ 'Năm' sẽ mất 'ăm' trước khi mất 'N'). (ch_01)
 - Khoa cố gắng lưu giữ những ghi chép đang mờ nhạt bằng cách viết đè lên chúng bằng chính nét chữ rõ ràng của mình. (ch_01)
 - Hàng ngày, thím Hai giặt quần áo ở con suối gần Giếng Làng. (ch_01)
-
-
-## From Chapter 2
-- Khoa liếm môi liên tục khi sinh — phản xạ tìm nước mặn, không phải bầu ngực. (ch_02)
-- Bờ sông Rhein nơi mẹ chết: đá lát, rêu xám, đất đen bùn, đất đóng băng nông bên trên bùn mềm. (ch_02)
-- Phản chiếu của Khoa trong Giếng Làng đang mờ — không rõ nguyên nhân — bất thường vì anh là người sống. (ch_02)
-- Khoa thấy một bóng mờ phía sau mình trong phản chiếu giếng, nhưng quay lại thì không có ai. (ch_02)
-- Phương dùng gàu nhựa cũ của nhà số 19 (người trước tan biến để lại). (ch_02)

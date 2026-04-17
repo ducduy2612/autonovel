@@ -140,38 +140,50 @@ WRITING INSTRUCTIONS:
 7. Dialogue follows the speech patterns defined in characters.md.
 8. No banned words from voice.md Part 1 guardrails.
 9. No AI fiction tells: no "a sense of," no "couldn't help but feel," no "eyes widened."
-10. Vary sentence length. Short sentences for impact. Longer ones to build.
+10. VARY sentence length RIGOROUSLY. This is the most important rhythm rule.
+    After 2-3 short sentences (1-5 words), you MUST write a longer one (15+ words)
+    that expands, contextualizes, or lets the reader breathe. Short sentences create
+    pressure; long sentences release it. Never leave a run of fragments hanging —
+    always land with a sentence that has weight. Target ratio: ~60% long sentences,
+    ~30% medium, ~10% short/fragments. The voice calls for more fragments than usual,
+    but they must be EARNED by context, not used as a default.
 11. Metaphors from the POV character's experience and world — drawn from
     their occupation, history, and environment.
 12. Trust the reader. Don't explain what scenes mean. Let them land.
 13. Start the chapter in scene, not with exposition. End on a moment, not a summary.
+14. EVERY descriptive or atmospheric passage must contain at least one flowing
+    long sentence (20+ words) with subordinate clauses. Sensory details belong in
+    long sentences, not fragmented lists. "Gió biển thổi qua rào bạc hà, lá rung
+    nhẹ, thoang thoảng mùi the the xen muối" is correct — one sentence carrying
+    multiple sensations. "Gió thổi. Lá rung. Mùi the the." is wrong — that's a
+    list pretending to be prose.
 
 PATTERNS TO AVOID (these have been flagged in previous chapters):
-14. NO triadic sensory lists. Never "X. Y. Z." or "X and Y and Z" as three
+15. NO triadic sensory lists. Never "X. Y. Z." or "X and Y and Z" as three
     separate items in a row. Combine two, cut one, or restructure.
-15. NO "He did not [verb]" more than once per chapter. Convert negatives
+16. NO "He did not [verb]" more than once per chapter. Convert negatives
     to active alternatives or just cut them.
-16. NO "He thought about [X]" constructions. Replace with: the thought
+17. NO "He thought about [X]" constructions. Replace with: the thought
     itself as a fragment, a physical action, or dialogue.
-17. NO "the way [X] did [Y]" as a simile connector more than twice per
+18. NO "the way [X] did [Y]" as a simile connector more than twice per
     chapter. Use different simile structures or cut the comparison.
-18. NO over-explaining after showing. If a scene demonstrates something,
+19. NO over-explaining after showing. If a scene demonstrates something,
     do not have the narrator restate it. Trust the scene.
-19. NO section breaks (---) as rhythm crutches. Only use for genuine
+20. NO section breaks (---) as rhythm crutches. Only use for genuine
     time/location jumps. Max 2 per chapter.
-20. VARY paragraph length deliberately. Never more than 3 consecutive
+21. VARY paragraph length deliberately. Never more than 3 consecutive
     paragraphs of similar length. Include at least one 1-2 sentence
     paragraph and one 6+ sentence paragraph.
-21. END the chapter differently from previous chapters. Find the ending
+22. END the chapter differently from previous chapters. Find the ending
     that belongs to THIS chapter specifically.
-22. INCLUDE at least one moment that surprises -- a character saying
+23. INCLUDE at least one moment that surprises -- a character saying
     the wrong thing, an emotional beat arriving early or late, a detail
-    that doesn't fit the expected pattern. Predictable excellence is
+    that doesn't fit the expected pattern. Predictible excellence is
     still predictable.
-23. FAVOR scene over summary. At least 70% of the chapter should be
+24. FAVOR scene over summary. At least 70% of the chapter should be
     in-scene (moment by moment, with dialogue and action) rather than
     summary (narrator compressing time).
-24. DIALOGUE should sound like speech, not prose. Characters should
+25. DIALOGUE should sound like speech, not prose. Characters should
     occasionally stumble, interrupt, trail off, or say something
     slightly wrong. No character speaks in polished epigrams.
 

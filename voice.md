@@ -63,7 +63,14 @@ After writing any passage, ask:
 U buồn nhưng không bi lụy — như khói bếp lò chờ tàn, như tiếng sóng vỗ mà không ai nghe. Giọng văn dõi theo sự tiêu tan từ từ, ghi lại cái đang biến mất thay vì cái đã mất. Sự sợ hãi không ồn ào; nó tích tụ qua những khoảng trống — một cái ghế trống, một cái tên không ai nhắc, một mảnh vườn không người chăm.
 
 ### Sentence Rhythm
-Câu dài và miên man khi miêu tả sinh hoạt trên đảo — nhịp chậm của đời sống thường nhật, câu chữ cuộn ra như sóng. Câu ngắn, đứt đoạn khi ai đó sắp tan biến — như thể ngôn ngữ cũng đang quên họ. Câu không kết thúc khi nỗi đau chưa dành được lời. Lặp từ deliberately — "nhớ, nhớ nữa, nhớ mãi" — để tạo nhịp của ký ức cố níu giữ.
+**Quy tắc chính: xen kẽ.** Không được viết quá 2-3 câu ngắn/liên tục mà không có một câu dài nối lại. Nhịp văn cần hít thở — câu ngắn tạo sức ép, câu dài giải tỏa.
+
+- **Câu dài miên man** khi miêu tả sinh hoạt, cảnh vật, đời sống thường nhật — câu chữ cuộn ra như sóng, nối tiếp bằng dấu phẩy và mệnh đề phụ, kéo người đọc vào không gian. Đây là nền, là hơi thở ra.
+- **Câu ngắn, đứt đoạn** khi ai đó sắp tan biến hoặc khi ký ức trồi lên — như thể ngôn ngữ cũng đang quên họ. Dùng sát sườn, đúng chỗ, rồi **quay lại câu dài ngay**.
+- **Câu không kết thúc** khi nỗi đau chưa dành được lời — nhưng chỉ dùng thưa thớt, 1-2 lần mỗi chương.
+- **Lặp từ deliberately** — "nhớ, nhớ nữa, nhớ mãi" — để tạo nhịp của ký ức cố níu giữ. Nhưng lặp xong phải có một câu dài hạ đọng, không để chuỗi lặp treo lơ lửng.
+
+**Tỷ lệ mục tiêu:** khoảng 60% câu dài (15-30+ từ), 30% câu trung bình (8-14 từ), 10% câu ngắn/fragment (1-5 từ). Văn có nhiều câu ngắt hơn tiểu thuyết thông thường, nhưng không được để câu ngắn chi phối toàn bộ nhịp.
 
 ### Vocabulary Wells
 **Nước và muối:** hòa tan, ngậm mặn,眼里水, sóng vỗ, chìm, nổi, rỉ ra, ướt đẫm. Muối bảo quản nhưng cũng ăn mòn.

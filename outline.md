@@ -65,7 +65,7 @@ Khoa hiểu toàn bộ. Phải chọn: giữ hay thả. Cái giá cuối cùng.
 
 ### Ch 1: Sáu Luống
 
-- **POV:** Nguyễn Cảnh Khoa (third-person limited)
+- **POV:** Nguyễn Minh Khoa (third-person limited)
 - **Location:** Vườn Bà Năm, Làng Giữa, bờ biển Bãi Đón
 - **Save the Cat beat:** Opening Image
 - **% mark:** 0-4%
