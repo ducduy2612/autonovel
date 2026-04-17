@@ -1,0 +1,106 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "Khoa ng\u1ed3i tr\u00ean M\u0169i Ch\u1edd v\u1edbi m\u00e1y v\u00f4 tuy\u1ebfn \u0111\u00e3 t\u1eaft tr\u00ean tay, \u0103ng-ten cu\u1ed9n, n\u1eafp \u0111\u00f3ng, im l\u1eb7ng trong l\u00f2ng b\u00e0n tay anh nh\u01b0 th\u1ee9 g\u00ec \u0111\u00f3 v\u1eeba ch\u1ebft.",
+    "fix": "Replace generic comparison with specific sensory detail: 'Khoa ng\u1ed3i tr\u00ean M\u0169i Ch\u1edd v\u1edbi m\u00e1y v\u00f4 tuy\u1ebfn \u0111\u00e3 t\u1eaft tr\u00ean tay, \u0103ng-ten cu\u1ed9n, n\u1eafp \u0111\u00f3ng, nh\u1ef1a \u1ea5m h\u1edd h\u1ee3t trong l\u00f2ng b\u00e0n tay \u2014 th\u1ee9 \u0111\u00e3 h\u1ebft n\u00f3i, c\u00f2n h\u01a1i ng\u01b0\u1eddi cu\u1ed1i c\u00f9ng n\u00f3 ch\u1edf.'",
+    "note": "The chapter mostly nails the long-flowing sentence rhythm and vocabulary wells. Body-before-emotion works well (tay tr\u00e1i run, l\u1ed3ng ng\u1ef1c th\u1eaft). But several metaphors veer toward generic fantasy ('nh\u01b0 th\u1ee9 g\u00ec \u0111\u00f3 v\u1eeba ch\u1ebft,' 'nh\u01b0 v\u1ebft th\u01b0\u01a1ng r\u1ec9 m\u00e1u') when the voice calls for specificity. The hoa d\u1eb7m = coffee moment is the chapter's strongest voice beat \u2014 it earns its strangeness."
+  },
+  "beat_coverage": {
+    "score": 8,
+    "weakest_moment": "Beat 3 (Khoa nh\u00ecn ra bi\u1ec3n, thinks 'im l\u1eb7ng c\u1ee9u ai?') is dramatized but somewhat buried in a long reflective paragraph that repeats information the reader already knows about Ph\u01b0\u01a1ng's fading.",
+    "fix": "Cut the step-by-step Ph\u01b0\u01a1ng exposition ('Tu\u1ea7n sau tay ph\u1ea3i b\u1eaft \u0111\u1ea7u m\u1edd. Th\u00e1ng sau t\u1eeb c\u1ed5 tr\u1edf xu\u1ed1ng trong su\u1ed1t...') and instead anchor Khoa's realization in one concrete image \u2014 maybe he looks toward her house and sees the kitchen fire is out tonight.",
+    "note": "All five beats hit and mostly dramatized through scene work. The radio conversation is effective real-time dialogue. Li\u00ean's sister question lands with genuine weight. The hoa d\u1eb7m close is well-placed. Only the mid-chapter reflection bloats slightly."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "Li\u00ean's emotional break ('anh kh\u00f4ng bi\u1ebft tui s\u1ed1ng ba m\u01b0\u01a1i t\u00e1m n\u0103m v\u1edbi c\u1ea3m gi\u00e1c tay ch\u1ecb tr\u01b0\u1ee3t kh\u1ecfi tay tui, ng\u00f3n n\u00e0y\u2014') recovers too quickly into 'Gi\u1ecdng Li\u00ean \u0111\u1ed5i, nhanh b\u1ea5t ng\u1edd, nh\u01b0 n\u01b0\u1edbc v\u1ee1 b\u1edd' \u2014 the narration over-directs the emotion rather than letting the dialogue carry it.",
+    "fix": "Cut the narrator explanation after 'ng\u00f3n n\u00e0y\u2014'. Let the silence and Li\u00ean's flattened recovery ('Hai tu\u1ea7n. G\u1eedi \u1ea3nh. Ghi r\u00f5. Tui \u0111\u1ee3i.') speak for itself. The flatness after rupture is powerful; the narrator explaining it deflates the moment.",
+    "note": "Li\u00ean and Khoa sound distinct \u2014 her Southern 'tui,' his Northern 't\u00f4i,' her rush vs. his measured evasion. Khoa's lie about not checking the full list is a good character-specific moment. But neither character says anything truly surprising or 'wrong' in a way that feels like real speech."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "The Meridian exposition arrives in a dense info-dump through Li\u00ean's dialogue: 'Kh\u1ea3o s\u00e1t \u0111\u1ecba ch\u1ea5n ph\u00e1t hi\u1ec7n b\u1ea5t th\u01b0\u1eddng t\u1eeb tr\u01b0\u1eddng \u2014 ngay tr\u00ean t\u1ecda \u0111\u1ed9 B\u00e3i Ch\u1edd, Khoa \u01a1i. H\u1ecd ngh\u0129 l\u00e0 m\u1ecf kh\u00ed.' This is necessary information but feels like the author feeding the reader through Li\u00ean's mouth.",
+    "fix": "Break the exposition across the conversation. Let Li\u00ean lead with urgency ('Meridian xin gi\u1ea5y ph\u00e9p th\u0103m d\u00f2'), then Khoa asks a question that lets her explain naturally, rather than one long speech.",
+    "note": "The hoa d\u1eb7m smell = coffee is beautifully planted \u2014 feels like discovery, not authorial insertion. Li\u00ean's sister question is seeded through her earlier urgency and lands with accumulated weight. The t\u1eeb tr\u01b0\u1eddng connecting magic to detectable physics is elegant worldbuilding integration."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "Khoa nghe m\u00e0 kh\u00f4ng nh\u00fac nh\u00edch. Tr\u00ean \u0111\u00f9i, ng\u00f3n tay tr\u00e1i v\u1eabn run, \u0111\u1ec1u \u0111\u1ec1u, nh\u01b0 nh\u1ecbp \u0111\u1ed3ng h\u1ed3 \u0111\u1ebfm ng\u01b0\u1ee3c m\u00e0 ch\u1ec9 anh nghe th\u1ea5y.",
+    "fix": "'nh\u01b0 nh\u1ecbp \u0111\u1ed3ng h\u1ed3 \u0111\u1ebfm ng\u01b0\u1ee3c' is generic thriller language. Replace with something from Khoa's experience: 'Tr\u00ean \u0111\u00f9i, ng\u00f3n tay tr\u00e1i v\u1eabn run, \u0111\u1ec1u \u0111\u1ec1u, nh\u01b0 n\u01b0\u1edbc nh\u1ecf t\u1eeb v\u00f2i kh\u00f4ng kh\u00f3a h\u1eb3n \u2014 t\u1eebng gi\u1ecdt m\u1ed9t, kh\u00f4ng ai nghe ngo\u1ea1i tr\u1eeb ng\u01b0\u1eddi \u0111\u1ee9ng c\u1ea1nh.'",
+    "strongest_sentence": "Hoa d\u1eb7m n\u1edf tr\u1eafng quanh anh, c\u00e1nh rung nh\u1eb9 trong gi\u00f3, v\u00e0 Khoa ng\u1eedi c\u00e0 ph\u00ea n\u01a1i ch\u1ec9 c\u00f3 mu\u1ed1i.",
+    "note": "Good sentence variety overall. The opening paragraph's physical detail (\u0111\u00e1 san h\u00f4 x\u00f9 x\u00ec, r\u00eau m\u1eb7n b\u00e1m \u0111\u1ebf d\u00e9p) grounds the scene. Repeated 'R\u00e8 r\u00e8' works as leitmotif but appears one too many times. Several metaphors are strong and specific (ch\u1eef m\u1edd t\u1eeb cu\u1ed1i t\u1eeb l\u00f9i v\u1ec1 tr\u01b0\u1edbc); several are generic ('nh\u01b0 n\u01b0\u1edbc v\u1ee1 b\u1edd,' 'nh\u01b0 v\u1ebft th\u01b0\u01a1ng r\u1ec9 m\u00e1u'). The chapter would improve by cutting ~300 words of reflective repetition."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Emotional continuity from Ch.3 is strong \u2014 Khoa carries the weight of learning his mother isn't in the registry, and his evasiveness about Li\u00ean's sister reads differently now that we know he's already confronted that absence. The s\u1ed5 da n\u00e2u, Ch\u1ecb T\u01b0's fading writing, and C\u1ee5 Ba not looking at the well are all carried forward organically. The final image of Khoa on M\u0169i Ch\u1edd parallels C\u1ee5 Ba's habit of sitting there, creating unspoken resonance."
+  },
+  "canon_compliance": {
+    "score": 9,
+    "violations": [],
+    "note": "All hard facts check out: Li\u00ean 38, sister died 1990 when Li\u00ean was 13, Khoa's mother died 1985 on Rhein, 47 people on island, Ph\u01b0\u01a1ng's left hand like mist, Alzheimer m\u1eb9, hoa d\u1eb7m smells like coffee for Khoa, H\u1ed9i \u0110\u1ed3ng c\u1ea5m li\u00ean l\u1ea1c, Meridian timeframe, 48-hour military response. The 'b\u1ea5t th\u01b0\u1eddng t\u1eeb tr\u01b0\u1eddng' connects cleanly to established lore. No violations found."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "The passage explaining how from tr\u01b0\u1eddng works \u2014 'H\u00e0ng tr\u0103m n\u0103m k\u00fd \u1ee9c c\u00f4 \u0111\u1eb7c, h\u00e0ng tr\u0103m ng\u01b0\u1eddi c\u1ea5u t\u1ea1o t\u1eeb n\u01b0\u1edbc m\u1eaft v\u00e0 n\u1ed7i nh\u1edb, ph\u00e1t ra t\u00edn hi\u1ec7u v\u1eadt l\u00fd nh\u01b0 v\u1ebft th\u01b0\u01a1ng r\u1ec9 m\u00e1u' \u2014 is beautiful but reads as Khoa narrating the thesis to the reader rather than thinking it in character.",
+    "fix": "Anchor this realization in something Khoa is physically doing or seeing \u2014 maybe he looks down at the radio and notices the static increases when he holds it over the worn stone, making the connection visceral rather than theoretical.",
+    "note": "The lore does genuine work here: the island's magical nature creates the very signal that threatens discovery. This is excellent \u2014 stakes emerge from worldbuilding, not despite it. The radio needing M\u0169i Ch\u1edd's height for signal connects geography to action. Hoa d\u1eb7m's personalized scent reinforces the magic system's emotional logic."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The long mid-ch paragraph beginning 'Khoa bu\u00f4ng n\u00fat n\u00f3i. Nghe gi\u00f3. Nghe s\u00f3ng...' through 'Im l\u1eb7ng c\u1ee9u ai?' stalls momentum. The reader already understands the dilemma; this passage explains what's been effectively shown.",
+    "fix": "Cut this reflection by half. Trust the reader to grasp the silence-vs-action tension from the Meridian revelation and Li\u00ean's urgency. Land on 'Im l\u1eb7ng c\u1ee9u ai?' sooner and harder.",
+    "note": "The Li\u00ean-sister question is the chapter's strongest hook \u2014 it personalizes the geopolitical stakes. Li\u00ean's voice breaking on 'ng\u00f3n n\u00e0y\u2014' is genuinely surprising and earns its emotion. The ending image (c\u00e0 ph\u00ea n\u01a1i ch\u1ec9 c\u00f3 mu\u1ed1i) lingers. But the chapter's middle sags with reflection that reiterates rather than deepens."
+  },
+  "three_weakest_sentences": [
+    "Khoa nghe m\u00e0 kh\u00f4ng nh\u00fac nh\u00edch. Tr\u00ean \u0111\u00f9i, ng\u00f3n tay tr\u00e1i v\u1eabn run, \u0111\u1ec1u \u0111\u1ec1u, nh\u01b0 nh\u1ecbp \u0111\u1ed3ng h\u1ed3 \u0111\u1ebfm ng\u01b0\u1ee3c m\u00e0 ch\u1ec9 anh nghe th\u1ea5y.",
+    "Khoa ng\u1ed3i tr\u00ean M\u0169i Ch\u1edd v\u1edbi m\u00e1y v\u00f4 tuy\u1ebfn \u0111\u00e3 t\u1eaft tr\u00ean tay, \u0103ng-ten cu\u1ed9n, n\u1eafp \u0111\u00f3ng, im l\u1eb7ng trong l\u00f2ng b\u00e0n tay anh nh\u01b0 th\u1ee9 g\u00ec \u0111\u00f3 v\u1eeba ch\u1ebft.",
+    "Gi\u1ecdng Li\u00ean \u0111\u1ed5i s\u1eafc khi c\u00f4 n\u00f3i ti\u1ebfp, ch\u1eadm h\u01a1n, nh\u1ecf h\u01a1n, kh\u00e1c h\u1eb3n gi\u1ecdng s\u00f4i n\u1ed5i ban n\u00e3y, nh\u01b0 ng\u01b0\u1eddi v\u1eeba \u0111\u1ed5 xong c\u01a1n gi\u00f3 v\u00e0 b\u00e2y gi\u1edd m\u1edbi d\u00e1m m\u1edf ng\u0103n k\u00e9o \u0111\u00e3 \u0111\u00f3ng m\u01b0\u1eddi n\u0103m."
+  ],
+  "three_strongest_sentences": [
+    "Hoa d\u1eb7m n\u1edf tr\u1eafng quanh anh, c\u00e1nh rung nh\u1eb9 trong gi\u00f3, v\u00e0 Khoa ng\u1eedi c\u00e0 ph\u00ea n\u01a1i ch\u1ec9 c\u00f3 mu\u1ed1i.",
+    "Nguy\u1ec5n Th\u1ecb Hu\u1ec7. Ch\u1ebft \u0111u\u1ed1i 1990. Bi\u1ec3n \u0110\u00f4ng. R\u1edbt t\u1eeb t\u00e0u. Ch\u1ecb nh\u1ea3y xu\u1ed1ng c\u1ee9u em. Li\u00ean m\u01b0\u1eddi ba. Ch\u1ecb hai m\u01b0\u01a1i. Ch\u1ecb ch\u00ecm. Li\u00ean s\u1ed1ng.",
+    "\u0110\u00e1 m\u00f2n l\u00f5m ch\u1ed7 ng\u01b0\u1eddi ng\u1ed3i. V\u1ec7t d\u00e0i, v\u1ebft m\u00f4ng, v\u1ebft l\u01b0ng, in h\u1eb1n v\u00e0o m\u1eb7t \u0111\u00e1 san h\u00f4 h\u00e0ng tr\u0103m n\u0103m, h\u00e0ng tr\u0103m ng\u01b0\u1eddi ng\u1ed3i \u0111\u00e2y nh\u00ecn ra bi\u1ec3n ch\u1edd l\u1ea7n cu\u1ed1i tr\u01b0\u1edbc khi m\u1edd \u0111i."
+  ],
+  "ai_patterns_detected": [
+    "Repeated paragraph structure: action \u2192 simile \u2192 emotional coda appears in 4+ paragraphs (Khoa hearing Li\u00ean, Khoa on the rock, Khoa reflecting, Khoa closing)",
+    "Over-directed emotional transitions: narrator frequently explains vocal changes ('gi\u1ecdng chuy\u1ec3n t\u1eeb gi\u1ee5c gi\u00e3 sang n\u00e0i n\u1ec9,' 'gi\u1ecdng s\u00e1ng l\u00ean b\u1ea5t ng\u1edd') rather than letting dialogue carry the shift",
+    "Three consecutive short phrases used as emotional punctuation ('R\u00e8 r\u00e8. R\u00e8 r\u00e8.') appears 3 times \u2014 effective once, pattern by third",
+    "Reflective paragraphs tend toward symmetry: present dilemma \u2192 past trauma \u2192 future consequence \u2192 unanswered question"
+  ],
+  "overall_score": 6.57,
+  "weakest_dimension": "prose_quality",
+  "top_3_revisions": [
+    "Cut ~300 words from mid-chapter reflection (the Ph\u01b0\u01a1ng fading exposition and the publishing dilemma). Trust the reader. Land 'Im l\u1eb7ng c\u1ee9u ai?' as a standalone short sentence after a single concrete image, not after a paragraph explaining the dilemma.",
+    "Replace 3 generic similes ('nh\u01b0 nh\u1ecbp \u0111\u1ed3ng h\u1ed3 \u0111\u1ebfm ng\u01b0\u1ee3c,' 'nh\u01b0 th\u1ee9 g\u00ec \u0111\u00f3 v\u1eeba ch\u1ebft,' 'nh\u01b0 n\u01b0\u1edbc v\u1ee1 b\u1edd') with comparisons drawn from Khoa's specific experience: research, Berlin, water, the island's physical details.",
+    "Let Li\u00ean's emotional break breathe. Cut the narrator explanation after 'ng\u00f3n n\u00e0y\u2014'. The flat recovery ('Hai tu\u1ea7n. G\u1eedi \u1ea3nh. Ghi r\u00f5. Tui \u0111\u1ee3i.') is powerful on its own \u2014 don't narrate that she's gone flat. Let the reader hear it."
+  ],
+  "new_canon_entries": [
+    "Khoa li\u00ean l\u1ea1c v\u1edbi Li\u00ean v\u00e0o ban \u0111\u00eam t\u1eeb M\u0169i Ch\u1edd, d\u00f9ng m\u00e1y v\u00f4 tuy\u1ebfn gi\u1ea5u d\u01b0\u1edbi \u00e1o b\u00e0 ba m\u01b0\u1ee3n c\u1ee7a th\u00edm Hai.",
+    "Meridian xin gi\u1ea5y ph\u00e9p th\u0103m d\u00f2 v\u00f9ng bi\u1ec3n quanh t\u1ecda \u0111\u1ed9 B\u00e3i Ch\u1edd; th\u1eddi gian \u01b0\u1edbc t\u00ednh ba \u0111\u1ebfn s\u00e1u th\u00e1ng tr\u01b0\u1edbc khi t\u00e0u kh\u1ea3o s\u00e1t \u0111\u1ebfn.",
+    "Li\u00ean c\u00f3 ng\u01b0\u1eddi trong b\u1ed9 b\u00e1o tr\u01b0\u1edbc v\u1ec1 gi\u1ea5y ph\u00e9p Meridian.",
+    "Khoa h\u1ee9a g\u1eedi \u1ea3nh cho Li\u00ean trong hai tu\u1ea7n.",
+    "Khoa n\u00f3i d\u1ed1i Li\u00ean v\u1ec1 vi\u1ec7c ch\u01b0a ki\u1ec3m tra h\u1ebft danh s\u00e1ch cho t\u00ean ch\u1ecb c\u00f4 \u2014 th\u1ef1c t\u1ebf anh \u0111\u00e3 ki\u1ec3m tra v\u00e0 kh\u00f4ng t\u00ecm th\u1ea5y Nguy\u1ec5n Th\u1ecb Hu\u1ec7.",
+    "Hoa d\u1eb7m tr\u00ean M\u0169i Ch\u1edd n\u1edf tr\u1eafng d\u01b0\u1edbi \u00e1nh sao, Khoa ng\u1eedi m\u00f9i c\u00e0 ph\u00ea rang xay \u2014 th\u1ee9 kh\u00f4ng thu\u1ed9c \u0111\u1ea3o.",
+    "Li\u00ean \u0111\u00e3 li\u00ean h\u1ec7 nh\u00e0 b\u00e1o (kh\u00f4ng n\u00f3i Khoa) \u2014 g\u1ee3i \u00fd qua c\u00e2u 'tui \u0111i xin nh\u00e0 xu\u1ea5t b\u1ea3n, \u0111i xin nh\u00e0 b\u00e1o' nh\u01b0ng ch\u01b0a x\u00e1c nh\u1eadn r\u00f5 trong ch\u01b0\u01a1ng n\u00e0y.",
+    "Li\u00ean k\u1ec3 Khoa v\u00e0 c\u00f4 t\u1eebng ng\u1ed3i ph\u00f2ng nghi\u00ean vi\u1ec7n Berlin u\u1ed1ng c\u00e0 ph\u00ea \u0111\u1eb7c \u0111en khi c\u00f4 k\u1ec3 v\u1ec1 ch\u1ecb v\u00e0 anh k\u1ec3 v\u1ec1 m\u1eb9 \u2014 tr\u01b0\u1edbc khi anh bi\u1ebft B\u00e3i Ch\u1edd t\u1ed3n t\u1ea1i."
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 16.42,
+    "sentence_length_cv": 1.075,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 0.43,
+    "language": "vi",
+    "vi_english_leaks": [],
+    "vi_translation_calques": [],
+    "vi_fiction_ai_tells": [],
+    "vi_telling_violations": 0
+  },
+  "raw_judge_score": 7
+}

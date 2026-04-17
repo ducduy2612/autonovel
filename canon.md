@@ -328,3 +328,14 @@
 - Chị Tư ghi lại mỗi sáng và kiểm tra chiều xem chữ còn đọc được không (ch_03) (ch_03)
 - Chữ trong sổ Chị Tư có thể mờ trong vòng một ngày — 'hôm qua chữ bác Khải còn rõ, sáng nay mờ thấy mặt sau giấy' (ch_03) (ch_03)
 - Khoa kể mẹ chết năm 1985 trên sông Rhein (ch_03) (ch_03)
+
+
+## From Chapter 4
+- Khoa liên lạc với Liên vào ban đêm từ Mũi Chờ, dùng máy vô tuyến giấu dưới áo bà ba mượn của thím Hai. (ch_04)
+- Meridian xin giấy phép thăm dò vùng biển quanh tọa độ Bãi Chờ; thời gian ước tính ba đến sáu tháng trước khi tàu khảo sát đến. (ch_04)
+- Liên có người trong bộ báo trước về giấy phép Meridian. (ch_04)
+- Khoa hứa gửi ảnh cho Liên trong hai tuần. (ch_04)
+- Khoa nói dối Liên về việc chưa kiểm tra hết danh sách cho tên chị cô — thực tế anh đã kiểm tra và không tìm thấy Nguyễn Thị Huệ. (ch_04)
+- Hoa dặm trên Mũi Chờ nở trắng dưới ánh sao, Khoa ngửi mùi cà phê rang xay — thứ không thuộc đảo. (ch_04)
+- Liên đã liên hệ nhà báo (không nói Khoa) — gợi ý qua câu 'tui đi xin nhà xuất bản, đi xin nhà báo' nhưng chưa xác nhận rõ trong chương này. (ch_04)
+- Liên kể Khoa và cô từng ngồi phòng nghiên viện Berlin uống cà phê đặc đen khi cô kể về chị và anh kể về mẹ — trước khi anh biết Bãi Chờ tồn tại. (ch_04)

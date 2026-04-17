@@ -225,3 +225,5 @@ ffd58d1	foundation	1.0	0	keep	Iteration 1: score improved 0.0 -> 1.0
 discarded	foundation	7.0	0	discard	Iteration 2: no improvement (7.0 <= 7.0)
 a7d1340	foundation	8.0	0	keep	Iteration 3: score improved 7.0 -> 8.0
 50a2cc8	ch02	6.0	1962	keep	Chapter 2 (attempt 1)
+5319877	ch03	6.0	1948	keep	Chapter 3 (attempt 1)
+discarded	ch04	5.0	2565	discard	Chapter 4 attempt 1
