@@ -357,3 +357,11 @@
 - Hội Đồng biểu quyết: cấm xuất bản, cấm liên lạc ngoài, tịch thu vô tuyến trong 48 giờ. (ch_06)
 - Vài người trẻ (khoảng 4-5 người) đứng ngoài nhà Hội Đồng trong lúc họp, nhìn Khoa khi anh bước ra. (ch_06)
 - Khoa nhận ra hai người trong nhóm trẻ: người chết đuối 1978 và người chết 1980. (ch_06)
+
+
+## From Chapter 7
+- Máu Khoa rỉ ra nước mặn thay vì máu đỏ khi bị cắt, giống người đảo dù anh chưa chết đuối. (ch_07)
+- Hoa dặm mọc từ chỗ máu Khoa rơi trên cát—năm sáu cụm, cánh trắng leans xám. (ch_07)
+- Phương chạm vào vết thương của Khoa—lần chạm thứ hai—chậm hơn lần trước, 'như cô muốn giữ nhưng không biết giữ bằng gì.' (ch_07)
+- Cụ Sáu: ngư đàn già nhất, chết đuối năm 1962, mặt xạm, tay chai sần từ sáu mươi năm xuyên kim. (ch_07)
+- Chú Tài: ngư đàn trẻ hơn, chết năm 1987, tay nhanh mắt tinh. (ch_07)
