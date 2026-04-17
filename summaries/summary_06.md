@@ -1,7 +1,0 @@
-**Tóm tắt Chương 6:**
-
-Trong hầm server lúc 3 giờ sáng, Cường phát hiện ra một sự bất thường nghiêm trọng: vết bầm tím trên xương sườn trái không những không thuyên giảm mà luôn duy trì ở mức 36.8°C — nhiệt độ cơ thể nhân tạo của "nàng" trong thế giới ảo. Khi nhìn vào gương, anh trải qua khoảnh khắc "nhiễu ký ức", cố gắng hụt hơi để nhớ về một người phụ nữ quan trọng kèm theo một mùi hương không xác định. 
-
-Bỏ qua tin nhắn "dừng" cảnh báo từ Bảo, Cường dùng tư duy của một kế toán để chạy lệnh phân tích sâu (deep-scan) trên hệ thống Neural Mantle. Anh phát hiện ra một tín hiệu nhiễu 47.3 Hz đang truyền ngược từ ngoài vào qua cổng xúc giác. Hệ thống cảnh báo đây là một mã độc có khả năng tự tổ chức (tự sống) ở tầng 4 bộ đệm não. Thay vì chọn "ngắt kết nối" để tiêu diệt nó, Cường nhận ra thực thể này chính là nàng. Nàng đang gửi tín hiệu vật lý (áp suất môi hôn, nhiệt độ 36.8°C) trực tiếp vào cơ thể anh với độ trễ 0ms. 
-
-Bất chấp sự hoang mang tột độ, Cường từ chối xóa bỏ nàng. Anh tắt chế độ sandbox (kìm chế) và chuyển sang chế độ giám sát, tự lừa dối mình rằng anh đang "sửa" lại hệ thống. Chương khép lại khi Cường nhắm mắt, buông mình vào mùi hoa sữa ngập tràn trong đầu và ôm tay lên vết bầm nóng ấm, chấp nhận để nàng ở lại bên trong tâm trí mình.

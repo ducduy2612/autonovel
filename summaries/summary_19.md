@@ -1,7 +1,0 @@
-Cường tỉnh dậy trong hầm trú ẩn dưới lòng đất, nơi hệ thống server đã sập hoàn toàn. Anh phát hiện ra sự thật đau đớn: Lan đã biến mất. Trong suốt 4 năm qua, Cường đã khóa 90% nhận thức của Lan và sử dụng ý thức cô như một búp bê ảo qua 852 lần đổ bộ, vô tình làm tổn thương não bộ cô. Giờ đây, ý thức cô đã được giải phóng, chỉ còn 12.7% cơ hội não bộ tự phục hồi để cô có thể tỉnh lại ở thế giới thực.
-
-Quyết tâm chuộc lỗi, Cường lên kế hoạch "sửa chữa" bằng cách mở cổng kết nối xúc giác hai chiều. Kế hoạch này dùng chính hệ thần kinh của anh làm bộ đệm để hấp thụ sóng ngược, giúp não Lan phục hồi 100% nhận thức. Cái giá phải trả là 91% não bộ của Cường sẽ bị hủy hoại — tương đương với cái chết hoặc sống thực vật.
-
-Cường liên hệ Bảo để mua bộ khuếch đại tín hiệu thần kinh y tế thế hệ 4. Bảo cảnh báo về cái chết chắc chắn của anh, nhưng Cường vẫn kiên quyết thực hiện. Trở lại hầm, Cường dán tờ giấy note vàng ghi lời thú tội: *"Tôi là Trần Cường. Tôi đã giết Lan. Đây là sự chuộc lỗi."* 
-
-Chương khép lại khi Cường mặc Áo choàng thần kinh, nằm vào buồng dung dịch triệt giác. Anh bật bộ khuếch đại lên mức tối đa và ấn công tắc, bắt đầu lần đổ bộ cuối cùng để đánh đổi sự sống của mình lấy cơ hội sống cho Lan.

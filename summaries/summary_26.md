@@ -1,7 +1,0 @@
-**Tóm tắt Chương 26: Vết Bầm Rỉ Máu**
-
-Sau khi bị ngắt kết nối đột ngột khỏi thế giới ảo, Cường tỉnh dậy trên sàn bê tông lạnh lẽo trong hầm, cơ thể kiệt quệ và rã rời. Anh phát hiện ra vết bầm tím trên xương sườn trái — di tích của sự kết nối với Lan — đã chuyển sang màu đen hoại tử và đang rỉ ra một chất dịch trong suốt, nhớt dính, thoang thoảng mùi hoa sữa. 
-
-Hoảng loạn và cạn kiệt đồ y tế, Cường phải trèo lên mặt đất lúc tờ mờ sáng để mua cồn và băng gạc. Trước quán cà phê đối diện Bệnh viện St. Vincent, anh chạm trán Thanh tra Hạnh. Bà không đến để bắt giữ anh vì tội xâm nhập ý thức (Điều 47B), mà mang theo một chiếc bánh mì nguội và sự thương xót lạnh lẽo. Hạnh tiết lộ một sự thật kinh hoàng: ba năm trước tại Cumberland, bà từng thấy một người đàn ông cũng rỉ chất dịch trong suốt từ vết thương trên ngực. Người đó đã chết vì cháy não sau ba ngày chịu đựng cảm giác bị "ăn từ bên trong".
-
-Sợ hãi tột độ, Cường bỏ chạy về hầm. Trên đường đi, anh nhận ra một sự thật tàn khốc: ngón cái phải của anh đã mất hoàn toàn khả năng vận động, tín hiệu từ não truyền đến cơ bị cắt đứt. Nằm gục trên sàn bê tông, từ chối băng bó vết thương, Cường nghe thấy một nhịp đập chậm, đều đặn và xa lạ vọng lên từ sâu trong lồng ngực mình. Chương khép lại khi anh ý thức được sự thật cay nghiệt: kẻ từng bóc lột hệ thống giờ đây đang bị chính thực thể nào đó trong cơ thể mình bóc lột và ăn mòn từ bên trong.

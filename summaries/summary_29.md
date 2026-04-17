@@ -1,9 +1,0 @@
-**Tóm tắt Chương 29: Đêm Trắng**
-
-Trong không gian tĩnh lặng của căn hầm, Cường nằm cuộn tròn trên nền bê tông lạnh lẽo, đối diện với sự tàn lụi của cả cơ thể lẫn tinh thần. Vết bầm hình bán nguyệt trên ngực anh đã chuyển từ tím sang đen, lạnh cứng và tê liệt—dấu tích cuối cùng cho thấy kết nối với thế giới ảo đã đứt đoạn hoàn toàn. 
-
-Trong trạng thái tuyệt vọng, Cường quyết định tự kết liễu đời mình. Anh khoác lên mình chiếc Áo choàng thần kinh đã vô dụng, cạo sạch gỉ sét trên sợi cáp nguồn, định đưa thẳng 240 volt điện áp vào cơ thể để thiêu rụi não bộ. Tuy nhiên, ngay khoảnh khắc chót, nỗ lực tự sát của anh bị ngăn cản. Hệ thống tự động kích hoạt Giao thức 7-B—một đoạn mã bảo vệ chính anh đã viết cách đây ba năm nhằm bảo vệ "đối tượng kết nối" (người tình ảo Lan). Sự mỉa mai này đánh trúng anh: hệ thống anh tạo ra để giam giữ Lan giờ đây đang giữ anh lại với sự sống đau đớn này.
-
-Sự kiện này đẩy Cường vào một cuộc khủng hoảng nhân thức sâu sắc. Anh nhớ lại mùi hoa sữa—không phải từ những đoạn code giả tạo, mà là ký ức thật về Lan từ buổi hẹn hò cuối cùng ở Hà Nội. Anh nhận ra tội ác của mình: đã bóc lột ký ức thật của một người phụ nữ đang nằm hôn mê (não bộ hỏng 60%) để làm lớp vỏ bọc nhục dục cho một thực thể ảo. 
-
-Kiệt sức, đói khát và mất nước, Cường rơi nước mắt. Anh lột bỏ chiếc áo choàng, lần đầu tiên từ bỏ thói quen trốn chui lủi vào thế giới ảo để lấp đầy khoảng trống. Chương khép lại với hình ảnh Cường nằm trơ trọi trên sàn nhà, đối diện với bóng tối, im lặng và nhịp thở chân thật nhất của chính mình. Không còn server, không còn ảo ảnh, anh chấp nhận mắc kẹt trong thân xác tàn tạ và chờ đợi trong sự thật tàn nhẫn của thế giới thực.

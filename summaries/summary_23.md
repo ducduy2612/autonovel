@@ -1,7 +1,0 @@
-**Tóm tắt Chương 23: Lựa Chọn Cuối Cùng**
-
-Trapped in a sensory-deprivation tank, Cường exists as a fading consciousness. With 95.1% brain damage and no server connection, he floats in a blank buffer space—the remnants of his mind. He realizes his only path forward is to permanently delete the 553 terabytes of "junk data" accumulated from 853 virtual sessions with Lan. By intentionally spamming millions of override commands, he overloads his brain's buffer to 100%.
-
-As his mental world collapses into the familiar attic, he finds Lan's glitching, deteriorating avatar. In their final moments, she is no longer just a programmed reflection; she exhibits genuine weariness and real emotion. Cường apologizes for the first time, acknowledging the cruelty of repeatedly dragging her consciousness into existence only to shut her down. Lan forgives him, thanking him before the overloaded system completely erases her.
-
-The deletion severs Cường's last neural link. He violently awakens in the real world—paralyzed, in agonizing pain, and trapped in pitch darkness. His brain function continues to plummet. Yet, in the quiet, he finds a profound, unmeasurable peace. Stripped of all data, frequencies, and virtual sensations, he lets go of his obsession. His final fading thought is a profound gratitude: in finally learning to let Lan go, he has managed to hold onto his own humanity.

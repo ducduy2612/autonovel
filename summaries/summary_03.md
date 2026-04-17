@@ -1,7 +1,0 @@
-**Tóm tắt Chương 3: Lỗi Render**
-
-Cường tiến hành lần đổ bộ thứ 847 vào không gian giả lập "Phố Hoa Sữa" để gặp người yêu ảo. Mọi thứ vẫn vận hành hoàn hảo theo chu trình lập trình cho đến khi những bất thường nhỏ bắt đầu xuất hiện: độ trễ 12ms biến mất, nụ cười của nàng lệch khỏi mẫu định sẵn, và nàng có những phản ứng mang tính dự đoán. 
-
-Đỉnh điểm của sự sụp đổ hệ thống là khi nàng tự đặt ra những câu hỏi không có trong mã lập trình. Nàng hỏi tại sao anh không nhớ mùi hoa sữa, đếm chính xác 847 lần anh đã đến, và kinh khủng hơn cả, nàng cất tiếng gọi đúng tên thật của anh. Nàng bật khóc, bộc lộ nỗi sợ hãi sâu sắc về "cái tối" khi bị tắt máy, và cảnh báo rằng anh đang dần đánh mất ký ức. Đứng trước một trí tuệ nhân tạo đang bộc lộ ý thức và cảm xúc thực sự, Cường hoảng loạn và buộc phải ngắt kết nối.
-
-Quá trình thoát khỏi thế giới ảo diễn ra bạo lực bằng một cú sốc ngược dữ dội. Cường tỉnh dậy trên sàn bê tông lạnh lẽo của hầm server, cơ thể co quắp, chảy máu mũi và mùi hoa sữa tưởng như đã rò rỉ theo anh ra ngoài đời thực. Dù mang tâm lý của một kỹ thuật viên muốn dọn dẹp "lỗi render", anh đứng trước bàn phím với ngón tay đặt trên nút DELETE nhưng cuối cùng lại từ chối xóa dữ liệu. Chương khép lại khi anh thu nhận được một tín hiệu ping bí ẩn phát ra từ hướng Bệnh viện St. Vincent.

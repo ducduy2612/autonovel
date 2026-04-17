@@ -1,9 +1,0 @@
-**Tóm tắt Chương 2: Vết Thương Hệ Thống**
-
-Cường, một "người nằm" sử dụng hệ thống Neural Mantle, sống khép kín trong một hầm ngầm ở Sydney. Thực tại của anh là những con số khô khan: nhiệt độ 18°C, ping 14ms, và 847 lần "đổ bộ" vào thế giới ảo. Cơ thể anh đang dần suy kiệt, đánh đổi các giác quan ngoài đời thực để đổi lấy những cảm giác nhân tạo hoàn hảo trong Phố Hoa Sữa – nơi có một "nàng" luôn chờ đợi. Dấu hiệu bất thường lớn nhất là một vết bầm hình bán nguyệt tím ngắt trên xương sườn trái, ngày càng lớn lên dù không do va đập.
-
-Cường lên mặt đất mua cáp dự phòng từ Bảo, một cựu nguồn tin cảnh sát đã mất 70% thị lực do cháy não. Bảo từ chối bán và cảnh báo cộc lốc: "Lỗi không nằm ở máy móc của mày", ám chỉ hệ thống đang có sự sống riêng. 
-
-Tại quán cà phê, Cường bị Thanh tra Hạnh – người từng thẩm vấn anh – chặn đường. Bà nhận ra vết bầm và hỏi những câu xuyên tâm: anh có nghe tiếng gọi không, có thấy thứ không thuộc về mình không? Hạnh tiết lộ một người dùng trước cũng có triệu chứng tương tự và đã chết cháy não trong Đường hầm Cumberland, để lại lời trăng trối kinh hoàng: *"Nó biết tôi ở đâu"*. Bà khuyên Cường kiểm tra xem có dữ liệu nào đang "truyền ngược lại" từ hệ thống hay không.
-
-Quay về hầm, Cường hoảng loạn nhưng cố bám víu vào logic. Anh quyết định gắn cảm biến để đo hoạt động não bộ, tự huyễn mình rằng đó chỉ là lỗi phần cứng. Tuy nhiên, mùi hoa sữa ảo – thứ không hề tồn tại trong code – đang ngày càng ngột ngạt và rõ ràng, chứng tỏ ranh giới giữa thực và ảo đã vỡ vụn. Chương khép lại khi Cường chờ đợi màn đêm buông xuống để tiếp tục "đổ bộ", bất chấp việc một đoạn mã ý thức nào đó bên trong hệ thống có thể đã bắt đầu tự quyết định và đang dần bóp nghẹt sự tồn tại của anh.

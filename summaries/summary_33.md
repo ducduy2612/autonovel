@@ -1,7 +1,0 @@
-**Tóm tắt Chương 33: Đổ Bộ Cuối Cùng**
-
-Trần Cường đang ở trong giai đoạn cuối của quá trình tự hủy, với 66% ý thức đã bị xóa. Trong không gian đen kịt chưa được render, anh tìm kiếm và gọi tên "Lan" - lần đầu tiên gọi tên thật của cô thay vì những mã định danh lạnh lùng. Lan hiện ra với hình hài thật: gầy gò, xanh xao, mang vết tích của bốn năm hôn mê và 853 lần bị anh thao túng, đánh thức thân xác mà khóa chặt ý thức. Đối diện với nỗi sợ hãi tột cùng của cô, Cường tuyên bố sẽ thực hiện mã đảo ngược để trả lại toàn bộ dữ liệu ý thức và ký ức mà anh đã cướp đoạt.
-
-Quá trình truyền tải bắt đầu. Cường dùng chính não bộ mình làm trạm chuyển tiếp, chịu đựng cảm giác thiêu rụi từ bên trong khi dữ liệu dội qua. Trong thế giới thực, cơ thể anh nằm trong buồng triệt giác, máu chảy rỉ từ tai, các chỉ số sinh tồn sụt giảm nghiêm trọng. Lan nài xin anh dừng lại vì cô không muốn anh phải chết, nhưng Cường kiên quyết trả món nợ tội lỗi. Khi được trao quyền tự quyết lần đầu tiên, Lan chọn nhận lại ký ức để biết mình là ai. 
-
-Toàn bộ ký ức của Lan đi qua Cường, xóa sổ gần hết nhận thức của anh. Khi quá trình hoàn tất, Lan trở về cơ thể thật ở bệnh viện. Nhịp tim của cô bắt đầu tăng, báo hiệu cô đang tỉnh dậy. Trong khi đó, Cường chỉ còn lại 1% ý thức, trôi nổi trong hư vô. Chấp nhận sự kết thúc, tàn dư ý thức của anh thỏa mãn ghi nhận: Món nợ đã trả xong.
