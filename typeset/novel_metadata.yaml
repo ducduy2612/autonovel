@@ -1,0 +1,34 @@
+---
+# Novel metadata — single source of truth for typesetting.
+# build_tex.py reads these values and injects them into novel.tex.
+
+# Title broken into display lines (centered on title page).
+# Each entry has a LaTeX font size and the text.
+title_lines:
+  - Huge: "Điểm Chạm"
+  - small: "của"
+  - Huge: "Kẻ Điên"
+
+# Short form (used in half-title page, PDF metadata, running headers)
+title_short: "Điểm Chạm Của Kẻ Điên"
+
+# Author name (title page + PDF metadata)
+author: "Duy Tom"
+
+# Epigraph text (one string per line). Leave empty or omit to skip.
+epigraph: []
+
+# Closing line at the end of the book. Leave empty or omit to skip.
+closing_line: ""
+
+# Copyright / colophon
+copyright:
+  notice: "This is a work of fiction. All characters, events, and locales are products of the author's imagination or are used fictitiously. Any resemblance to actual persons, living or dead, or actual events is purely coincidental."
+  created_by: "created by Zhibu Agent."
+  url: "https://nousresearch.com"
+  url_qr_image: "../art/variants/ornament_03.png"
+  logo_image: "../art/variants/ornament_01.png
+
+# PDF subject tag
+pdf_subject: "Cyber"
+...

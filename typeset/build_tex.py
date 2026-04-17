@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build LaTeX source from chapter files."""
+"""Build LaTeX source from chapter files and novel metadata."""
 import re
 import os
 import sys
@@ -17,6 +17,9 @@ from config import get_language, BASE_DIR, CHAPTERS_DIR as CONFIG_CHAPTERS_DIR
 CHAPTERS_DIR = str(CONFIG_CHAPTERS_DIR)
 OUT_DIR = str(BASE_DIR / "typeset")
 EPUB_METADATA_PATH = BASE_DIR / "typeset" / "epub_metadata.yaml"
+NOVEL_METADATA_PATH = BASE_DIR / "typeset" / "novel_metadata.yaml"
+NOVEL_TEMPLATE_PATH = BASE_DIR / "typeset" / "novel.tex.in"
+NOVEL_OUTPUT_PATH = BASE_DIR / "typeset" / "novel.tex"
 
 def latex_escape(t):
     t = t.replace('&', '\\&')
@@ -146,10 +149,279 @@ def generate_latex_header(lang: str | None = None) -> str:
         "%% Language: " + lang,
     ]
 
-    if lang == "vi":
-        lines.append("\\usepackage[vietnamese]{babel}")
-
     return "\n".join(lines) + "\n\n"
+
+
+# ---------------------------------------------------------------------------
+# Novel metadata loading (lightweight YAML parse, no PyYAML dependency)
+# ---------------------------------------------------------------------------
+
+def _parse_simple_yaml(path: Path) -> dict:
+    """Parse the novel_metadata.yaml file for string/list values.
+
+    Handles ``key: value``, ``key: "quoted"``, and ``- item`` list entries
+    under a top-level key.  Multi-line strings and nested maps are not
+    supported — the file is kept intentionally flat.
+    """
+    data: dict = {}
+    current_key: str | None = None
+
+    for line in path.read_text(encoding="utf-8").splitlines():
+        stripped = line.strip()
+        # Skip YAML front-matter markers and comments
+        if stripped in ("---", "...") or stripped.startswith("#"):
+            current_key = None
+            continue
+
+        # List item under current key
+        if stripped.startswith("- ") and current_key is not None:
+            val = stripped[2:].strip().strip('"').strip("'")
+            if isinstance(data.get(current_key), list):
+                data[current_key].append(val)
+            else:
+                data[current_key] = [val]
+            continue
+
+        # Top-level key: value
+        m = re.match(r"^(\w+)\s*:\s*(.*)", stripped)
+        if m:
+            key, val = m.group(1), m.group(2).strip()
+            current_key = key
+            if val == "" or val.lower() == "null":
+                data[key] = None
+            else:
+                data[key] = val.strip('"').strip("'")
+
+    return data
+
+
+def _parse_nested_yaml(path: Path) -> dict:
+    """Parse novel_metadata.yaml with one level of nested mapping.
+
+    Returns a dict where top-level keys may map to dicts (for blocks like
+    ``copyright:``) or lists (for blocks like ``title_lines:``).
+    """
+    data: dict = {}
+    current_top: str | None = None
+    current_sub: str | None = None
+
+    for line in path.read_text(encoding="utf-8").splitlines():
+        stripped = line.strip()
+        if stripped in ("---", "..."):
+            current_top = None
+            current_sub = None
+            continue
+
+        # Comment lines don't reset the current block context
+        if stripped.startswith("#"):
+            continue
+
+        indented = line != line.lstrip()
+
+        # List item
+        if stripped.startswith("- ") and current_top is not None:
+            val = stripped[2:].strip()
+            # Parse "key: value" list items (title_lines style)
+            kv = re.match(r'^(\w+)\s*:\s*"?(.+?)"?$', val)
+            if kv:
+                if current_top not in data or data[current_top] is None:
+                    data[current_top] = []
+                if isinstance(data[current_top], list):
+                    data[current_top].append({kv.group(1): kv.group(2).strip('"')})
+            else:
+                if current_top not in data or data[current_top] is None:
+                    data[current_top] = []
+                if isinstance(data[current_top], list):
+                    data[current_top].append(val.strip('"').strip("'"))
+            continue
+
+        # Sub-key (one level of indent)
+        m_sub = re.match(r"^(\s+)(\w+)\s*:\s*(.*)", line)
+        if m_sub and current_top:
+            sub_key = m_sub.group(2)
+            sub_val = m_sub.group(3).strip()
+            current_sub = sub_key
+            if current_top not in data or not isinstance(data[current_top], dict):
+                data[current_top] = {}
+            if sub_val == "" or sub_val.lower() == "null":
+                data[current_top][sub_key] = None
+            else:
+                data[current_top][sub_key] = sub_val.strip('"').strip("'")
+            continue
+
+        # Top-level key
+        m_top = re.match(r"^(\w+)\s*:\s*(.*)", stripped)
+        if m_top:
+            current_top = m_top.group(1)
+            current_sub = None
+            val = m_top.group(2).strip()
+            if val == "" or val.lower() == "null":
+                data[current_top] = None
+            else:
+                data[current_top] = val.strip('"').strip("'")
+
+    return data
+
+
+def load_novel_metadata(path: Path = NOVEL_METADATA_PATH) -> dict:
+    """Load and return the novel metadata from YAML."""
+    if not path.exists():
+        raise FileNotFoundError(
+            f"Novel metadata file not found: {path}. "
+            "Create typeset/novel_metadata.yaml (see novel_metadata.yaml for schema)."
+        )
+    return _parse_nested_yaml(path)
+
+
+def _render_title_page_lines(title_lines: list[dict]) -> str:
+    """Render the title page lines from metadata into LaTeX."""
+    parts = []
+    for entry in title_lines:
+        if isinstance(entry, dict):
+            for size, text in entry.items():
+                if text and text.lower() != "null":
+                    escaped = latex_escape(text)
+                    parts.append(f"  {{\\{size}\\textsc{{{escaped}}}}}\\\\[0.15in]\n")
+        elif isinstance(entry, str) and entry and entry.lower() != "null":
+            escaped = latex_escape(entry)
+            parts.append(f"  {{\\large\\textsc{{{escaped}}}}}\\\\[0.15in]\n")
+    return "".join(parts)
+
+
+def _render_epigraph_lines(epigraph: list[str] | None) -> tuple[str, str]:
+    """Render epigraph lines and the full epigraph block.
+
+    Returns (lines_tex, full_block_tex).  If epigraph is empty/None,
+    both strings are empty (the epigraph page is omitted entirely).
+    """
+    if not epigraph:
+        return "", ""
+
+    lines = "".join(f"  {latex_escape(l)}\\\\\n" for l in epigraph)
+    # Strip the trailing \\
+    lines = lines.rstrip("\\\n") + "\\\\[12pt]\n"
+
+    block = (
+        "% Epigraph\n\\makeepigraph\n\n"
+    )
+    return lines, block
+
+
+def _render_closing_block(closing_line: str | None) -> str:
+    """Render the closing end-matter block."""
+    if not closing_line:
+        return ""
+    escaped = latex_escape(closing_line)
+    return (
+        "\\thispagestyle{empty}\n"
+        "\\vspace*{3in}\n"
+        "\\begin{center}\n"
+        "{\\small------\\quad$\\diamond$\\quad------}\\\\[0.3in]\n"
+        f"{{\\small\\textit{{{escaped}}}}}\n"
+        "\\end{center}\n"
+    )
+
+
+def generate_novel_tex(
+    metadata: dict | None = None,
+    lang: str | None = None,
+    template_path: Path = NOVEL_TEMPLATE_PATH,
+    output_path: Path = NOVEL_OUTPUT_PATH,
+) -> Path:
+    """Generate ``novel.tex`` from ``novel.tex.in`` template and metadata.
+
+    Reads the ``.in`` template, substitutes ``{{PLACEHOLDER}}`` tokens with
+    values from the metadata YAML, and writes the result.
+    """
+    if metadata is None:
+        metadata = load_novel_metadata()
+    if lang is None:
+        lang = get_language()
+
+    if not template_path.exists():
+        raise FileNotFoundError(
+            f"Template not found: {template_path}. "
+            "Expected typeset/novel.tex.in with {{PLACEHOLDER}} tokens."
+        )
+
+    template = template_path.read_text(encoding="utf-8")
+
+    # --- Extract values from metadata ---
+    title_lines = metadata.get("title_lines", [])
+    if isinstance(title_lines, dict):
+        title_lines = [title_lines]
+
+    title_short = metadata.get("title_short", "")
+    if isinstance(title_short, list):
+        title_short = title_short[0] if title_short else ""
+
+    author = metadata.get("author", "")
+    if isinstance(author, list):
+        author = author[0] if author else ""
+
+    pdf_subject = metadata.get("pdf_subject", "")
+    if isinstance(pdf_subject, list):
+        pdf_subject = pdf_subject[0] if pdf_subject else ""
+
+    epigraph = metadata.get("epigraph")
+    if isinstance(epigraph, str):
+        epigraph = [epigraph] if epigraph else []
+
+    closing_line = metadata.get("closing_line")
+    if isinstance(closing_line, list):
+        closing_line = closing_line[0] if closing_line else None
+
+    copyright_block = metadata.get("copyright", {})
+    if isinstance(copyright_block, str):
+        copyright_block = {}
+
+    # --- Render template fragments ---
+    title_page_tex = _render_title_page_lines(title_lines)
+    epigraph_lines_tex, epigraph_block_tex = _render_epigraph_lines(epigraph)
+    closing_block_tex = _render_closing_block(closing_line)
+
+    # Babel package — include only for languages that need it
+    if lang == "vi":
+        babel = "\\usepackage[vietnamese]{babel}"
+    else:
+        babel = ""
+
+    # --- Substitute placeholders ---
+    result = template
+    result = result.replace("{{BABEL_PACKAGE}}", babel)
+    result = result.replace("{{TITLE_SHORT_LOWER}}", latex_escape(title_short.lower()))
+    result = result.replace("{{TITLE_SHORT}}", latex_escape(title_short))
+    result = result.replace("{{AUTHOR}}", latex_escape(author))
+    result = result.replace("{{PDF_SUBJECT}}", latex_escape(pdf_subject))
+    result = result.replace("{{TITLE_PAGE_LINES}}", title_page_tex)
+    result = result.replace("{{EPIGRAPH_LINES}}", epigraph_lines_tex)
+    result = result.replace("{{EPIGRAPH_BLOCK}}", epigraph_block_tex)
+    result = result.replace("{{CLOSING_BLOCK}}", closing_block_tex)
+
+    # Copyright block
+    result = result.replace(
+        "{{COPYRIGHT_NOTICE}}",
+        latex_escape(copyright_block.get("notice", "")),
+    )
+    result = result.replace(
+        "{{COPYRIGHT_CREATED_BY}}",
+        latex_escape(copyright_block.get("created_by", "")),
+    )
+    result = result.replace(
+        "{{COPYRIGHT_URL}}",
+        latex_escape(copyright_block.get("url", "")),
+    )
+    result = result.replace(
+        "{{COPYRIGHT_QR_IMAGE}}",
+        copyright_block.get("url_qr_image", "../art/qr_bells.png"),
+    )
+    result = result.replace(
+        "{{COPYRIGHT_LOGO_IMAGE}}",
+        copyright_block.get("logo_image", "../art/pdf/nous_logo.pdf"),
+    )
+
+    output_path.write_text(result, encoding="utf-8")
+    return output_path
 
 
 def discover_chapters() -> list[int]:
@@ -165,11 +437,18 @@ def discover_chapters() -> list[int]:
 
 
 def main():
-    """Build chapters_content.tex from chapter markdown files."""
-    chapters_tex = []
+    """Build novel.tex and chapters_content.tex from metadata and chapter markdown."""
+    lang = get_language()
 
-    # Patch epub metadata language before generating content
+    # Generate novel.tex from template + metadata
+    tex_path = generate_novel_tex(lang=lang)
+    print(f"Wrote {tex_path}")
+
+    # Patch epub metadata language
     patch_epub_metadata()
+
+    # Build chapters_content.tex from chapter markdown files
+    chapters_tex = []
 
     for n in discover_chapters():
         path = os.path.join(CHAPTERS_DIR, f"ch_{n:02d}.md")

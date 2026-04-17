@@ -17,7 +17,7 @@
   Ligatures=TeX,
 ]
 
-\usepackage[vietnamese]{babel}
+{{BABEL_PACKAGE}}
 
 % === TYPOGRAPHY ===
 \usepackage{microtype}
@@ -38,7 +38,7 @@
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
-\fancyhead[LE]{\small\textsc{điểm chạm của kẻ điên}}
+\fancyhead[LE]{\small\textsc{{{TITLE_SHORT_LOWER}}}}
 \fancyhead[RO]{\small\textit{\leftmark}}
 \fancyfoot[C]{\thepage}
 \renewcommand{\headrulewidth}{0pt}
@@ -87,15 +87,12 @@
   \begin{center}
   \vspace*{2in}
   
-  {\Huge\textsc{Điểm Chạm}}\\[0.15in]
-  {\small\textsc{của}}\\[0.15in]
-  {\Huge\textsc{Kẻ Điên}}\\[0.15in]
-
+{{TITLE_PAGE_LINES}}
   {\small------\quad$\diamond$\quad------}\\[0.5in]
   
   {\large\textit{A Novel}}\\[1in]
   
-  {\Large\textsc{Duy Tom}}\\[1.5in]
+  {\Large\textsc{{{AUTHOR}}}}\\[1.5in]
   
   \end{center}
   \clearpage
@@ -109,8 +106,7 @@
   \begin{minipage}{3in}
   \begin{center}
   \itshape
-  []\\[12pt]
-
+{{EPIGRAPH_LINES}}
   \end{center}
   \end{minipage}
   \end{center}
@@ -122,7 +118,7 @@
   \thispagestyle{empty}
   \vspace*{3in}
   \begin{center}
-  {\large\textsc{Điểm Chạm Của Kẻ Điên}}
+  {\large\textsc{{{TITLE_SHORT}}}}
   \end{center}
   \clearpage
 }
@@ -130,9 +126,9 @@
 % === PDF METADATA ===
 \usepackage{hyperref}
 \hypersetup{
-  pdftitle={Điểm Chạm Của Kẻ Điên},
-  pdfauthor={Duy Tom},
-  pdfsubject={Cyber},
+  pdftitle={{{TITLE_SHORT}}},
+  pdfauthor={{{AUTHOR}}},
+  pdfsubject={{{PDF_SUBJECT}}},
   hidelinks
 }
 
@@ -166,32 +162,29 @@
 \vspace*{\fill}
 \begin{center}
 
-{\small This is a work of fiction. All characters, events, and locales are products of the author's imagination or are used fictitiously. Any resemblance to actual persons, living or dead, or actual events is purely coincidental.}\\[4pt]
-{\small created by Zhibu Agent.}\\[18pt]
+{\small {{COPYRIGHT_NOTICE}}}\\[4pt]
+{\small {{COPYRIGHT_CREATED_BY}}}\\[18pt]
 
 {\small For full reproduction code and alternate formats}\\[2pt]
 {\small (ePub, audiobook) please visit:}\\[8pt]
 
-{\small\texttt{https://nousresearch.com}}\\[16pt]
+{\small\texttt{{{COPYRIGHT_URL}}}}\\[16pt]
 
-\IfFileExists{../art/variants/ornament_03.png}{%
-  \includegraphics[width=1in]{../art/variants/ornament_03.png}
+\IfFileExists{{{COPYRIGHT_QR_IMAGE}}}{%
+  \includegraphics[width=1in]{{{COPYRIGHT_QR_IMAGE}}}
 }{}
 
 \end{center}
 \vspace*{\fill}
 \begin{center}
-\IfFileExists{../art/variants/ornament_01.png}{%
-  \includegraphics[width=0.8in]{../art/variants/ornament_01.png}
+\IfFileExists{{{COPYRIGHT_LOGO_IMAGE}}}{%
+  \includegraphics[width=0.8in]{{{COPYRIGHT_LOGO_IMAGE}}}
 }{}
 \end{center}
 \vspace{0.3in}
 \clearpage
 
-% Epigraph
-\makeepigraph
-
-
+{{EPIGRAPH_BLOCK}}
 
 % Blank verso before main text
 \thispagestyle{empty}
@@ -206,6 +199,6 @@
 % === END MATTER ===
 \backmatter
 
-
+{{CLOSING_BLOCK}}
 
 \end{document}
