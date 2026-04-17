@@ -1,0 +1,105 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "C\u0103n g\u00e1c x\u00e9p rung chuy\u1ec3n. Quanh h\u1ecd, th\u1ebf gi\u1edbi \u1ea3o tan r\u00e3 \u2014 t\u1eebng pixel, t\u1eebng kh\u1ed1i render. Ph\u1ed1 Hoa S\u1eefa \u0111\u00e3 bi\u1ebfn m\u1ea5t. Ph\u00f2ng tr\u1ecd s\u1ed1 7 \u0111\u00e3 bi\u1ebfn m\u1ea5t. Ch\u1ec9 c\u00f2n kho\u1ea3ng kh\u00f4ng n\u00e0y \u2014 kh\u00f4ng gian k\u00fd \u1ee9c duy nh\u1ea5t c\u1ee7a c\u00f4 \u2014 v\u00e0 n\u00f3 \u0111ang nh\u1ecf l\u1ea1i.",
+    "fix": "The voice profile demands clinical observation of collapse \u2014 'quan s\u00e1t s\u1ef1 s\u1ee5p \u0111\u1ed5 t\u00e2m l\u00fd t\u1eeb kho\u1ea3ng c\u00e1ch c\u1ee7a m\u1ed9t ng\u01b0\u1eddi k\u1ef9 thu\u1eadt vi\u00ean \u0111ang ghi nh\u1eadn l\u1ed7i h\u1ec7 th\u1ed1ng.' This passage is cinematic/emotional instead. Replace with technical observation: render errors, resource depletion percentages, texture resolution dropping. Show the collapse through data, not metaphor.",
+    "note": "Strong adherence in the opening h\u1ea7m sequence \u2014 ping numbers, node status, clinical body description. The voice profile's 'ph\u1eabu thu\u1eadt' tone is well-executed when C\u01b0\u1eddng is observing his own body and system. But it slips into conventional emotional prose during the g\u00e1c x\u00e9p scene, losing the cold technician distance that makes this voice distinctive."
+  },
+  "beat_coverage": {
+    "score": 7,
+    "weakest_moment": "Beat 4 (C\u01b0\u1eddng \u0111\u01b0a ra l\u1ef1a ch\u1ecdn: Anh s\u1ebd hy sinh ch\u00ednh m\u00ecnh) is stated rather than dramatized as an internal process. The decision appears pre-made when he picks up the paper note, and the calculation scene reads as confirmation rather than struggle.",
+    "fix": "Add a genuine moment of hesitation or temptation \u2014 show C\u01b0\u1eddng considering the safe option (disconnecting from outside, keeping his brain intact, finding another way later) before rejecting it. The outline says 'Tuy\u1ec7t v\u1ecdng \u2192 R\u00f5 r\u00e0ng \u2192 Quy\u1ebft \u0111\u1ecbnh' but the chapter skips R\u00f5 r\u00e0ng and jumps from despair to decision.",
+    "note": "Beats 1-3 are well-covered with specific detail. The ping instability, the fading bruise, the paper note resolution \u2014 all present and mostly dramatized. The emotional arc from despair to decision is the weakest link; it needs more internal friction."
+  },
+  "character_voice": {
+    "score": 6,
+    "weakest_moment": "C\u01b0\u1eddng's dialogue in the g\u00e1c x\u00e9p scene: 'Anh \u0111\u1ebfn \u0111\u1ec3 gi\u1ea3i ph\u00f3ng em.' / 'V\u00ec anh n\u1ee3 em.' \u2014 This is generic protagonist speech. The voice profile specifies: 90% statements, no emotional declarations, counting/measuring obsession, sentences that break off mid-thought.",
+    "fix": "Rewrite C\u01b0\u1eddng's lines to match his voice profile. Instead of 'Anh \u0111\u1ebfn \u0111\u1ec3 gi\u1ea3i ph\u00f3ng em,' try something like: 'Ng\u1eaft s\u00e2u. T\u1eeb trong n\u00e0y. N\u00e3o anh ch\u00e1y. Nh\u01b0ng k\u1ebft n\u1ed1i \u0111\u1ee9t h\u1eb3n. Em ng\u1ee7.' Short, technical, no emotional vocabulary. Let the sacrifice speak through action, not declaration.",
+    "note": "Lan's voice is better \u2014 the elongated final syllables, the tilted head, the questions. But even she slips into conventional dialogue ('Em s\u1ee3 c\u00e1i t\u1ed1i') when the voice profile suggests she should express fear through technical malfunction or repeated phrases losing meaning. The differentiation between characters is present but not sharp enough."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "The paper note resolution is almost too neat \u2014 C\u01b0\u1eddng conveniently remembers writing it at the exact moment he needs moral clarity. The plant was seeded in Ch 15, but the payoff feels engineered rather than organic.",
+    "fix": "Make the memory more fragmented and unreliable. Have C\u01b0\u1eddng not fully trust his own memory of writing it \u2014 'Anh ngh\u0129 m\u00ecnh \u0111\u00e3 vi\u1ebft. Ho\u1eb7c ai \u0111\u00f3 vi\u1ebft. Ho\u1eb7c kh\u00f4ng ai.' This would reinforce his 60% memory fragmentation and make the moment more unsettling rather than redemptive.",
+    "note": "The fading bruise is an excellent plant \u2014 visual, physical, tied to both the magic system rules and the emotional stakes. It's integrated naturally and pays off without being over-explained. The node collapse status is also well-woven, serving both plot and atmosphere."
+  },
+  "prose_quality": {
+    "score": 6,
+    "weakest_sentence": "C\u0103n g\u00e1c x\u00e9p rung chuy\u1ec3n. Tr\u1ea7n d\u1ed1c n\u1ee9t to\u00e1c. K\u00ednh v\u1ee1 r\u01a1i xu\u1ed1ng s\u00e0n. G\u1ed1i gi\u1eefa s\u00e0n tan th\u00e0nh pixel.",
+    "fix": "This is a list of dramatic events without sensory specificity or voice. Rewrite through C\u01b0\u1eddng's technical lens: 'Tr\u1ea7n g\u00e1c x\u00e9p \u2014 render error. Polygons t\u00e1ch r\u1eddi. K\u00ednh: texture corrupt, r\u01a1i theo physics engine l\u1ed7i. G\u1ed1i: vertex dissolution. T\u00e0i nguy\u00ean h\u1ec7 th\u1ed1ng: 3%.' Make the collapse feel like system failure, not movie destruction.",
+    "strongest_sentence": "V\u1ebft b\u1ea7m h\u00ecnh b\u00e1n nguy\u1ec7t \u2014 t\u00edm nh\u1ea1t, vi\u1ec1n m\u1edd nh\u01b0 m\u1ef1c b\u1ecb n\u01b0\u1edbc lau qua. H\u00f4m qua c\u00f2n ng\u1eaft. H\u00f4m nay ch\u1ec9 c\u00f2n c\u00e1i b\u00f3ng c\u1ee7a c\u00e1i b\u00f3ng.",
+    "note": "The chapter has excellent moments (the bruise description, the paper note in the drawer, the node status list) but also stretches of generic dramatic prose. Sentence variety is good \u2014 short punchy lines mixed with longer technical ones. The main issue is inconsistency: when the prose is good, it's very good; when it's lazy, it reads like any other fantasy novel."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Strong continuity from the previous chapter. C\u01b0\u1eddng's emotional state (kneeling, crying, remembering everything) carries directly into this chapter's opening. The bruise detail tracks \u2014 it was vivid in earlier chapters, now fading because Lan is dying. The paper note from Ch 15 is resolved. B\u00e0 L\u00e0nh's departure at the end of the previous chapter explains why C\u01b0\u1eddng is alone with time to act. The 60% brain damage figure is consistent. One minor issue: the previous chapter ends at 2:47 AM with C\u01b0\u1eddng at St. Vincent, but this chapter opens with him back at the h\u1ea7m with no transition \u2014 a brief line about leaving the hospital would help."
+  },
+  "canon_compliance": {
+    "score": 7,
+    "violations": [
+      "C\u01b0\u1eddng's dialogue and internal monologue use emotional vocabulary and direct statements that contradict his voice profile (90% statements, no emotional declarations, technical/accounting vocabulary).",
+      "Lan's speech patterns don't consistently match her profile \u2014 she should use Northern Vietnamese poetic register mixed with technical terms she absorbed from C\u01b0\u1eddng's brain, but her dialogue is mostly standard emotional speech.",
+      "The chapter doesn't mention C\u01b0\u1eddng's body habits from the profile: touching x\u01b0\u01a1ng s\u01b0\u1eddn tr\u00e1i when panicked (he touches it once but clinically, not as a panic response), licking dry lips, smelling for real memories.",
+      "The 'K\u1ebb \u0110u\u1ed5i' profile says she doesn't cry ('m\u1eaft \u0111en lu\u00f4n \u01b0\u1edbt nh\u01b0ng kh\u00f4ng bao gi\u1edd r\u01a1i n\u01b0\u1edbc m\u1eaft') but in this chapter she cries multiple times with tears falling."
+    ],
+    "note": "No hard world-building violations \u2014 the magic system rules are followed (s\u1ed1c ng\u01b0\u1ee3c, \u0111\u1ed3ng b\u1ed9 hai chi\u1ec1u, v\u1ebft b\u1ea7m on real body). The violations are character-voice level, which is still canon per the character registry."
+  },
+  "lore_integration": {
+    "score": 7,
+    "weakest_moment": "The seven-node transmission system and ping mechanics are mentioned but don't actively shape the scene. The node collapse is backdrop rather than obstacle \u2014 C\u01b0\u1eddng doesn't have to work around it or make choices based on it.",
+    "fix": "Make the failing nodes create urgency or constraint. For example: if he doesn't disconnect before all nodes die, the system crashes and Lan is trapped in corrupted data forever. Or: the unstable ping means his disconnect command might not execute cleanly, requiring him to manually hold the connection while his brain burns. Give the lore teeth.",
+    "note": "The Neural Mantle technology is well-integrated \u2014 the sensory description of putting it on, the bu\u1ed3ng tri\u1ec7t gi\u00e1c, the data flowing. The world does work in this chapter. But the specific lore about transmission nodes and ping thresholds could be more than set dressing."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The percentage countdown (10%... 20%... 30%...) during the disconnection is mechanically predictable. It's the most dramatic moment in the chapter but reads like a progress bar \u2014 tension deflates rather than builds.",
+    "fix": "Replace the countdown with something less expected. Perhaps the disconnection is not clean \u2014 C\u01b0\u1eddng experiences fragmented memories from Lan's consciousness, or the system resists, or Lan's form flickers between different faces (the other patients whose data contributed to her). Make the ending strange and specific rather than cinematic.",
+    "note": "The chapter successfully creates emotional stakes through the bruise detail and the paper note. The opening is strong \u2014 system collapse, clinical observation, hard numbers. The middle sags when dialogue takes over and the voice slips. The ending is affecting but predictable; it needs something weirder or more specific to elevate it."
+  },
+  "three_weakest_sentences": [
+    "C\u0103n g\u00e1c x\u00e9p rung chuy\u1ec3n. Tr\u1ea7n d\u1ed1c n\u1ee9t to\u00e1c. K\u00ednh v\u1ee1 r\u01a1i xu\u1ed1ng s\u00e0n. G\u1ed1i gi\u1eefa s\u00e0n tan th\u00e0nh pixel.",
+    "C\u00f4 c\u01b0\u1eddi. N\u1ee5 c\u01b0\u1eddi bu\u1ed3n. Ch\u1ea1m \u0111\u1ebfn m\u1eaft \u2014 l\u1ea7n \u0111\u1ea7u ti\u00ean.",
+    "C\u01b0\u1eddng \u0111\u1ee9ng trong b\u00f3ng t\u1ed1i. Kh\u00f4ng c\u00f3 g\u00ec. Kh\u00f4ng c\u00f3 ai. Ch\u1ec9 c\u00f3 anh v\u00e0 kho\u1ea3ng tr\u1ed1ng."
+  ],
+  "three_strongest_sentences": [
+    "V\u1ebft b\u1ea7m h\u00ecnh b\u00e1n nguy\u1ec7t \u2014 t\u00edm nh\u1ea1t, vi\u1ec1n m\u1edd nh\u01b0 m\u1ef1c b\u1ecb n\u01b0\u1edbc lau qua. H\u00f4m qua c\u00f2n ng\u1eaft. H\u00f4m nay ch\u1ec9 c\u00f2n c\u00e1i b\u00f3ng c\u1ee7a c\u00e1i b\u00f3ng.",
+    "Anh vi\u1ebft m\u1ea3nh gi\u1ea5y n\u00e0y nh\u01b0 m\u1ed9t m\u1ecf neo. B\u1ea3y ch\u1eef. \u0110\u1ee7 \u0111\u1ec3 nh\u1eafc nh\u1edf b\u1ea3n th\u00e2n t\u01b0\u01a1ng lai r\u1eb1ng c\u00f3 m\u1ed9t con ng\u01b0\u1eddi th\u1eadt \u0111ang n\u1eb1m \u1edf \u0111\u00f3, r\u1eb1ng m\u1ecdi th\u1ee9 anh s\u1eafp l\u00e0m s\u1ebd c\u00f3 h\u1eadu qu\u1ea3 th\u1eadt, r\u1eb1ng th\u1ebf gi\u1edbi \u1ea3o kh\u00f4ng ph\u1ea3i th\u1ebf gi\u1edbi \u1ea3o \u2014 n\u00f3 l\u00e0 nh\u00e0 t\u00f9 anh x\u00e2y cho ng\u01b0\u1eddi kh\u00e1c.",
+    "N\u00fat 1: ch\u1ebft. N\u00fat 2: ch\u1ebft. N\u00fat 3: dying. N\u00fat 4: ch\u1ebft. N\u00fat 5: kh\u00f4ng ph\u1ea3n h\u1ed3i. N\u00fat 6: nhi\u1ec5u 47.3 Hz. N\u00fat 7: ch\u1ebft."
+  ],
+  "ai_patterns_detected": [
+    "Symmetrical emotional beats: C\u01b0\u1eddng and Lan take turns speaking in roughly equal-length exchanges, creating an unnatural conversational rhythm",
+    "The percentage countdown (10%... 20%... etc.) is a structurally neat but emotionally flat device common in AI-generated dramatic scenes",
+    "Several sentences follow the same pattern: short statement. Fragment. Longer explanatory sentence. This rhythm repeats without enough variation.",
+    "The 'sacrifice' scene follows a predictable emotional template: hero declares intention, love object protests, hero insists, they share a moment, hero acts. Subverting this template would strengthen the chapter.",
+    "Lan's final mouthed 'C\u1ea3m \u01a1n anh' is a cinematic clich\u00e9 \u2014 the silent thank-you as someone fades away"
+  ],
+  "overall_score": 5.47,
+  "weakest_dimension": "character_voice",
+  "top_3_revisions": [
+    "Rewrite all of C\u01b0\u1eddng's dialogue in the g\u00e1c x\u00e9p scene to match his voice profile: short, technical, no emotional vocabulary. Replace 'Anh \u0111\u1ebfn \u0111\u1ec3 gi\u1ea3i ph\u00f3ng em' with something like 'Ng\u1eaft s\u00e2u. N\u00e3o anh ch\u00e1y. K\u1ebft n\u1ed1i \u0111\u1ee9t. Em ng\u1ee7.' Let the magnitude of his choice come through action and silence, not declaration.",
+    "Replace the 10%-20%-30% countdown with something stranger and more specific to this world's lore \u2014 perhaps C\u01b0\u1eddng experiences Lan's fragmented memories as the disconnect happens, or the system glitches and he briefly becomes her, or the nodes die in sequence and each one takes a piece of the world with it in a way that's technically described rather than cinematically.",
+    "Add a moment of genuine temptation where C\u01b0\u1eddng considers the safe option (disconnecting from outside, preserving his brain, finding another way to help Lan later). The outline specifies 'Tuy\u1ec7t v\u1ecdng \u2192 R\u00f5 r\u00e0ng \u2192 Quy\u1ebft \u0111\u1ecbnh' but the chapter jumps from despair to decision without the clarity beat. Show him almost choosing self-preservation before rejecting it \u2014 this would make the sacrifice feel earned rather than inevitable."
+  ],
+  "new_canon_entries": [
+    "C\u01b0\u1eddng wrote the note 'Lan. Ph\u00f2ng 4. St. Vincent.' the night before his first \u0111\u1ed5 b\u1ed9, as a moral anchor to remind himself that a real person was connected to the system",
+    "The seven transmission nodes can be individually monitored for status (ch\u1ebft/dying/nhi\u1ec5u/kh\u00f4ng ph\u1ea3n h\u1ed3i)",
+    "Deep disconnect from within a \u0111\u1ed5 b\u1ed9 state permanently severs the connection between user consciousness and server, potentially allowing the source patient to recover autonomously",
+    "C\u01b0\u1eddng's system has a command for 'ng\u1eaft k\u1ebft n\u1ed1i v\u0129nh vi\u1ec5n t\u1eeb tr\u1ea1ng th\u00e1i \u0111\u1ed5 b\u1ed9 s\u00e2u' with calculated probabilities for brain damage (97.3%), death (89.1%), and patient recovery (12.7%)",
+    "When the virtual world collapses, rendered environments disappear in order of least to most personally significant: Ph\u1ed1 Hoa S\u1eefa first, then Ph\u00f2ng tr\u1ecd s\u1ed1 7, then the c\u0103n g\u00e1c x\u00e9p last"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 16.78,
+    "sentence_length_cv": 0.794,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 0.53,
+    "language": "vi"
+  },
+  "raw_judge_score": 6
+}
