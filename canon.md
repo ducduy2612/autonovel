@@ -365,3 +365,12 @@
 - Phương chạm vào vết thương của Khoa—lần chạm thứ hai—chậm hơn lần trước, 'như cô muốn giữ nhưng không biết giữ bằng gì.' (ch_07)
 - Cụ Sáu: ngư đàn già nhất, chết đuối năm 1962, mặt xạm, tay chai sần từ sáu mươi năm xuyên kim. (ch_07)
 - Chú Tài: ngư đàn trẻ hơn, chết năm 1987, tay nhanh mắt tinh. (ch_07)
+
+
+## From Chapter 8
+- Khu Nhà Trống hiện chỉ còn bảy căn nhà đứng, giảm từ mười bốn (lần Khoa đến đầu) và chín (lần trước). (ch_08)
+- Nhóm mười hai người tụ tập tại Khu Nhà Trống tối hôm sau chuyến vá lưới — bao gồm Luyện, Cô Năm Thảo, Thầy Tuấn, chú Tài, và tám người khác. (ch_08)
+- Luyện biết Khoa có máy vô tuyến — nguồn tin chưa xác định ('Đừng hỏi tui biết từ đâu'). (ch_08)
+- Cụ Ba hỏi Khoa trực tiếp: 'Anh nhìn thấy vì sao?' — lần đầu cụ nói dài hơn hai câu với Khoa. (ch_08)
+- Cô Năm Thảo ủng hộ xuất bản — muốn người ngoài biết tên, mặt, chuyện cô nấu canh chua giỏi nhất làng. (ch_08)
+- Thầy Tuấn phản đối xuất bản — sợ quân sự, bảo tàng, phòng thí nghiệm. (ch_08)
