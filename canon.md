@@ -495,3 +495,11 @@
 - Hoa dặm quanh Khoa chuyển sang xám đục (xám tro), khác xám nhạt quanh người sắp tan biến — dấu hiệu Khoa sắp 'đi' (ch_22)
 - Phương nói 'Tui biết' — xác nhận cô luôn biết sự thật về Bãi Chờ và số phận mình (ch_22)
 - Cụ Ba nhìn Khoa đốt sổ từ Mũi Chờ mà không can ngăn — lần đầu cụ cho phép hành động vi phạm luật (ch_22)
+
+
+## From Chapter 23
+- Hoa dặm quanh nhà người đã tan biến hoàn toàn chuyển sang xám tro (khác xám nhạt của người sắp đi) và không nở lại theo chu kỳ bảy ngày — cánh rụng khô cong cuộn tròn như giấy bị lửa liếm. (ch_23)
+- Khi người tan biến, dân làng quên mặt tên nhưng có thể còn nhớ mùi (thím Hai nhớ 'mùi canh chua ngon lắm' nhưng không nhớ mặt ai). (ch_23)
+- Quần áo Phương để lại trên Bãi Đón: áo bà ba tím, quần lụa, khăn rằn xếp gọn trên cát cách mép nước ba bước. (ch_23)
+- Khoa là người duy nhất còn nhớ Phương sau khi cô tan biến — vì anh sống, ký ức không phụ thuộc phép thuật đảo. (ch_23)
+- Cụ Ba nói trực tiếp với Khoa: 'Không. Anh thả cô.' — lần đầu cụ xác nhận buông tay không phải giết. (ch_23)
