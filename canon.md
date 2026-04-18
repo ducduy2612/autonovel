@@ -474,3 +474,10 @@
 - Cụ Ba cũng sắp đi — hoa dặm quanh chỗ cụ ngồi đã chuyển sang xám nhạt, thế hệ thứ tư đang dần quên lý do thắp hương (Ch 19) (ch_19)
 - Cụ Ba muốn đi nhưng không thể vì quá nhiều người nhớ — 'Lần nào cũng hy vọng người đi là tui. Nhưng người ta nhớ tui quá nhiều.' (Ch 19) (ch_19)
 - Khoa đang 'thuộc về' đảo qua quá trình bị ăn sinh khí — khi hết sinh khí sẽ không đầu thai được (vì chưa chết), chỉ tan vào đảo, thành muối, thành nước giếng (Ch 19) (ch_19)
+
+
+## From Chapter 20
+- Liên gửi một máy thu vô tuyến mini dự phòng giấu dưới gốc phi ao thứ năm (cách gốc dừa chết bảy bước về phía đông), bọc nilon đen buộc dây thun, kèm băng cassettes ghi sẵn tin nhắn. (ch_20)
+- Cụ Ba đập máy vô tuyến chính bằng hòn đá san hô trước khi Khoa chạy đến rừng. (ch_20)
+- Liên xác nhận trên băng: bài báo sẽ ra tuần sau, cả báo in lẫn báo mạng, cùng lúc. (ch_20)
+- Khoa quyết định đêm nay sẽ lấy lại sổ và đốt. (ch_20)
