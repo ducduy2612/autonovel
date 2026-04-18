@@ -503,3 +503,13 @@
 - Quần áo Phương để lại trên Bãi Đón: áo bà ba tím, quần lụa, khăn rằn xếp gọn trên cát cách mép nước ba bước. (ch_23)
 - Khoa là người duy nhất còn nhớ Phương sau khi cô tan biến — vì anh sống, ký ức không phụ thuộc phép thuật đảo. (ch_23)
 - Cụ Ba nói trực tiếp với Khoa: 'Không. Anh thả cô.' — lần đầu cụ xác nhận buông tay không phải giết. (ch_23)
+
+
+## From Chapter 24
+- Vườn bà Năm giờ hoàn toàn bằng phẳng — không còn luống nào, cỏ dại chưa kịp mọc. (ch_24)
+- Nhà trên đảo giảm từ 19 (tháng trước) xuống 18 — một nhà nữa sập từ từ. (ch_24)
+- Nhà Phương đang sập: trần cong xuống ở giữa, cửa nghiêng, bản lề rỉ sét, rong rêu sân gạch. (ch_24)
+- Đũa bả Phương rơi vẫn nằm dưới chân bàn nơi cô đánh rơi tối cuối. (ch_24)
+- Tay trái Khoa đã trong suốt hẳn — nhìn xuyên qua thấy đá, rêu, mây. (ch_24)
+- Đường lên Mũi Chờ dài hơn Khoa nhớ — hoặc anh nhẹ hơn, hoặc cả hai. (ch_24)
+- Khoa không tìm mẹ nữa — chấp nhận bà đầu thai hoặc hết, không thuộc anh. (ch_24)
