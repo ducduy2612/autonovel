@@ -1,0 +1,5 @@
+Trèo lên Mũi Chờ lúc rạng đông, Khoa đối thoại với Cụ Ba—người đã gắn bó với mỏm đá này ba trăm năm. Cụ vén bức màn thật tàn nhẫn về hòn đảo: đây chẳng phải cứu rỗi mà chỉ là "phòng chờ". Linh hồn người chết đuối bị mắc kẹt bởi ký ức của cõi dương; chỉ khi người sống buông bỏ, họ mới được giải thoát để đầu thai. Cụ xác nhận mẹ Khoa chưa từng đến đây (vì chết ở nước ngọt) và đã được thả đi đầu thai từ ba mươi năm trước. 
+
+Tuy nhiên, bi kịch lớn nhất đối với Khoa là sự thật về công việc của mình. Những trang ghi chép anh bỏ công sức ra không cứu vớt ai, mà hóa ra đang giam cầm linh hồn (như Phương) trong trạng thái chờ đợi vô vọng. Hơn thế nữa, bằng cách dùng "sinh khí" để lưu giữ ký ức, Khoa đang dâng hiến sự sống cho đảo. Đảo đang ăn mòn thể xác anh, khiến anh từ từ tan biến thành muối, quá trình ấy được báo hiệu qua bàn tay trong suốt và những bông hoa dặm xám ngoét, vô hương dưới chân.
+
+Đau đớn trước chân lý "nhớ là giam cầm, quên là giải thoát" và tương lai mờ mịt của chính mình cũng như Cụ Ba, Khoa quyết định đứng dậy. Chân trần bước đi trên cát, anh bỏ lại cụ già đơn độc trên phiến đá mòn, đối diện với sự thật rằng cả hai đều đang dần tan biến vào hư vô.

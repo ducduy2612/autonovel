@@ -464,3 +464,13 @@
 - Lúm đồng tiền má trái Phương giờ chỉ còn vết hõm mờ nhạt — tiếp tục mờ từ Ch 5. (ch_18)
 - Hoa dặm quanh nhà Phương toàn bộ đã chuyển sang xám nhạt — không còn cánh trắng nào. (ch_18)
 - Khoa nhận ra rằng mỗi chi tiết anh ghi về Phương không giữ cô mà đổi lấy cô — sinh khí anh truyền vào chữ viết lấy từ chính cơ thể anh. (ch_18)
+
+
+## From Chapter 19
+- Bãi Chờ là 'phòng chờ' — nơi hồn chết đuối bị mắc kẹt bởi ký ức người sống, chờ được quên để được thả (Ch 19) (ch_19)
+- Khi bị quên, đa số người chết đuối đầu thai — trở lại thế gian với mặt khác, tên khác, không mang theo ký ức, ngoại trừ 'cái mặn' — nỗi khát nước không giải thích được ở trẻ sơ sinh (Ch 19) (ch_19)
+- Người bám víu vào bản sắc quá chặt ('tôi là Phương, tôi nấu canh chua, tôi hát ru') không thể buông hình hài cũ — khi tan biến sẽ hết thật sự, không đầu thai, chỉ 'tắt' (Ch 19) (ch_19)
+- Hoa dặm không có mùi khi người sắp đi — khác với người sắp tan biến (Ch 19) (ch_19)
+- Cụ Ba cũng sắp đi — hoa dặm quanh chỗ cụ ngồi đã chuyển sang xám nhạt, thế hệ thứ tư đang dần quên lý do thắp hương (Ch 19) (ch_19)
+- Cụ Ba muốn đi nhưng không thể vì quá nhiều người nhớ — 'Lần nào cũng hy vọng người đi là tui. Nhưng người ta nhớ tui quá nhiều.' (Ch 19) (ch_19)
+- Khoa đang 'thuộc về' đảo qua quá trình bị ăn sinh khí — khi hết sinh khí sẽ không đầu thai được (vì chưa chết), chỉ tan vào đảo, thành muối, thành nước giếng (Ch 19) (ch_19)
