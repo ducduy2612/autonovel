@@ -1,0 +1,5 @@
+Trên Bãi Đón, Khoa đốt cuốn sổ da nâu ghi chép suốt hai năm rưỡi bằng chính sinh khí của mình. Cuốn sổ từng giúp anh níu giữ ký ức người chết nhưng cũng là đường ống hút cạn sinh mạng, khiến cơ thể anh dần trong suốt. Hành động thiêu rụi sổ cắt đứt sự rỉ máu này, nhưng lại khiến hòn đảo "ăn" anh nhanh hơn, trực tiếp.
+
+Phương, giờ chỉ còn là một bóng mờ nhạt sắp tan biến, bước đến nắm lấy bàn tay trong suốt của anh. Khoa bật lên sự thật cay đắng: Bãi Chờ chỉ là phòng chờ, những ai bám víu quá sâu vào bản ngã và ký ức sẽ không thể đầu thai mà sẽ tan biến vĩnh viễn. Thay vì sợ hãi, Phương bình thản chấp nhận số phận, nhận ra việc buông bỏ để "hết" không phải là điều tồi tệ. Xa xa trên Mũi Chờ, Cụ Ba lặng lẽ quan sát, im lặng tôn trọng quyết định của hai người sau ba trăm năm gắn bó với hòn đảo. 
+
+Chương khép lại trong trọn vẹn sự tĩnh lặng của sự ra đi. Những bông hoa dặm quanh hai người hóa xám tro và đánh mất mùi hương – điềm báo cái chết cận kề. Phương mệt mỏi tựa đầu vào vai Khoa. Hai bóng hình đan tay nhau giữa đống tro tàn, lặng lẽ chờ đợi sự tan biến, trong khi ánh đèn đỏ từ thế giới loài người đang từ từ tiến đến gần hơn.

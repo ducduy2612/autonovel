@@ -487,3 +487,11 @@
 - Khoa đã nói chuyện với Cô Năm Thảo ba ngày trước tại vườn nhà cô — cô nói 'Tui ngửi mùi dầu. Từ biển. Mùi không thuộc đảo' rồi im lặng, anh thấy sợ trong cách cô nắm vạt áo bà ba (ch_21)
 - Liên gửi bật lửa nhựa vàng ố cùng máy thu dự phòng — vẫn đánh lửa được dù muối biển ăn mòn vỏ (ch_21)
 - Tàu Meridian có đèn đỏ nhấp nháy trên cột cờ, nhìn thấy từ Bãi Đón ban đêm (ch_21)
+
+
+## From Chapter 22
+- Sổ Khoa cháy trên Bãi Đón đêm Ch 22 — tro bay ra biển, không còn dấu vết (ch_22)
+- Khi sổ cháy, ống dẫn sinh khí đứt — đảo ăn Khoa nhanh hơn, trực tiếp, không qua chữ viết (ch_22)
+- Hoa dặm quanh Khoa chuyển sang xám đục (xám tro), khác xám nhạt quanh người sắp tan biến — dấu hiệu Khoa sắp 'đi' (ch_22)
+- Phương nói 'Tui biết' — xác nhận cô luôn biết sự thật về Bãi Chờ và số phận mình (ch_22)
+- Cụ Ba nhìn Khoa đốt sổ từ Mũi Chờ mà không can ngăn — lần đầu cụ cho phép hành động vi phạm luật (ch_22)

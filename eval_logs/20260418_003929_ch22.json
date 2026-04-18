@@ -1,0 +1,105 @@
+{
+  "voice_adherence": {
+    "score": 6,
+    "weakest_moment": "throwing long shadows on the wet sand",
+    "fix": "Rewrite entirely in Vietnamese: 'chi\u1ebfu b\u00f3ng d\u00e0i tr\u00ean c\u00e1t \u1ea9m' or similar natural phrasing",
+    "note": "The voice is mostly right\u2014long flowing sentences, melancholic tone, body-before-emotion\u2014but English phrases are scattered throughout the chapter, completely breaking immersion. Three separate English intrusions: 'throwing long shadows on the wet sand', 'as holding smoke, nh\u01b0 n\u1eafm s\u01b0\u01a1ng mai', 'against b\u1ea7u tr\u1eddi \u0111\u00eam', and 'intertwined'. These are catastrophic for a Vietnamese novel. The passages without English are solid, sometimes excellent."
+  },
+  "beat_coverage": {
+    "score": 7,
+    "weakest_moment": "Khoa's full exposition to Ph\u01b0\u01a1ng\u2014'B\u00e3i Ch\u1edd l\u00e0 ph\u00f2ng ch\u1edd. Tan bi\u1ebfn l\u00e0 gi\u1ea3i ph\u00f3ng...' reads as a summary bullet list delivered in dialogue rather than a man struggling to confess painful truths",
+    "fix": "Break the revelations across the scene. Let Ph\u01b0\u01a1ng ask follow-up questions. Give Khoa false starts and hesitations. Some truths should emerge through fragments, not a monologue.",
+    "note": "All five beats are present and mostly dramatized. Beat 3 (Khoa tells truth) is the weakest because it reads as organized exposition rather than the emotional confession it should be. A man telling the woman he loves that she might cease to exist entirely wouldn't deliver this information in such a structured, sequential way."
+  },
+  "character_voice": {
+    "score": 6,
+    "weakest_moment": "'B\u00e3i Ch\u1edd l\u00e0 ph\u00f2ng ch\u1edd. Tan bi\u1ebfn l\u00e0 gi\u1ea3i ph\u00f3ng. \u0110a s\u1ed1 ng\u01b0\u1eddi ta \u0111\u1ea7u thai. Tr\u1edf l\u1ea1i, m\u1eb7t kh\u00e1c, t\u00ean kh\u00e1c, kh\u00f4ng nh\u1edb g\u00ec h\u1ebft.' \u2014 This is Khoa lecturing, not Khoa struggling to say something painful",
+    "fix": "Add stumbles, pauses, sentences that trail off. Per character doc: 'Khi x\u00fac \u0111\u1ed9ng, chuy\u1ec3n sang n\u01b0\u1edbc: ch\u00ecm, n\u1ed5i, ng\u1eadp' \u2014 use water metaphors when emotional, not clinical terms like '\u0111a s\u1ed1'. Let his speech break down.",
+    "note": "Ph\u01b0\u01a1ng's voice is the strongest element. Her 'Tui bi\u1ebft' lands perfectly\u2014short, weighted, tr\u00fang. Her final 'Th\u00f4i' is devastating. C\u1ee5 Ba's silence speaks. But Khoa's long speech in beat 3 sounds like a character reading from an encyclopedia rather than a man whose hands are turning transparent as he tells someone they might cease to exist."
+  },
+  "plants_seeded": {
+    "score": 7,
+    "weakest_moment": "Hoa d\u1eb7m turning x\u00e1m is stated directly: 'c\u00e1nh tr\u1eafng chuy\u1ec3n x\u00e1m' rather than shown through Khoa's perception shifting",
+    "fix": "Let Khoa notice the flowers in peripheral vision\u2014colors seeming wrong, washed out\u2014and have the realization creep up rather than be announced",
+    "note": "The payoff of 'hoa kh\u00f4ng m\u00f9i khi ng\u01b0\u1eddi s\u1eafp \u0111i' is well executed. The moment Khoa sniffs and finds nothing is genuinely affecting. The x\u00e1m flowers around Khoa himself work as a plant for his impending dissolution. The lighter from Li\u00ean is a nice callback."
+  },
+  "prose_quality": {
+    "score": 5,
+    "weakest_sentence": "throwing long shadows on the wet sand",
+    "fix": "This is English. Replace with Vietnamese: 'b\u00f3ng hai ng\u01b0\u1eddi \u0111\u1ed5 d\u00e0i tr\u00ean c\u00e1t \u01b0\u1edbt'",
+    "strongest_sentence": "Nh\u01b0ng nh\u1eb9 kh\u00f4ng ph\u1ea3i t\u1ed1t. Nh\u1eb9 l\u00e0 \u0111ang r\u1ed7ng. \u0110ang c\u1ea1n. \u0110ang tr\u1edf th\u00e0nh m\u1ed9t ph\u1ea7n c\u1ee7a c\u00e1t, c\u1ee7a mu\u1ed1i, c\u1ee7a n\u01b0\u1edbc gi\u1ebfng.",
+    "note": "The English intrusions (at least 4 instances) are disqualifying errors. Beyond that: some paragraphs repeat the same opening structure ('Anh nh\u00ecn...' appears frequently). The 'nh\u01b0' similes stack up. But when the prose is good, it's very good\u2014the burning description, the hand-holding through transparency, Ph\u01b0\u01a1ng's final 'Tui m\u1ec7t.'"
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Strong continuity from Ch 21. The lighter, the ship's red light, Khoa's decision to burn the s\u1ed5\u2014all tracked. Ph\u01b0\u01a1ng's fading state is consistent with Ch 18 (only head remaining, l\u00fam \u0111\u1ed3ng ti\u1ec1n gone). The s\u1ed5 was confiscated in Ch 16, Khoa decided to retrieve and burn in Ch 20\u2014the recovery is implied but not shown, a minor gap. Emotional state tracks: Khoa's resignation from the previous chapter carries through."
+  },
+  "canon_compliance": {
+    "score": 8,
+    "violations": [
+      "Minor: Khoa's s\u1ed5 was confiscated by H\u1ed9i \u0110\u1ed3ng in Ch 16; the chapter doesn't address how he recovered it before burning"
+    ],
+    "note": "Magic rules respected: sinh kh\u00ed in the writing, the island 'eating' him, no smell for flowers near the departing, rebirth rules, Ph\u01b0\u01a1ng's danger of 't\u1eaft' if she clings to identity. The detail about his mother dying on freshwater river (not sea) is correctly referenced as reason she can't be on B\u00e3i Ch\u1edd."
+  },
+  "lore_integration": {
+    "score": 7,
+    "weakest_moment": "The lore dump in Khoa's speech to Ph\u01b0\u01a1ng\u2014delivered so systematically it reads like the world bible speaking through a character",
+    "fix": "Let lore emerge through action and sensation rather than declaration. When the s\u1ed5 burns, show the connection severing through physical sensation, not explanation.",
+    "note": "The chapter does strong work with: the burning s\u1ed5 as conduit being severed, the island accelerating its consumption, flowers losing scent. These make the world feel alive and consequential. The Meridian ship as ticking clock works. But the expository dialogue undercuts the integration."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The middle section where Khoa explains everything to Ph\u01b0\u01a1ng\u2014tension flatlines during what should be the emotional peak",
+    "fix": "Shorten his speech drastically. Let Ph\u01b0\u01a1ng's 'Tui bi\u1ebft' come sooner, then let the silence between them do the work. The audience already knows most of this; they need to feel Khoa saying it, not hear him explain it.",
+    "note": "The book-burning scene opens strong. Ph\u01b0\u01a1ng's arrival and simple questions maintain tension. Her 'Tui bi\u1ebft' is a genuine surprise that recontextualizes the scene. The hand-holding through transparent hands is the emotional climax and it delivers. C\u1ee5 Ba watching from the cliff is a perfect silent beat. The ending is quietly devastating."
+  },
+  "three_weakest_sentences": [
+    "throwing long shadows on the wet sand",
+    "Khoa nh\u00ecn xu\u1ed1ng th\u1ea5y l\u1eeda ch\u00e1y d\u01b0\u1edbi m\u01b0\u1eddi ng\u00f3n tay intertwined, th\u1ea5y tro bay xuy\u00ean qua k\u1ebd tay",
+    "b\u00f3ng c\u1ee5 hi\u1ec7n against b\u1ea7u tr\u1eddi \u0111\u00eam"
+  ],
+  "three_strongest_sentences": [
+    "Nh\u01b0ng nh\u1eb9 kh\u00f4ng ph\u1ea3i t\u1ed1t. Nh\u1eb9 l\u00e0 \u0111ang r\u1ed7ng. \u0110ang c\u1ea1n. \u0110ang tr\u1edf th\u00e0nh m\u1ed9t ph\u1ea7n c\u1ee7a c\u00e1t, c\u1ee7a mu\u1ed1i, c\u1ee7a n\u01b0\u1edbc gi\u1ebfng.",
+    "Ba tr\u0103m n\u0103m nh\u00ecn ng\u01b0\u1eddi ta ra \u0111i. Ba tr\u0103m n\u0103m \u0111\u1ebfm ai c\u00f2n, ai m\u1edd, ai s\u1eafp kh\u00f4ng c\u00f2n.",
+    "Ph\u01b0\u01a1ng d\u1ef1a \u0111\u1ea7u v\u00e0o vai anh. \u0110\u1ea7u c\u00f4 n\u1eb7ng, th\u1ef1c, nh\u01b0ng vai anh c\u1ea3m nh\u1eadn nh\u01b0 ng\u01b0\u1eddi \u0111ang t\u1ef1a v\u00e0o s\u01b0\u01a1ng \u2014 c\u00f4 nh\u1eb9, nh\u1eb9 l\u1eafm, nh\u01b0 n\u00e2ng m\u1ed9t t\u1ea5m v\u1ea3i m\u1ecfng."
+  ],
+  "ai_patterns_detected": [
+    "English text mixed into Vietnamese prose (4+ instances) \u2014 likely AI generation artifact where English leaked through",
+    "Khoa's exposition speech is too organized and sequential for an emotional confession",
+    "Some paragraphs follow identical opening structures in sequence",
+    "The simile stack in the hand-holding passage leans on English phrasing ('holding smoke') rather than Vietnamese idiom"
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "prose_quality",
+  "top_3_revisions": [
+    "Remove ALL English text \u2014 rewrite 'throwing long shadows on the wet sand', 'as holding smoke', 'against b\u1ea7u tr\u1eddi \u0111\u00eam', and 'intertwined' into natural Vietnamese. This is non-negotiable.",
+    "Break Khoa's confession to Ph\u01b0\u01a1ng into fragments. Cut the systematic explanation. He should struggle to say this. Let him start sentences he can't finish. Let Ph\u01b0\u01a1ng's questions pull truths out of him one at a time rather than receiving a lecture.",
+    "Show how Khoa recovered the s\u1ed5 between Ch 20's decision and this scene \u2014 even one line would close the continuity gap. Consider having him find it still in H\u1ed9i \u0110\u1ed3ng custody but accessible, adding tension to the retrieval."
+  ],
+  "new_canon_entries": [
+    "S\u1ed5 Khoa ch\u00e1y tr\u00ean B\u00e3i \u0110\u00f3n \u0111\u00eam Ch 22 \u2014 tro bay ra bi\u1ec3n, kh\u00f4ng c\u00f2n d\u1ea5u v\u1ebft",
+    "Khi s\u1ed5 ch\u00e1y, \u1ed1ng d\u1eabn sinh kh\u00ed \u0111\u1ee9t \u2014 \u0111\u1ea3o \u0103n Khoa nhanh h\u01a1n, tr\u1ef1c ti\u1ebfp, kh\u00f4ng qua ch\u1eef vi\u1ebft",
+    "Hoa d\u1eb7m quanh Khoa chuy\u1ec3n sang x\u00e1m \u0111\u1ee5c (x\u00e1m tro), kh\u00e1c x\u00e1m nh\u1ea1t quanh ng\u01b0\u1eddi s\u1eafp tan bi\u1ebfn \u2014 d\u1ea5u hi\u1ec7u Khoa s\u1eafp '\u0111i'",
+    "Ph\u01b0\u01a1ng n\u00f3i 'Tui bi\u1ebft' \u2014 x\u00e1c nh\u1eadn c\u00f4 lu\u00f4n bi\u1ebft s\u1ef1 th\u1eadt v\u1ec1 B\u00e3i Ch\u1edd v\u00e0 s\u1ed1 ph\u1eadn m\u00ecnh",
+    "C\u1ee5 Ba nh\u00ecn Khoa \u0111\u1ed1t s\u1ed5 t\u1eeb M\u0169i Ch\u1edd m\u00e0 kh\u00f4ng can ng\u0103n \u2014 l\u1ea7n \u0111\u1ea7u c\u1ee5 cho ph\u00e9p h\u00e0nh \u0111\u1ed9ng vi ph\u1ea1m lu\u1eadt"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 14.03,
+    "sentence_length_cv": 1.086,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 0.0,
+    "language": "vi",
+    "vi_english_leaks": [],
+    "vi_translation_calques": [],
+    "vi_fiction_ai_tells": [],
+    "vi_telling_violations": 0
+  },
+  "raw_judge_score": 6
+}
