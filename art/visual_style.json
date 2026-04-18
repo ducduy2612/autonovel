@@ -1,18 +1,18 @@
 {
-  "art_style": "A gritty fusion of glitch-art cyberpunk and stark surrealism, blending cold, clinical technological interfaces with fragmented, decaying human anatomy.",
+  "art_style": "Muted ink-wash realism blending Vietnamese folk woodcut aesthetics with spectral, dissolving edges, where figures and landscapes appear half-remembered and slowly fading into blank space.",
   "color_palette": [
-    "Obsidian Black",
-    "Terminal Cyan",
-    "Neural Magenta",
-    "Sensory Deprivation Amber",
-    "Bruised Violet",
-    "Fiber-Optic White"
+    "Faded Indigo",
+    "Salt-stained Ivory",
+    "Damp Sandstone",
+    "Ghostly Kelp Green",
+    "Rusted Iron",
+    "Twilight Charcoal"
   ],
-  "texture": "Heavy digital noise, scanlines, and corrupted pixel blocks tearing into organic, water-stained surfaces.",
-  "mood": "Claustrophobic, disorienting, and hauntingly melancholic.",
-  "reference_artists": "Simon St\u00e5lenhag, Ashley Wood, Francisco de P\u00e1jaro",
-  "cover_concept": "A male figure suspended upside down in the dark fluid of a sensory deprivation tank, his silhouette fraying into glowing cyan data-packets and raw magenta static that bleed into the black borders.",
-  "ornament_concept": "A minimalist horizontal line of cascading binary code that systematically glitches and dissolves into a jagged heartbeat monitor spike.",
-  "scene_break_concept": "A thin, broken fiber-optic cable strand emitting a faint, fading pulse of neon light.",
-  "map_concept": "A topographical tangle of glowing server cables forming the jagged, recognizable coastline of Vietnam, overlaid with translucent, shifting street grids of Sydney."
+  "texture": "Coarse, damp mulberry paper showing faint salt crystallization and water damage at the margins.",
+  "mood": "Melancholic, quiet, and impermanent, capturing the visual weight of slow erosion and things left untended.",
+  "reference_artists": "Takahashi Maho, Tran Nguyen, Pham Huy Thong",
+  "cover_concept": "A weathered wooden boat half-buried in pale, shifting sand, its hull facing a vast, empty sea under a colorless sky, with a single figure standing far in the distance, their edges blurring into the fog.",
+  "ornament_concept": "Small, minimalist silhouettes of coastal flora bending in unseen winds, gradually dissolving into scattered dots or bare, skeletal lines.",
+  "scene_break_concept": "A single, faint horizontal brushstroke of uneven thickness, resembling a tide line left on a shore after the water has receded.",
+  "map_concept": "A delicate, incomplete ink chart of a shrinking coastline drawn on water-stained parchment, featuring subtle, dashed-line boundaries that physically fade into the blank ocean."
 }

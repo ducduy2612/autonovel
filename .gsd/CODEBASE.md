@@ -1,7 +1,7 @@
 # Codebase Map
 
-Generated: 2026-04-17T20:06:39Z | Files: 86 | Described: 0/86
-<!-- gsd:codebase-meta {"generatedAt":"2026-04-17T20:06:39Z","fingerprint":"6f07fbb03daf1d085e0e4ff4873f07230f3bda29","fileCount":86,"truncated":false} -->
+Generated: 2026-04-18T06:43:54Z | Files: 168 | Described: 0/168
+<!-- gsd:codebase-meta {"generatedAt":"2026-04-18T06:43:54Z","fingerprint":"b003ff8c519b049828c1acd303df855498c35675","fileCount":168,"truncated":false} -->
 
 ### (root)/
 - *(60 files: 38 .py, 13 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
@@ -15,17 +15,10 @@ Generated: 2026-04-17T20:06:39Z | Files: 86 | Described: 0/86
 - `art/variants/ornament_directions.json`
 
 ### chapters/
-- `chapters/.gitkeep`
-- `chapters/ch_01.md`
-- `chapters/ch_02.md`
+- *(25 files: 24 .md, 1 (no ext))*
 
 ### eval_logs/
-- `eval_logs/20260417_180610_foundation.json`
-- `eval_logs/20260417_181855_foundation.json`
-- `eval_logs/20260417_182910_foundation.json`
-- `eval_logs/20260417_184140_ch01.json`
-- `eval_logs/20260417_195305_ch02.json`
-- `eval_logs/20260417_195900_ch02.json`
+- *(44 files: 44 .json)*
 
 ### landing/
 - `landing/index.html`
@@ -34,8 +27,7 @@ Generated: 2026-04-17T20:06:39Z | Files: 86 | Described: 0/86
 - `scripts/verify_vi_pipeline.sh`
 
 ### summaries/
-- `summaries/summary_01.md`
-- `summaries/summary_02.md`
+- *(24 files: 24 .md)*
 
 ### typeset/
 - `typeset/build_tex.py`

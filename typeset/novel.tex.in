@@ -13,7 +13,7 @@
 
 % === FONTS ===
 \usepackage{fontspec}
-\setmainfont{Noto Serif}[
+\setmainfont{Alegreya}[
   Ligatures=TeX,
 ]
 
@@ -185,6 +185,17 @@
 \clearpage
 
 {{EPIGRAPH_BLOCK}}
+
+% Map (frontispiece before main text)
+\IfFileExists{../art/map.png}{%
+  \thispagestyle{empty}
+  \vspace*{\fill}
+  \begin{center}
+  \includegraphics[width=\textwidth]{../art/map.png}%
+  \end{center}
+  \vspace*{\fill}
+  \clearpage
+}{}
 
 % Blank verso before main text
 \thispagestyle{empty}

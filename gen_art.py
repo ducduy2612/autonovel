@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
-Generate novel art via Google Gemini (Nano Banana 2).
+Generate novel art via Cloudflare Workers AI (Flux 2 Dev).
 
-Uses GEMINI_API_KEY. Model configured via AUTONOVEL_IMAGE_MODEL in .env.
+Uses CLOUDFLARE_API_KEY and CLOUDFLARE_ACCOUNT_ID from .env.
+Model: @cf/black-forest-labs/flux-2-dev
 
 Chapter ornaments use atmospheric scenes with characters as compositional
 elements (silhouettes, back views, hands) — never faces — for visual
@@ -26,6 +27,9 @@ Post-processing:
 
 Full pipeline:
   python gen_art.py all                      # style → curate → batch → vectorize
+
+Safety:
+  python gen_art.py archive                  # Zip current art/ to art/archive/<ts>.zip
 """
 import os
 import sys
@@ -36,14 +40,17 @@ import shutil
 import argparse
 import subprocess
 import base64
+import zipfile
+from datetime import datetime
 from pathlib import Path
 from dotenv import load_dotenv
 
 BASE_DIR = Path(__file__).parent
 load_dotenv(BASE_DIR / ".env", override=True)
 
-GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "")
-IMAGE_MODEL = os.environ.get("AUTONOVEL_IMAGE_MODEL", "gemini-2.5-flash-image")
+CF_API_KEY = os.environ.get("CLOUDFLARE_API_KEY", "")
+CF_ACCOUNT_ID = os.environ.get("CLOUDFLARE_ACCOUNT_ID", "")
+FLUX_MODEL = "@cf/black-forest-labs/flux-2-dev"
 
 ART_DIR = BASE_DIR / "art"
 VARIANTS_DIR = ART_DIR / "variants"
@@ -57,91 +64,181 @@ ANTHROPIC_BASE = os.environ.get("AUTONOVEL_API_BASE_URL", "https://api.anthropic
 
 
 # ============================================================
-# API HELPERS — Google Gemini image generation
+# API HELPERS — Cloudflare Workers AI (Flux 2 Dev)
 # ============================================================
 
-_ASPECT_MAP = {
-    "auto": "1:1",
-    "2:3": "9:16",
-    "1:1": "1:1",
-    "4:3": "4:3",
-    "4:1": "16:9",
-    "16:9": "16:9",
-    "3:4": "3:4",
-    "9:16": "9:16",
+# Map aspect ratio labels to pixel dimensions for Flux.
+# Flux generates up to ~4 megapixels; keep within reasonable bounds.
+# Neuron budget: 10k/day. Pricing is per 512×512 tile per step:
+#   18.75 neurons per INPUT tile per step (image edit mode)
+#   37.50 neurons per OUTPUT tile per step
+# All sizes aligned to multiples of 512 for predictable tile counts.
+# Steps reduced from 25 to 12 — still good quality for Flux 2 Dev.
+_ART_STEPS = 5
+
+_ASPECT_SIZES = {
+    "auto": (512, 512),
+    "1:1": (512, 512),      # 1 tile — 37.5n/step
+    "2:3": (512, 768),      # 1×1.5 tiles — 56.25n/step
+    "3:4": (512, 768),      # same
+    "4:3": (512, 512),      # crop later if needed — 1 tile
+    "4:1": (512, 256),      # <1 tile — 37.5n/step
+    "16:9": (512, 288),     # <1 tile — 37.5n/step
+    "9:16": (512, 768),     # 1.5 tiles — 56.25n/step
 }
 
-
-def _gemini_client():
-    """Lazy-init the Gemini client (google-genai SDK)."""
-    from google import genai
-    return genai.Client(api_key=GEMINI_KEY)
-
-
-def gemini_generate(prompt, resolution="1K", aspect_ratio="auto", seed=None):
-    """Generate an image from a text prompt. Returns (data_uri, description)."""
-    from google.genai import types
-
-    client = _gemini_client()
-
-    response = client.models.generate_content(
-        model=IMAGE_MODEL,
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            response_modalities=["IMAGE"],
-        ),
-    )
-
-    for part in response.candidates[0].content.parts:
-        if part.inline_data is not None:
-            b64 = base64.b64encode(part.inline_data.data).decode("ascii")
-            mime = part.inline_data.mime_type or "image/png"
-            return f"data:{mime};base64,{b64}", ""
-
-    raise RuntimeError("Gemini returned no image data")
+FLUX_URL = (
+    f"https://api.cloudflare.com/client/v4/accounts/{CF_ACCOUNT_ID}"
+    f"/ai/run/{FLUX_MODEL}"
+)
 
 
-def gemini_edit(prompt, image_paths, resolution="1K", aspect_ratio="1:1", seed=None):
-    """Generate an image using reference image(s). Returns (data_uri, description)."""
-    from google.genai import types
+def _resolve_size(aspect_ratio, resolution="1K"):
+    """Return (width, height) from an aspect ratio label.
+
+    All base sizes are already aligned to 512px multiples.
+    The 'resolution' param is accepted for backward compat but unused.
+    """
+    base_w, base_h = _ASPECT_SIZES.get(aspect_ratio, (512, 512))
+    return base_w, base_h
+
+
+NEURON_BUDGET_DAILY = int(os.environ.get("AUTONOVEL_NEURON_BUDGET", "10000"))
+_neuron_session_used = 0  # track within this process invocation
+
+
+def _estimate_neurons(width, height, steps, has_input_images=False):
+    """Estimate neuron cost for a single generation call.
+
+    Pricing per step:
+      18.75 neurons per INPUT 512x512 tile
+      37.50 neurons per OUTPUT 512x512 tile
+    Tiles are ceil(dim / 512).
+    """
+    import math
+    out_tiles = math.ceil(width / 512) * math.ceil(height / 512)
+    cost_per_step = 37.50 * out_tiles
+    if has_input_images:
+        in_tiles = math.ceil(width / 512) * math.ceil(height / 512)
+        cost_per_step += 18.75 * in_tiles
+    return cost_per_step * steps
+
+
+def _check_budget(cost, label=""):
+    """Warn if this operation would exceed the daily neuron budget."""
+    global _neuron_session_used
+    remaining = NEURON_BUDGET_DAILY - _neuron_session_used
+    if cost > remaining:
+        print(f"\n  ⚠ BUDGET WARNING: {label} costs ~{cost:,.0f} neurons "
+              f"but only {remaining:,} remaining today "
+              f"(budget: {NEURON_BUDGET_DAILY:,}, used: {_neuron_session_used:,})")
+        return False
+    return True
+
+
+def _spend_neurons(cost):
+    """Record neuron spend after a successful API call."""
+    global _neuron_session_used
+    _neuron_session_used += cost
+
+
+def _read_image_bytes(img_path):
+    """Read raw bytes from a file path, data URI, or URL."""
+    if isinstance(img_path, str) and img_path.startswith("data:"):
+        _, b64data = img_path.split(",", 1)
+        return base64.b64decode(b64data)
+    p = Path(img_path)
+    if p.exists():
+        return p.read_bytes()
+    import httpx
+    resp = httpx.get(str(img_path), timeout=None, follow_redirects=True)
+    resp.raise_for_status()
+    return resp.content
+
+
+def flux_generate(prompt, resolution="1K", aspect_ratio="auto", seed=None):
+    """Generate an image from a text prompt via Cloudflare Flux.
+
+    Returns (data_uri, description).
+    """
     import httpx
 
-    client = _gemini_client()
+    width, height = _resolve_size(aspect_ratio, resolution)
+    cost = _estimate_neurons(width, height, _ART_STEPS, has_input_images=False)
+    _check_budget(cost, f"generate {width}×{height}")
+    print(f"    [~{cost:,.0f} neurons, {width}×{height}, {_ART_STEPS} steps]", end="")
 
-    contents = []
-    for img_path in image_paths:
-        if isinstance(img_path, str) and img_path.startswith("data:"):
-            _, b64data = img_path.split(",", 1)
-            img_bytes = base64.b64decode(b64data)
-        elif isinstance(img_path, (str, Path)):
-            p = Path(img_path)
-            if p.exists():
-                img_bytes = p.read_bytes()
-            else:
-                resp = httpx.get(str(img_path), timeout=None, follow_redirects=True)
-                resp.raise_for_status()
-                img_bytes = resp.content
-        else:
-            continue
-        contents.append(types.Part.from_bytes(data=img_bytes, mime_type="image/png"))
+    fields = {
+        "prompt": (None, prompt),
+        "width": (None, str(width)),
+        "height": (None, str(height)),
+        "steps": (None, str(_ART_STEPS)),
+    }
+    if seed is not None:
+        fields["seed"] = (None, str(seed))
 
-    contents.append(prompt)
-
-    response = client.models.generate_content(
-        model=IMAGE_MODEL,
-        contents=contents,
-        config=types.GenerateContentConfig(
-            response_modalities=["IMAGE"],
-        ),
+    resp = httpx.post(
+        FLUX_URL,
+        headers={"Authorization": f"Bearer {CF_API_KEY}"},
+        files=fields,
+        timeout=120,
     )
+    resp.raise_for_status()
+    data = resp.json()
 
-    for part in response.candidates[0].content.parts:
-        if part.inline_data is not None:
-            b64 = base64.b64encode(part.inline_data.data).decode("ascii")
-            mime = part.inline_data.mime_type or "image/png"
-            return f"data:{mime};base64,{b64}", ""
+    # Cloudflare wraps in {"success": true, "result": {"image": "<b64>"}}
+    image_b64 = data.get("result", {}).get("image") or data.get("image", "")
+    if not image_b64:
+        errors = data.get("errors", [])
+        raise RuntimeError(f"Flux API error: {errors or data}")
 
-    raise RuntimeError("Gemini returned no image data")
+    _spend_neurons(cost)
+    return f"data:image/png;base64,{image_b64}", ""
+
+
+def flux_edit(prompt, image_paths, resolution="1K", aspect_ratio="1:1", seed=None):
+    """Generate an image using reference image(s) via Flux multi-reference.
+
+    Flux accepts up to 4 input images as input_image_0..input_image_3.
+    Each image must be <= 512x512 pixels.
+    Returns (data_uri, description).
+    """
+    import httpx
+
+    width, height = _resolve_size(aspect_ratio, resolution)
+    cost = _estimate_neurons(width, height, _ART_STEPS, has_input_images=True)
+    _check_budget(cost, f"edit {width}×{height}")
+    print(f"    [~{cost:,.0f} neurons, {width}×{height}, {_ART_STEPS} steps, +ref]", end="")
+
+    fields = {
+        "prompt": (None, prompt),
+        "width": (None, str(width)),
+        "height": (None, str(height)),
+        "steps": (None, str(_ART_STEPS)),
+    }
+    if seed is not None:
+        fields["seed"] = (None, str(seed))
+
+    for idx, img_path in enumerate(image_paths[:4]):
+        img_bytes = _read_image_bytes(img_path)
+        fields[f"input_image_{idx}"] = ("reference.png", img_bytes, "image/png")
+
+    resp = httpx.post(
+        FLUX_URL,
+        headers={"Authorization": f"Bearer {CF_API_KEY}"},
+        files=fields,
+        timeout=120,
+    )
+    resp.raise_for_status()
+    data = resp.json()
+
+    image_b64 = data.get("result", {}).get("image") or data.get("image", "")
+    if not image_b64:
+        errors = data.get("errors", [])
+        raise RuntimeError(f"Flux API error: {errors or data}")
+
+    _spend_neurons(cost)
+    return f"data:image/png;base64,{image_b64}", ""
 
 
 def download_image(url_or_data_uri, dest_path):
@@ -286,9 +383,9 @@ def cmd_curate(args):
     # Resolution/aspect per type
     resolutions = {
         "cover": ("1K", "2:3"),
-        "ornament": ("0.5K", "1:1"),
-        "map": ("1K", "4:3"),
-        "scene-break": ("0.5K", "4:1"),
+        "ornament": ("1K", "1:1"),
+        "map": ("1K", "1:1"),
+        "scene-break": ("1K", "4:1"),
     }
     resolution, aspect = resolutions.get(art_type, ("1K", "auto"))
 
@@ -306,7 +403,7 @@ def cmd_curate(args):
         print(f"\n  [{i}/{n}] {label.upper()}: {d.get('concept', '')[:80]}")
         print(f"    Medium: {d.get('medium', 'N/A')}")
 
-        url, desc = gemini_generate(prompt, resolution=resolution, aspect_ratio=aspect)
+        url, desc = flux_generate(prompt, resolution=resolution, aspect_ratio=aspect)
         dest = VARIANTS_DIR / f"{art_type}_{i:02d}.png"
         size = download_image(url, dest)
 
@@ -369,6 +466,50 @@ def _extract_geography(world_text):
     if locations:
         return ", ".join(locations[:15])
     return "the main city districts and landmarks described in the world bible"
+
+
+def cmd_budget(args):
+    """Show neuron budget status and cost estimates for each operation."""
+    n_chapters = len(sorted(BASE_DIR.glob("chapters/ch_*.md")))
+    n_cover = 4  # default --n for cover curate
+    n_ornament = 4
+    n_map = 3
+
+    # Per-operation costs with current sizes and steps
+    cover_cost = _estimate_neurons(512, 768, _ART_STEPS, False)
+    ornament_cost = _estimate_neurons(512, 512, _ART_STEPS, False)
+    ornament_edit_cost = _estimate_neurons(512, 512, _ART_STEPS, True)
+    scene_break_cost = _estimate_neurons(512, 256, _ART_STEPS, False)
+    map_cost = _estimate_neurons(512, 512, _ART_STEPS, False)
+
+    total = (
+        n_cover * cover_cost +
+        n_ornament * ornament_cost +
+        n_chapters * ornament_edit_cost +
+        scene_break_cost +
+        n_map * map_cost
+    )
+
+    print(f"Neuron budget: {NEURON_BUDGET_DAILY:,}/day")
+    print(f"Session used:  {_neuron_session_used:,}")
+    print(f"Remaining:     {NEURON_BUDGET_DAILY - _neuron_session_used:,}\n")
+
+    print(f"Per-operation costs ({_ART_STEPS} steps):")
+    print(f"  cover (512×768):           {cover_cost:>8,.0f} neurons")
+    print(f"  ornament (512×512):        {ornament_cost:>8,.0f} neurons")
+    print(f"  ornament +ref (512×512):   {ornament_edit_cost:>8,.0f} neurons")
+    print(f"  scene-break (512×256):     {scene_break_cost:>8,.0f} neurons")
+    print(f"  map (512×512):             {map_cost:>8,.0f} neurons")
+
+    print(f"\nFull pipeline estimate ({n_chapters} chapters):")
+    print(f"  {n_cover} cover variants:       {n_cover * cover_cost:>8,.0f}")
+    print(f"  {n_ornament} ornament variants:   {n_ornament * ornament_cost:>8,.0f}")
+    print(f"  {n_chapters} chapter ornaments:   {n_chapters * ornament_edit_cost:>8,.0f}")
+    print(f"  1 scene break:          {scene_break_cost:>8,.0f}")
+    print(f"  {n_map} map variants:         {n_map * map_cost:>8,.0f}")
+    print(f"  {'─'*30}")
+    print(f"  TOTAL:                  {total:>8,.0f} neurons")
+    print(f"  Days needed:            {total / NEURON_BUDGET_DAILY:.1f} days")
 
 
 # ============================================================
@@ -505,9 +646,6 @@ def _build_scene_prompt(title, chapter_text, style):
     """
     characters = _detect_characters_in_chapter(chapter_text)
 
-    # Extract a brief scene hint from the first ~500 words of the chapter
-    snippet = chapter_text[:2000]
-
     # Build character presence description (silhouette-safe)
     char_desc = ""
     if characters:
@@ -573,9 +711,9 @@ def cmd_ornaments_all(args):
         print(f"  Ch {num}: '{title}' chars={char_names}", end="", flush=True)
 
         if ref_path:
-            url, _ = gemini_edit(prompt, [ref_path], resolution="0.5K", aspect_ratio="1:1")
+            url, _ = flux_edit(prompt, [ref_path], resolution="1K", aspect_ratio="1:1")
         else:
-            url, _ = gemini_generate(prompt, resolution="0.5K", aspect_ratio="1:1")
+            url, _ = flux_generate(prompt, resolution="1K", aspect_ratio="1:1")
 
         dest = ART_DIR / f"ornament_ch{num:02d}.png"
         size = download_image(url, dest)
@@ -590,7 +728,7 @@ def cmd_scene_break(args):
         f"Style: {style['art_style']}. Very simple. White background. No text."
     )
     print("Generating scene break...")
-    url, _ = gemini_generate(prompt, resolution="0.5K", aspect_ratio="4:1")
+    url, _ = flux_generate(prompt, resolution="1K", aspect_ratio="4:1")
     dest = ART_DIR / "scene_break.png"
     size = download_image(url, dest)
     print(f"  Saved: {dest} ({size:,} bytes)")
@@ -669,6 +807,9 @@ def cmd_all(args):
     print("AUTONOVEL ART PIPELINE (interactive)")
     print("=" * 60)
 
+    print("\n--- Step 0: Archive existing art ---")
+    cmd_archive(args)
+
     print("\n--- Step 1: Visual Style ---")
     if not STYLE_FILE.exists():
         cmd_style(args)
@@ -723,11 +864,53 @@ def cmd_all(args):
 
 
 # ============================================================
+# ARCHIVE: zip current art/ before regenerating
+# ============================================================
+
+def cmd_archive(args):
+    """Zip the entire art/ directory to art/archive/<timestamp>.zip."""
+    if not ART_DIR.exists() or not any(ART_DIR.iterdir()):
+        print("Nothing to archive — art/ is empty or missing.")
+        return
+
+    archive_dir = ART_DIR / "archive"
+    archive_dir.mkdir(parents=True, exist_ok=True)
+
+    ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+    zip_path = archive_dir / f"art_{ts}.zip"
+
+    file_count = 0
+    total_bytes = 0
+    with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zf:
+        for f in sorted(ART_DIR.rglob("*")):
+            # Skip the archive directory itself and test files
+            if archive_dir in f.parents or f == archive_dir:
+                continue
+            if not f.is_file():
+                continue
+            if f.suffix == ".zip" and f.parent == archive_dir:
+                continue
+            arcname = f.relative_to(ART_DIR)
+            zf.write(f, arcname)
+            file_count += 1
+            total_bytes += f.stat().st_size
+
+    if file_count == 0:
+        zip_path.unlink(missing_ok=True)
+        print("Nothing to archive — no files found.")
+        return
+
+    zip_size = zip_path.stat().st_size
+    print(f"Archived {file_count} files ({total_bytes:,} bytes) → {zip_path} ({zip_size:,} bytes compressed)")
+    return str(zip_path)
+
+
+# ============================================================
 # MAIN
 # ============================================================
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate novel art via Google Gemini")
+    parser = argparse.ArgumentParser(description="Generate novel art via Cloudflare Flux")
     sub = parser.add_subparsers(dest="command")
 
     sub.add_parser("style", help="Derive visual style from world + voice")
@@ -748,14 +931,21 @@ def main():
 
     sub.add_parser("all", help="Full pipeline with human curation points")
 
+    sub.add_parser("archive", help="Zip current art/ to art/archive/<timestamp>.zip")
+
+    sub.add_parser("budget", help="Show neuron budget and cost estimates")
+
     args = parser.parse_args()
 
     if not args.command:
         parser.print_help()
         return
 
-    if not GEMINI_KEY and args.command not in ("vectorize",):
-        print("ERROR: GEMINI_API_KEY not set in .env", file=sys.stderr)
+    if not CF_API_KEY and args.command not in ("vectorize", "archive", "budget"):
+        print("ERROR: CLOUDFLARE_API_KEY not set in .env", file=sys.stderr)
+        sys.exit(1)
+    if not CF_ACCOUNT_ID and args.command not in ("vectorize", "archive", "budget"):
+        print("ERROR: CLOUDFLARE_ACCOUNT_ID not set in .env", file=sys.stderr)
         sys.exit(1)
 
     ART_DIR.mkdir(exist_ok=True)
@@ -768,6 +958,8 @@ def main():
         "scene-break": cmd_scene_break,
         "vectorize": cmd_vectorize,
         "all": cmd_all,
+        "archive": cmd_archive,
+        "budget": cmd_budget,
     }
 
     commands[args.command](args)

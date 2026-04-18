@@ -1,34 +1,34 @@
 [
   {
     "num": 1,
-    "direction": "macro",
-    "concept": "A microscopic cross-section of an artificial tear duct leaking fiber-optic cables and dead pixels into a metallic eye socket.",
-    "medium": "Gritty impasto oil painting",
+    "direction": "typographic",
+    "concept": "The novel's title and a scattering of poetic fragments are formed from actively dissolving Vietnamese brush calligraphy, sweeping across the cover like fading memories.",
+    "medium": "Digital ink-wash collage",
     "file": "cover_01.png",
-    "size": 1154552
+    "size": 447050
   },
   {
     "num": 2,
-    "direction": "atmospheric",
-    "concept": "A vast, decaying server-farm necropolis where massive cooling towers exhale toxic amber mist into a glitching, desolate landscape.",
-    "medium": "Digital matte painting",
+    "direction": "macabre",
+    "concept": "A close-up of an intricately carved wooden spirit mask slowly being consumed by luminous, ghostly kelp green barnacles and damp sandstone erosion.",
+    "medium": "Traditional woodcut print",
     "file": "cover_02.png",
-    "size": 835869
+    "size": 863096
   },
   {
     "num": 3,
-    "direction": "symbolic",
-    "concept": "A shattered anatomical heart reconstructed using tangled network cables, hovering over a clinical steel examination tray.",
-    "medium": "Constructivist collage",
+    "direction": "atmospheric",
+    "concept": "A vast aerial view of a flooded, labyrinthine rice terrace reflecting an empty sky, completely devoid of human presence.",
+    "medium": "Oil painting",
     "file": "cover_03.png",
-    "size": 924658
+    "size": 582366
   },
   {
     "num": 4,
     "direction": "abstract",
-    "concept": "A pure waveform visualization of a dying human consciousness depicted as jagged, decaying audio peaks.",
-    "medium": "Cyanotype and linocut",
+    "concept": "A minimalist, topographical cross-section of a dense jungle floor, where the root systems of an ancient banyan tree are rendered as hollow, bleeding silhouettes.",
+    "medium": "Ink wash and pure abstract",
     "file": "cover_04.png",
-    "size": 1355151
+    "size": 582040
   }
 ]

@@ -5,12 +5,12 @@
 # Title broken into display lines (centered on title page).
 # Each entry has a LaTeX font size and the text.
 title_lines:
-  - Huge: "Điểm Chạm"
+  - Huge: "Đảo"
   - small: "của"
-  - Huge: "Kẻ Điên"
+  - Huge: "Những Người Mới Chết"
 
 # Short form (used in half-title page, PDF metadata, running headers)
-title_short: "Điểm Chạm Của Kẻ Điên"
+title_short: "Đảo Của Những Người Mới Chết"
 
 # Author name (title page + PDF metadata)
 author: "Duy Tom"
@@ -26,9 +26,9 @@ copyright:
   notice: "This is a work of fiction. All characters, events, and locales are products of the author's imagination or are used fictitiously. Any resemblance to actual persons, living or dead, or actual events is purely coincidental."
   created_by: "created by Zhibu Agent."
   url: "https://nousresearch.com"
-  url_qr_image: "../art/variants/ornament_03.png"
-  logo_image: "../art/variants/ornament_01.png
+  url_qr_image: "../art/variants/ornament_01.png"
+  logo_image: "../art/ornament_reference.png"
 
 # PDF subject tag
-pdf_subject: "Cyber"
+pdf_subject: "ghost"
 ...

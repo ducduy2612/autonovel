@@ -13,7 +13,7 @@
 
 % === FONTS ===
 \usepackage{fontspec}
-\setmainfont{Noto Serif}[
+\setmainfont{Alegreya}[
   Ligatures=TeX,
 ]
 
@@ -38,7 +38,7 @@
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
-\fancyhead[LE]{\small\textsc{điểm chạm của kẻ điên}}
+\fancyhead[LE]{\small\textsc{đảo của những người mới chết}}
 \fancyhead[RO]{\small\textit{\leftmark}}
 \fancyfoot[C]{\thepage}
 \renewcommand{\headrulewidth}{0pt}
@@ -87,9 +87,9 @@
   \begin{center}
   \vspace*{2in}
   
-  {\Huge\textsc{Điểm Chạm}}\\[0.15in]
+  {\Huge\textsc{Đảo}}\\[0.15in]
   {\small\textsc{của}}\\[0.15in]
-  {\Huge\textsc{Kẻ Điên}}\\[0.15in]
+  {\Huge\textsc{Những Người Mới Chết}}\\[0.15in]
 
   {\small------\quad$\diamond$\quad------}\\[0.5in]
   
@@ -122,7 +122,7 @@
   \thispagestyle{empty}
   \vspace*{3in}
   \begin{center}
-  {\large\textsc{Điểm Chạm Của Kẻ Điên}}
+  {\large\textsc{Đảo Của Những Người Mới Chết}}
   \end{center}
   \clearpage
 }
@@ -130,9 +130,9 @@
 % === PDF METADATA ===
 \usepackage{hyperref}
 \hypersetup{
-  pdftitle={Điểm Chạm Của Kẻ Điên},
+  pdftitle={Đảo Của Những Người Mới Chết},
   pdfauthor={Duy Tom},
-  pdfsubject={Cyber},
+  pdfsubject={ghost},
   hidelinks
 }
 
@@ -174,15 +174,15 @@
 
 {\small\texttt{https://nousresearch.com}}\\[16pt]
 
-\IfFileExists{../art/variants/ornament_03.png}{%
-  \includegraphics[width=1in]{../art/variants/ornament_03.png}
+\IfFileExists{../art/variants/ornament_01.png}{%
+  \includegraphics[width=1in]{../art/variants/ornament_01.png}
 }{}
 
 \end{center}
 \vspace*{\fill}
 \begin{center}
-\IfFileExists{../art/variants/ornament_01.png}{%
-  \includegraphics[width=0.8in]{../art/variants/ornament_01.png}
+\IfFileExists{../art/ornament_reference.png}{%
+  \includegraphics[width=0.8in]{../art/ornament_reference.png}
 }{}
 \end{center}
 \vspace{0.3in}
@@ -192,6 +192,17 @@
 \makeepigraph
 
 
+
+% Map (frontispiece before main text)
+\IfFileExists{../art/map.png}{%
+  \thispagestyle{empty}
+  \vspace*{\fill}
+  \begin{center}
+  \includegraphics[width=\textwidth]{../art/map.png}%
+  \end{center}
+  \vspace*{\fill}
+  \clearpage
+}{}
 
 % Blank verso before main text
 \thispagestyle{empty}

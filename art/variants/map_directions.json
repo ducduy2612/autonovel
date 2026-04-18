@@ -1,0 +1,26 @@
+[
+  {
+    "num": 1,
+    "direction": "Traditional parchment fantasy map",
+    "concept": "Labeled, full color, detailed",
+    "medium": "Watercolor and ink on ancient, water-stained parchment",
+    "file": "map_01.png",
+    "size": 195020
+  },
+  {
+    "num": 2,
+    "direction": "Acoustic/scientific diagram",
+    "concept": "Unlabeled, black and white, schematic",
+    "medium": "Technical schematic print on weathered vellum",
+    "file": "map_02.png",
+    "size": 183707
+  },
+  {
+    "num": 3,
+    "direction": "Birds-eye illustration",
+    "concept": "Symbolically coded, sepia, impressionistic",
+    "medium": "Ink-wash and charcoal panoramic birds-eye view",
+    "file": "map_03.png",
+    "size": 199741
+  }
+]

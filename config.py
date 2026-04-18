@@ -26,6 +26,8 @@ load_dotenv(BASE_DIR / ".env")
 API_KEY: str = os.environ.get("ANTHROPIC_API_KEY", "")
 GEMINI_KEY: str = os.environ.get("GEMINI_API_KEY", "")
 ELEVENLABS_KEY: str = os.environ.get("ELEVENLABS_API_KEY", "")
+CF_API_KEY: str = os.environ.get("CLOUDFLARE_API_KEY", "")
+CF_ACCOUNT_ID: str = os.environ.get("CLOUDFLARE_ACCOUNT_ID", "")
 
 # ---------------------------------------------------------------------------
 # Model names
