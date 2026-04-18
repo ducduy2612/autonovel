@@ -481,3 +481,9 @@
 - Cụ Ba đập máy vô tuyến chính bằng hòn đá san hô trước khi Khoa chạy đến rừng. (ch_20)
 - Liên xác nhận trên băng: bài báo sẽ ra tuần sau, cả báo in lẫn báo mạng, cùng lúc. (ch_20)
 - Khoa quyết định đêm nay sẽ lấy lại sổ và đốt. (ch_20)
+
+
+## From Chapter 21
+- Khoa đã nói chuyện với Cô Năm Thảo ba ngày trước tại vườn nhà cô — cô nói 'Tui ngửi mùi dầu. Từ biển. Mùi không thuộc đảo' rồi im lặng, anh thấy sợ trong cách cô nắm vạt áo bà ba (ch_21)
+- Liên gửi bật lửa nhựa vàng ố cùng máy thu dự phòng — vẫn đánh lửa được dù muối biển ăn mòn vỏ (ch_21)
+- Tàu Meridian có đèn đỏ nhấp nháy trên cột cờ, nhìn thấy từ Bãi Đón ban đêm (ch_21)
