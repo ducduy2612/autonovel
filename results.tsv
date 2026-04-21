@@ -263,3 +263,4 @@ discarded	ch24	-1.0	2866	discard	Chapter 24 attempt 1
 aa0da85	ch24	6.0	2513	keep	Chapter 24 (attempt 2)
 reverted	rev-ch05	6.19	2092	discard	Cycle 1: cut_candidate regressed 7.0->6.19
 994a32b	rev-ch12	6.0	1423	keep	Cycle 1: cut_candidate improved -1.0->6.0
+ebc6c79	rev-ch20	6.65	3215	keep	Cycle 1: thinnest_character improved 6.0->6.65
