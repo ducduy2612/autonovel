@@ -1,7 +1,7 @@
 # Codebase Map
 
-Generated: 2026-04-21T18:14:08Z | Files: 194 | Described: 0/194
-<!-- gsd:codebase-meta {"generatedAt":"2026-04-21T18:14:08Z","fingerprint":"3eff821be5e4d08bd0f8abe7b58734b160e5e0e3","fileCount":194,"truncated":false} -->
+Generated: 2026-04-21T18:17:33Z | Files: 195 | Described: 0/195
+<!-- gsd:codebase-meta {"generatedAt":"2026-04-21T18:17:33Z","fingerprint":"728acc6a1c55205bb163916a0f776d723632b8d2","fileCount":195,"truncated":false} -->
 
 ### (root)/
 - *(62 files: 38 .py, 15 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
@@ -37,7 +37,7 @@ Generated: 2026-04-21T18:14:08Z | Files: 194 | Described: 0/194
 - `edit_logs/reader_panel.json`
 
 ### eval_logs/
-- *(52 files: 52 .json)*
+- *(53 files: 53 .json)*
 
 ### landing/
 - `landing/index.html`
