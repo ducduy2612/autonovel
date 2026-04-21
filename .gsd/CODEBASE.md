@@ -1,10 +1,10 @@
 # Codebase Map
 
-Generated: 2026-04-21T17:22:38Z | Files: 174 | Described: 0/174
-<!-- gsd:codebase-meta {"generatedAt":"2026-04-21T17:22:38Z","fingerprint":"7454b038f8e81845412af8031e3e8f2b73d5ebc1","fileCount":174,"truncated":false} -->
+Generated: 2026-04-21T18:14:08Z | Files: 194 | Described: 0/194
+<!-- gsd:codebase-meta {"generatedAt":"2026-04-21T18:14:08Z","fingerprint":"3eff821be5e4d08bd0f8abe7b58734b160e5e0e3","fileCount":194,"truncated":false} -->
 
 ### (root)/
-- *(61 files: 38 .py, 14 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
+- *(62 files: 38 .py, 15 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
 
 ### art/
 - `art/picks.json`
@@ -18,11 +18,26 @@ Generated: 2026-04-21T17:22:38Z | Files: 174 | Described: 0/174
 - `art/variants/map_directions.json`
 - `art/variants/ornament_directions.json`
 
+### briefs/
+- `briefs/ch05_panel.md`
+- `briefs/ch09_panel.md`
+- `briefs/ch12_panel.md`
+- `briefs/ch13_panel.md`
+- `briefs/ch20_panel.md`
+
 ### chapters/
 - *(25 files: 24 .md, 1 (no ext))*
 
+### edit_logs/
+- `edit_logs/ch05_cuts.json`
+- `edit_logs/ch09_cuts.json`
+- `edit_logs/ch12_cuts.json`
+- `edit_logs/ch13_cuts.json`
+- `edit_logs/ch20_cuts.json`
+- `edit_logs/reader_panel.json`
+
 ### eval_logs/
-- *(44 files: 44 .json)*
+- *(52 files: 52 .json)*
 
 ### landing/
 - `landing/index.html`
