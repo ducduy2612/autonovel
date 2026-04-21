@@ -1,0 +1,106 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "gi\u1ecdng c\u00f4 nh\u1ecf, nh\u1ecf h\u01a1n tu\u1ea7n tr\u01b0\u1edbc, nh\u01b0 \u00e2m l\u01b0\u1ee3ng \u0111ang b\u1ecb v\u1eb7n xu\u1ed1ng t\u1eebng ng\u00e0y m\u00e0 kh\u00f4ng ai c\u1ea7m \u0111i\u1ec1u khi\u1ec3n",
+    "fix": "Replace with a Vietnamese-rooted metaphor: 'gi\u1ecdng c\u00f4 nh\u1ecf, nh\u1ecf h\u01a1n tu\u1ea7n tr\u01b0\u1edbc, nh\u01b0 ti\u1ebfng ng\u01b0\u1eddi g\u1ecdi t\u1eeb d\u01b0\u1edbi n\u01b0\u1edbc l\u00ean, m\u1ed7i ng\u00e0y xa th\u00eam m\u1ed9t ch\u00fat.' The '\u00e2m l\u01b0\u1ee3ng/\u0111i\u1ec1u khi\u1ec3n' metaphor is Western, mechanical, and breaks the organic water-smoke-breath vocabulary well.",
+    "note": "The melancholic unsentimental tone is largely achieved. Body-before-emotion is respected \u2014 Ph\u01b0\u01a1ng's physical fading described before emotional resonance. Sentence rhythm follows long-flowing default with effective short beats at key moments. Vocabulary wells (water, salt, smoke, kitchen) are present but sometimes feel checked off rather than organic. Several metaphors feel calqued from English."
+  },
+  "beat_coverage": {
+    "score": 7,
+    "weakest_moment": "Beat 5 \u2014 Khoa's determination to act \u2014 is narrated in a long summary paragraph rather than dramatized. 'Khoa nh\u00ecn ra bi\u1ec3n, n\u01a1i m\u1eb7t tr\u1eddi \u0111ang ch\u00ecm...' through 'ch\u1ed1n anh s\u1ebd \u0111\u1ec1 xu\u1ea5t m\u1ed9t l\u1ea7n n\u1eefa' tells us his entire reasoning process instead of showing his decision through action.",
+    "fix": "Cut the summary. End the chapter on Khoa standing up from the table, or show him walking toward the H\u1ed9i \u0110\u1ed3ng house with one concrete gesture \u2014 picking up his s\u1ed5, glancing at the gray flowers, moving. Let action imply resolve.",
+    "note": "All five outline beats are present and mostly well-dramatized. The cooking scene is lived-in with strong sensory detail. The flower discovery creates genuine alarm. Ph\u01b0\u01a1ng's notebook request is emotionally effective. The hand-grab and '\u0111\u1eebng h\u1ee9a' exchange is the chapter's strongest beat."
+  },
+  "character_voice": {
+    "score": 6,
+    "weakest_moment": "Khoa says 'Tui s\u1ebd kh\u00f4ng \u0111\u1ec3 c\u00f4 m\u1edd \u0111i' \u2014 he should use 't\u00f4i' per his character profile (gi\u1ecdng B\u1eafc, 't\u00f4i' kh\u00f4ng 'tui'). He consistently uses 'tui' throughout the chapter, which contradicts his established outsider identity.",
+    "fix": "Change all of Khoa's 'tui' to 't\u00f4i.' This is critical: his pronoun distinguishes him as non-islander. Ph\u01b0\u01a1ng uses 'tui' \u2014 the contrast should be audible. 'T\u00f4i s\u1ebd kh\u00f4ng \u0111\u1ec3 c\u00f4 m\u1edd \u0111i' also carries more formal weight, making his promise feel more like a researcher's declaration.",
+    "note": "Ph\u01b0\u01a1ng's voice is the chapter's strength \u2014 short sentences, simple vocabulary, 'th\u00f4i' tic, descending volume. Her '\u0110\u1eebng h\u1ee9a' / 'Tr\u00ean \u0111\u1ea3o, h\u1ee9a n\u1eb7ng h\u01a1n ch\u00ecm' is perfect. Khoa's narration voice sometimes sounds like generic protagonist rather than a specific researcher. His internal monologue lacks his analytical 'ph\u1ea3n \u1ee9ng, h\u1ec7 th\u1ed1ng, bi\u1ebfn s\u1ed1' vocabulary."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "Khoa's notebook entry '*Hoa d\u1eb7m nh\u00e0 Ph\u01b0\u01a1ng \u2014 chuy\u1ec3n x\u00e1m. G\u1ea7n c\u1eeda. D\u1ea5u hi\u1ec7u? Ki\u1ec3m tra l\u1ea1i. Li\u00ean quan \u0111\u1ebfn t\u1ed1c \u0111\u1ed9 qu\u00ean c\u1ee7a m\u1eb9?*' \u2014 the meta-commentary 'D\u1ea5u hi\u1ec7u?' and 'Li\u00ean quan \u0111\u1ebfn t\u1ed1c \u0111\u1ed9 qu\u00ean c\u1ee7a m\u1eb9?' are too explicit, signaling to the reader 'this is foreshadowing, pay attention.'",
+    "fix": "Have Khoa simply record what he sees without the analytical questions: '*Hoa d\u1eb7m nh\u00e0 Ph\u01b0\u01a1ng \u2014 m\u1ea5y c\u1ee5m g\u1ea7n c\u1eeda chuy\u1ec3n x\u00e1m. Ghi nh\u1eadn 14h30.*' A researcher would note the fact; the questions can stay internal, unspoken.",
+    "note": "Gray flowers are excellently seeded \u2014 connecting to Ch 1's empty house without over-explaining. The canh chua motif works naturally as Ph\u01b0\u01a1ng's tether to existence. The Alzheimer detail emerges through dialogue, not exposition. The l\u00fam \u0111\u1ed3ng ti\u1ec1n fading is a small, easy-to-miss detail that rewards careful reading."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "Anh n\u00f3i, gi\u1ecdng ch\u1eafc, gi\u1ecdng anh d\u00f9ng khi b\u1ea3o v\u1ec7 gi\u1ea3 thuy\u1ebft tr\u01b0\u1edbc h\u1ed9i \u0111\u1ed3ng kh\u1ea3o s\u00e1t, gi\u1ecdng ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng tin r\u1eb1ng d\u1eef li\u1ec7u v\u00e0 n\u1ed7 l\u1ef1c c\u00f3 th\u1ec3 gi\u1ea3i quy\u1ebft v\u1ea5n \u0111\u1ec1, gi\u1ecdng k\u1ebb ch\u01b0a hi\u1ec3u r\u1eb1ng c\u00f3 th\u1ee9 tr\u00ean \u0111\u1eddi kh\u00f4ng d\u1eef li\u1ec7u n\u00e0o n\u00edu gi\u1eef \u0111\u01b0\u1ee3c.",
+    "fix": "Cut entirely. Let 'T\u00f4i s\u1ebd kh\u00f4ng \u0111\u1ec3 c\u00f4 m\u1edd \u0111i' stand alone \u2014 the context (Ph\u01b0\u01a1ng's fading, his desperate promise, her rejection) already tells us everything this sentence explains. Trust the reader.",
+    "strongest_sentence": "Tr\u00ean \u0111\u1ea3o, h\u1ee9a n\u1eb7ng h\u01a1n ch\u00ecm.",
+    "note": "Sensory detail is the chapter's greatest strength \u2014 the cooking sequence (d\u1ee9a v\u00e0ng th\u00e1i mi\u1ebfng l\u0103n trong n\u1ed3i c\u00f9ng me xanh, c\u00e1 l\u00f3c th\u00e1i l\u00e1t tr\u1eafng ng\u00e0) is vivid and specific. Metaphors from water/salt/smoke wells mostly work. The 'nh\u01b0' simile is overused (15+ instances). Some paragraphs follow identical [action\u2192description\u2192emotional close] template. The strongest prose is in Ph\u01b0\u01a1ng's dialogue and the gray flower imagery."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Follows naturally from Ch 4. Khoa's emotional state (M\u0169i Ch\u1edd, thinking about Ph\u01b0\u01a1ng and Meridian and Li\u00ean) transitions logically to visiting Ph\u01b0\u01a1ng. The s\u1ed5 da n\u00e2u, the gh\u1ebf tre habit, the canh chua \u2014 all track. His resolve to confront H\u1ed9i \u0110\u1ed3ng sets up Ch 6. No emotional discontinuity."
+  },
+  "canon_compliance": {
+    "score": 6,
+    "violations": [
+      "Khoa uses 'tui' throughout but character profile specifies gi\u1ecdng B\u1eafc, 't\u00f4i' kh\u00f4ng 'tui' \u2014 significant identity marker violated"
+    ],
+    "note": "The pronoun violation is the only hard canon break, but it's significant \u2014 Khoa's 't\u00f4i' distinguishes him from islanders and signals his outsider status. Everything else matches: Ph\u01b0\u01a1ng's appearance (tay tr\u00e1i m\u1edd, \u00e1o b\u00e0 ba t\u00edm, l\u00fam \u0111\u1ed3ng ti\u1ec1n), house location (s\u00e1t m\u00e9p n\u01b0\u1edbc, nh\u1ecf h\u01a1n nh\u00e0 Khoa), flower behavior (tr\u1eafng chuy\u1ec3n x\u00e1m near people about to fade), cooking details (n\u01b0\u1edbc gi\u1ebfng t\u1ef1 m\u1eb7n). The 'D\u00ec Nga' reference and Alzheimer details align with established canon."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "The narrator explains 'n\u01b0\u1edbc gi\u1ebfng t\u1ef1 m\u1eb7n v\u1eeba, kh\u00f4ng c\u1ea7n th\u00eam mu\u1ed1i, ai tr\u00ean \u0111\u1ea3o c\u0169ng bi\u1ebft \u0111i\u1ec1u \u0111\u00f3, nh\u01b0 l\u1ebd t\u1ef1 nhi\u00ean c\u1ee7a \u0111\u1ea5t \u0111\u00e1 v\u00e0 m\u01b0a ngu\u1ed3n' \u2014 the appended simile is the narrator hand-holding the reader through worldbuilding.",
+    "fix": "Remove 'nh\u01b0 l\u1ebd t\u1ef1 nhi\u00ean c\u1ee7a \u0111\u1ea5t \u0111\u00e1 v\u00e0 m\u01b0a ngu\u1ed3n.' The concrete detail alone \u2014 n\u01b0\u1edbc gi\u1ebfng t\u1ef1 m\u1eb7n v\u1eeba \u2014 is enough. Khoa would know this; Ph\u01b0\u01a1ng wouldn't explain it. Let it be.",
+    "note": "The world does genuine work here. Canh chua isn't set dressing \u2014 it demonstrates Ph\u01b0\u01a1ng's identity tether. The cooking mechanics (tay ph\u1ea3i c\u1ea7m dao, n\u00e9 tr\u00e1i) show the magic system's cost in daily life. The flower color change is plot-critical, not decorative. Ph\u01b0\u01a1ng's request to be recorded connects notebook-writing to existence, the chapter's thematic core."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The long decision paragraph near the end \u2014 'Khoa nh\u00ecn ra bi\u1ec3n, n\u01a1i m\u1eb7t tr\u1eddi \u0111ang ch\u00ecm...' through 'ch\u1ed1n anh s\u1ebd \u0111\u1ec1 xu\u1ea5t m\u1ed9t l\u1ea7n n\u1eefa' \u2014 kills the tension built by 'Tr\u00ean \u0111\u1ea3o, h\u1ee9a n\u1eb7ng h\u01a1n ch\u00ecm.' The emotional climax should be Ph\u01b0\u01a1ng's rejection; instead, the chapter dilutes it with Khoa's internal strategizing.",
+    "fix": "End the chapter within 2-3 sentences of 'Tr\u00ean \u0111\u1ea3o, h\u1ee9a n\u1eb7ng h\u01a1n ch\u00ecm.' Perhaps: Ph\u01b0\u01a1ng stands, picks up the dishes. Khoa sits with cooling canh chua. He writes in his s\u1ed5. He stands. Behind him, the gray flowers don't move in the wind. Cut everything after.",
+    "note": "The chapter builds effectively toward the hand-grab scene. The '\u0111\u1eebng h\u1ee9a' moment is genuinely powerful \u2014 world-specific, emotionally earned, concise. The gray flower discovery creates good dread. The weakest point is the over-explanation after the climax, which dissipates emotional charge."
+  },
+  "three_weakest_sentences": [
+    "Anh n\u00f3i, gi\u1ecdng ch\u1eafc, gi\u1ecdng anh d\u00f9ng khi b\u1ea3o v\u1ec7 gi\u1ea3 thuy\u1ebft tr\u01b0\u1edbc h\u1ed9i \u0111\u1ed3ng kh\u1ea3o s\u00e1t, gi\u1ecdng ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng tin r\u1eb1ng d\u1eef li\u1ec7u v\u00e0 n\u1ed7 l\u1ef1c c\u00f3 th\u1ec3 gi\u1ea3i quy\u1ebft v\u1ea5n \u0111\u1ec1, gi\u1ecdng k\u1ebb ch\u01b0a hi\u1ec3u r\u1eb1ng c\u00f3 th\u1ee9 tr\u00ean \u0111\u1eddi kh\u00f4ng d\u1eef li\u1ec7u n\u00e0o n\u00edu gi\u1eef \u0111\u01b0\u1ee3c.",
+    "gi\u1ecdng c\u00f4 nh\u1ecf, nh\u1ecf h\u01a1n tu\u1ea7n tr\u01b0\u1edbc, nh\u01b0 \u00e2m l\u01b0\u1ee3ng \u0111ang b\u1ecb v\u1eb7n xu\u1ed1ng t\u1eebng ng\u00e0y m\u00e0 kh\u00f4ng ai c\u1ea7m \u0111i\u1ec1u khi\u1ec3n",
+    "Kh\u00f4ng ph\u1ea3i v\u00ec anh tin m\u00ecnh \u0111\u00fang ho\u00e0n to\u00e0n. M\u00e0 v\u00ec anh \u0111\u00e3 ng\u1ed3i nh\u00ecn hoa d\u1eb7m chuy\u1ec3n x\u00e1m quanh nh\u00e0 hai m\u01b0\u01a1i m\u1ed1t, \u0111\u00e3 \u0111\u1ebfm lu\u1ed1ng rau t\u1eeb b\u1ea3y xu\u1ed1ng s\u00e1u, \u0111\u00e3 nghe th\u00edm Hai kh\u00f4ng nh\u1edb m\u1eb7t b\u00e0 N\u0103m h\u00e0ng x\u00f3m \u2014 v\u00e0 anh kh\u00f4ng th\u1ec3 ng\u1ed3i th\u00eam l\u1ea7n n\u1eefa, kh\u00f4ng th\u1ec3 canh nh\u00ecn hoa x\u00e1m r\u1ed3i tr\u1eafng tr\u1edf l\u1ea1i"
+  ],
+  "three_strongest_sentences": [
+    "Tr\u00ean \u0111\u1ea3o, h\u1ee9a n\u1eb7ng h\u01a1n ch\u00ecm.",
+    "C\u00f4 n\u00f3i c\u00e2u cu\u1ed1i c\u00f9ng m\u00e0 kh\u00f4ng nh\u00ecn Khoa, m\u1eaft v\u1eabn h\u01b0\u1edbng ra bi\u1ec3n, v\u00e0 Khoa th\u1ea5y tay tr\u00e1i c\u00f4 \u2014 tay \u0111\u1ec3 d\u01b0\u1edbi g\u1ea7m b\u00e0n, trong su\u1ed1t, m\u1edd nh\u01b0 s\u01b0\u01a1ng \u2014 run nh\u1eb9, nh\u01b0 l\u00e1 b\u1ea1c h\u00e0 rung trong gi\u00f3, nh\u01b0 ng\u01b0\u1eddi \u0111ang l\u1ea1nh m\u00e0 kh\u00f4ng th\u1ec3 c\u1edfi \u00e1o v\u00ec kh\u00f4ng c\u00f2n tay n\u00e0o \u0111\u1ec3 c\u1edfi.",
+    "ph\u00eda sau anh, trong hi\u00ean nh\u00e0 Ph\u01b0\u01a1ng, m\u1ea5y c\u1ee5m hoa g\u1ea7n c\u1eeda \u0111\u1ee9ng y\u00ean kh\u00f4ng rung \u2014 x\u00e1m nh\u1ea1t, x\u00e1m nh\u01b0 tro, x\u00e1m nh\u01b0 ng\u01b0\u1eddi \u0111ang r\u1eddi \u0111i ch\u01b0a ngo\u00e1i \u0111\u1ea7u l\u1ea1i"
+  ],
+  "ai_patterns_detected": [
+    "Repetitive paragraph structure: many paragraphs follow [action \u2192 description \u2192 emotional/metaphorical closing] template",
+    "Over-reliance on 'nh\u01b0' similes (15+ instances throughout the chapter)",
+    "Triple parallel construction ('gi\u1ecdng ch\u1eafc, gi\u1ecdng anh d\u00f9ng..., gi\u1ecdng ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng..., gi\u1ecdng k\u1ebb...')",
+    "Translation-sounding metaphors ('\u00e2m l\u01b0\u1ee3ng \u0111ang b\u1ecb v\u1eb7n xu\u1ed1ng t\u1eebng ng\u00e0y m\u00e0 kh\u00f4ng ai c\u1ea7m \u0111i\u1ec1u khi\u1ec3n')",
+    "Telling the reader what to think at emotional peaks (the 'gi\u1ecdng' explanation, the final decision summary)",
+    "The 'Not because X. But because Y.' explanatory structure near the end"
+  ],
+  "overall_score": 7.0,
+  "weakest_dimension": "canon_compliance",
+  "top_3_revisions": [
+    "Fix Khoa's pronouns: change all instances of 'tui' in his dialogue to 't\u00f4i' to match his gi\u1ecdng B\u1eafc character profile. This is a hard canon requirement \u2014 his pronoun distinguishes him as outsider from islanders who say 'tui.'",
+    "Cut the two long summary paragraphs after 'Tr\u00ean \u0111\u1ea3o, h\u1ee9a n\u1eb7ng h\u01a1n ch\u00ecm' (starting with 'C\u00f4 \u0111\u1ee9ng d\u1eady, c\u1ea7m b\u00e1t \u0111\u0129a mang ra sau hi\u00ean r\u1eeda...' through the end). Replace with 3-4 sentences: Ph\u01b0\u01a1ng washing dishes, Khoa alone at the table, the gray flowers not moving in the wind, him walking away. Trust the reader to understand his decision.",
+    "Remove the triple 'gi\u1ecdng' explanation after 'T\u00f4i s\u1ebd kh\u00f4ng \u0111\u1ec3 c\u00f4 m\u1edd \u0111i.' Let the line stand alone. The context \u2014 his s\u1ed5, his desperation, her fading \u2014 already communicates his researcher's mindset. Ph\u01b0\u01a1ng's '\u0110\u1eebng h\u1ee9a' hits harder against a simple, unqualified promise."
+  ],
+  "new_canon_entries": [
+    "B\u00e1c S\u00e1u \u2014 ch\u1ed3ng b\u00e0 Li\u00ean (m\u1eb9 Ph\u01b0\u01a1ng), s\u1ed1ng tr\u00ean \u0111\u1ea5t li\u1ec1n, k\u1ec3 chuy\u1ec7n Ph\u01b0\u01a1ng cho h\u00e0ng x\u00f3m, ngu\u1ed3n th\u00f4ng tin gi\u00e1n ti\u1ebfp v\u1ec1 t\u00ecnh tr\u1ea1ng v\u1ee3 (ch_05)",
+    "\u1ea2nh Ph\u01b0\u01a1ng tr\u00ean b\u00e0n th\u1edd m\u1eb9: hai m\u01b0\u01a1i tu\u1ed5i, m\u1eb7c \u00e1o d\u00e0i tr\u1eafng, t\u00f3c x\u00f5a, ch\u1ee5p ng\u00e0y r\u1eddi \u0111i l\u00e0m \u2014 m\u1eb9 nh\u00ecn \u1ea3nh h\u1ecfi 'Ng\u01b0\u1eddi n\u00e0y l\u00e0 ai?' (ch_05)",
+    "Canh chua Ph\u01b0\u01a1ng n\u1ea5u: d\u1ee9a v\u00e0ng th\u00e1i mi\u1ebfng, me xanh, c\u00e1 l\u00f3c th\u00e1i l\u00e1t tr\u1eafng ng\u00e0, rau ng\u1ed5 th\u00e1i \u0111o\u1ea1n ba ng\u00f3n, n\u01b0\u1edbc gi\u1ebfng t\u1ef1 m\u1eb7n, n\u1ea5u b\u1eb1ng c\u1ee7i ng\u1eadp m\u1eb7n (ch_05)",
+    "Ph\u01b0\u01a1ng m\u00fac n\u01b0\u1edbc gi\u1ebfng b\u1eb1ng g\u00e1o s\u00e0nh, n\u00eam n\u1ebfm b\u1eb1ng tay ph\u1ea3i (ch_05)"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 14.27,
+    "sentence_length_cv": 1.117,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 0.0,
+    "language": "vi",
+    "vi_english_leaks": [],
+    "vi_translation_calques": [],
+    "vi_fiction_ai_tells": [],
+    "vi_telling_violations": 0
+  },
+  "raw_judge_score": 7
+}

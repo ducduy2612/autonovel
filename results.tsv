@@ -261,3 +261,4 @@ a15aeaa	ch20	6.0	2815	keep	Chapter 20 (attempt 2)
 ed2a1c2	ch23	7.0	2837	keep	Chapter 23 (attempt 1)
 discarded	ch24	-1.0	2866	discard	Chapter 24 attempt 1
 aa0da85	ch24	6.0	2513	keep	Chapter 24 (attempt 2)
+reverted	rev-ch05	6.19	2092	discard	Cycle 1: cut_candidate regressed 7.0->6.19
