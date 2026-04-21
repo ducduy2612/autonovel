@@ -1,7 +1,0 @@
-# Tóm tắt Chương 21: Mùi Dầu
-
-Khoa lén vào nhà Hội Đồng lúc canh ba, lấy cuốn sổ da nâu của anh và sổ Chị Tư Hồng để so sánh. Anh phát hiện sự thật: chữ trong sổ Chị Tư đang mờ dần vì chính chị cũng đang mờ—chị dùng ký ức mình để giữ người khác tồn tại. Ngược lại, chữ Khoa rõ nét một cách bất thường, vì anh không dùng mực mà dùng chính sinh khí mình. Mỗi dòng anh viết về Phương, về bốn mươi sáu người trên đảo, đều trích lấy một phần sự sống của anh—đó là lý do tay trái anh trong suốt, lý do anh mờ đi khi ngừng ghi.
-
-Khoa chạy ra Bãi Đón, mang theo bật lửa cũ của Liên, định đốt sổ để trả lại sinh khí cho bản thân và giải thoát Phương khỏi sự bám víu vào thân xác. Nhưng khi đứng trên cát, anh nhìn thấy ánh đèn đỏ nhấp nháy trên chân trời—tàu khảo sát của tập đoàn Meridian đang tiến đến. Gió biển mang theo mùi dầu máy, xác nhận lời cảnh báo của Cô Năm Thảo ba ngày trước.
-
-Khoa đứng lại giữa hai lựa chọn hủy diệt: đốt sổ thì Phương sẽ tan biến vĩnh viễn; giữ sổ thì tàu Meridian sẽ phát hiện đảo, biến nơi này thành phòng thí nghiệm hoặc nhà tù, và bài báo Liên gửi sẽ kéo thêm hồn mới vào đảo. Chương kết với Khoa đứng trên bãi cát, bật lửa trong tay, nhìn thẳng vào ánh đèn đang đến—biết rằng đêm nay phải chọn, và lựa chọn nào cũng sẽ để lại một cái tên mờ trong sổ, một luống rau bằng phẳng, một căn nhà trống.

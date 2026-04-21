@@ -1,5 +1,0 @@
-Khoa lao xuống bãi biển tìm Phương trong lúc cơ thể mình ngày càng trong suốt. Khi ngồi cạnh Phương—người nay chỉ còn là một hình hài mờ ảo như khói—sự thật phũ phàng được phơi bày. Phương chỉ vào bàn tay trái nhạt màu của anh, khẳng định rằng từng dòng chữ Khoa ghi trong cuốn sổ da nâu không hề cứu được cô. Thực chất, mỗi chi tiết anh ghi lại đang lấy sinh khí của chính anh để bù đắp cho sự tồn tại của người đã khuất. Hòn đảo đang "ăn" mất anh.
-
-Nhận ra mình đang vô thức "đổi" lấy sự tồn tại của Phương, Khoa nghẹn ngào, lồng ngực沉重的如海水倒灌 (nặng trĩu như nước biển tràn phổi). Phương quyết đoán rút tay lại, khuyên anh ngừng viết về cô, cứ để cô ra đi một cách thanh thản và đừng "chìm" theo. Nói xong, cô bước biến mất vào ngôi nhà ven biển, để lại khu vườn toàn những bông hoa dặm màu xám tro. 
-
-Chương khép lại với hình ảnh Khoa trơ trọi giữa bãi cát lạnh lẽo. Tỏ ra bất lực nhưng đã giác ngộ, anh ngồi yên, nhìn xuyên qua bàn tay trong suốt của mình, đếm từng hạt cát dưới đáy. Anh thừa nhận thực tại: cơ thể mình đang tan biến từng ngày, nhường chỗ cho biển cả. Anh không mở sổ ra thêm lần nào nữa.

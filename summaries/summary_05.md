@@ -1,5 +1,0 @@
-Chiều xuống, Khoa ghé thăm Phương tại căn nhà sát biển trên hòn đảo linh hồn mang tên Bãi Chờ. Ở nơi này, sự tồn tại của người dân phụ thuộc hoàn toàn vào ký ức của người thân nơi cõi sống. Vì mẹ già ở đất liền đang dần bị lão hóa trí tuệ, Phương đang chìm vào quên lãng: cơ thể cô trong suốt dần, tay trái mờ hẳn vì mẹ quên mất cô thuận tay trái, và giọng nói ngày càng nhỏ nhặt. Biểu hiện rõ ràng nhất cho cái chết sắp đến là những bông hoa dặm quanh nhà cô đột ngột chuyển sang màu xám nhạt. 
-
-Biết thời gian không còn nhiều, Phương khẩn cầu Khoa ghi chép lại cuộc đời cô vào cuốn sổ da nâu, lưu giữ lại hình ảnh nụ cười và món canh chua thơm ngon. Khi Khoa nắm tay cô và hứa sẽ không để cô biến mất, Phương rụt tay lại, mỉm cười mỏi mệt: "Trên đảo, hứa nặng hơn chìm".
-
-Tuy nhiên, Khoa không cam chịu. Quyết không để Phương tan biến thành một căn nhà trống vắng, anh quyết định phá vỡ lệnh cấm của Hội Đồng hòn đảo. Chương khép lại hành động dứt khoát của Khoa: anh mang theo cuốn sổ, bước đi trong gió biển để tìm cách dùng máy vô tuyến liên lạc với thế giới bên ngoài, kiên định với niềm tin rằng chỉ cần đủ người nhớ, sẽ không ai phải mất mãi.

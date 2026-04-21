@@ -1,5 +1,0 @@
-Bữa cơm chiều thứ Bảy bên Giếng Làng diễn ra trong sự tĩnh lặng đặc quánh, nơi người dân tụ tập không phải để ăn uống mà để âm thầm đếm xem ai còn tồn tại. Khoa nhận ra chỗ ngồi của bác Khải đã trống vắng hoàn toàn; một người đàn ông chết đuối từ năm 1972 nay đã chính thức biến mất khỏi thế gian khi cả những ký ức mỏng manh nhất về ông cũng tan vỡ. Con số nhân khẩu thu nhỏ còn 46 người với chỉ 19 ngôi nhà.
-
-Qua sự việc này, những quy luật tàn nhẫn của hòn đảo dần lộ diện. Khoa phát hiện ra rằng khi một người hồn ma bị cõi trần lãng quên, những cánh hoa dặm quanh nhà họ sẽ hóa màu tro xám, lời nói của họ vô thức mượn miệng người sống để văng vẳng lần cuối, và nhà cửa họ sẽ từ từ sập đổ. Đau đớn hơn, cuốn sổ da nâu của anh tiết lộ một sự thật phũ phàng: mực viết trên giấy sẽ nhạt phai, mờ đi cùng với mức độ tồn tại của người được ghi chép. 
-
-Chương khép lại với nỗi ám ảnh và bất lực tột cùng của Khoa. Đứng giữa một hòn đảo đang teo tóp dần, anh lặng lẽ ghi chép lại các con số trong đêm nhưng không còn biết mình đang cố gắng lưu giữ ký ức hay chỉ đang làm chứng cho sự lụi tàn, vỡ vụn của một thế giới đang dần tan biến vào cõi hư vô.
