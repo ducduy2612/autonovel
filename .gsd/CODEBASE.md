@@ -1,10 +1,10 @@
 # Codebase Map
 
-Generated: 2026-04-21T18:56:00Z | Files: 77 | Described: 0/77
-<!-- gsd:codebase-meta {"generatedAt":"2026-04-21T18:56:00Z","fingerprint":"f41bf257d9faceb05490a70b2e88fc8f09402f64","fileCount":77,"truncated":false} -->
+Generated: 2026-04-21T19:19:59Z | Files: 81 | Described: 0/81
+<!-- gsd:codebase-meta {"generatedAt":"2026-04-21T19:19:59Z","fingerprint":"047661d65e37437fed5d36b29b790176000c03a8","fileCount":81,"truncated":false} -->
 
 ### (root)/
-- *(56 files: 38 .py, 9 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
+- *(59 files: 38 .py, 12 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
 
 ### art/
 - `art/picks.json`
@@ -20,6 +20,9 @@ Generated: 2026-04-21T18:56:00Z | Files: 77 | Described: 0/77
 
 ### chapters/
 - `chapters/.gitkeep`
+
+### eval_logs/
+- `eval_logs/20260421_190455_foundation.json`
 
 ### landing/
 - `landing/index.html`

@@ -20,7 +20,7 @@ def call_writer(prompt, max_tokens=16000):
 
 part1_path = os.environ.get("OUTLINE_PART1_PATH", "/tmp/outline_output.md")
 part1 = open(part1_path).read()
-mystery = (BASE_DIR / "MYSTERY.md").read_text()
+mystery = (BASE_DIR / "MYSTERY.md").read_text() if (BASE_DIR / "MYSTERY.md").exists() else ""
 
 prompt = f"""Here is the first part of a novel outline that was cut off mid-chapter.
 Continue from where it left off, then complete the remaining chapters,

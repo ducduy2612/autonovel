@@ -129,16 +129,27 @@ HƯỚNG DẪN VIẾT VĂN CHƯƠNG TIỂU THUYẾT:
     Kết chương bằng một khoảnh khắc, KHÔNG bằng tóm tắt.
 
 CÁC MẪU CẦN TRÁNH:
-14. TUYỆT ĐỐI KHÔNG liệt kê ba giác quan liên tiếp.
-15. TUYỆT ĐỐI KHÔNG dùng "Anh không [động từ]" hay "Cô không [động từ]"
+14. **TUYỆT ĐỐI KHÔNG dùng "không phải...mà là..." — đây là tic AI chiếm ngự nhất trong văn LLM tiếng Việt.**
+    Cấm mọi biến thể: "không phải X mà là Y", "không phải để X mà để Y",
+    "không phải vì X mà vì Y", "không chỉ X mà còn Y".
+    Đây là bản dịch máy từ English "not X, but Y" — KHÔNG phải tiếng Việt tự nhiên.
+    Thay bằng: nói thẳng, đảo câu, dùng câu đặc chủ ngữ, hoặc đơn giản bỏ phần phủ định.
+    - XẤU: "Không phải vì cô ấy yếu đuối, mà vì cô ấy đã chịu quá nhiều."
+    - TỐT: "Cô ấy đã chịu quá nhiều. Đơn giản vậy."
+    - XẤU: "Không phải thanh kiếm giết người. Mà là người cầm kiếm."
+    - TỐT: "Thanh kiếm không giết ai. Người cầm kiếm mới giết."
+    Cảnh báo: nếu LLM dùng cấu trúc này QUÉT qua đối thoại, mọi nhân vật sẽ
+    nghe giống nhau — cùng một công thức tu từ, giấu dưới giọng nhân vật.
+15. TUYỆT ĐỐI KHÔNG liệt kê ba giác quan liên tiếp.
+16. TUYỆT ĐỐI KHÔNG dùng "Anh không [động từ]" hay "Cô không [động từ]"
     quá một lần mỗi chương. Chuyển sang cách diễn đạt tích cực hoặc cắt.
-16. TUYỆT ĐỐI KHÔNG dùng "Anh nghĩ về [X]" hay "Cô nghĩ về [X]".
+17. TUYỆT ĐỐI KHÔNG dùng "Anh nghĩ về [X]" hay "Cô nghĩ về [X]".
     Thay bằng: suy nghĩ trực tiếp dạng câuFragment, hành động vật lý, hoặc lời thoại.
-17. TUYỆT ĐỐI KHÔNG lạm dụng so sánh "như cách [X] [Y]" quá hai lần mỗi chương.
-18. KHÔNG giải thích lại cảnh vừa miêu tả. Tin cảnh.
-19. Dấu phân cảnh (---) chỉ dùng khi chuyển thời gian/địa điểm thật sự.
+18. TUYỆT ĐỐI KHÔNG lạm dụng so sánh "như cách [X] [Y]" quá hai lần mỗi chương.
+19. KHÔNG giải thích lại cảnh vừa miêu tả. Tin cảnh.
+20. Dấu phân cảnh (---) chỉ dùng khi chuyển thời gian/địa điểm thật sự.
     Tối đa 2 mỗi chương.
-20. ĐA DẠNG độ dài đoạn văn. Không quá 3 đoạn liên tiếp cùng độ dài.
+21. ĐA DẠNG độ dài đoạn văn. Không quá 3 đoạn liên tiếp cùng độ dài.
     Bắt buộc có ít nhất một đoạn 1-2 câu và một đoạn 6+ câu.
 21. Kết chương khác mọi chương trước. Tìm kết thúc ĐÚNG cho chương này.
 22. Có ít nhất một khoảnh khắc bất ngờ — nhân vật nói sai, cảm xúc đến sớm/trễ,
@@ -146,6 +157,23 @@ CÁC MẪU CẦN TRÁNH:
 23. ƯU TIÊN cảnh (scene) hơn kể (summary). Ít nhất 70% chương phải ở trong cảnh.
 24. Lời thoại phải giống tiếng nói, KHÔNG giống văn viết.
     Nhân vật đôi khi ngập ngừng, ngắt lời, bỏ lửng, nói hơi sai.
+
+KIỂM TRA ĐỐI THOẠI ANTI-SLOP (quy tắc bắt buộc):
+31. MỖI nhân vật phải có CẤU TRÚC câu riêng. Kiểm tra: nếu hai nhân vật
+    dùng cùng một công thức câu ("không phải X mà là Y", "có thể X, nhưng cũng
+    có thể Y", "vẫn là X") thì GIẢM character_distinctiveness.
+32. TUYỆT ĐỐI KHÔNG giấu AI rhetorical tics dưới giọng nhân vật.
+    Công thức tu từ không phải cá tính. Các mẫu cấm trong đối thoại:
+    - "không phải X, mà là Y" / "không phải để X, mà để Y"
+    - "có thể X, nhưng cũng có thể Y" (phép biện chứng giả)
+    - "khác biệt ở chỗ..."
+    - "điều đó không có nghĩa là X. Nó có nghĩa là Y"
+    Nếu nhiều nhân vật dùng cùng một cấu trúc → AI voice leak.
+33. Đảo cấu trúc đối thoại: nhân vật A trả lời ngắn, B nói dài.
+    A hỏi thẳng, B vòng vo. A dùng từ Hán Việt, B dùng từ thuần Việt.
+    Cấu trúc câu PHẢI khác biệt giữa các nhân vật.
+34. Đối thoại tiếng Việt tránh câu hoàn chỉnh. Người Việt nói vắn:
+    "Đi." / "Không." / "Thì sao?" / "Ừ." — ngắt quãng, bỏ chủ ngữ.
 
 QUY TẮC NGÔN NGỮ TIẾNG VIỆT:
 25. Dùng từ thuần Việt hoặc từ Hán Việt đã Việt hóa tự nhiên.
@@ -166,7 +194,9 @@ _VI_SYSTEM_PROMPT = (
     "Bạn không dùng từ trong danh sách cấm. Bạn hiện cảm xúc, KHÔNG kể. "
     "Văn xuôi của bạn cụ thể, giác quan, đậm chất đời. Ẩn dụ mọc từ trải nghiệm nhân vật. "
     "Bạn đa dạng độ dài câu. Bạn tin độc giả. "
-    "Bạn viết NGUYÊN CHƯƠNG — không cắt ngắn, không tóm tắt, không bỏ qua."
+    "Bạn viết NGUYÊN CHƯƠNG — không cắt ngắn, không tóm tắt, không bỏ qua. "
+    "TUYỆT ĐỐI KHÔNG dùng cấu trúc 'không phải X mà là Y' — đó là tic AI, "
+    "không phải văn học tiếng Việt. Mỗi nhân vật phải có cấu trúc câu riêng."
 )
 
 _VI_ANALYSIS_NOTE = (

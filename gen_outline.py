@@ -21,7 +21,7 @@ def call_writer(prompt, max_tokens=16000):
 seed = (BASE_DIR / "seed.txt").read_text()
 world = (BASE_DIR / "world.md").read_text()
 characters = (BASE_DIR / "characters.md").read_text()
-mystery = (BASE_DIR / "MYSTERY.md").read_text()
+mystery = (BASE_DIR / "MYSTERY.md").read_text() if (BASE_DIR / "MYSTERY.md").exists() else ""
 craft = (BASE_DIR / "CRAFT.md").read_text()
 
 # Voice Part 2 only

@@ -184,6 +184,27 @@ VI_TELLING_PATTERNS = [
     r"\bnỗi \w+ (?:đổ ập đến|tràn ngập|bao trùm|chen chúc)\b",
 ]
 
+# Vietnamese structural AI tics — rhetorical formulas that LLMs overuse
+# in Vietnamese prose. These are the "AI voice" markers that make text
+# feel generated even when grammar is perfect.
+VI_STRUCTURAL_AI_TICS = [
+    # "không phải X, mà là Y" — THE dominant AI pattern in Vietnamese LLM output.
+    # Appears in dialogue AND narration. Direct calque of "not X, but Y".
+    r"không phải .{3,50} mà (?:là|chính là|chính)",
+    # "không phải để X, mà để Y" — variant in purpose clauses
+    r"không phải để .{3,40} mà để",
+    # "không phải vì X, mà vì Y" — variant in causal clauses
+    r"không phải vì .{3,40} mà vì",
+    # "vẫn là X" / "chính là X" as rhetorical reveal formula
+    r"(?:vẫn là|chính là) .{3,40} (?:đó|thế|vậy)\b",
+    # "có thể X, nhưng cũng có thể Y" — false dialectic
+    r"có thể .{3,30} nhưng cũng có thể",
+    # "khác biệt ở chỗ" — "the difference is" calque
+    r"khác biệt ở chỗ",
+    # "điều đó không có nghĩa là X. Nó có nghĩa là Y" — "that doesn't mean X. It means Y"
+    r"điều đó không có nghĩa là .{3,40} (?:nó )?(?:có nghĩa là|nghĩa là)",
+]
+
 # Vietnamese transition crutches — words AI overuses to connect paragraphs
 VI_TRANSITION_CRUTCHES = [
     "tuy nhiên", "hơn nữa", "thêm vào đó", "ngoài ra",
@@ -325,6 +346,14 @@ def slop_score(text):
         for pattern in VI_TELLING_PATTERNS:
             vi_telling += re.findall(pattern, text, re.IGNORECASE)
 
+        # Structural AI tics (Vietnamese rhetorical formulas)
+        vi_structural_tics = []
+        for pattern in VI_STRUCTURAL_AI_TICS:
+            matches = re.findall(pattern, text, re.IGNORECASE)
+            if matches:
+                vi_structural_tics.append((pattern[:50], len(matches)))
+        vi_structural_tic_count = sum(c for _, c in vi_structural_tics)
+
         # Transition crutches
         for para in paragraphs:
             first_words = " ".join(para.split()[:3]).lower().strip(".,;:!?\"'()")
@@ -337,6 +366,8 @@ def slop_score(text):
         vi_calque_count = 0
         vi_fiction_tell_count = 0
         vi_telling_count = 0
+        vi_structural_tic_count = 0
+        vi_structural_tics = []
 
     # Composite penalty (0 = clean, 10 = disaster)
     penalty = 0.0
@@ -383,6 +414,7 @@ def slop_score(text):
         "vi_translation_calques": vi_translation_calques if is_vi else [],
         "vi_fiction_ai_tells": vi_fiction_tells if is_vi else [],
         "vi_telling_violations": len(vi_telling) if is_vi else 0,
+        "vi_structural_ai_tics": vi_structural_tics if is_vi else [],
     }
 
 
