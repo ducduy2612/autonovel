@@ -1,7 +1,7 @@
 # Codebase Map
 
-Generated: 2026-04-19T08:18:56Z | Files: 171 | Described: 0/171
-<!-- gsd:codebase-meta {"generatedAt":"2026-04-19T08:18:56Z","fingerprint":"c20fca6a0caef44e67ac7636508bd9f4adc9c309","fileCount":171,"truncated":false} -->
+Generated: 2026-04-21T17:22:38Z | Files: 174 | Described: 0/174
+<!-- gsd:codebase-meta {"generatedAt":"2026-04-21T17:22:38Z","fingerprint":"7454b038f8e81845412af8031e3e8f2b73d5ebc1","fileCount":174,"truncated":false} -->
 
 ### (root)/
 - *(61 files: 38 .py, 14 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
@@ -32,6 +32,11 @@ Generated: 2026-04-19T08:18:56Z | Files: 171 | Described: 0/171
 
 ### summaries/
 - *(24 files: 24 .md)*
+
+### tts/
+- `tts/part1.md`
+- `tts/part2.md`
+- `tts/part3_full.md`
 
 ### typeset/
 - `typeset/build_tex.py`

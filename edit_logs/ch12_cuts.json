@@ -1,0 +1,108 @@
+{
+  "revisions": [
+    {
+      "quote": "Khoa ng\u01b0\u1edbc l\u00ean t\u1eeb cu\u1ed1n s\u1ed5 da n\u00e2u, nh\u00ecn v\u1ec1 ph\u00eda su\u1ed1i c\u00e1ch anh m\u01b0\u1eddi b\u01b0\u1edbc ch\u00e2n, n\u01a1i th\u00edm Hai \u0111ang qu\u1ef3 b\u00ean b\u1edd \u0111\u00e1, hai tay nh\u00e0o v\u00f2 chi\u1ebfc \u00e1o b\u00e0 ba trong n\u01b0\u1edbc, l\u01b0ng c\u00f2ng, t\u00f3c b\u00fai l\u1ecfng, v\u00e0 anh ch\u1edd \u2014 kh\u00f4ng bi\u1ebft m\u00ecnh ch\u1edd g\u00ec ch\u00ednh x\u00e1c, nh\u01b0ng tim \u0111\u1eadp nhanh h\u01a1n, tay tr\u00e1i run nh\u1eb9 tr\u00ean m\u00e9p s\u1ed5, v\u00e0 anh nh\u00ecn th\u00edm, nh\u00ecn k\u1ef9, nh\u01b0 ng\u01b0\u1eddi ta nh\u00ecn m\u1eb7t tr\u1eddi l\u1eb7n mu\u1ed1n nh\u1edb m\u00e0u cu\u1ed1i c\u00f9ng tr\u01b0\u1edbc khi t\u1ed1i.",
+      "type": "OVER-EXPLAIN",
+      "reason": "The clause 'kh\u00f4ng bi\u1ebft m\u00ecnh ch\u1edd g\u00ec ch\u00ednh x\u00e1c' names uncertainty rather than letting the quickened pulse and trembling hand convey it. The beautiful sunset simile gets buried in a sentence trying to do too much.",
+      "rewrite": "Khoa ng\u01b0\u1edbc l\u00ean t\u1eeb cu\u1ed1n s\u1ed5 da n\u00e2u. C\u00e1ch anh m\u01b0\u1eddi b\u01b0\u1edbc ch\u00e2n, th\u00edm Hai qu\u1ef3 b\u00ean b\u1edd \u0111\u00e1, hai tay nh\u00e0o v\u00f2 chi\u1ebfc \u00e1o b\u00e0 ba trong n\u01b0\u1edbc, l\u01b0ng c\u00f2ng, t\u00f3c b\u00fai l\u1ecfng. Tay tr\u00e1i anh run nh\u1eb9 tr\u00ean m\u00e9p s\u1ed5. Tim \u0111\u1eadp nhanh h\u01a1n. Anh nh\u00ecn th\u00edm, nh\u00ecn k\u1ef9, nh\u01b0 ng\u01b0\u1eddi ta nh\u00ecn m\u1eb7t tr\u1eddi l\u1eb7n mu\u1ed1n nh\u1edb m\u00e0u cu\u1ed1i c\u00f9ng tr\u01b0\u1edbc khi t\u1ed1i."
+    },
+    {
+      "quote": "v\u00e0 k\u1ebft qu\u1ea3 gi\u1ed1ng nhau c\u1ea3 ba: ghi chi ti\u1ebft, ng\u01b0\u1eddi \u0111\u1eb7c h\u01a1n. G\u1eadp s\u1ed5, ng\u01b0\u1eddi m\u1edd l\u1ea1i. Quy lu\u1eadt r\u00f5, nh\u01b0 c\u00f4ng th\u1ee9c trong ph\u00f2ng th\u00ed nghi\u1ec7m, nh\u01b0 bi\u1ebfn s\u1ed1 cu\u1ed1i c\u00f9ng v\u1eeba kh\u1edbp v\u00e0o ph\u01b0\u01a1ng tr\u00ecnh.",
+      "type": "GENERIC",
+      "reason": "The lab/formula comparison is the most obvious metaphor for a scientist character and tells us nothing unique about Khoa. The passage also over-explains a pattern the reader has already witnessed three times.",
+      "rewrite": "Ba l\u1ea7n. Ba ng\u01b0\u1eddi. K\u1ebft qu\u1ea3 gi\u1ed1ng nhau: ghi chi ti\u1ebft, ng\u01b0\u1eddi \u0111\u1eb7c h\u01a1n. G\u1eadp s\u1ed5, ng\u01b0\u1eddi m\u1edd l\u1ea1i."
+    },
+    {
+      "quote": "Nh\u01b0ng anh kh\u00f4ng \u0111\u1ee9ng, v\u00ec tay anh l\u1ea1nh, l\u1ea1nh h\u01a1n h\u00f4m qua, l\u1ea1nh h\u01a1n c\u1ea3 s\u00e1ng nay khi anh v\u1eeba th\u1ee9c d\u1eady, v\u00e0 anh nh\u00ecn b\u00e0n tay ph\u1ea3i c\u1ea7m b\u00fat \u2014 ng\u00f3n gi\u1eefa c\u00f3 m\u1ef1c, \u0111\u1ed1t ng\u00f3n \u00e1p \u00fat l\u1ea1nh ng\u1eaft nh\u01b0 v\u1eeba ch\u1ea1m \u0111\u00e1y n\u01b0\u1edbc \u2014 v\u00e0 anh ngh\u0129 v\u1ec1 t\u1ed1i qua, v\u1ec1 ch\u1eef anh vi\u1ebft v\u1ec1 Ph\u01b0\u01a1ng, v\u1ec1 Ph\u01b0\u01a1ng r\u00f5 h\u01a1n ngo\u00e0i b\u1edd bi\u1ec3n, v\u1ec1 tay anh l\u1ea1nh h\u01a1n, v\u00e0 anh kh\u00f4ng mu\u1ed1n ngh\u0129 v\u1ec1 s\u1ef1 \u0111\u1ed5i \u0111\u00f3 nh\u01b0ng n\u00f3 c\u1ee9 \u0111\u1ebfn, nh\u01b0 s\u00f3ng v\u1ed7 kh\u00f4ng h\u1ecfi ai c\u00f3 mu\u1ed1n nghe kh\u00f4ng.",
+      "type": "REDUNDANT",
+      "reason": "This paragraph restates information we already have (cold hands, Phuong clearer, writing as exchange) and adds a generic wave metaphor. The key detail\u2014hands colder than yesterday\u2014gets lost in the repetition.",
+      "rewrite": "Nh\u01b0ng anh kh\u00f4ng \u0111\u1ee9ng. Tay anh l\u1ea1nh \u2014 l\u1ea1nh h\u01a1n h\u00f4m qua, l\u1ea1nh h\u01a1n c\u1ea3 s\u00e1ng nay khi anh v\u1eeba th\u1ee9c d\u1eady. \u0110\u1ed1t ng\u00f3n \u00e1p \u00fat l\u1ea1nh ng\u1eaft nh\u01b0 v\u1eeba ch\u1ea1m \u0111\u00e1y n\u01b0\u1edbc. Anh nh\u00ecn b\u00e0n tay ph\u1ea3i c\u1ea7m b\u00fat, ng\u00f3n gi\u1eefa c\u00f3 m\u1ef1c, v\u00e0 anh kh\u00f4ng mu\u1ed1n ngh\u0129 v\u1ec1 Ph\u01b0\u01a1ng r\u00f5 h\u01a1n ngo\u00e0i b\u1edd bi\u1ec3n t\u1ed1i qua, nh\u01b0ng n\u00f3 c\u1ee9 \u0111\u1ebfn."
+    },
+    {
+      "quote": "v\u00e0 anh \u0111i v\u1ec1 ph\u00eda nh\u00e0 Ch\u1ecb T\u01b0 H\u1ed3ng, v\u00ec anh mu\u1ed1n \u0111\u1ed1i chi\u1ebfu, mu\u1ed1n xem s\u1ed5 anh v\u00e0 s\u1ed5 ch\u1ecb kh\u00e1c nhau \u1edf \u0111\u00e2u, mu\u1ed1n hi\u1ec3u t\u1ea1i sao ch\u1eef ch\u1ecb m\u1edd m\u00e0 ch\u1eef anh c\u00f2n nguy\u00ean, v\u00e0 c\u00f3 l\u1ebd anh \u0111\u00e3 b\u1eaft \u0111\u1ea7u hi\u1ec3u nh\u01b0ng ch\u01b0a d\u00e1m n\u00f3i th\u00e0nh l\u1eddi.",
+      "type": "OVER-EXPLAIN",
+      "reason": "The narrator spells out Khoa's reasoning and even telegraphs that he's beginning to understand. Let the action of walking to Ch\u1ecb T\u01b0's house imply the intent; trust the reader.",
+      "rewrite": "v\u00e0 anh \u0111i v\u1ec1 ph\u00eda nh\u00e0 Ch\u1ecb T\u01b0 H\u1ed3ng, cu\u1ed1n s\u1ed5 k\u1eb9p d\u01b0\u1edbi n\u00e1ch, b\u01b0\u1edbc ch\u00e2n nhanh d\u1ea7n."
+    },
+    {
+      "quote": "Ch\u1eef \"M\u0169i Ch\u1edd\" \u0111\u00e3 m\u1edd qu\u00e1 n\u1eeda, nh\u01b0 ng\u01b0\u1eddi vi\u1ebft \u0111ang d\u1ea7n qu\u00ean b\u00e1c Kh\u1ea3i, ho\u1eb7c nh\u01b0 b\u00e1c Kh\u1ea3i \u0111ang d\u1ea7n kh\u00f4ng c\u00f2n \u0111\u00e1ng nh\u1edb.",
+      "type": "OVER-EXPLAIN",
+      "reason": "The fading ink already powerfully suggests forgetting or being forgotten. The narrator offers two explicit interpretations when neither is needed\u2014the image speaks.",
+      "rewrite": "Ch\u1eef \"M\u0169i Ch\u1edd\" \u0111\u00e3 m\u1edd qu\u00e1 n\u1eeda."
+    },
+    {
+      "quote": "Anh ch\u1ea1y. Kh\u00f4ng \u2014 anh kh\u00f4ng ch\u1ea1y ngay. Anh \u0111\u1ee9ng l\u1ea1i, h\u00edt th\u1edf, cu\u1ed1ng h\u1ecdng cay x\u00e8 v\u00ec mu\u1ed1i v\u00e0 kh\u00f3i v\u00e0 th\u1ee9 m\u00f9i kh\u00f4ng t\u00ean \u2014 m\u00f9i c\u1ee7a g\u1ea7n h\u1ebft, m\u00f9i c\u1ee7a s\u1eafp kh\u00f4ng c\u00f2n \u2014 r\u1ed3i anh b\u01b0\u1edbc ra kh\u1ecfi nh\u00e0 Ch\u1ecb T\u01b0, b\u01b0\u1edbc nhanh d\u1ecdc con \u0111\u01b0\u1eddng \u0111\u1ea5t \u0111\u1ecf, r\u1ebd tr\u00e1i \u1edf gi\u1ebfng l\u00e0ng, \u0111i ngang qua hai h\u00e0ng b\u1ea1c h\u00e0, r\u1ed3i hai h\u00e0ng d\u1eeba, r\u1ed3i b\u00e3i \u0111\u00e1 ven bi\u1ec3n ph\u00eda nam, v\u00e0 anh \u0111i, b\u01b0\u1edbc ch\u00e2n nhanh d\u1ea7n, nhanh d\u1ea7n, cho \u0111\u1ebfn khi anh th\u1ea5y m\u1ecfm \u0111\u00e1 \u2014 m\u1ecfm \u0111\u00e1 m\u00e0 b\u1ea3n \u0111\u1ed3 anh v\u1ebd n\u0103m ngo\u00e1i \u0111\u00e1nh d\u1ea5u l\u00e0 \u0111i\u1ec3m cu\u1ed1i ph\u00eda nam c\u1ee7a \u0111\u1ea3o.",
+      "type": "PASSTHROUGH",
+      "reason": "The false start ('Anh ch\u1ea1y. Kh\u00f4ng \u2014 anh kh\u00f4ng ch\u1ea1y ngay') creates momentary tension but then dissolves into a list of route directions. The sensory detail (cu\u1ed1ng h\u1ecdng cay x\u00e8, m\u00f9i c\u1ee7a g\u1ea7n h\u1ebft) is strong but gets swallowed by the travelogue.",
+      "rewrite": "Anh \u0111\u1ee9ng l\u1ea1i. H\u00edt th\u1edf. Cu\u1ed1ng h\u1ecdng cay x\u00e8 v\u00ec mu\u1ed1i v\u00e0 kh\u00f3i v\u00e0 th\u1ee9 m\u00f9i kh\u00f4ng t\u00ean \u2014 m\u00f9i c\u1ee7a s\u1eafp kh\u00f4ng c\u00f2n. R\u1ed3i anh b\u01b0\u1edbc ra, nhanh d\u1ecdc con \u0111\u01b0\u1eddng \u0111\u1ea5t \u0111\u1ecf, r\u1ebd tr\u00e1i \u1edf gi\u1ebfng l\u00e0ng, qua hai h\u00e0ng d\u1eeba, ra b\u00e3i \u0111\u00e1 ven bi\u1ec3n ph\u00eda nam. B\u01b0\u1edbc ch\u00e2n nhanh d\u1ea7n. Nhanh d\u1ea7n."
+    },
+    {
+      "quote": "v\u00e0 anh v\u1eabn \u0111ang \u0111i tr\u00ean \u0111\u00e1, tr\u00ean \u0111\u1ea5t m\u1edbi, \u0111\u1ea5t kh\u00f4ng c\u00f3 rong r\u00eau, kh\u00f4ng c\u00f3 v\u1ecf s\u00f2, tr\u01a1n nh\u1eb5n nh\u01b0 v\u1eeba \u0111\u01b0\u1ee3c ai m\u00e0i ph\u1eb3ng r\u1ed3i \u0111\u1eb7t xu\u1ed1ng bi\u1ec3n.",
+      "type": "REDUNDANT",
+      "reason": "Ch\u1ecb T\u01b0's journal entry already described new land as 'Kh\u00f4ng c\u00f3 rong r\u00eau, kh\u00f4ng c\u00f3 v\u1ecf s\u00f2. \u0110\u1ea5t tr\u01a1n.' Repeating the same details verbatim dilutes the echo.",
+      "rewrite": "v\u00e0 anh v\u1eabn \u0111ang \u0111i tr\u00ean \u0111\u1ea5t m\u1edbi \u2014 tr\u01a1n nh\u1eb5n, kh\u00f4ng m\u1ed9t v\u1ebft n\u1ee9t, nh\u01b0 v\u1eeba \u0111\u01b0\u1ee3c ai m\u00e0i ph\u1eb3ng r\u1ed3i \u0111\u1eb7t xu\u1ed1ng bi\u1ec3n."
+    },
+    {
+      "quote": "v\u00e0 anh hi\u1ec3u \u2014 hi\u1ec3u r\u1eb1ng m\u1ecfm \u0111\u00e1 n\u00e0y m\u1ecdc sau khi anh \u0111\u1ebfn, m\u1ecdc th\u00eam t\u00e1m b\u01b0\u1edbc ch\u00e2n so v\u1edbi b\u1ea3n \u0111\u1ed3 n\u0103m ngo\u00e1i, m\u1ecdc nh\u01b0 \u0111\u1ea3o \u0103n no r\u1ed3i l\u1edbn l\u00ean, v\u00e0 anh \u0111\u1ebfn th\u00e1ng Ba n\u0103m ngo\u00e1i v\u00e0 m\u1ecfm \u0111\u00e1 d\u00e0i th\u00eam hai b\u01b0\u1edbc ch\u00e2n th\u00e1ng Ba n\u0103m ngo\u00e1i v\u00e0 kh\u00f4ng ai bi\u1ebft v\u00ec sao.",
+      "type": "OVER-EXPLAIN",
+      "reason": "The narrator connects every dot: the rock grew after he arrived, eight steps more, he came last March, the rock grew two steps last March. The '\u0111\u1ea3o \u0103n no r\u1ed3i l\u1edbn l\u00ean' simile is striking but gets buried in the explicit chain of logic.",
+      "rewrite": "v\u00e0 anh hi\u1ec3u \u2014 m\u1ecfm \u0111\u00e1 n\u00e0y m\u1ecdc sau khi anh \u0111\u1ebfn. T\u00e1m b\u01b0\u1edbc ch\u00e2n so v\u1edbi b\u1ea3n \u0111\u1ed3 n\u0103m ngo\u00e1i. \u0110\u1ea3o \u0103n no r\u1ed3i l\u1edbn l\u00ean."
+    },
+    {
+      "quote": "v\u00e0 c\u00e2u h\u1ecfi \u0111\u1ebfn kh\u00f4ng theo th\u1ee9 t\u1ef1, kh\u00f4ng theo logic, \u0111\u1ebfn nh\u01b0 s\u00f3ng v\u1ed7 lung tung: s\u1ed5 gi\u1eef ng\u01b0\u1eddi \u2014 nh\u01b0ng gi\u1eef b\u1eb1ng g\u00ec? \u0110\u1ea3o l\u1edbn \u2014 nh\u01b0ng l\u1edbn b\u1eb1ng g\u00ec? Ph\u01b0\u01a1ng r\u00f5 h\u01a1n khi anh ghi \u2014 nh\u01b0ng anh m\u1edd \u0111i bao nhi\u00eau? \u0110\u1ea3o m\u1ecdc th\u00eam \u0111\u1ea5t khi anh \u0111\u1ebfn \u2014 nh\u01b0ng \u0111\u1ea5t \u0111\u00f3 t\u1eeb \u0111\u00e2u ra, v\u00e0 anh l\u1ea5y m\u1ea5t g\u00ec \u0111\u1ec3 \u0111\u1ed5i l\u1ea5y \u0111\u1ea5t \u0111\u00f3?",
+      "type": "OVER-EXPLAIN",
+      "reason": "Spelling out every thematic question in a row reads like a study guide. The reader has already formulated these questions; the narrator shouldn't catalogue them.",
+      "rewrite": "C\u00e2u h\u1ecfi \u0111\u1ebfn kh\u00f4ng theo th\u1ee9 t\u1ef1: gi\u1eef b\u1eb1ng g\u00ec, l\u1edbn b\u1eb1ng g\u00ec, v\u00e0 anh l\u1ea5y m\u1ea5t g\u00ec \u0111\u1ec3 \u0111\u1ed5i l\u1ea5y \u0111\u1ea5t \u0111\u00f3?"
+    },
+    {
+      "quote": "v\u00e0 anh hi\u1ec3u \u00e1nh m\u1eaft \u0111\u00f3, \u0111\u00e3 th\u1ea5y n\u00f3 l\u1ea7n \u0111\u1ea7u \u1edf nh\u00e0 H\u1ed9i \u0110\u1ed3ng khi c\u1ee5 c\u1ea5m anh li\u00ean l\u1ea1c ngo\u00e0i, \u0111\u00e3 th\u1ea5y n\u00f3 b\u00ean gi\u1ebfng l\u00e0ng khi c\u1ee5 n\u00f3i \"n\u01b0\u1edbc nh\u00ecn l\u1ea1i,\" v\u00e0 gi\u1edd anh th\u1ea5y n\u00f3 l\u1ea7n n\u1eefa, tr\u00ean m\u1ecfm \u0111\u00e1 ph\u00eda nam, v\u00e0 c\u1ee5 kh\u00f4ng n\u00f3i g\u00ec c\u1ea3.",
+      "type": "OVER-EXPLAIN",
+      "reason": "Explicitly cataloguing every prior appearance of this gaze kills its mystery. One reference would let the reader recall the others; three turns it into exposition.",
+      "rewrite": "v\u00e0 anh \u0111\u00e3 th\u1ea5y m\u1eaft c\u1ee5 nh\u01b0 v\u1eady \u2014 \u1edf nh\u00e0 H\u1ed9i \u0110\u1ed3ng, b\u00ean gi\u1ebfng l\u00e0ng \u2014 nh\u01b0ng gi\u1edd anh hi\u1ec3u n\u00f3."
+    },
+    {
+      "quote": "v\u00e0 anh ngh\u0129: ch\u1eef t\u00f4i r\u00f5 v\u00ec t\u00f4i c\u00f2n s\u1ed1ng, hay ch\u1eef t\u00f4i r\u00f5 v\u00ec t\u00f4i \u0111ang l\u1ea5y g\u00ec \u0111\u00f3 t\u1eeb \u0111\u1ea3o, t\u1eeb ng\u01b0\u1eddi tr\u00ean \u0111\u1ea3o, \u0111\u1ec3 gi\u1eef cho ch\u1eef m\u00ecnh \u0111\u1eadm, v\u00e0 n\u1ebfu \u0111\u00fang v\u1eady th\u00ec m\u1ed7i t\u1eeb t\u00f4i vi\u1ebft kh\u00f4ng ph\u1ea3i n\u00edu gi\u1eef m\u00e0 l\u00e0 trao \u0111\u1ed5i, kh\u00f4ng ph\u1ea3i c\u1ee9u m\u00e0 l\u00e0 \u0111\u1ed5i",
+      "type": "OVER-EXPLAIN",
+      "reason": "This is the chapter's central revelation, but the narrator explains it as a complete logical proof ('n\u1ebfu \u0111\u00fang v\u1eady th\u00ec'). The insight loses power when spelled out as a syllogism.",
+      "rewrite": "v\u00e0 anh ngh\u0129: ch\u1eef t\u00f4i r\u00f5. Ch\u1eef t\u00f4i \u0111\u1eadm. Nh\u01b0ng l\u1ea5y t\u1eeb \u0111\u00e2u?"
+    },
+    {
+      "quote": "v\u00e0 anh ngh\u0129 v\u1ec1 quy lu\u1eadt anh v\u1eeba t\u00ecm ra \u2014 ghi l\u1ea1i l\u00e0 gi\u1eef l\u1ea1i \u2014 v\u00e0 anh ngh\u0129 v\u1ec1 gi\u00e1 \u2014 gi\u1eef b\u1eb1ng g\u00ec \u2014 v\u00e0 anh ngh\u0129 v\u1ec1 \u0111\u1ea3o l\u1edbn l\u00ean \u2014 l\u1edbn b\u1eb1ng g\u00ec \u2014 v\u00e0 anh ngh\u0129 v\u1ec1 c\u1ee5 Ba nh\u00ecn anh b\u1eb1ng m\u1eaft bu\u1ed3n nh\u01b0 nh\u00ecn ai s\u1eafp ch\u1ebft \u2014 v\u00e0 anh ngh\u0129: ai s\u1eafp ch\u1ebft, ai, t\u00f4i hay ng\u01b0\u1eddi t\u00f4i \u0111ang gi\u1eef",
+      "type": "REDUNDANT",
+      "reason": "Every element in this litany has been stated at least twice before. The repetition is clearly intentional\u2014building to 'ai s\u1eafp ch\u1ebft'\u2014but by this point it reads as the third or fourth pass over identical ground.",
+      "rewrite": "v\u00e0 anh ngh\u0129 v\u1ec1 c\u1ee5 Ba nh\u00ecn anh b\u1eb1ng m\u1eaft bu\u1ed3n nh\u01b0 nh\u00ecn ai s\u1eafp ch\u1ebft \u2014 v\u00e0 anh ngh\u0129: ai s\u1eafp ch\u1ebft, t\u00f4i hay ng\u01b0\u1eddi t\u00f4i \u0111ang gi\u1eef."
+    },
+    {
+      "quote": "v\u00e0 anh n\u1eb1m \u0111\u00f3 trong b\u00f3ng t\u1ed1i c\u1ee7a c\u0103n nh\u00e0 s\u1ed1 m\u01b0\u1eddi b\u1ea3y, nghe s\u00f3ng v\u1ed7 \u0111\u1ec1u \u0111\u1eb7n nh\u01b0 nh\u1ecbp tim, nghe gi\u00f3 th\u1ed5i qua r\u00e0o b\u1ea1c h\u00e0, nghe hoa d\u1eb7m x\u00e0o x\u1ea1c trong gi\u00f3, v\u00e0 anh ngh\u0129 v\u1ec1 quy lu\u1eadt anh v\u1eeba t\u00ecm ra \u2014 ghi l\u1ea1i l\u00e0 gi\u1eef l\u1ea1i \u2014 v\u00e0 anh ngh\u0129 v\u1ec1 gi\u00e1 \u2014 gi\u1eef b\u1eb1ng g\u00ec \u2014 v\u00e0 anh ngh\u0129 v\u1ec1 \u0111\u1ea3o l\u1edbn l\u00ean \u2014 l\u1edbn b\u1eb1ng g\u00ec",
+      "type": "REDUNDANT",
+      "reason": "The fourth restatement of 'ghi l\u1ea1i l\u00e0 gi\u1eef l\u1ea1i / gi\u1eef b\u1eb1ng g\u00ec / l\u1edbn b\u1eb1ng g\u00ec.' The sensory details (s\u00f3ng, gi\u00f3, hoa d\u1eb7m) are lovely but serve only as decoration for more explicit thematic repetition.",
+      "rewrite": "v\u00e0 anh n\u1eb1m \u0111\u00f3 trong b\u00f3ng t\u1ed1i c\u1ee7a c\u0103n nh\u00e0 s\u1ed1 m\u01b0\u1eddi b\u1ea3y, nghe s\u00f3ng v\u1ed7 \u0111\u1ec1u \u0111\u1eb7n nh\u01b0 nh\u1ecbp tim, nghe hoa d\u1eb7m x\u00e0o x\u1ea1c trong gi\u00f3."
+    },
+    {
+      "quote": "Ch\u1ecdn tin r\u1eb1ng s\u1ed5 c\u1ee9u ng\u01b0\u1eddi. Ch\u1ecdn tin r\u1eb1ng ghi l\u1ea1i l\u00e0 gi\u1eef l\u1ea1i. Ch\u1ecdn tin, d\u00f9 tay l\u1ea1nh, d\u00f9 \u0111\u1ea5t m\u1ecdc, d\u00f9 c\u1ee5 Ba bu\u1ed3n. V\u00ec n\u1ebfu kh\u00f4ng tin, anh \u0111\u00e3 kh\u00f4ng c\u00f2n l\u00fd do \u0111\u1ec3 \u1edf l\u1ea1i.",
+      "type": "TELL",
+      "reason": "The final 'V\u00ec n\u1ebfu kh\u00f4ng tin...' sentence explains a motivation that should be felt. It's the narrator telling us the emotional stakes rather than letting Khoa's exhaustion and the closing dream carry the weight.",
+      "rewrite": "Ch\u1ecdn tin r\u1eb1ng s\u1ed5 c\u1ee9u ng\u01b0\u1eddi. Ch\u1ecdn tin r\u1eb1ng ghi l\u1ea1i l\u00e0 gi\u1eef l\u1ea1i. Ch\u1ecdn tin, d\u00f9 tay l\u1ea1nh, d\u00f9 \u0111\u1ea5t m\u1ecdc, d\u00f9 c\u1ee5 Ba bu\u1ed3n."
+    },
+    {
+      "quote": "N\u0103m ph\u00fat. Khoa \u0111\u1ebfm trong \u0111\u1ea7u, m\u1eaft kh\u00f4ng r\u1eddi th\u00edm, v\u00e0 anh th\u1ea5y \u2014 ph\u00fat th\u1ee9 ba, gi\u1ecdng th\u00edm nh\u1ecf l\u1ea1i nh\u01b0 ti\u1ebfng radio b\u1ecb xoay n\u00fat xu\u1ed1ng, n\u1ebfp nh\u0103n quanh m\u1eaft m\u1ec1m \u0111i, v\u1ebft chai nh\u1ea1t d\u1ea7n nh\u01b0 v\u1ebft b\u00fat ch\u00ec b\u1ecb t\u1ea9y.",
+      "type": "PACING",
+      "reason": "The countdown structure is effective but the radio simile is generic and undercuts the strangeness of what's happening\u2014a person literally fading. The pencil eraser comparison is better but still everyday.",
+      "rewrite": "N\u0103m ph\u00fat. Khoa \u0111\u1ebfm trong \u0111\u1ea7u, m\u1eaft kh\u00f4ng r\u1eddi th\u00edm, v\u00e0 anh th\u1ea5y \u2014 ph\u00fat th\u1ee9 ba, gi\u1ecdng th\u00edm nh\u1ecf l\u1ea1i, n\u1ebfp nh\u0103n quanh m\u1eaft m\u1ec1m \u0111i, v\u1ebft chai nh\u1ea1t d\u1ea7n nh\u01b0 \u0111\u01b0\u1ee3c t\u1ea9y kh\u1ecfi da."
+    }
+  ],
+  "tightest_passage": "Gi\u00f3 th\u1ed5i. S\u00f3ng v\u1ed7. Hoa d\u1eb7m tr\u00ean khe \u0111\u00e1 g\u1ea7n ch\u00e2n c\u1ee5 rung nh\u1eb9, c\u00e1nh tr\u1eafng, gi\u1eefa v\u00e0ng nh\u1ea1t, v\u00e0 Khoa ng\u1eedi m\u00f9i c\u00e0 ph\u00ea \u2014 th\u1ee9 m\u00f9i kh\u00f4ng thu\u1ed9c \u0111\u1ea3o, th\u1ee9 m\u00f9i thu\u1ed9c v\u1ec1 Berlin, thu\u1ed9c v\u1ec1 ph\u00f2ng nghi\u00ean vi\u1ec7n, thu\u1ed9c v\u1ec1 \u0111\u1eddi anh tr\u01b0\u1edbc khi anh \u0111\u1ebfn \u0111\u00e2y \u2014 v\u00e0 anh n\u00edn th\u1edf.",
+  "loosest_passage": "v\u00e0 anh ngh\u0129 v\u1ec1 quy lu\u1eadt anh v\u1eeba t\u00ecm ra \u2014 ghi l\u1ea1i l\u00e0 gi\u1eef l\u1ea1i \u2014 v\u00e0 anh ngh\u0129 v\u1ec1 gi\u00e1 \u2014 gi\u1eef b\u1eb1ng g\u00ec \u2014 v\u00e0 anh ngh\u0129 v\u1ec1 \u0111\u1ea3o l\u1edbn l\u00ean \u2014 l\u1edbn b\u1eb1ng g\u00ec \u2014 v\u00e0 anh ngh\u0129 v\u1ec1 c\u1ee5 Ba nh\u00ecn anh b\u1eb1ng m\u1eaft bu\u1ed3n nh\u01b0 nh\u00ecn ai s\u1eafp ch\u1ebft \u2014 v\u00e0 anh ngh\u0129: ai s\u1eafp ch\u1ebft, ai, t\u00f4i hay ng\u01b0\u1eddi t\u00f4i \u0111ang gi\u1eef \u2014 v\u00e0 anh kh\u00f4ng bi\u1ebft, v\u00e0 anh n\u1eb1m \u0111\u00f3, m\u1eaft m\u1edf, nh\u00ecn tr\u1ea7n nh\u00e0 tranh, v\u00e0 anh ch\u1ecdn tin.",
+  "recurring_patterns": [
+    "The narrator restates thematic questions (ghi l\u1ea1i l\u00e0 gi\u1eef l\u1ea1i, gi\u1eef b\u1eb1ng g\u00ec, l\u1edbn b\u1eb1ng g\u00ec) four to five times, trusting the reader too little.",
+    "Key revelations are over-explained as complete logical chains rather than felt discoveries\u2014the narrator connects every dot.",
+    "Run-on sentences layer multiple observations, comparisons, and emotional responses into a single breath, diffusing their impact."
+  ],
+  "missed_opportunities": [
+    "The moment Khoa steps onto new land beyond his old map could be visceral\u2014bare feet on stone no one has touched\u2014but it's swamped by counting and comparison to the journal.",
+    "C\u1ee5 Ba's silent appearance on the rock is the chapter's strongest scene, but it's followed by a paragraph cataloguing every prior encounter with that gaze, dissipating the mystery.",
+    "The closing dream of water rising and mother slipping away is devastating but could mirror the island's growth more explicitly\u2014land rising as water takes."
+  ],
+  "revision_strategy": "Cut every restatement of the three core questions to a single appearance; let the image of fading ink and growing land carry the theme without explicit gloss. Shorten run-on sentences to let key observations and comparisons breathe as their own beats.",
+  "one_sentence_verdict": "The chapter builds a haunting magic system and delivers a gut-punch revelation\u2014that preserving others may cost the writer himself\u2014but buries its power under repetitive explicit restatement of questions the reader has already learned to ask."
+}

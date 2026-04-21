@@ -1138,13 +1138,23 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
         build_arc = BASE_DIR / "build_arc_summary.py"
         if build_arc.exists() and not arc_summary_path.exists():
             step("Building arc summary for reader panel...")
-            uv_run("build_arc_summary.py", timeout=SUBPROCESS_TIMEOUT,
-                   extra_env=_EVAL_ENV)
+            arc_result = uv_run("build_arc_summary.py",
+                                timeout=SUBPROCESS_TIMEOUT,
+                                extra_env=_EVAL_ENV)
+            if arc_result.returncode != 0:
+                step("ERROR: build_arc_summary.py failed "
+                     f"(exit {arc_result.returncode}) — "
+                     "revision will run without reader panel")
 
         # -- Step 2: Reader panel --
         reader_panel_py = BASE_DIR / "reader_panel.py"
         if not arc_summary_path.exists() or not reader_panel_py.exists():
-            step("WARNING: arc_summary.md or reader_panel.py missing, "
+            missing = []
+            if not arc_summary_path.exists():
+                missing.append("arc_summary.md")
+            if not reader_panel_py.exists():
+                missing.append("reader_panel.py")
+            step("WARNING: " + " and ".join(missing) + " missing, "
                  "skipping reader panel")
             consensus_items = []
         else:
