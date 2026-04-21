@@ -6,7 +6,8 @@ Usage: python gen_revision.py <chapter_num> <brief_file>
 import sys
 from pathlib import Path
 
-from config import language_instruction, BASE_DIR
+from config import (language_instruction, vi_system_prompt, vi_writing_instructions,
+                    BASE_DIR, get_language)
 from writer import call_writer as _call_api
 
 
@@ -16,7 +17,7 @@ def load_file(path):
     except FileNotFoundError:
         return ""
 
-_SYSTEM = (
+_EN_SYSTEM = (
     "You are rewriting a fantasy novel chapter based on a specific revision brief. "
     "You follow the brief exactly. You preserve the voice, world, and characters "
     "from the existing draft while making the structural changes specified. "
@@ -24,8 +25,18 @@ _SYSTEM = (
     + language_instruction()
 )
 
+_VI_REVISE_SYSTEM = (
+    "Bạn đang viết lại một chương tiểu thuyết fantasy theo yêu cầu sửa đổi cụ thể. "
+    "Bạn tuân thủ đúng yêu cầu sửa. Bạn giữ nguyên giọng văn, thế giới, và nhân vật "
+    "của bản nháp hiện tại, đồng thời thực hiện các thay đổi cấu trúc theo yêu cầu. "
+    "Bạn viết NGUYÊN CHƯƠNG — không cắt ngắn, không tóm tắt."
+)
+
+_SYSTEM = vi_system_prompt() or _EN_SYSTEM
+_REVISE_SYSTEM = _VI_REVISE_SYSTEM if get_language() == "vi" else _EN_SYSTEM
+
 def call_writer(prompt, max_tokens=16000):
-    return _call_api(prompt, system=_SYSTEM, max_tokens=max_tokens,
+    return _call_api(prompt, system=_REVISE_SYSTEM, max_tokens=max_tokens,
                      temperature=0.8, timeout=None, use_beta=True)
 
 def main():
@@ -56,6 +67,34 @@ def main():
             title = stripped
             break
     
+    # Select anti-pattern rules language
+    _en_anti = """\
+ANTI-PATTERN RULES:
+- NO triadic sensory lists (X. Y. Z.)
+- NO "He did not [verb]" more than once
+- NO "He thought about [X]" constructions
+- NO "the way [X] did [Y]" more than twice
+- NO "not X, but Y" formula in narration
+- NO over-explaining after showing
+- MAX 2 section breaks
+- At least one moment that genuinely surprises
+- 70%+ in-scene (dialogue and action, not summary)
+- Dialogue should sound like speech, not prose"""
+
+    _vi_anti = """\
+CÁC MẪU CẦN TRÁNH:
+- TUYỆT ĐỐI KHÔNG liệt kê ba giác quan liên tiếp (X. Y. Z.)
+- TUYỆT ĐỐI KHÔNG dùng "Anh/Cô không [động từ]" quá một lần
+- TUYỆT ĐỐI KHÔNG dùng "Anh/Cô nghĩ về [X]"
+- TUYỆT ĐỐI KHÔNG lạm dụng so sánh "như cách [X] [Y]" quá hai lần
+- KHÔNG giải thích lại cảnh vừa miêu tả
+- Tối đa 2 dấu phân cảnh (---)
+- Có ít nhất một khoảnh khắc bất ngờ
+- 70%+ trong cảnh (lời thoại và hành động, không kể tóm tắt)
+- Lời thoại phải giống tiếng nói, không giống văn viết"""
+
+    _anti_pattern_rules = _vi_anti if get_language() == "vi" else _en_anti
+
     prompt = f"""Rewrite Chapter {ch_num} of "{title}."
 
 REVISION BRIEF (follow this exactly):
@@ -79,17 +118,7 @@ NEXT CHAPTER OPENING (end so this flows into it):
 THE EXISTING DRAFT (use as raw material -- keep what works, cut what doesn't):
 {old_text}
 
-ANTI-PATTERN RULES:
-- NO triadic sensory lists (X. Y. Z.)
-- NO "He did not [verb]" more than once
-- NO "He thought about [X]" constructions
-- NO "the way [X] did [Y]" more than twice
-- NO "not X, but Y" formula in narration
-- NO over-explaining after showing
-- MAX 2 section breaks
-- At least one moment that genuinely surprises
-- 70%+ in-scene (dialogue and action, not summary)
-- Dialogue should sound like speech, not prose
+{_anti_pattern_rules}
 
 Write the FULL revised chapter now."""
 

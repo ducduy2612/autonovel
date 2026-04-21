@@ -7,10 +7,11 @@ import re
 import sys
 from pathlib import Path
 
-from config import language_instruction, BASE_DIR, CHAPTERS_DIR
+from config import (language_instruction, vi_system_prompt, vi_writing_instructions,
+                    BASE_DIR, CHAPTERS_DIR, get_language)
 from writer import call_writer
 
-_SYSTEM = (
+_EN_SYSTEM = (
     "You are a literary fiction writer drafting a fantasy novel chapter. "
     "You write in third-person limited past tense, locked to one POV character. "
     "You follow the voice definition exactly. You hit every beat in the outline. "
@@ -20,6 +21,8 @@ _SYSTEM = (
     "You write the FULL chapter -- do not truncate, summarize, or skip ahead."
     + language_instruction()
 )
+
+_SYSTEM = vi_system_prompt() or _EN_SYSTEM
 
 def _call_writer(prompt, max_tokens=16000):
     return call_writer(prompt, system=_SYSTEM, max_tokens=max_tokens,
@@ -103,6 +106,56 @@ def main():
         if parts:
             prev_summaries = "\n\n".join(parts)
     
+    # Select writing instructions language
+    _en_instructions = f"""\
+WRITING INSTRUCTIONS:
+1. Write the COMPLETE chapter. Target ~3,200 words. Do not truncate or summarize.
+2. Third-person limited, past tense, locked to {pov}'s POV.
+3. Hit ALL numbered beats from the outline in order.
+4. Plant ALL foreshadowing elements listed under "Plants."
+5. Show sensory detail: what {pov} hears, smells, feels physically.
+6. Ground physical sensations in specifics — not vague discomfort but
+   precise, located sensation.
+7. Dialogue follows the speech patterns defined in characters.md.
+8. No banned words from voice.md Part 1 guardrails.
+9. No AI fiction tells: no "a sense of," no "couldn't help but feel," no "eyes widened."
+10. Vary sentence length. Short sentences for impact. Longer ones to build.
+11. Metaphors from the POV character's experience and world — drawn from
+    their occupation, history, and environment.
+12. Trust the reader. Don't explain what scenes mean. Let them land.
+13. Start the chapter in scene, not with exposition. End on a moment, not a summary.
+
+PATTERNS TO AVOID (these have been flagged in previous chapters):
+14. NO triadic sensory lists. Never "X. Y. Z." or "X and Y and Z" as three
+    separate items in a row. Combine two, cut one, or restructure.
+15. NO "He did not [verb]" more than once per chapter. Convert negatives
+    to active alternatives or just cut them.
+16. NO "He thought about [X]" constructions. Replace with: the thought
+    itself as a fragment, a physical action, or dialogue.
+17. NO "the way [X] did [Y]" as a simile connector more than twice per
+    chapter. Use different simile structures or cut the comparison.
+18. NO over-explaining after showing. If a scene demonstrates something,
+    do not have the narrator restate it. Trust the scene.
+19. NO section breaks (---) as rhythm crutches. Only use for genuine
+    time/location jumps. Max 2 per chapter.
+20. VARY paragraph length deliberately. Never more than 3 consecutive
+    paragraphs of similar length. Include at least one 1-2 sentence
+    paragraph and one 6+ sentence paragraph.
+21. END the chapter differently from previous chapters. Find the ending
+    that belongs to THIS chapter specifically.
+22. INCLUDE at least one moment that surprises -- a character saying
+    the wrong thing, an emotional beat arriving early or late, a detail
+    that doesn't fit the expected pattern. Predictable excellence is
+    still predictable.
+23. FAVOR scene over summary. At least 70% of the chapter should be
+    in-scene (moment by moment, with dialogue and action) rather than
+    summary (narrator compressing time).
+24. DIALOGUE should sound like speech, not prose. Characters should
+    occasionally stumble, interrupt, trail off, or say something
+    slightly wrong. No character speaks in polished epigrams."""
+
+    _vi_instructions = vi_writing_instructions(pov=pov) or _en_instructions
+
     prompt = f"""Write Chapter {chapter_num} of "{title}."
 
 VOICE DEFINITION (follow this exactly):
@@ -129,64 +182,7 @@ CHARACTER REGISTRY (reference for speech patterns and behavior):
 CANON (established facts -- do not contradict):
 {canon}
 
-WRITING INSTRUCTIONS:
-1. Write the COMPLETE chapter. Target ~3,200 words. Do not truncate or summarize.
-2. Third-person limited, past tense, locked to {pov}'s POV.
-3. Hit ALL numbered beats from the outline in order.
-4. Plant ALL foreshadowing elements listed under "Plants."
-5. Show sensory detail: what {pov} hears, smells, feels physically.
-6. Ground physical sensations in specifics — not vague discomfort but
-   precise, located sensation.
-7. Dialogue follows the speech patterns defined in characters.md.
-8. No banned words from voice.md Part 1 guardrails.
-9. No AI fiction tells: no "a sense of," no "couldn't help but feel," no "eyes widened."
-10. SENTENCE LENGTH IS THE #1 PRIORITY. The DEFAULT is long, flowing sentences
-    (15-40 words) with commas, subordinate clauses, and multiple sensations woven
-    together. SHORT sentences (1-7 words) are RARE exceptions — use them only when
-    someone is about to vanish, a memory surfaces, or you need one sharp cut after
-    a long passage. Maximum 1-2 short sentences in a row, then you MUST follow with
-    a long sentence that releases the tension. Target ratio: 65% long, 25% medium,
-    10% short/fragments. When in doubt, write LONG. The prose should FLOW like water,
-    not stutter like a telegraph.
-11. Metaphors from the POV character's experience and world — drawn from
-    their occupation, history, and environment.
-12. Trust the reader. Don't explain what scenes mean. Let them land.
-13. Start the chapter in scene, not with exposition. End on a moment, not a summary.
-14. EVERY descriptive or atmospheric passage must contain at least one flowing
-    long sentence (20+ words) with subordinate clauses. Sensory details belong in
-    long sentences, not fragmented lists. "Gió biển thổi qua rào bạc hà, lá rung
-    nhẹ, thoang thoảng mùi the the xen muối" is correct — one sentence carrying
-    multiple sensations. "Gió thổi. Lá rung. Mùi the the." is wrong — that's a
-    list pretending to be prose.
-
-PATTERNS TO AVOID (these have been flagged in previous chapters):
-15. NO triadic sensory lists. Never "X. Y. Z." or "X and Y and Z" as three
-    separate items in a row. Combine two, cut one, or restructure.
-16. NO "He did not [verb]" more than once per chapter. Convert negatives
-    to active alternatives or just cut them.
-17. NO "He thought about [X]" constructions. Replace with: the thought
-    itself as a fragment, a physical action, or dialogue.
-18. NO "the way [X] did [Y]" as a simile connector more than twice per
-    chapter. Use different simile structures or cut the comparison.
-19. NO over-explaining after showing. If a scene demonstrates something,
-    do not have the narrator restate it. Trust the scene.
-20. NO section breaks (---) as rhythm crutches. Only use for genuine
-    time/location jumps. Max 2 per chapter.
-21. VARY paragraph length deliberately. Never more than 3 consecutive
-    paragraphs of similar length. Include at least one 1-2 sentence
-    paragraph and one 6+ sentence paragraph.
-22. END the chapter differently from previous chapters. Find the ending
-    that belongs to THIS chapter specifically.
-23. INCLUDE at least one moment that surprises -- a character saying
-    the wrong thing, an emotional beat arriving early or late, a detail
-    that doesn't fit the expected pattern. Predictible excellence is
-    still predictable.
-24. FAVOR scene over summary. At least 70% of the chapter should be
-    in-scene (moment by moment, with dialogue and action) rather than
-    summary (narrator compressing time).
-25. DIALOGUE should sound like speech, not prose. Characters should
-    occasionally stumble, interrupt, trail off, or say something
-    slightly wrong. No character speaks in polished epigrams.
+{_vi_instructions}
 
 Write the chapter now. Full text, beginning to end.
 """
