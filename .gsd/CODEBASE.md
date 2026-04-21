@@ -1,17 +1,21 @@
 # Codebase Map
 
-Generated: 2026-04-18T06:43:54Z | Files: 168 | Described: 0/168
-<!-- gsd:codebase-meta {"generatedAt":"2026-04-18T06:43:54Z","fingerprint":"b003ff8c519b049828c1acd303df855498c35675","fileCount":168,"truncated":false} -->
+Generated: 2026-04-19T08:18:56Z | Files: 171 | Described: 0/171
+<!-- gsd:codebase-meta {"generatedAt":"2026-04-19T08:18:56Z","fingerprint":"c20fca6a0caef44e67ac7636508bd9f4adc9c309","fileCount":171,"truncated":false} -->
 
 ### (root)/
-- *(60 files: 38 .py, 13 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
+- *(61 files: 38 .py, 14 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
 
 ### art/
 - `art/picks.json`
 - `art/visual_style.json`
 
+### art/archive/
+- `art/archive/art_20260418_055343.zip`
+
 ### art/variants/
 - `art/variants/cover_directions.json`
+- `art/variants/map_directions.json`
 - `art/variants/ornament_directions.json`
 
 ### chapters/

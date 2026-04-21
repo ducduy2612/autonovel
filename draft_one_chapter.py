@@ -30,7 +30,11 @@ eval_result = None
 for attempt in range(1, MAX_CHAPTER_ATTEMPTS + 1):
     step(f"Attempt {attempt}/{MAX_CHAPTER_ATTEMPTS}")
 
-    draft_result = uv_run(f"draft_chapter.py {ch}", timeout=SUBPROCESS_TIMEOUT)
+    _DRAFT_ENV = {"AUTONOVEL_THINKING": "off"}
+    _EVAL_ENV = {"AUTONOVEL_THINKING": "on"}
+
+    draft_result = uv_run(f"draft_chapter.py {ch}", timeout=SUBPROCESS_TIMEOUT,
+                          extra_env=_DRAFT_ENV)
     if draft_result.returncode != 0:
         step(f"Draft failed (exit {draft_result.returncode}), retrying...")
         continue
@@ -43,7 +47,8 @@ for attempt in range(1, MAX_CHAPTER_ATTEMPTS + 1):
     word_count = len(ch_file.read_text().split())
     step(f"Drafted {word_count} words")
 
-    eval_result = uv_run(f"evaluate.py --chapter={ch}", timeout=SUBPROCESS_TIMEOUT)
+    eval_result = uv_run(f"evaluate.py --chapter={ch}", timeout=SUBPROCESS_TIMEOUT,
+                         extra_env=_EVAL_ENV)
     score = parse_score(eval_result.stdout, "overall_score")
     step(f"Chapter {ch} score: {score}")
 

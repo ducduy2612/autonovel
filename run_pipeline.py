@@ -245,7 +245,8 @@ def step(text: str):
 # Helpers: subprocess execution
 # ---------------------------------------------------------------------------
 
-def run_tool(cmd: str, timeout: int | None = None, check: bool = False) -> subprocess.CompletedProcess:
+def run_tool(cmd: str, timeout: int | None = None, check: bool = False,
+             extra_env: dict[str, str] | None = None) -> subprocess.CompletedProcess:
     """
     Run a tool as a subprocess.
     Uses shell=True so callers can pass full command strings.
@@ -257,17 +258,24 @@ def run_tool(cmd: str, timeout: int | None = None, check: bool = False) -> subpr
 
     Timeout defaults to SUBPROCESS_TIMEOUT * thinking scale factor,
     so LLM-heavy subprocesses get enough room when thinking mode is on.
+
+    extra_env: optional dict of env vars to override for this subprocess
+    only (e.g. {"AUTONOVEL_THINKING": "off"}).
     """
     import threading
 
     effective_timeout = (timeout if timeout is not None
                          else SUBPROCESS_TIMEOUT * _THINKING_TIMEOUT_SCALE)
     step(f"RUN: {cmd}")
+    env = None
+    if extra_env:
+        env = os.environ.copy()
+        env.update(extra_env)
     try:
         proc = subprocess.Popen(
             cmd, shell=True,
             stdout=subprocess.PIPE, stderr=subprocess.PIPE,
-            text=True, cwd=str(BASE_DIR),
+            text=True, cwd=str(BASE_DIR), env=env,
         )
 
         # Forward stderr lines to our stderr in real-time so
@@ -319,9 +327,11 @@ def run_tool(cmd: str, timeout: int | None = None, check: bool = False) -> subpr
             cmd, returncode=-1, stdout="", stderr=str(exc))
 
 
-def uv_run(script: str, timeout: int = 600) -> subprocess.CompletedProcess:
+def uv_run(script: str, timeout: int = 600,
+           extra_env: dict[str, str] | None = None) -> subprocess.CompletedProcess:
     """Shorthand for 'uv run python <script>' from project root."""
-    return run_tool(f"uv run python {script}", timeout=timeout)
+    return run_tool(f"uv run python {script}", timeout=timeout,
+                    extra_env=extra_env)
 
 
 # ---------------------------------------------------------------------------
@@ -827,9 +837,11 @@ def run_foundation(state: dict) -> dict:
                 if r.returncode == 0 and r.stdout.strip():
                     (BASE_DIR / "canon.md").write_text(r.stdout)
 
-        # 2. Evaluate
+        # 2. Evaluate — thinking ON for analysis
         step("Evaluating foundation...")
-        eval_result = uv_run("evaluate.py --phase=foundation", timeout=SUBPROCESS_TIMEOUT)
+        _eval_env = {"AUTONOVEL_THINKING": "on"}
+        eval_result = uv_run("evaluate.py --phase=foundation", timeout=SUBPROCESS_TIMEOUT,
+                             extra_env=_eval_env)
         score = parse_score(eval_result.stdout, "overall_score")
         lore = parse_lore_score(eval_result.stdout)
 
@@ -899,8 +911,18 @@ def run_foundation(state: dict) -> dict:
 def run_drafting(state: dict) -> dict:
     """
     Draft each chapter sequentially, evaluating and retrying as needed.
+
+    Thinking mode is controlled per-call:
+      - Drafting chapters: thinking OFF (faster, creative writing doesn't
+        benefit from reasoning)
+      - Evaluating and fixing slop: thinking ON (reasoning helps the judge
+        and editor be thorough)
     """
     banner("PHASE 2: DRAFTING", "=")
+
+    # Env overrides for per-call thinking control
+    _DRAFT_ENV = {"AUTONOVEL_THINKING": "off"}   # no reasoning for creative writing
+    _EVAL_ENV = {"AUTONOVEL_THINKING": "on"}     # reasoning for eval & fix
 
     total = get_total_chapters(state)
     start_chapter = state.get("chapters_drafted", 0) + 1
@@ -915,8 +937,9 @@ def run_drafting(state: dict) -> dict:
         for attempt in range(1, MAX_CHAPTER_ATTEMPTS + 1):
             step(f"Attempt {attempt}/{MAX_CHAPTER_ATTEMPTS}")
 
-            # Draft
-            draft_result = uv_run(f"draft_chapter.py {ch}", timeout=SUBPROCESS_TIMEOUT)
+            # Draft — thinking OFF
+            draft_result = uv_run(f"draft_chapter.py {ch}", timeout=SUBPROCESS_TIMEOUT,
+                                  extra_env=_DRAFT_ENV)
             if draft_result.returncode != 0:
                 step(f"Draft failed (exit {draft_result.returncode}), retrying...")
                 continue
@@ -930,13 +953,14 @@ def run_drafting(state: dict) -> dict:
             word_count = len(ch_file.read_text().split())
             step(f"Drafted {word_count} words")
 
-            # Evaluate
-            eval_result = uv_run(f"evaluate.py --chapter={ch}", timeout=SUBPROCESS_TIMEOUT)
+            # Evaluate — thinking ON
+            eval_result = uv_run(f"evaluate.py --chapter={ch}", timeout=SUBPROCESS_TIMEOUT,
+                                 extra_env=_EVAL_ENV)
             score = parse_score(eval_result.stdout, "overall_score")
             step(f"Chapter {ch} score: {score}")
 
             if score >= CHAPTER_THRESHOLD:
-                # Fix slop surgically if penalty > 0
+                # Fix slop surgically if penalty > 0 — thinking ON
                 slop_penalty = 0
                 eval_logs = sorted(
                     EVAL_LOGS_DIR.glob(f"*_ch{ch:02d}.json"),
@@ -950,11 +974,14 @@ def run_drafting(state: dict) -> dict:
                         pass
                 if slop_penalty >= 1.0:
                     step(f"Slop penalty {slop_penalty} — running surgical fix...")
-                    fix_result = uv_run(f"fix_slop.py {ch}", timeout=SUBPROCESS_TIMEOUT)
+                    fix_result = uv_run(f"fix_slop.py {ch}", timeout=SUBPROCESS_TIMEOUT,
+                                        extra_env=_EVAL_ENV)
                     if fix_result.returncode == 0:
-                        # Re-evaluate after fix
+                        # Re-evaluate after fix — thinking ON
                         step(f"Re-evaluating after slop fix...")
-                        eval_result = uv_run(f"evaluate.py --chapter={ch}", timeout=SUBPROCESS_TIMEOUT)
+                        eval_result = uv_run(f"evaluate.py --chapter={ch}",
+                                             timeout=SUBPROCESS_TIMEOUT,
+                                             extra_env=_EVAL_ENV)
                         score = parse_score(eval_result.stdout, "overall_score")
                         step(f"Chapter {ch} score after fix: {score}")
                         word_count = len(ch_file.read_text().split())
@@ -1010,7 +1037,7 @@ def run_drafting(state: dict) -> dict:
 
     total_words = count_words_in_chapters()
     step("Running voice fingerprint across all chapters...")
-    uv_run("voice_fingerprint.py", timeout=SUBPROCESS_TIMEOUT)
+    uv_run("voice_fingerprint.py", timeout=SUBPROCESS_TIMEOUT, extra_env=_EVAL_ENV)
     banner(f"DRAFTING COMPLETE — {total} chapters, {total_words} words")
     return state
 
@@ -1088,8 +1115,13 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
     Revision phase: reader panel → targeted adversarial edit → revise flagged
     chapters → full novel eval. Merges the old Phase 3 + Phase 3b into one
     loop. A single Opus review.py call runs at the end as a final quality check.
+
+    All subprocess calls here use thinking ON — this is analysis, evaluation,
+    and editorial refinement work that benefits from reasoning.
     """
     banner("PHASE 3: REVISION", "=")
+
+    _EVAL_ENV = {"AUTONOVEL_THINKING": "on"}
 
     BRIEFS_DIR.mkdir(exist_ok=True)
     EDIT_LOGS_DIR.mkdir(exist_ok=True)
@@ -1106,7 +1138,8 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
         build_arc = BASE_DIR / "build_arc_summary.py"
         if build_arc.exists() and not arc_summary_path.exists():
             step("Building arc summary for reader panel...")
-            uv_run("build_arc_summary.py", timeout=SUBPROCESS_TIMEOUT)
+            uv_run("build_arc_summary.py", timeout=SUBPROCESS_TIMEOUT,
+                   extra_env=_EVAL_ENV)
 
         # -- Step 2: Reader panel --
         reader_panel_py = BASE_DIR / "reader_panel.py"
@@ -1116,7 +1149,8 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
             consensus_items = []
         else:
             step("Running reader panel evaluation...")
-            uv_run("reader_panel.py", timeout=SUBPROCESS_TIMEOUT)
+            uv_run("reader_panel.py", timeout=SUBPROCESS_TIMEOUT,
+                   extra_env=_EVAL_ENV)
 
             # -- Step 3: Parse panel consensus --
             panel_path = EDIT_LOGS_DIR / "reader_panel.json"
@@ -1134,7 +1168,8 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
         for item in consensus_items:
             ch_num = item["chapter"]
             step(f"Running adversarial edit on Ch {ch_num}...")
-            uv_run(f"adversarial_edit.py {ch_num}", timeout=SUBPROCESS_TIMEOUT)
+            uv_run(f"adversarial_edit.py {ch_num}", timeout=SUBPROCESS_TIMEOUT,
+                   extra_env=_EVAL_ENV)
 
         # -- Step 5: Revise flagged chapters (brief → rewrite → eval → keep/revert) --
         for idx, item in enumerate(consensus_items):
@@ -1143,7 +1178,8 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
             banner(f"  Revising Ch {ch_num} ({question}) [{idx+1}/{len(consensus_items)}]", ".")
 
             # Snapshot the current chapter score for comparison
-            pre_eval = uv_run(f"evaluate.py --chapter={ch_num}", timeout=SUBPROCESS_TIMEOUT)
+            pre_eval = uv_run(f"evaluate.py --chapter={ch_num}", timeout=SUBPROCESS_TIMEOUT,
+                              extra_env=_EVAL_ENV)
             pre_score = parse_score(pre_eval.stdout, "overall_score")
 
             # Generate revision brief
@@ -1151,7 +1187,8 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
             gen_brief = BASE_DIR / "gen_brief.py"
             if gen_brief.exists():
                 step(f"Generating brief for Ch {ch_num}...")
-                run_tool(f"uv run python gen_brief.py --panel {ch_num}", timeout=SUBPROCESS_TIMEOUT)
+                run_tool(f"uv run python gen_brief.py --panel {ch_num}", timeout=SUBPROCESS_TIMEOUT,
+                         extra_env=_EVAL_ENV)
                 # gen_brief.py may write to briefs/ — find the most recent brief
                 brief_candidates = sorted(
                     BRIEFS_DIR.glob(f"ch{ch_num:02d}*.md"),
@@ -1176,10 +1213,12 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
 
             # Run revision
             step(f"Revising Ch {ch_num} with brief {brief_file.name}...")
-            uv_run(f"gen_revision.py {ch_num} {brief_file}", timeout=SUBPROCESS_TIMEOUT)
+            uv_run(f"gen_revision.py {ch_num} {brief_file}", timeout=SUBPROCESS_TIMEOUT,
+                   extra_env=_EVAL_ENV)
 
             # Evaluate revised chapter
-            post_eval = uv_run(f"evaluate.py --chapter={ch_num}", timeout=SUBPROCESS_TIMEOUT)
+            post_eval = uv_run(f"evaluate.py --chapter={ch_num}", timeout=SUBPROCESS_TIMEOUT,
+                               extra_env=_EVAL_ENV)
             post_score = parse_score(post_eval.stdout, "overall_score")
 
             ch_file = CHAPTERS_DIR / f"ch_{ch_num:02d}.md"
@@ -1203,7 +1242,8 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
 
         # -- Step 6: Full novel evaluation --
         step("Running full novel evaluation...")
-        full_eval = uv_run("evaluate.py --full", timeout=SUBPROCESS_TIMEOUT)
+        full_eval = uv_run("evaluate.py --full", timeout=SUBPROCESS_TIMEOUT,
+                           extra_env=_EVAL_ENV)
         novel_score = parse_score(full_eval.stdout, "novel_score")
 
         if novel_score < 0:
@@ -1240,11 +1280,13 @@ def run_revision(state: dict, max_cycles: int = MAX_REVISION_CYCLES) -> dict:
         banner("FINAL QUALITY CHECK: Opus Review", "=")
 
         step("Sending manuscript to Opus for final review...")
-        review_result = uv_run("review.py --output reviews.md", timeout=SUBPROCESS_TIMEOUT)
+        review_result = uv_run("review.py --output reviews.md", timeout=SUBPROCESS_TIMEOUT,
+                               extra_env=_EVAL_ENV)
 
         # Parse the review
         step("Parsing review...")
-        parse_result = run_tool("uv run python review.py --parse", timeout=SUBPROCESS_TIMEOUT)
+        parse_result = run_tool("uv run python review.py --parse", timeout=SUBPROCESS_TIMEOUT,
+                                extra_env=_EVAL_ENV)
         print(parse_result.stdout if parse_result else "")
 
         # Check star rating and flag for user if needed
