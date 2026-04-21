@@ -1,0 +1,102 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "Khoa t\u01b0\u1edfng t\u01b0\u1ee3ng m\u1ed9t ng\u01b0\u1eddi m\u1eb9 \u0111\u1ecdc b\u00e1o tr\u00ean \u0111i\u1ec7n tho\u1ea1i, kh\u00f3c m\u1ed9t gi\u00e2y cho 'ng\u01b0\u1eddi ch\u1ebft \u0111u\u1ed1i' r\u1ed3i l\u01b0\u1edbt ti\u1ebfp \u2014 v\u00e0 \u1edf \u0111\u00e2u \u0111\u00f3 tr\u00ean bi\u1ec3n, m\u1ed9t h\u1ed3n b\u1ecb k\u00e9o v\u00e0o B\u00e3i Ch\u1edd.",
+    "fix": "D\u00f9ng body-before-emotion thay v\u00ec k\u1ec3 suy lu\u1eadn. V\u00ed d\u1ee5: 'Cu\u1ed1ng h\u1ecdng anh n\u00f3ng r\u00e1t. Kh\u00e1i ni\u1ec7m \u2014 ch\u1ec9 c\u1ea7n kh\u00e1i ni\u1ec7m \u2014 \u0111\u1ee7 n\u00edu h\u1ed3n. Anh n\u1eafm v\u1ea1t \u00e1o, v\u1ea3i nh\u0103n d\u01b0\u1edbi ng\u00f3n tay trong su\u1ed1t.' \u0110\u1ec3 ng\u01b0\u1eddi \u0111\u1ecdc t\u1ef1 suy ra \u00fd, kh\u00f4ng n\u00f3i th\u1eb3ng.",
+    "note": "Gi\u1ecdng v\u0103n t\u1ed5ng th\u1ec3 \u0111\u00fang tone \u2014 bu\u1ed3n, ch\u1eadm, n\u01b0\u1edbc/mu\u1ed1i/kh\u00f3i. C\u00e2u d\u00e0i chi\u1ebfm \u01b0u th\u1ebf \u0111\u00fang t\u1ef7 l\u1ec7. Nh\u01b0ng \u0111o\u1ea1n Khoa ph\u00e2n t\u00edch h\u1eadu qu\u1ea3 b\u00e0i b\u00e1o (ph\u1ea7n gi\u1eefa) tr\u1edf th\u00e0nh gi\u1ecdng ph\u00e2n t\u00edch h\u1ecdc thu\u1eadt, m\u1ea5t \u0111i ch\u1ea5t 'kh\u00f3i b\u1ebfp l\u00f2 ch\u1edd t\u00e0n'. C\u1ee5 Ba \u1edf Ch 19 cho v\u00ed d\u1ee5 xu\u1ea5t s\u1eafc v\u1ec1 gi\u1ecdng n\u00e0y; ch\u01b0\u01a1ng n\u00e0y waver gi\u1eefa gi\u1ecdng th\u01a1 v\u00e0 gi\u1ecdng lu\u1eadn v\u0103n."
+  },
+  "beat_coverage": {
+    "score": 7,
+    "weakest_moment": "Beat 3 (ngh\u0129 v\u1ec1 Ph\u01b0\u01a1ng) v\u00e0 Beat 4 (ngh\u0129 v\u1ec1 m\u00ecnh) \u0111\u01b0\u1ee3c th\u1ef1c hi\u1ec7n g\u1ea7n nh\u01b0 ho\u00e0n to\u00e0n qua internal monologue t\u00f3m t\u1eaft, kh\u00f4ng qua scene work. Khoa 'ngh\u0129 v\u1ec1 Ph\u01b0\u01a1ng' ba l\u1ea7n ri\u00eang bi\u1ec7t v\u1edbi c\u00f9ng n\u1ed9i dung: c\u00f4 s\u1ebd kh\u00f4ng \u0111\u1ea7u thai, c\u00f4 b\u00e1m v\u00edu b\u1ea3n s\u1eafc, b\u00e0i b\u00e1o kh\u00f4ng c\u1ee9u c\u00f4.",
+    "fix": "G\u1ed9p ph\u1ea7n ngh\u0129 v\u1ec1 Ph\u01b0\u01a1ng th\u00e0nh m\u1ed9t h\u00e0nh \u0111\u1ed9ng v\u1eadt l\u00fd c\u1ee5 th\u1ec3: Khoa b\u01b0\u1edbc v\u1ec1 ph\u00eda nh\u00e0 c\u00f4, d\u1eebng l\u1ea1i khi th\u1ea5y hoa d\u1eb7m x\u00e1m nh\u1ea1t quanh hi\u00ean, tay tr\u00e1i ch\u1ea1m c\u1ed9t nh\u00e0 n\u01a1i c\u00f4 t\u1eebng d\u1ef1a \u2014 r\u1ed3i quy\u1ebft \u0111\u1ecbnh kh\u00f4ng \u0111\u1ebfn. M\u1ed9t scene beat thay v\u00ec ba summary beats.",
+    "note": "Beat 1-2 (ch\u1ea1y \u0111\u1ebfn r\u1eebng, t\u00ecm radio, nghe b\u0103ng) \u0111\u01b0\u1ee3c th\u1ef1c hi\u1ec7n t\u1ed1t, c\u00f3 h\u00e0nh \u0111\u1ed9ng v\u1eadt l\u00fd v\u00e0 discovery. Beat 5 (quy\u1ebft \u0111\u1ecbnh) c\u0169ng c\u00f3 culminating moment. Nh\u01b0ng ph\u1ea7n gi\u1eefa sag v\u00ec qu\u00e1 nhi\u1ec1u telling."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "Li\u00ean's tape: 'Tui bi\u1ebft anh kh\u00f4ng \u0111\u1ed3ng \u00fd. Anh ch\u01b0a bao gi\u1edd \u0111\u1ed3ng \u00fd ho\u00e0n to\u00e0n, anh lu\u00f4n gi\u1eef l\u1ea1i m\u1ed9t ph\u1ea7n, lu\u00f4n n\u00f3i \"ch\u01b0a ph\u1ea3i l\u00fac\" \u2014 nh\u01b0ng tui kh\u00f4ng th\u1ec3 ch\u1edd l\u00fac n\u1eefa.' \u2014\u8fd9\u6bb5\u592aanalytical\uff0cgi\u1ed1ng ch\u1ecb \u0111ang ph\u00e2n t\u00edch anh trong ph\u00f2ng h\u1ecdp h\u01a1n l\u00e0 ng\u01b0\u1eddi v\u1eeba kh\u00f3c xong n\u00f3i v\u00e0o b\u0103ng.",
+    "fix": "Cho Li\u00ean v\u1ee5n v\u1ec1 h\u01a1n, ng\u1eaft qu\u00e3ng h\u01a1n: 'Tui bi\u1ebft anh kh\u00f4ng \u2014 anh lu\u00f4n \u2014 Khoa, tui bi\u1ebft anh mu\u1ed1n ch\u1edd. Nh\u01b0ng ch\u1ecb tui \u2014 Hu\u1ec7 \u2014 ch\u1ecb \u0111ang m\u1edd. Tu\u1ea7n tr\u01b0\u1edbc c\u00f2n \"Hu\u1ec7\" tr\u00ean s\u1ed5. H\u00f4m qua \u2014 tui kh\u00f4ng d\u00e1m h\u1ecfi n\u1eefa.' N\u00f3i v\u1ec1 ch\u1ecb, kh\u00f4ng n\u00f3i v\u1ec1 anh.",
+    "note": "Li\u00ean's voice generally works \u2014 quick, self-interrupting, academic breaking into pain. Khoa's internal voice \u0111\u00fang v\u1edbi profile (ph\u00e2n t\u00edch, n\u01b0\u1edbc h\u00ecnh \u1ea3nh). Nh\u01b0ng Li\u00ean's tape h\u01a1i qu\u00e1 'composed' cho ng\u01b0\u1eddi \u0111ang n\u1ea5c. C\u1ea7n th\u00eam moments where composure breaks completely."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "Li\u00ean mentioning she sent data to journalist feels slightly redundant \u2014 \u0111\u00e3 establish \u1edf Ch 15, nh\u1eafc l\u1ea1i \u1edf Ch 16, v\u00e0 gi\u1edd nh\u1eafc\u7b2c\u4e09\u6b21. Reader \u0111\u00e3 bi\u1ebft. C\u00f3 th\u1ec3 tin t\u01b0\u1edfng reader nh\u1edb.",
+    "fix": "Ch\u1ec9 c\u1ea7n: 'Tui g\u1eedi r\u1ed3i. Tu\u1ea7n sau ra.' Kh\u00f4ng c\u1ea7n gi\u1ea3i th\u00edch l\u1ea1i to\u00e0n b\u1ed9 context. Trust the reader.",
+    "note": "Backup radio plant \u1edf Ch 15 \u0111\u01b0\u1ee3c pay off ho\u00e0n h\u1ea3o \u2014 location c\u1ee5 th\u1ec3 (g\u1ed1c th\u1ee9 n\u0103m, b\u1ea3y b\u01b0\u1edbc \u0111\u00f4ng), b\u0103ng cassettes v\u1edbi label. B\u00e0i b\u00e1o as ticking clock seeded well. S\u1ed5 b\u1ecb t\u1ecbch thu \u2192 motivation to retrieve. Decision to burn = setup for Ch 22. All plants feel organic."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "V\u00e0 m\u1ed7i l\u1ea7n ai \u0111\u00f3 kh\u00f3c cho 'ng\u01b0\u1eddi ch\u1ebft \u0111u\u1ed1i' chung chung, m\u1ed9t h\u1ed3n ma m\u1edbi b\u1ecb k\u00e9o v\u00e0o B\u00e3i Ch\u1edd.",
+    "fix": "Xo\u00e1. C\u00e2u n\u00e0y l\u1eb7p l\u1ea1i \u00fd \u0111\u00e3 n\u00f3i \u1edf \u0111o\u1ea1n tr\u01b0\u1edbc ('H\u00e0ng tri\u1ec7u ng\u01b0\u1eddi \u0111\u00f3 s\u1ebd nh\u1edb. Kh\u00f4ng nh\u1edb ai c\u1ee5 th\u1ec3.') v\u00e0 d\u00f9ng t\u1eeb 'h\u1ed3n ma' ph\u00e1 tone \u2014 ng\u01b0\u1eddi tr\u00ean \u0111\u1ea3o kh\u00f4ng g\u1ecdi nhau l\u00e0 h\u1ed3n ma. N\u1ebfu c\u1ea7n nh\u1ea5n m\u1ea1nh, d\u00f9ng h\u00ecnh \u1ea3nh v\u1eadt l\u00fd: 'N\u01b0\u1edbc m\u1eaft ng\u01b0\u1eddi l\u1ea1 \u2014 mu\u1ed1i, kh\u00f4ng \u0111au \u2014 \u0111\u1ee7 n\u00edu m\u1ed9t ng\u01b0\u1eddi d\u01b0\u1edbi n\u01b0\u1edbc.'",
+    "strongest_sentence": "Hai ch\u1eef \u0111\u00f3 ng\u1ed3i trong l\u1ed3ng ng\u1ef1c anh nh\u01b0 h\u00f2n \u0111\u00e1 nh\u00fang n\u01b0\u1edbc, n\u1eb7ng v\u00e0 l\u1ea1nh v\u00e0 ch\u00ecm t\u1eeb t\u1eeb xu\u1ed1ng b\u1ee5ng.",
+    "note": "C\u00e2u d\u00e0i/ng\u1eafn xen t\u1ed1t. H\u00ecnh \u1ea3nh n\u01b0\u1edbc/mu\u1ed1i\u8d2f\u7a7f. Nh\u01b0ng c\u00f3 3-4 \u0111o\u1ea1n c\u00f3 th\u1ec3 c\u1eaft m\u00e0 kh\u00f4ng m\u1ea5t \u00fd \u2014 Khoa ngh\u0129 v\u1ec1 b\u00e0i b\u00e1o's consequences ba l\u1ea7n v\u1edbi c\u00f9ng information. Repetition for rhythm l\u00e0 good, nh\u01b0ng repetition of content l\u00e0 flab."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Ch\u1ea1y th\u1eb3ng t\u1eeb cu\u1ed1i Ch 19 (Khoa r\u1eddi M\u0169i Ch\u1edd sau n\u00f3i chuy\u1ec7n C\u1ee5 Ba). Emotional state kh\u1edbp: Ch 19 k\u1ebft b\u1eb1ng s\u1ef1 th\u1eadt \u0111au ('\u0111\u1ea3o \u0103n anh'), Ch 20 m\u1edf b\u1eb1ng h\u00e0nh \u0111\u1ed9ng g\u1ea5p \u2014 Khoa ch\u1ea1y. V\u1ebft c\u1eaft \u1edf tay ph\u1ea3i (\u0111\u00e0o \u0111\u1ea5t) r\u1ec9 n\u01b0\u1edbc m\u1eb7n \u2014 consistent v\u1edbi Ch 7. B\u00e0n tay tr\u00e1i ti\u1ebfp t\u1ee5c m\u1edd \u2014 consistent v\u1edbi progression t\u1eeb Ch 17. Timeline kh\u1edbp: s\u00e1ng C\u1ee5 Ba m\u1edf then, chi\u1ec1u Khoa ch\u1ea1y ra r\u1eebng."
+  },
+  "canon_compliance": {
+    "score": 9,
+    "violations": [],
+    "note": "Kh\u00f4ng ph\u00e1t hi\u1ec7n vi ph\u1ea1m canon. Backup radio location kh\u1edbp Ch 20 canon entry. Li\u00ean's tape content consistent v\u1edbi character v\u00e0 established events. Nguy\u1ec5n Th\u1ecb Hu\u1ec7 mentioned correctly (ch\u1ec9 c\u00f2n 'Hu' trong s\u1ed5). C\u1ee5 Ba smashing radio kh\u1edbp Ch 20 canon. 46 ng\u01b0\u1eddi on island consistent. Khoa's transparency progression consistent."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "\u0110o\u1ea1n Khoa gi\u1ea3i th\u00edch chi ti\u1ebft v\u1ec1 'ph\u00f2ng ch\u1edd tr\u1edf th\u00e0nh nh\u00e0 t\u00f9 v\u0129nh vi\u1ec5n' \u2014 concept n\u00e0y \u0111\u00e3 \u0111\u01b0\u1ee3c C\u1ee5 Ba n\u00f3i \u1edf Ch 19, kh\u00f4ng c\u1ea7n Khoa repeat l\u1ea1i cho reader. N\u00f3 tr\u1edf th\u00e0nh exposition thay v\u00ec lived experience.",
+    "fix": "Thay v\u00ec gi\u1ea3i th\u00edch concept, cho Khoa c\u1ea3m nh\u1eadn n\u00f3: 'Anh t\u01b0\u1edfng t\u01b0\u1ee3ng b\u00e1c Kh\u1ea3i \u2014 kh\u00f4ng, kh\u00f4ng t\u01b0\u1edfng t\u01b0\u1ee3ng \u0111\u01b0\u1ee3c, \u0111\u00e3 qu\u00ean m\u1eb7t \u2014 ai \u0111\u00f3 nh\u01b0 b\u00e1c Kh\u1ea3i, ng\u1ed3i b\u1edd \u0111\u00e1, ch\u1edd \u0111\u01b0\u1ee3c qu\u00ean, nh\u01b0ng kh\u00f4ng \u0111\u01b0\u1ee3c qu\u00ean v\u00ec h\u00e0ng tri\u1ec7u ng\u01b0\u1eddi v\u1eeba kh\u00f3c cho ng\u01b0\u1eddi ch\u1ebft \u0111u\u1ed1i tr\u00ean b\u00e1o m\u1ea1ng. Ch\u1edd. M\u00e3i.'",
+    "note": "Ph\u00e2n bi\u1ec7t 'nh\u1edb c\u1ee5 th\u1ec3' vs 'nh\u1edb chung chung' l\u00e0m WORK \u2014 \u0111\u00e2y l\u00e0 core tension. '\u0110\u1ea3o \u0103n Khoa' ti\u1ebfp t\u1ee5c develop. Hoa d\u1eb7m's m\u00f9i c\u00e0 ph\u00ea rang ch\u00e1y (kh\u00e1c b\u00ecnh th\u01b0\u1eddng) subtle detail cho th\u1ea5y Khoa's state changed."
+  },
+  "engagement": {
+    "score": 6,
+    "weakest_moment": "Ph\u1ea7n gi\u1eefa ch\u01b0\u01a1ng \u2014 t\u1eeb sau khi nghe b\u0103ng \u0111\u1ebfn tr\u01b0\u1edbc quy\u1ebft \u0111\u1ecbnh \u2014 k\u00e9o d\u00e0i qu\u00e1. Khoa ngh\u0129, r\u1ed3i ngh\u0129 l\u1ea1i, r\u1ed3i ngh\u0129\u7b2c\u4e09\u6b21 c\u00f9ng n\u1ed9i dung. Reader \u0111\u00e3 hi\u1ec3u stakes sau l\u1ea7n \u0111\u1ea7u. Ba l\u1ea7n n\u1eefa l\u00e0 sag.",
+    "fix": "C\u1eaft m\u1ed9t trong ba l\u1ea7n Khoa ngh\u0129 v\u1ec1 b\u00e0i b\u00e1o's consequences. G\u1ed9p 'ngh\u0129 v\u1ec1 Ph\u01b0\u01a1ng' v\u00e0 'ngh\u0129 v\u1ec1 m\u00ecnh' th\u00e0nh m\u1ed9t passage duy nh\u1ea5t, ng\u1eafn h\u01a1n. D\u00f9ng space freed \u0111\u1ec3 th\u00eam m\u1ed9t micro-scene: Khoa passing nh\u00e0 Ph\u01b0\u01a1ng, th\u1ea5y hoa d\u1eb7m x\u00e1m, tay tr\u00e1i v\u00f4 th\u1ee9c v\u1edbi ra ch\u1ea1m hi\u00ean \u2014 r\u1ed3i r\u1ee5t l\u1ea1i.",
+    "note": "Opening running scene has momentum. Tape-listening scene is strong. Decision to burn s\u1ed5 is clear climax. Nh\u01b0ng middle third sags badly. Chapter needs tightening \u2014 same information delivered fewer times, with more scene and less summary. A reader would still turn the page, but might skim the middle."
+  },
+  "three_weakest_sentences": [
+    "V\u00e0 m\u1ed7i l\u1ea7n ai \u0111\u00f3 kh\u00f3c cho 'ng\u01b0\u1eddi ch\u1ebft \u0111u\u1ed1i' chung chung, m\u1ed9t h\u1ed3n ma m\u1edbi b\u1ecb k\u00e9o v\u00e0o B\u00e3i Ch\u1edd.",
+    "Khoa nh\u1edb b\u00e0i b\u00e1o t\u1eebng \u0111\u1ecdc \u2014 m\u1ed9t gia \u0111\u00ecnh b\u1ed1n ng\u01b0\u1eddi ch\u00ecm ngo\u00e0i kh\u01a1i Thanh H\u00f3a n\u0103m ngo\u00e1i, ai \u0111\u00f3 b\u00ecnh lu\u1eadn 'th\u01b0\u01a1ng qu\u00e1' r\u1ed3i l\u01b0\u1edbt sang b\u00e0i kh\u00e1c.",
+    "Anh c\u1ee9u ch\u1ecb Li\u00ean \u2014 Nguy\u1ec5n Th\u1ecb Hu\u1ec7, ch\u1ebft \u0111u\u1ed1i 1990, t\u00ean trong s\u1ed5 Ch\u1ecb T\u01b0 H\u1ed3ng ch\u1ec9 c\u00f2n 'Hu' v\u00e0 v\u00e0i n\u00e9t l\u01a1 l\u1eedng \u2014 nh\u01b0ng \u0111\u1ed5i l\u1ea1i, anh giam h\u00e0ng ng\u00e0n ng\u01b0\u1eddi kh\u00e1c."
+  ],
+  "three_strongest_sentences": [
+    "Hai ch\u1eef \u0111\u00f3 ng\u1ed3i trong l\u1ed3ng ng\u1ef1c anh nh\u01b0 h\u00f2n \u0111\u00e1 nh\u00fang n\u01b0\u1edbc, n\u1eb7ng v\u00e0 l\u1ea1nh v\u00e0 ch\u00ecm t\u1eeb t\u1eeb xu\u1ed1ng b\u1ee5ng.",
+    "Gi\u1ecdng Li\u00ean v\u1ee1 ra \u1edf ch\u1eef '\u1edf,' d\u00ednh v\u00e0o nhau, v\u00e0 c\u00f4 n\u00f3i ti\u1ebfp, nhanh h\u01a1n nh\u01b0 s\u1ee3 m\u00ecnh d\u1eebng l\u1ea1i s\u1ebd kh\u00f4ng n\u00f3i ti\u1ebfp \u0111\u01b0\u1ee3c n\u1eefa",
+    "Quy\u1ebft \u0111\u1ecbnh t\u1edbi nh\u01b0 s\u00f3ng tr\u00e0n \u2014 kh\u00f4ng \u1ed3n \u00e0o, kh\u00f4ng ch\u1edbp s\u00e1ng, ch\u1ec9 l\u00e0 n\u01b0\u1edbc d\u00e2ng ng\u1eadp qua m\u1eaft c\u00e1 r\u1ed3i \u0111\u1ea7u g\u1ed1i r\u1ed3i ng\u1ef1c r\u1ed3i kh\u00f4ng th\u1edf n\u1ed5i."
+  ],
+  "ai_patterns_detected": [
+    "Repetitive internal summarizing \u2014 Khoa thinks the same thought (article = bad, more souls trapped) three times with slightly different phrasing, classic AI expansion pattern",
+    "Paragraph rhythm uniformity in middle section \u2014 several paragraphs follow same structure (statement \u2192 elaboration \u2192 emotional punctuation)",
+    "Over-explanation of stakes that reader already understands \u2014 trust issues typical of AI drafting",
+    "Minor: 'h\u1ed3n ma' usage inconsistent with worldbuilding (islanders don't use this term)"
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "engagement",
+  "top_3_revisions": [
+    "CUT approximately 400 words from middle section. Remove one of three times Khoa thinks about article consequences. G\u1ed9p 'ngh\u0129 v\u1ec1 Ph\u01b0\u01a1ng' v\u00e0 'ngh\u0129 v\u1ec1 m\u00ecnh' th\u00e0nh m\u1ed9t passage 200 t\u1eeb thay v\u00ec hai passages 300 t\u1eeb m\u1ed7i c\u00e1i. Tighten.",
+    "ADD one micro-scene between tape and decision: Khoa passing Ph\u01b0\u01a1ng's house, seeing gray flowers, his transparent hand reaching toward her doorframe then pulling back. Physical action revealing internal state, replacing summary.",
+    "REVISE Li\u00ean's tape to be more broken/less composed: cut the analytical sentence about 'anh lu\u00f4n gi\u1eef l\u1ea1i m\u1ed9t ph\u1ea7n,' replace with her talking about Hu\u1ec7 specifically \u2014 a memory, a detail \u2014 then breaking off. She should sound like someone who just cried, not someone presenting a briefing."
+  ],
+  "new_canon_entries": [
+    "Li\u00ean g\u1eedi m\u00e1y thu v\u00f4 tuy\u1ebfn mini d\u1ef1 ph\u00f2ng gi\u1ea5u d\u01b0\u1edbi g\u1ed1c phi ao th\u1ee9 n\u0103m (c\u00e1ch g\u1ed1c d\u1eeba ch\u1ebft b\u1ea3y b\u01b0\u1edbc v\u1ec1 ph\u00eda \u0111\u00f4ng), b\u1ecdc nilon \u0111en bu\u1ed9c d\u00e2y thun, k\u00e8m b\u0103ng cassettes ghi s\u1eb5n tin nh\u1eafn.",
+    "Li\u00ean x\u00e1c nh\u1eadn tr\u00ean b\u0103ng: b\u00e0i b\u00e1o s\u1ebd ra tu\u1ea7n sau, c\u1ea3 b\u00e1o in l\u1eabn b\u00e1o m\u1ea1ng, c\u00f9ng l\u00fac.",
+    "Khoa quy\u1ebft \u0111\u1ecbnh \u0111\u00eam nay s\u1ebd l\u1ea5y l\u1ea1i s\u1ed5 v\u00e0 \u0111\u1ed1t.",
+    "Hoa d\u1eb7m \u0111\u00eam nay Khoa ng\u1eedi th\u1ea5y m\u00f9i c\u00e0 ph\u00ea rang ch\u00e1y \u2014 \u0111\u1eafng h\u01a1n, kh\u00e9t nh\u1eb9 \u2014 kh\u00e1c v\u1edbi m\u00f9i c\u00e0 ph\u00ea quen thu\u1ed9c anh th\u01b0\u1eddng ng\u1eedi."
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 19.18,
+    "sentence_length_cv": 1.114,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi",
+    "vi_english_leaks": [],
+    "vi_translation_calques": [],
+    "vi_fiction_ai_tells": [],
+    "vi_telling_violations": 0
+  },
+  "raw_judge_score": 7
+}
