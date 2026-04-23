@@ -216,3 +216,11 @@
 - Hồ sơ Vòng của Ủy Ban ghi chi tiết mỗi lần Rửa: ngày, giờ, ai bị, thời tiết, vị trí, ai khóc, ai im, ai bỏ về sớm, ai ngồi lại (ch_09)
 - Cô Bích đã theo dõi Bách đi recon Ủy Ban ba lần trong tuần trước khi Bách đột nhập, biết Bách sẽ đến và chờ sẵn từ tám giờ (ch_09)
 - Cô Bích có ghi chú về người thứ sáu: 'Người này có khả năng đang gọi mưa về khu vực thành phố Huế. Cơ chế chưa rõ. Động cơ chưa rõ.' (ch_09)
+
+
+## From Chapter 10
+- Bách bị Rửa lần thứ tư trong đêm chương 10 (Nam→Nữ→Nam→Nữ→Nam), mất một năm ký ức về người đang thương — chưa rõ ai (ch_10)
+- Bách vẫn giữ mảnh ký ức về người thứ sáu qua mùi (dạ lan pha trầm) — mùi là giác quan cuối cùng Rửa không xóa sạch (ch_10)
+- Linh nhận ra quy luật (chưa xác nhận): Rửa nhắm người tìm sự thật HOẶC người xa nhóm nhất — hai cách nói trỏ cùng kết quả (ch_10)
+- Ly cà phê Bách để trên kệ bếp bà Tâm ba ngày không ai cất — bà Tâm cứ để đó (ch_10)
+- Bà Tâm luôn để ly nước lọc (không cà phê, không đường) cho ai vừa mất gì đó (ch_10)
