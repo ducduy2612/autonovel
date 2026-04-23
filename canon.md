@@ -256,3 +256,15 @@
 - Tuấn cố kể ký ức năm 1996 cho Linh nghe nhưng Linh cắt ngang: 'Mình không nhớ' (ch_13)
 - Gương trong phòng Linh vẫn phản chiếu chậm nửa nhịp — hiện tượng sau Rửa chưa tan hết (ch_13)
 - Chậu quỳnh trên ban công phòng Linh đã tàn — hoa trắng rụng, héo xẹp (ch_13)
+
+
+## From Chapter 14
+- Nhà Cảnh có ống đồng nằm ngang góc hiên (hai đoạn, nối bằng keo đỡ gỉ), bơm nước cũ sơn bạc tróc lớp để sát tường, vòi nước ngoài sân rỉ nhỏ tong tong (ch_14)
+- Cây dạ lan trắng mọc thành hàng sau nhà Cảnh, hoa chưa nở, nụ xanh ngậm mùi (ch_14)
+- Ly thủy tinh trên bậc thềm nhà Cảnh — nước trong, uống một nửa, vết môi mờ trên miệng ly (ch_14)
+- Bà Lụa kể cho Linh: thấy người ngồi bên sông khóc rồi kéo mưa về (ch_14)
+- Bà Lụa xưng 'tôi' với Linh, gọi Linh là 'bạn' (ch_14)
+- Bà Lụa mô tả người gọi mưa: tay ngứa cả ngày, có khi hai ngày (ch_14)
+- Mùi dạ lan ở Hương Thủy đậm hơn thành phố ba phần, 'như thứ gì đó sống ở đây' (ch_14)
+- Linh đến nhà Cảnh một mình, không gặp Cảnh, chưa vào nhà (ch_14)
+- Nhà Cảnh: hai hoặc ba phòng, sạch, trật tự, nhưng cũ; cổng không có cửa, chỉ hai trụ gạch sơn trắng xám bong tróc; lối đi bằng gạch vỡ xếp lộn xộn mọc rêu (ch_14)
