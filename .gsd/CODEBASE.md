@@ -1,7 +1,7 @@
 # Codebase Map
 
-Generated: 2026-04-23T16:29:41Z | Files: 82 | Described: 0/82
-<!-- gsd:codebase-meta {"generatedAt":"2026-04-23T16:29:41Z","fingerprint":"93fa67fa2a8cef3d2053b402499469247755d365","fileCount":82,"truncated":false} -->
+Generated: 2026-04-23T16:55:01Z | Files: 84 | Described: 0/84
+<!-- gsd:codebase-meta {"generatedAt":"2026-04-23T16:55:01Z","fingerprint":"b097401c3160784af0f1ea46e9485384f3081034","fileCount":84,"truncated":false} -->
 
 ### (root)/
 - *(61 files: 38 .py, 14 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
@@ -20,6 +20,10 @@ Generated: 2026-04-23T16:29:41Z | Files: 82 | Described: 0/82
 
 ### chapters/
 - `chapters/.gitkeep`
+
+### eval_logs/
+- `eval_logs/20260423_163756_foundation.json`
+- `eval_logs/20260423_165320_foundation.json`
 
 ### landing/
 - `landing/index.html`

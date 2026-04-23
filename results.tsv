@@ -267,3 +267,4 @@ ebc6c79	rev-ch20	6.65	3215	keep	Cycle 1: thinnest_character improved 6.0->6.65
 9a1e871	rev-ch13	7.0	2312	keep	Cycle 1: momentum_loss improved -1.0->7.0
 cef69e1	revision-cycle-1	8.0	62942	cycle	Cycle 1: novel_score 0.0->8.0
 discarded	foundation	6.0	0	discard	Iteration 3: no improvement (6.0 <= 6.0)
+fdbc85c	foundation	8.0	0	keep	Iteration 2: score improved 7.0 -> 8.0
