@@ -1,0 +1,114 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "Th\u01b0\u01a1ng ki\u1ec3u moi tim ra \u0111\u1eb7t tr\u00ean b\u00e0n, r\u1ed3i b\u1ecb\u6240\u6709\u4eba b\u01b0\u1edbc qua m\u00e0 kh\u00f4ng nh\u00ecn.",
+    "fix": "Remove the Chinese characters '\u6240\u6709\u4eba' \u2014 this should be 'ng\u01b0\u1eddi ta' or 'm\u1ecdi ng\u01b0\u1eddi'. Also, the 'ki\u1ec3u' simile structure is overused throughout the chapter (appears 6+ times). Vary with direct metaphor or body sensation per voice.md.",
+    "note": "The melancholic, rain-soaked tone is well captured. Body-before-emotion mostly holds. Vocabulary wells (n\u01b0\u1edbc, l\u1ea1nh, \u1ea9m) are drawn from consistently. But the 'ki\u1ec3u [simile]' construction becomes a tic rather than a choice, and one sentence contains Chinese characters \u2014 a production error."
+  },
+  "beat_coverage": {
+    "score": 8,
+    "weakest_moment": "L\u1ecbch m\u1edf s\u1ed5. Ti\u1ebfng b\u00eca da r\u1ed9t r\u1ed9t. Ti\u1ebfng gi\u1ea5y l\u1eadt. L\u1ecbch ghi m\u1ecdi th\u1ee9 b\u1eb1ng m\u1ef1c \u0111\u1ecf, ch\u1eef nh\u1ecf, \u0111\u1ec1u t\u0103m t\u1eafp \u2014 ng\u00e0y, gi\u1edd, ai b\u1ecb, m\u1ea5t g\u00ec, th\u1eddi ti\u1ebft, m\u00f9i, v\u1ecb tr\u00ed ng\u1ed3i, ai kh\u00f3c, ai im. M\u01b0\u1eddi hai n\u0103m ghi ch\u00e9p. M\u01b0\u1eddi hai n\u0103m mang k\u00fd \u1ee9c cho n\u0103m ng\u01b0\u1eddi \u0111\u00e3 qu\u00ean.",
+    "fix": "This summary of what L\u1ecbch's s\u1ed5 contains was already established in Ch 8. Replace with a specific, previously unshared detail that L\u1ecbch reads aloud \u2014 something that makes the group viscerally react.",
+    "note": "All five outline beats are present and dramatized. Beat 4 (Tu\u1ea5n's reaction) and Beat 5 (Linh's compassion) are particularly strong. The midpoint reversal lands with real weight."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "Ng\u01b0\u1eddi \u0111\u00f3 gi\u1eef m\u00ecnh b\u1eb1ng c\u00e1ch l\u1ea5y \u0111i m\u00ecnh. Hi\u1ec3u kh\u00f4ng? Gi\u1eef. L\u1ea5y. Gi\u1eef. L\u1ea5y. V\u00f2ng l\u1eb7p.",
+    "fix": "This speech is too articulate and structured for Linh, who according to character registry 'hay n\u00f3i d\u1edf c\u00e2u r\u1ed3i im' and 'th\u01b0\u1eddng n\u00f3i d\u1edf c\u00e2u r\u1ed3i im. R\u1ed3i... Nh\u01b0ng m\u00e0... H\u1ed3i \u0111\u00f3 m\u00ecnh...' Break this into fragmented, hesitant delivery with interruptions and trailing off.",
+    "note": "B\u00e1ch's blunt, hammer-strike voice is distinct. L\u1ecbch's measured, factual recall works. Tu\u1ea5n's grasping at hope then deflating is emotionally precise. But Linh occasionally speaks in fully formed philosophical statements that don't match the described voice of someone who trails off and speaks in fragments."
+  },
+  "plants_seeded": {
+    "score": 7,
+    "weakest_moment": "\u1ede b\u00ean kia b\u1edd, \u1edf kho\u1ea3ng m\u1edd m\u1edd gi\u1eefa b\u00f3ng c\u00e2y v\u00e0 b\u00f3ng nh\u00e0 \u2014 m\u1ed9t h\u00ecnh d\u00e1ng. Ng\u01b0\u1eddi. \u0110\u1ee9ng. Nh\u00ecn v\u1ec1 ph\u00eda m\u00ecnh.",
+    "fix": "The figure across the river is somewhat on-the-nose as a visual plant. Consider making Linh sense the presence through sound or smell instead \u2014 the d\u1ea1 lan scent intensifying from across the water \u2014 which would be more consistent with Linh's sensory-first perception.",
+    "note": "Good plants: Linh's determination to find the sixth person (future plot driver), the pattern of targeting those who drift (raises stakes for all relationships), the rain beginning at chapter's end (next R\u1eeda setup). The empty glass and chair gain accumulating resonance."
+  },
+  "prose_quality": {
+    "score": 6,
+    "weakest_sentence": "Th\u01b0\u01a1ng ki\u1ec3u moi tim ra \u0111\u1eb7t tr\u00ean b\u00e0n, r\u1ed3i b\u1ecb\u6240\u6709\u4eba b\u01b0\u1edbc qua m\u00e0 kh\u00f4ng nh\u00ecn.",
+    "fix": "Replace Chinese characters: 'Th\u01b0\u01a1ng ki\u1ec3u moi tim ra \u0111\u1eb7t tr\u00ean b\u00e0n, r\u1ed3i ng\u01b0\u1eddi ta b\u01b0\u1edbc qua m\u00e0 kh\u00f4ng nh\u00ecn.' Also reconsider the metaphor \u2014 it's more melodramatic than the voice.md calls for. Voice says 'Kh\u00f4ng k\u1ecbch t\u00ednh h\u00f3a \u2014 kh\u00f4ng g\u00e0o kh\u00f3c, kh\u00f4ng tuy\u00ean ng\u00f4n.'",
+    "strongest_sentence": "G\u1ecdi m\u01b0a. \u0110\u1ec3. M\u00ecnh c\u1ea7n nhau.",
+    "note": "The best moments use fragmentation brilliantly \u2014 single words as sentences, rhythm matching rain. The worst moments lean on the 'ki\u1ec3u' simile crutch and include a glaring Chinese-character error. Sentence variety is decent but several consecutive paragraphs begin with character names (Linh, B\u00e1ch, L\u1ecbch, Tu\u1ea5n) in a pattern."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Excellent continuity from Ch 11. Linh's sleeplessness ('kh\u00f4ng ng\u1ee7 tr\u00f2n m\u1ed9t \u0111\u00eam trong nhi\u1ec1u \u0111\u00eam li\u00ean ti\u1ebfp') is implicitly continued. The feeling of being watched from Ch 11 ('Ai \u0111\u00f3 \u0111ang nh\u00ecn t\u1edb ph\u1ea3i kh\u00f4ng?') directly resolves here. L\u1ecbch's s\u1ed5 behavior (vu\u1ed1t m\u00e9p s\u1ed5) is consistent. B\u00e1ch's post-R\u1eeda state (trembling, red eyes) tracks perfectly from Ch 10."
+  },
+  "canon_compliance": {
+    "score": 7,
+    "violations": [
+      "Chinese characters '\u6240\u6709\u4eba' in sentence 'b\u1ecb\u6240\u6709\u4eba b\u01b0\u1edbc qua m\u00e0 kh\u00f4ng nh\u00ecn' \u2014 not a canon violation but a language/production error",
+      "Minor typo: 'R\u00e0ng' should be 'R\u1eb1ng' in 'R\u00e0ng c\u00e1i gh\u1ebf tr\u1ed1ng kia th\u1eadt s\u1ef1 tr\u1ed1ng'",
+      "B\u00e1ch is described as having 'c\u01a1 th\u1ec3 n\u1eef m\u1edbi' after R\u1eeda in Ch 10 (Nam\u2192N\u1eef\u2192Nam\u2192N\u1eef\u2192Nam), but Ch 10 canon entry says B\u00e1ch's fourth R\u1eeda was (Nam\u2192N\u1eef\u2192Nam\u2192N\u1eef\u2192Nam) meaning current body is male \u2014 need to verify which is correct, as the chapter says female"
+    ],
+    "note": "The B\u00e1ch gender question is potentially significant. The Ch 10 canon entry states B\u00e1ch was R\u1eeda l\u1ea7n th\u1ee9 t\u01b0 as (Nam\u2192N\u1eef\u2192Nam\u2192N\u1eef\u2192Nam), ending in male body. But this chapter describes B\u00e1ch in a 'c\u01a1 th\u1ec3 n\u1eef m\u1edbi' with 'vai h\u1eb9p, t\u00f3c ng\u1eafn tai.' This needs reconciliation."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "Ng\u01b0\u1eddi ta kh\u00f4ng u\u1ed1ng n\u01b0\u1edbc s\u00f4ng. Kh\u00f4ng ph\u1ea3i v\u00ec b\u1ea9n. V\u00ec s\u1ee3 u\u1ed1ng ph\u1ea3i n\u01b0\u1edbc m\u1eaft c\u1ee7a ng\u01b0\u1eddi kh\u00e1c.",
+    "fix": "This explanation is effective but risks over-explaining a detail that was already canon. Consider weaving it into action \u2014 Linh's hand hovering near the water then pulling back \u2014 rather than narrator exposition.",
+    "note": "The lore does real work here: the river's memory-carrying quality, the d\u1ea1 lan smell as sixth-person trace, the rain-calling cost implied through Linh's empathy, the R\u1eeda targeting pattern. The world isn't set dressing \u2014 it's the mechanism of the revelation."
+  },
+  "engagement": {
+    "score": 8,
+    "weakest_moment": "The long stretch of Linh's monologue about the sixth person's loneliness (from 'M\u00ecnh kh\u00f4ng gi\u1eadn' through 'V\u00f2ng l\u1eb7p')",
+    "fix": "Break this speech with reactions from other characters \u2014 L\u1ecbch's pen stopping, B\u00e1ch's fists tightening, Tu\u1ea5n looking away. Or have Linh lose the thread partway through, struggling to articulate, letting silence do work.",
+    "note": "The chapter earns its midpoint weight. The reveal that R\u1eeda isn't random genuinely recontextualizes everything. Linh's compassion instead of anger is the chapter's surprise \u2014 it's unexpected and emotionally precise. The rain beginning at the end creates strong page-turn momentum. The figure across the river adds visual tension."
+  },
+  "three_weakest_sentences": [
+    "Th\u01b0\u01a1ng ki\u1ec3u moi tim ra \u0111\u1eb7t tr\u00ean b\u00e0n, r\u1ed3i b\u1ecb\u6240\u6709\u4eba b\u01b0\u1edbc qua m\u00e0 kh\u00f4ng nh\u00ecn.",
+    "Tr\u1eafng b\u1ec7ch. M\u00f4i m\u1ea5t m\u00e0u, m\u1eaft s\u01b0ng nh\u1eb9 \u2014 kh\u00f4ng ph\u1ea3i kh\u00f3c, m\u00e0 l\u00e0 ki\u1ec3u m\u1eaft ng\u01b0\u1eddi c\u1ed1 m\u1edf su\u1ed1t nhi\u1ec1u \u0111\u00eam, kh\u00f4ng cho ph\u00e9p m\u00ecnh nh\u1eafm v\u00ec s\u1ee3 nh\u1eafm l\u00e0 th\u1ea5y m\u01b0a.",
+    "L\u1ea1nh ki\u1ec3u ng\u01b0\u1eddi nh\u1eadn ra m\u00ecnh \u0111ang b\u1ecb nh\u00ecn \u2014 nh\u01b0ng kh\u00f4ng bi\u1ebft t\u1eeb \u0111\u00e2u."
+  ],
+  "three_strongest_sentences": [
+    "G\u1ecdi m\u01b0a. \u0110\u1ec3. M\u00ecnh c\u1ea7n nhau.",
+    "Ph\u1ea3i c\u00f4 \u0111\u01a1n \u0111\u1ebfn m\u1ee9c n\u00e0o \u2014 m\u1edbi l\u00e0m th\u1ebf?",
+    "N\u01b0\u1edbc h\u00f2a n\u01b0\u1edbc. M\u01b0a h\u00f2a s\u00f4ng. K\u00fd \u1ee9c h\u00f2a qu\u00ean."
+  ],
+  "ai_patterns_detected": [
+    "'Ki\u1ec3u' simile overuse (6+ instances of 'ki\u1ec3u ng\u01b0\u1eddi/th\u1ee9' comparisons) \u2014 a repetitive construction that feels formulaic",
+    "Chinese character intrusion ('\u6240\u6709\u4eba') suggests generation artifact",
+    "Several consecutive paragraphs begin with character names in a rotating pattern (Linh \u2192 B\u00e1ch \u2192 L\u1ecbch \u2192 Tu\u1ea5n \u2192 Linh) that feels mechanical",
+    "Emotional descriptions occasionally tell rather than manifest through body sensation, slightly violating the body-before-emotion principle"
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "prose_quality",
+  "top_3_revisions": [
+    "Remove the Chinese characters '\u6240\u6709\u4eba' and replace with 'ng\u01b0\u1eddi ta'; then audit all 'ki\u1ec3u' similes and cut or rework at least half \u2014 replace with direct metaphor, body sensation, or silence",
+    "Verify B\u00e1ch's current body gender against Ch 10 canon (chapter says female, canon entry suggests male) and correct whichever is wrong \u2014 this is a factual consistency issue",
+    "Break Linh's longer speeches (especially the 'Ng\u01b0\u1eddi \u0111\u00f3 gi\u1eef m\u00ecnh b\u1eb1ng c\u00e1ch l\u1ea5y \u0111i m\u00ecnh' passage) into more fragmented, hesitant delivery consistent with Linh's documented voice \u2014 add trailing off, interruptions, silences where Linh searches for words"
+  ],
+  "new_canon_entries": [
+    "Linh x\u00e1c nh\u1eadn v\u1edbi nh\u00f3m: C\u00f3 ng\u01b0\u1eddi th\u1ee9 s\u00e1u \u0111\u00e3 t\u1eebng ng\u1ed3i gh\u1ebf \u0111\u1ea7u b\u00e0n, \u0111\u00e3 b\u1ecb qu\u00ean, v\u00e0 \u0111ang g\u1ecdi m\u01b0a (ch_12)",
+    "B\u00e1ch nh\u1edb th\u00eam v\u1ec1 ng\u01b0\u1eddi th\u1ee9 s\u00e1u: kh\u00f4ng ch\u1ec9 m\u00f9i m\u00e0 'c\u1ea3m gi\u00e1c c\u00f3 ai \u0111\u00f3 \u1edf gi\u1eefa \u2014 ng\u01b0\u1eddi nh\u00ecn th\u1ea5y ai \u0111ang xa ai' (ch_12)",
+    "L\u1ecbch ghi ch\u00fa ng\u00e0y m\u00f9ng m\u1ed9t th\u00e1ng m\u01b0\u1eddi: 'C\u00f3 ai \u0111\u00f3 \u0111\u00e3 t\u1eebng ng\u1ed3i \u0111\u00e2y. M\u00ecnh kh\u00f4ng nh\u1edb ai. Nh\u01b0ng gh\u1ebf n\u00e0y kh\u00f4ng n\u00ean tr\u1ed1ng' \u2014 ban \u0111\u1ea7u g\u1ea1ch b\u1ecf v\u00ec ngh\u0129 m\u00ecnh \u0111i\u00ean (ch_12)",
+    "Linh nh\u00ecn th\u1ea5y h\u00ecnh d\u00e1ng ng\u01b0\u1eddi \u0111\u1ee9ng b\u00ean kia s\u00f4ng H\u01b0\u01a1ng ngay tr\u01b0\u1edbc khi m\u01b0a r\u1edbt \u2014 kh\u00f4ng r\u00f5 l\u00e0 ng\u01b0\u1eddi hay c\u1ed9t \u0111i\u1ec7n (ch_12)",
+    "Quy lu\u1eadt \u0111\u01b0\u1ee3c c\u1ea3 nh\u00f3m c\u00f4ng nh\u1eadn: m\u1ed7i l\u1ea7n ai b\u1eaft \u0111\u1ea7u c\u00f3 cu\u1ed9c s\u1ed1ng ri\u00eang (y\u00eau ng\u01b0\u1eddi ngo\u00e0i, chuy\u1ec3n \u0111i, s\u1ed1ng ri\u00eang), m\u01b0a \u0111\u1ebfn v\u00e0 R\u1eeda nh\u1eafm \u0111\u00fang ng\u01b0\u1eddi \u0111\u00f3 (ch_12)",
+    "Linh tuy\u00ean b\u1ed1 s\u1ebd t\u00ecm ng\u01b0\u1eddi th\u1ee9 s\u00e1u \u2014 kh\u00f4ng ph\u1ea3i \u0111\u1ec3 gi\u1eadn hay \u0111\u00f2i l\u1ea1i, m\u00e0 v\u00ec ng\u01b0\u1eddi \u0111\u00f3 \u0111\u00e3 thu\u1ed9c v\u1ec1 nh\u00f3m (ch_12)"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 24.95,
+    "sentence_length_cv": 0.777,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi",
+    "vi_english_leaks": [],
+    "vi_translation_calques": [],
+    "vi_fiction_ai_tells": [],
+    "vi_telling_violations": 0,
+    "vi_structural_ai_tics": [
+      [
+        "kh\u00f4ng ph\u1ea3i .{3,50} m\u00e0 (?:l\u00e0|ch\u00ednh l\u00e0|ch\u00ednh)",
+        1
+      ]
+    ]
+  },
+  "raw_judge_score": 7
+}

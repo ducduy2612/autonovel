@@ -235,3 +235,12 @@
 - Sau đêm Bách Rửa, Linh không ngủ tròn một đêm trong nhiều đêm liên tiếp (ch_11)
 - Gió dừng một nhịp khi Linh hỏi 'Ai đó đang nhìn tớ phải không?' — phản ứng chưa giải thích (ch_11)
 - Lịch xõa tóc lúc ba giờ sáng (khác với buộc cao khi ghi sổ) (ch_11)
+
+
+## From Chapter 12
+- Linh xác nhận với nhóm: Có người thứ sáu đã từng ngồi ghế đầu bàn, đã bị quên, và đang gọi mưa (ch_12) (ch_12)
+- Bách nhớ thêm về người thứ sáu: không chỉ mùi mà 'cảm giác có ai đó ở giữa — người nhìn thấy ai đang xa ai' (ch_12) (ch_12)
+- Lịch ghi chú ngày mùng một tháng mười: 'Có ai đó đã từng ngồi đây. Mình không nhớ ai. Nhưng ghế này không nên trống' — ban đầu gạch bỏ vì nghĩ mình điên (ch_12) (ch_12)
+- Linh nhìn thấy hình dáng người đứng bên kia sông Hương ngay trước khi mưa rớt — không rõ là người hay cột điện (ch_12) (ch_12)
+- Quy luật được cả nhóm công nhận: mỗi lần ai bắt đầu có cuộc sống riêng (yêu người ngoài, chuyển đi, sống riêng), mưa đến và Rửa nhắm đúng người đó (ch_12) (ch_12)
+- Linh tuyên bố sẽ tìm người thứ sáu — không phải để giận hay đòi lại, mà vì người đó đã thuộc về nhóm (ch_12) (ch_12)
