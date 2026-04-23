@@ -244,3 +244,15 @@
 - Linh nhìn thấy hình dáng người đứng bên kia sông Hương ngay trước khi mưa rớt — không rõ là người hay cột điện (ch_12) (ch_12)
 - Quy luật được cả nhóm công nhận: mỗi lần ai bắt đầu có cuộc sống riêng (yêu người ngoài, chuyển đi, sống riêng), mưa đến và Rửa nhắm đúng người đó (ch_12) (ch_12)
 - Linh tuyên bố sẽ tìm người thứ sáu — không phải để giận hay đòi lại, mà vì người đó đã thuộc về nhóm (ch_12) (ch_12)
+
+
+## From Chapter 13
+- Bách đến quán lúc sáu giờ sáng, sớm bất thường (ch_13)
+- Tuấn ngồi cách Linh hai chỗ — trước đây ngồi cạnh (Lịch ghi: Tuấn ngồi cạnh Linh mỗi sáng từ 1995 đến 1998) (ch_13)
+- Lịch ghi nhận: từ khi nhóm bắt đầu điều tra, tần suất mưa Rửa tăng — ba tuần hai trận thay vì ba tháng một trận (ch_13)
+- Ủy Ban gửi cán bộ đến quán bà Tâm hỏi chuyện — đàn ông trung niên, tóc chải keo, kính cận dày, áo trắng quần xanh (ch_13)
+- Cô Bích đứng quan sát quán từ bên kia đường, ghi chép vào sổ, rồi rời đi (ch_13)
+- Tuấn mang cơm cho Linh (canh mùng tơi xào tỏi, cơm trắng, cá kho tiêu) — bà Tâm gửi (ch_13)
+- Tuấn cố kể ký ức năm 1996 cho Linh nghe nhưng Linh cắt ngang: 'Mình không nhớ' (ch_13)
+- Gương trong phòng Linh vẫn phản chiếu chậm nửa nhịp — hiện tượng sau Rửa chưa tan hết (ch_13)
+- Chậu quỳnh trên ban công phòng Linh đã tàn — hoa trắng rụng, héo xẹp (ch_13)

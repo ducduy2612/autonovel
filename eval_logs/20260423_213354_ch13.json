@@ -1,0 +1,109 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "M\u00ecnh n\u1eb1m gi\u1eefa. B\u00e1ch b\u00ean tr\u00e1i, \u0111\u00f2i \u0111i. Tu\u1ea5n b\u00ean ph\u1ea3i, \u0111\u00f2i d\u1eebng. M\u00ecnh \u1edf gi\u1eefa, v\u00e0 \u1edf gi\u1eefa c\u00f3 ngh\u0129a l\u00e0 kh\u00f4ng \u1edf \u0111\u00e2u c\u1ea3. Kh\u00f4ng ti\u1ebfn. Kh\u00f4ng l\u00f9i. Ch\u1ec9 \u0111\u1ee9ng. Ch\u1edd. Ch\u1edd g\u00ec?",
+    "fix": "This schematic left-right metaphor reads like an essay outline, not a sensation. Replace with a physical image: Linh literally turning her head from B\u00e1ch to Tu\u1ea5n, the ache in her neck from looking both ways, or the way her body physically angles toward one then the other without deciding.",
+    "note": "Strong voice moments throughout \u2014 'Nh\u01b0 l\u1ea5p c\u00e1i h\u1ed5ng b\u1eb1ng c\u00e1t \u2014 c\u00e1t l\u1ecdt qua k\u1ebd tay' is excellent, and the body-before-emotion principle is mostly honored. But this passage and a few others revert to abstract schematic thinking that breaks the sensory immersion."
+  },
+  "beat_coverage": {
+    "score": 7,
+    "weakest_moment": "Duy's philosophical beat: 'C\u00f3 ai g\u1ecdi m\u01b0a hay kh\u00f4ng \u2014 m\u00ecnh v\u1eabn R\u1eeda. V\u1ea5n \u0111\u1ec1 kh\u00f4ng ph\u1ea3i ai l\u00e0m. V\u1ea5n \u0111\u1ec1 l\u00e0 m\u00ecnh s\u1ed1ng th\u1ebf n\u00e0o.' This lands as thesis statement rather than lived philosophy.",
+    "fix": "Give Duy a specific physical action that demonstrates acceptance instead of announcing it \u2014 maybe he's carefully folding his wet shirt sleeves, or methodically eating his b\u00fan b\u00f2 without looking up, doing the mundane thing that says 'life continues' more than any proclamation could.",
+    "note": "All five outline beats are dramatized with dialogue. The argument structure works. B\u00e1ch's urgency, Tu\u1ea5n's withdrawal, L\u1ecbch's data, and the \u1ee6y Ban visit all have scene weight. Only Duy's acceptance speech feels like it's checking a box."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "Nh\u01b0ng v\u1ed9i th\u00ec ch\u1ebft quicker.",
+    "fix": "Replace with a Vietnamese expression or Hu\u1ebf colloquialism. Something like 'Nh\u01b0ng v\u1ed9i th\u00ec m\u1ea5t tr\u01b0\u1edbc' or 'Ch\u1ea1y nhanh th\u00ec ng\u00e3 s\u1edbm' \u2014 the meaning stays but the voice stays Vietnamese.",
+    "note": "B\u00e1ch's sharp staccato, Tu\u1ea5n's weighted pauses, L\u1ecbch's notebook-precise delivery \u2014 all differentiated well. Tu\u1ea5n's 'M\u00ecnh ch\u1ea5p nh\u1eadn c\u00f2n \u1edf b\u00ean' is a genuine, surprising line that encapsulates his whole character. The English 'quicker' is a jarring anomaly that breaks voice entirely."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "L\u1ecbch's suspicion about \u1ee6y Ban ('C\u00f3 th\u1ec3 h\u1ecd bi\u1ebft ng\u01b0\u1eddi g\u1ecdi m\u01b0a l\u00e0 ai') \u2014 slightly too on-the-nose for a character who otherwise speaks in data points.",
+    "fix": "Have L\u1ecbch point to a specific detail \u2014 a date in her notebook, a pattern she noticed \u2014 rather than voicing the full conclusion. Let the reader assemble the suspicion.",
+    "note": "The \u1ee6y Ban surveillance thread is well-woven through action (the visit) and detail (C\u00f4 B\u00edch standing across the street). L\u1ecbch's data on increased rain is planted naturally through her established notebook habit. The red herring lands without feeling forced."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "Nh\u01b0ng v\u1ed9i th\u00ec ch\u1ebft quicker.",
+    "fix": "Nh\u01b0ng v\u1ed9i th\u00ec ch\u1ebft tr\u01b0\u1edbc. / Ch\u1ea1y nhanh th\u00ec ng\u00e3 s\u1edbm. / V\u1ed9i th\u00ec m\u1ea5t nhanh h\u01a1n th\u00f4i.",
+    "strongest_sentence": "Nh\u01b0 l\u1ea5p c\u00e1i h\u1ed5ng b\u1eb1ng c\u00e1t \u2014 c\u00e1t l\u1ecdt qua k\u1ebd tay.",
+    "note": "Sentence variety is mostly good \u2014 the short punch beats land ('L\u1ea1nh. R\u00e1t. Da n\u1ed5i gai.'), the longer reflective sentences carry weight. The food image (canh m\u00f9ng t\u01a1i, c\u00e1 kho ti\u00eau) grounds a scene in specific detail. Recurring 'm\u00ecnh' sentence-openers create some monotony in Linh's internal passages."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Emotional continuity from Ch 12 is strong \u2014 Linh's declaration to find the sixth person carries forward into her internal conflict about how to proceed. Tu\u1ea5n's distance (two seats apart) physically manifests the growing gap. B\u00e1ch's urgency tracks with their established character. The rain at chapter's end echoes Ch 12's closing."
+  },
+  "canon_compliance": {
+    "score": 6,
+    "violations": [
+      "Duy's body state: Canon states Duy R\u1eeda l\u1ea7n th\u1ee9 ba in Ch 4 (Nam\u2192N\u1eef). Starting Nam, three R\u1eeda = N\u1eef. But Ch 13 says 'C\u01a1 th\u1ec3 nam. L\u1ea7n th\u1ee9 ba.' \u2014 should be 'C\u01a1 th\u1ec3 n\u1eef' or there must be an unestablished fourth R\u1eeda."
+    ],
+    "note": "One significant violation on Duy's physical state. All other canon details check out: B\u00e1ch's R\u1eeda count (fourth, male body per Ch 10), L\u1ecbch's notebook description, the gh\u1ebf tr\u1ed1ng tradition, \u1ee6y Ban surveillance structure, Linh's appearance."
+  },
+  "lore_integration": {
+    "score": 7,
+    "weakest_moment": "The \u1ee6y Ban visit scene is observed from a distance, which fits Linh's POV, but the lore opportunity \u2014 what questions the official asked, what forms he carried, how R\u1eeda bureaucracy actually looks up close \u2014 is slightly underserved.",
+    "fix": "One specific bureaucratic detail \u2014 a form visible in his hand, a phrase overheard ('V\u00f2ng 7, \u0111\u00fang kh\u00f4ng?'), a glance at the empty chair that suggests the state knows about it too \u2014 would make the threat feel more textured.",
+    "note": "The cafe setting, the gh\u1ebf tr\u1ed1ng tradition, L\u1ecbch's record-keeping as lore mechanism, and the rain-calling mystery all do real narrative work. The world isn't set dressing \u2014 it's the source of every conflict."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The long internal monologue in Linh's room at night ('B\u00e1ch mu\u1ed1n \u0111i. Tu\u1ea5n mu\u1ed1n d\u1eebng. Duy kh\u00f4ng quan t\u00e2m...') reads like a recap of what we just witnessed rather than a deepening.",
+    "fix": "Cut or compress the summary and replace with one specific sensory image that captures the paralysis \u2014 maybe Linh's hands physically unable to pick up the pen to write in her own notebook, or the rain on the window making patterns she can't read.",
+    "note": "The group argument crackles. Tu\u1ea5n's quiet 'M\u00ecnh ch\u1ea5p nh\u1eadn c\u00f2n \u1edf b\u00ean' is the chapter's emotional anchor. The food-delivery scene is quietly devastating. The ending image of Linh standing in rain she knows won't R\u1eeda her is strong. But the night monologue section sags."
+  },
+  "three_weakest_sentences": [
+    "Nh\u01b0ng v\u1ed9i th\u00ec ch\u1ebft quicker.",
+    "M\u00ecnh n\u1eb1m gi\u1eefa. B\u00e1ch b\u00ean tr\u00e1i, \u0111\u00f2i \u0111i. Tu\u1ea5n b\u00ean ph\u1ea3i, \u0111\u00f2i d\u1eebng.",
+    "B\u00e1ch mu\u1ed1n \u0111i. Tu\u1ea5n mu\u1ed1n d\u1eebng. Duy kh\u00f4ng quan t\u00e2m. L\u1ecbch ghi ch\u00e9p. \u1ee6y Ban theo d\u00f5i. Ng\u01b0\u1eddi th\u1ee9 s\u00e1u g\u1ecdi m\u01b0a. M\u00ecnh \u2014 m\u00ecnh n\u1eb1m \u0111\u00e2y."
+  ],
+  "three_strongest_sentences": [
+    "Nh\u01b0 l\u1ea5p c\u00e1i h\u1ed5ng b\u1eb1ng c\u00e1t \u2014 c\u00e1t l\u1ecdt qua k\u1ebd tay.",
+    "M\u00ecnh ch\u1ea5p nh\u1eadn c\u00f2n \u1edf b\u00ean.",
+    "Kho\u1ea3ng c\u00e1ch b\u1eb1ng m\u1ed9t l\u1edbp kh\u00f4ng kh\u00ed \u1ea9m, \u0111\u1eb7c qu\u00e1ng."
+  ],
+  "ai_patterns_detected": [
+    "Schematic enumeration pattern: 'B\u00e1ch b\u00ean tr\u00e1i... Tu\u1ea5n b\u00ean ph\u1ea3i... m\u00ecnh \u1edf gi\u1eefa' \u2014 abstract positioning instead of physical sensation",
+    "Summary list pattern: 'B\u00e1ch mu\u1ed1n \u0111i. Tu\u1ea5n mu\u1ed1n d\u1eebng. Duy kh\u00f4ng quan t\u00e2m. L\u1ecbch ghi ch\u00e9p...' \u2014 reads like meeting minutes, not lived experience",
+    "Symmetrical opposition structuring: arguments resolve into exactly two camps with Linh in the middle \u2014 tidy but synthetic"
+  ],
+  "overall_score": 6.5,
+  "weakest_dimension": "canon_compliance (Duy's body state violation)",
+  "top_3_revisions": [
+    "Fix Duy's body description: change 'C\u01a1 th\u1ec3 nam. L\u1ea7n th\u1ee9 ba.' to 'C\u01a1 th\u1ec3 n\u1eef. L\u1ea7n th\u1ee9 ba.' to match Ch 4's established R\u1eeda, or add a brief acknowledgment of a fourth off-screen R\u1eeda if intended",
+    "Replace 'quicker' with a Vietnamese equivalent \u2014 this single English word in an otherwise Vietnamese text breaks immersion completely",
+    "Compress the night monologue section: cut the recap list ('B\u00e1ch mu\u1ed1n \u0111i. Tu\u1ea5n mu\u1ed1n d\u1eebng...') and replace with one physical image that conveys paralysis through sensation, not statement"
+  ],
+  "new_canon_entries": [
+    "B\u00e1ch \u0111\u1ebfn qu\u00e1n l\u00fac s\u00e1u gi\u1edd s\u00e1ng, s\u1edbm b\u1ea5t th\u01b0\u1eddng",
+    "Tu\u1ea5n ng\u1ed3i c\u00e1ch Linh hai ch\u1ed7 \u2014 tr\u01b0\u1edbc \u0111\u00e2y ng\u1ed3i c\u1ea1nh (L\u1ecbch ghi: Tu\u1ea5n ng\u1ed3i c\u1ea1nh Linh m\u1ed7i s\u00e1ng t\u1eeb 1995 \u0111\u1ebfn 1998)",
+    "L\u1ecbch ghi nh\u1eadn: t\u1eeb khi nh\u00f3m b\u1eaft \u0111\u1ea7u \u0111i\u1ec1u tra, t\u1ea7n su\u1ea5t m\u01b0a R\u1eeda t\u0103ng \u2014 ba tu\u1ea7n hai tr\u1eadn thay v\u00ec ba th\u00e1ng m\u1ed9t tr\u1eadn",
+    "\u1ee6y Ban g\u1eedi c\u00e1n b\u1ed9 \u0111\u1ebfn qu\u00e1n b\u00e0 T\u00e2m h\u1ecfi chuy\u1ec7n \u2014 \u0111\u00e0n \u00f4ng trung ni\u00ean, t\u00f3c ch\u1ea3i keo, k\u00ednh c\u1eadn d\u00e0y, \u00e1o tr\u1eafng qu\u1ea7n xanh",
+    "C\u00f4 B\u00edch \u0111\u1ee9ng quan s\u00e1t qu\u00e1n t\u1eeb b\u00ean kia \u0111\u01b0\u1eddng, ghi ch\u00e9p v\u00e0o s\u1ed5, r\u1ed3i r\u1eddi \u0111i",
+    "Tu\u1ea5n mang c\u01a1m cho Linh (canh m\u00f9ng t\u01a1i x\u00e0o t\u1ecfi, c\u01a1m tr\u1eafng, c\u00e1 kho ti\u00eau) \u2014 b\u00e0 T\u00e2m g\u1eedi",
+    "Tu\u1ea5n c\u1ed1 k\u1ec3 k\u00fd \u1ee9c n\u0103m 1996 cho Linh nghe nh\u01b0ng Linh c\u1eaft ngang: 'M\u00ecnh kh\u00f4ng nh\u1edb'",
+    "G\u01b0\u01a1ng trong ph\u00f2ng Linh v\u1eabn ph\u1ea3n chi\u1ebfu ch\u1eadm n\u1eeda nh\u1ecbp \u2014 hi\u1ec7n t\u01b0\u1ee3ng sau R\u1eeda ch\u01b0a tan h\u1ebft",
+    "Ch\u1eadu qu\u1ef3nh tr\u00ean ban c\u00f4ng ph\u00f2ng Linh \u0111\u00e3 t\u00e0n \u2014 hoa tr\u1eafng r\u1ee5ng, h\u00e9o x\u1eb9p"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 16.67,
+    "sentence_length_cv": 0.689,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 0.5,
+    "language": "vi",
+    "vi_english_leaks": [],
+    "vi_translation_calques": [],
+    "vi_fiction_ai_tells": [],
+    "vi_telling_violations": 0,
+    "vi_structural_ai_tics": []
+  },
+  "raw_judge_score": 7
+}
