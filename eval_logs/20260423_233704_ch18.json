@@ -1,0 +1,115 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "Linh nh\u1eadn ra \u0111i\u1ec1u \u0111\u00f3 nh\u01b0 nh\u1eadn ra tr\u1eddi s\u00e1ng: t\u1eeb t\u1eeb, r\u1ed3i \u0111\u1ed9t ng\u1ed9t, r\u1ed3i r\u00f5 r\u00e0ng kh\u00f4ng th\u1ec3 ch\u1ed1i.",
+    "fix": "Cut entirely. The paragraph immediately following ('Tay L\u1ecbch \u1ea5m. Linh kh\u00f4ng c\u1ea7n nh\u1edb t\u1ea1i sao...') already demonstrates the realization through body-knowledge. The simile is generic and violates body-before-emotion.",
+    "note": "The voice mostly succeeds: short fractured sentences, water/body vocabulary wells, restraint. The L\u1ecbch touch scene is voice at its best. But the chapter periodically breaks into philosophical exposition ('\u0110\u00f3 c\u00f3 ph\u1ea3i t\u00ecnh y\u00eau?' 'Ki\u1ec3m so\u00e1t. \u0110\u00f3 l\u00e0 ki\u1ec3m so\u00e1t.') that reads like thesis statements rather than the specified 'n\u1ed7i bu\u1ed3n kh\u00f4ng g\u1ecdi t\u00ean.' The exemplar passage style\u2014sensation first, understanding submerged\u2014is present about 60% of the time."
+  },
+  "beat_coverage": {
+    "score": 6,
+    "weakest_moment": "Linh ngh\u0129 v\u1ec1 b\u1ea3n th\u00e2n: m\u00ecnh \u0111ang c\u1ed1 ng\u1eebng y\u00eau Tu\u1ea5n \u0111\u1ec3 R\u1eeda kh\u00f4ng l\u1ea5y th\u00eam. M\u00ecnh \u0111ang r\u1ed7ng ru\u1ed9t m\u00ecnh. M\u00ecnh v\u00e0 ng\u01b0\u1eddi th\u1ee9 s\u00e1u \u0111ang l\u00e0m c\u00f9ng m\u1ed9t vi\u1ec7c \u2014 r\u1ed7ng ru\u1ed9t \u0111\u1ec3 gi\u1eef.",
+    "fix": "This beat (parallel between Linh and C\u1ea3nh) should emerge organically from a physical action\u2014perhaps Linh catching himself doing something that mirrors what he imagines C\u1ea3nh doing, or noticing his own hand in a gesture that echoes the mirror-shadow. The insight should land like a stomach-drop, not a thesis summary.",
+    "note": "All five outline beats are present but executed with varying depth. Beat 1 (river, no rain, c\u00fa l\u1ee3n, tr\u1eafng) is well-dramatized. Beat 4 (L\u1ecbch's touch, \u1ea5m) is the chapter's strongest scene moment. Beats 2, 3, and 5 are largely narrated rather than lived\u2014the internal parallels are explained to the reader rather than discovered through action. The 'thu ho\u1ea1ch' (Thread 14 resolution) is explicitly stated ('T\u00ecnh y\u00eau kh\u00f4ng c\u1ea7n k\u00fd \u1ee9c') when it should be the reader's conclusion, not the narrator's assertion."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "Ng\u01b0\u1eddi th\u1ee9 s\u00e1u th\u01b0\u01a1ng nh\u00f3m. Linh bi\u1ebft. Th\u01b0\u01a1ng b\u1eb1ng c\u00e1ch g\u1ecdi m\u01b0a v\u1ec1, gi\u1eef ai c\u0169ng \u1edf l\u1ea1i, gi\u1eef ai c\u0169ng c\u1ea7n nhau. Nh\u01b0ng gi\u1eef b\u1eb1ng c\u00e1ch t\u01b0\u1edbc \u0111o\u1ea1t \u2014 l\u1ea5y \u0111i c\u00e1i khi\u1ebfn ng\u01b0\u1eddi ta y\u00eau nhau, l\u1ea5y \u0111i c\u00e1i khi\u1ebfn h\u1ecd mu\u1ed1n \u1edf b\u00ean nhau ban \u0111\u1ea7u, r\u1ed3i g\u1ecdi \u0111\u00f3 l\u00e0 t\u00ecnh y\u00eau.",
+    "fix": "Break this into sensation-anchored fragments. Linh doesn't think in analytical paragraphs. Something like: 'Ng\u01b0\u1eddi \u0111\u00f3 th\u01b0\u01a1ng nh\u00f3m. Linh bi\u1ebft \u2014 bi\u1ebft \u1edf \u0111\u00e2u? \u1ede c\u00e1ch m\u01b0a r\u01a1i \u0111\u00fang l\u00fac ai \u0111\u1ecbnh r\u1eddi. \u1ede c\u00e1ch gh\u1ebf \u0111\u1ea7u b\u00e0n kh\u00f4ng bao gi\u1edd \u0111\u01b0\u1ee3c d\u1eddi. Nh\u01b0ng tay m\u00ecnh l\u1ea1nh. Tay ng\u01b0\u1eddi \u0111\u00f3 c\u0169ng l\u1ea1nh ch\u1ee9? G\u1ecdi m\u00e3i, gi\u1eef m\u00e3i, m\u00e0 gi\u1eef b\u1eb1ng c\u00e1ch l\u1ea5y \u0111i \u2014 th\u00ec c\u00f2n g\u00ec \u0111\u1ec3 gi\u1eef?'",
+    "note": "L\u1ecbch's voice is distinct and well-calibrated: 'G\u1eb7p r\u1ed3i sao?', 'C\u1eadu c\u00f3 bu\u00f4ng \u0111\u01b0\u1ee3c kh\u00f4ng?', 'C\u1ea9n th\u1eadn.', '\u0110\u00eam nay kh\u00f4ng m\u01b0a \u0111\u00e2u.'\u2014each line is economical, factual on the surface, weighted underneath. The dialogue feels like speech, not prose. Linh's internal voice sometimes drifts into philosopher-mode that doesn't match the 22-year-old tailor who 'ngh\u0129 b\u1eb1ng c\u1ea3m gi\u00e1c v\u1eadt l\u00fd, kh\u00f4ng b\u1eb1ng kh\u00e1i ni\u1ec7m.' The best moments are when Linh's voice stays in the body."
+  },
+  "plants_seeded": {
+    "score": 6,
+    "weakest_moment": "M\u1ed9t ng\u01b0\u1eddi r\u00fat t\u00ecnh c\u1ea3m \u0111\u1ec3 R\u1eeda kh\u00f4ng l\u1ea5y th\u00eam. M\u1ed9t ng\u01b0\u1eddi r\u00fat t\u00ecnh c\u1ea3m \u0111\u1ec3 gi\u1eef ai \u0111\u00f3 \u1edf l\u1ea1i. C\u00f9ng m\u1ed9t vi\u1ec7c. R\u1ed7ng ru\u1ed9t \u0111\u1ec3 gi\u1eef.",
+    "fix": "Let the reader construct this parallel themselves. Show Linh pulling thread from fabric at the x\u01b0\u1edfng, then cut to C\u1ea3nh (or the idea of C\u1ea3nh) pulling water from sky. The visual echo does the work without the explanatory prose.",
+    "note": "Thread 31 (Linh s\u1ebd \u0111i H\u01b0\u01a1ng Th\u1ee7y) is seeded clearly and naturally through the decision scene. Thread 32 (Linh\u2013C\u1ea3nh parallel) is over-seeded\u2014the chapter explains the parallel three separate times. TheSetup for meeting C\u1ea3nh is functional. The best subtle plant is L\u1ecbch's '\u0110\u00eam nay kh\u00f4ng m\u01b0a \u0111\u00e2u'\u2014carrying both practical information and emotional weight without exposition. More of that, less of the explicit parallel-drawing."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "\u0110\u00e1 b\u1edd s\u00f4ng l\u1ea1nh. L\u1ea1nh nh\u01b0 th\u1ec3 n\u01b0\u1edbc H\u01b0\u01a1ng giang quy\u1ebft \u0111\u1ecbnh ng\u1ea5m ng\u01b0\u1ee3c l\u00ean tr\u00ean, xuy\u00ean qua qu\u1ea7n, qua da, v\u00e0o t\u1ee7y x\u01b0\u01a1ng.",
+    "fix": "'Quy\u1ebft \u0111\u1ecbnh ng\u1ea5m ng\u01b0\u1ee3c' is English-syntax thinking ('decided to seep upward'). Vietnamese natural phrasing would center the sensation: '\u0110\u00e1 b\u1edd s\u00f4ng l\u1ea1nh \u2014 l\u1ea1nh ki\u1ec3u n\u01b0\u1edbc d\u1ed9i ng\u01b0\u1ee3c, xuy\u00ean qu\u1ea7n, xuy\u00ean da, c\u1eafm v\u00e0o t\u1ee7y.' Or simpler: '\u0110\u00e1 l\u1ea1nh. L\u1ea1nh t\u1eeb d\u01b0\u1edbi l\u00ean, nh\u01b0 s\u00f4ng H\u01b0\u01a1ng \u0111ang u\u1ed1ng ng\u01b0\u1ee3c v\u00e0o m\u00ecnh.'",
+    "strongest_sentence": "M\u01b0a che l\u00e2u qu\u00e1, che lu\u00f4n c\u1ea3 nh\u1edb.",
+    "note": "The prose has genuine highs: 'M\u01b0a che l\u00e2u qu\u00e1, che lu\u00f4n c\u1ea3 nh\u1edb' is the kind of line that makes you stop reading. The '\u1ea4m.' / '\u1ea4m.' repetition earns its weight. The final exchange with L\u1ecbch is beautifully restrained. But the chapter has a persistent problem with consecutive sentences starting the same way (count: multiple stretches of 3+ sentences beginning with 'Linh' or 'Ng\u01b0\u1eddi'), and several paragraphs could be cut entirely (the long analytical passage about 'ki\u1ec3m so\u00e1t' adds nothing that the scene hasn't already conveyed). The AI pattern of threes appears: 'M\u1ed9t ng\u01b0\u1eddi... M\u1ed9t ng\u01b0\u1eddi... C\u00f9ng m\u1ed9t vi\u1ec7c.' and 'kh\u00f4ng nh\u1edb, kh\u00f4ng th\u01b0\u01a1ng, kh\u00f4ng s\u1ee3, kh\u00f4ng mong.'"
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Strong continuity from Ch 17. Linh's emotional state (numb, isolated, guilt over pulling the group into investigation) tracks perfectly. The mirror-shadow reference is handled obliquely. The river-walking habit (established Ch 11) recurs naturally. Tu\u1ea5n's recent R\u1eeda, L\u1ecbch's lost role, B\u00e1ch's lost lead\u2014all acknowledged without clunky exposition. The only slight issue: Linh's guilt ('m\u00ecnh l\u00e0 ng\u01b0\u1eddi gieo gi\u00f3') is more explicitly stated here than the suppressed emotion the character profile suggests, but this is a Dark Night chapter so some articulation is warranted."
+  },
+  "canon_compliance": {
+    "score": 8,
+    "violations": [],
+    "note": "No canon violations detected. Character details (Linh's callused fingers from tailoring, L\u1ecbch's red-ink notebook, b\u00e0 T\u00e2m's untouched water glass, C\u1ea3nh's occupation and location) are consistent with established facts. The magic system rules are respected: rain causes R\u1eeda, no rain means safety tonight, memory loss is permanent. The c\u00fa l\u1ee3n behavior (single call vs. rain-warning rhythm) is a plausible extension of established lore. Linh's four prior R\u1eeda, Tu\u1ea5n's recent fourth R\u1eeda to female body, and L\u1ecbch's never-R\u1eeda status are all correctly referenced."
+  },
+  "lore_integration": {
+    "score": 6,
+    "weakest_moment": "M\u00f9i nhang tr\u1ea7m t\u1eeb l\u0103ng T\u1ef1 \u0110\u1ee9c xa xa ch\u00e1y d\u1edf",
+    "fix": "Connect this detail to something felt\u2014perhaps Linh associates the tr\u1ea7m smell with specific memories that are now hollow, or the scent triggers a body-response that anticipates loss even when no rain is coming. Right now it's set dressing: atmospheric but doing no narrative work.",
+    "note": "The chapter uses some lore elements well: c\u00fa l\u1ee3n behavior differentiating rain/no-rain, d\u1ea1 lan absence as significant, the s\u00f4ng H\u01b0\u01a1ng as physical and metaphysical presence. But other elements are mentioned without integration\u2014the tr\u1ea7m reference, the stars\u2014these could be any river in any story. The strongest lore moment is the absence of d\u1ea1 lan: 'Kh\u00f4ng c\u00f3 d\u1ea1 lan. Kh\u00f4ng c\u00f3 m\u00f9i ng\u1ecdt l\u1ee3 qu\u1ea5n trong gi\u00f3... Tr\u1eafng.' This uses the established scent-lore to create emotional impact through its very absence. More of this kind of engagement, less scenic tourism."
+  },
+  "engagement": {
+    "score": 6,
+    "weakest_moment": "The extended interior monologue from 'Ng\u01b0\u1eddi th\u1ee9 s\u00e1u g\u1ecdi m\u01b0a \u0111\u1ec3 gi\u1eef nh\u00f3m' through 'Hai ng\u01b0\u1eddi \u0111ang l\u00e0m c\u00f9ng m\u1ed9t vi\u1ec7c'\u2014approximately 15 paragraphs of Linh explaining the thematic parallels to the reader.",
+    "fix": "Cut this section by 60%. Trust the reader to construct the Linh\u2013C\u1ea3nh parallel from two or three precise images rather than six paragraphs of analysis. Replace with a physical action: Linh pressing his palm flat against the cold stone, feeling his own pulse, wondering if C\u1ea3nh does the same thing at the edge of some other river.",
+    "note": "The chapter has a structural engagement problem common to Dark Night chapters: too much processing, not enough happening. The L\u1ecbch arrival scene (from footstep sounds to '\u0110\u00eam nay kh\u00f4ng m\u01b0a \u0111\u00e2u') is genuinely engaging\u2014specific, physical, emotionally precise. But it's surrounded by long stretches of interior narration that tell the reader what to feel rather than making them feel it. The strongest engagement tool here is mystery (what will happen when Linh meets C\u1ea3nh?) and the chapter builds that effectively for the next installment. The final image\u2014Linh sitting beside the untouched water glass\u2014is quiet and right."
+  },
+  "three_weakest_sentences": [
+    "\u0110\u00e1 b\u1edd s\u00f4ng l\u1ea1nh. L\u1ea1nh nh\u01b0 th\u1ec3 n\u01b0\u1edbc H\u01b0\u01a1ng giang quy\u1ebft \u0111\u1ecbnh ng\u1ea5m ng\u01b0\u1ee3c l\u00ean tr\u00ean, xuy\u00ean qua qu\u1ea7n, qua da, v\u00e0o t\u1ee7y x\u01b0\u01a1ng.",
+    "Linh nh\u1eadn ra \u0111i\u1ec1u \u0111\u00f3 nh\u01b0 nh\u1eadn ra tr\u1eddi s\u00e1ng: t\u1eeb t\u1eeb, r\u1ed3i \u0111\u1ed9t ng\u1ed9t, r\u1ed3i r\u00f5 r\u00e0ng kh\u00f4ng th\u1ec3 ch\u1ed1i.",
+    "M\u1ed9t ng\u01b0\u1eddi r\u00fat t\u00ecnh c\u1ea3m \u0111\u1ec3 R\u1eeda kh\u00f4ng l\u1ea5y th\u00eam. M\u1ed9t ng\u01b0\u1eddi r\u00fat t\u00ecnh c\u1ea3m \u0111\u1ec3 gi\u1eef ai \u0111\u00f3 \u1edf l\u1ea1i. C\u00f9ng m\u1ed9t vi\u1ec7c. R\u1ed7ng ru\u1ed9t \u0111\u1ec3 gi\u1eef."
+  ],
+  "three_strongest_sentences": [
+    "M\u01b0a che l\u00e2u qu\u00e1, che lu\u00f4n c\u1ea3 nh\u1edb.",
+    "Tay L\u1ecbch \u1ea5m. Linh kh\u00f4ng c\u1ea7n k\u00fd \u1ee9c \u0111\u1ec3 bi\u1ebft tay L\u1ecbch \u1ea5m. Kh\u00f4ng c\u1ea7n m\u1edf s\u1ed5 da \u0111en, kh\u00f4ng c\u1ea7n L\u1ecbch \u0111\u1ecdc l\u1ea1i ng\u00e0y n\u00e0y th\u00e1ng n\u1ecd, kh\u00f4ng c\u1ea7n ai k\u1ec3 l\u1ea1i. Ch\u1ec9 c\u1ea7n tay L\u1ecbch \u1edf \u0111\u00f3.",
+    "\u0110\u00eam nay kh\u00f4ng m\u01b0a \u0111\u00e2u."
+  ],
+  "ai_patterns_detected": [
+    "Symmetry addiction: Multiple three-part parallel structures ('M\u1ed9t ng\u01b0\u1eddi... M\u1ed9t ng\u01b0\u1eddi... C\u00f9ng m\u1ed9t vi\u1ec7c'; 'kh\u00f4ng nh\u1edb, kh\u00f4ng th\u01b0\u01a1ng, kh\u00f4ng s\u1ee3, kh\u00f4ng mong'; 't\u1eeb t\u1eeb, r\u1ed3i \u0111\u1ed9t ng\u1ed9t, r\u1ed3i r\u00f5 r\u00e0ng')",
+    "Thematic over-explanation: The Linh\u2013C\u1ea3nh parallel is stated explicitly three separate times rather than allowed to emerge",
+    "Consecutive sentence-start repetition: Multiple stretches of 3+ sentences beginning with 'Linh' or 'Ng\u01b0\u1eddi'",
+    "Philosophical narrator-voice intrusions that break the 'body before emotion' principle: '\u0110\u00f3 c\u00f3 ph\u1ea3i t\u00ecnh y\u00eau?', 'Ki\u1ec3m so\u00e1t. \u0110\u00f3 l\u00e0 ki\u1ec3m so\u00e1t.'",
+    "Uniform paragraph rhythm in the middle section: short declarative paragraphs without variation for 15+ paragraphs"
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "engagement",
+  "top_3_revisions": [
+    "Cut the 15-paragraph analytical section ('Ng\u01b0\u1eddi th\u1ee9 s\u00e1u g\u1ecdi m\u01b0a \u0111\u1ec3 gi\u1eef nh\u00f3m' through 'Hai ng\u01b0\u1eddi \u0111ang l\u00e0m c\u00f9ng m\u1ed9t vi\u1ec7c') by 60%. Replace with one or two physical images that imply the parallel\u2014Linh pulling a loose thread from his sleeve, feeling the fabric give way\u2014and let the reader construct the meaning.",
+    "Remove the sentence 'Linh nh\u1eadn ra \u0111i\u1ec1u \u0111\u00f3 nh\u01b0 nh\u1eadn ra tr\u1eddi s\u00e1ng: t\u1eeb t\u1eeb, r\u1ed3i \u0111\u1ed9t ng\u1ed9t, r\u1ed3i r\u00f5 r\u00e0ng kh\u00f4ng th\u1ec3 ch\u1ed1i.' entirely. The paragraph following it ('Tay L\u1ecbch \u1ea5m...') already demonstrates the realization through body-knowledge. Trust the reader.",
+    "Vary paragraph openings in the river meditation section. Currently: 'Ng\u01b0\u1eddi th\u1ee9 s\u00e1u...' \u2192 'G\u1ecdi m\u01b0a...' \u2192 'Gi\u1eef b\u1eb1ng c\u00e1ch...' \u2192 'L\u1ea5y k\u00fd \u1ee9c...' \u2192 '\u0110\u00f3 c\u00f3 ph\u1ea3i t\u00ecnh y\u00eau?' \u2192 'Linh ngh\u0129 v\u1ec1 tay m\u00ecnh...' \u2014 too many consecutive conceptual/philosophical paragraph-starters. Break this pattern with sensory details, fragments, or action."
+  ],
+  "new_canon_entries": [
+    "Linh ng\u1ed3i b\u1edd s\u00f4ng \u0111\u00eam sau l\u1ea7n R\u1eeda c\u1ee7a Tu\u1ea5n \u2014 l\u1ea7n \u0111\u1ea7u ti\u00ean sau nhi\u1ec1u tu\u1ea7n tr\u1eddi trong, kh\u00f4ng m\u01b0a, kh\u00f4ng m\u00f9i d\u1ea1 lan",
+    "L\u1ecbch ra ng\u1ed3i c\u1ea1nh Linh \u1edf b\u1edd s\u00f4ng, ch\u1ea1m tay l\u00ean tay Linh \u2014 tay L\u1ecbch \u1ea5m, chai \u1edf g\u1ed1c ng\u00f3n tr\u1ecf",
+    "Linh n\u00f3i v\u1edbi L\u1ecbch: 'M\u00ecnh ph\u1ea3i g\u1eb7p ng\u01b0\u1eddi \u0111\u00f3' v\u00e0 'M\u00ecnh ph\u1ea3i cho ng\u01b0\u1eddi \u0111\u00f3 c\u01a1 h\u1ed9i bu\u00f4ng'",
+    "L\u1ecbch h\u1ecfi Linh: 'C\u1eadu c\u00f3 bu\u00f4ng \u0111\u01b0\u1ee3c kh\u00f4ng?' \u2014 Linh kh\u00f4ng \u0111\u00e1p",
+    "Linh quy\u1ebft \u0111\u1ecbnh \u0111i H\u01b0\u01a1ng Th\u1ee7y m\u1ed9t m\u00ecnh v\u00e0o ng\u00e0y mai \u0111\u1ec3 g\u1eb7p C\u1ea3nh",
+    "L\u1ecbch n\u00f3i '\u0110\u00eam nay kh\u00f4ng m\u01b0a \u0111\u00e2u' v\u1edbi Linh t\u1eeb b\u00f3ng t\u1ed1i \u2014 c\u00e2u n\u00f3i mang ngh\u0129a: t\u1ed1i nay an to\u00e0n, h\u00e3y ngh\u1ec9 \u0111i"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 19.23,
+    "sentence_length_cv": 0.758,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi",
+    "vi_english_leaks": [],
+    "vi_translation_calques": [],
+    "vi_fiction_ai_tells": [],
+    "vi_telling_violations": 0,
+    "vi_structural_ai_tics": [
+      [
+        "kh\u00f4ng ph\u1ea3i .{3,50} m\u00e0 (?:l\u00e0|ch\u00ednh l\u00e0|ch\u00ednh)",
+        1
+      ],
+      [
+        "kh\u00f4ng ph\u1ea3i v\u00ec .{3,40} m\u00e0 v\u00ec",
+        1
+      ]
+    ]
+  },
+  "raw_judge_score": 7
+}

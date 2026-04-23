@@ -292,3 +292,9 @@
 - Lịch mất vai trò người giữ ký ức — khi Tuấn không còn nhớ Lịch đủ sâu, Lịch mất 'cầu nối' giữa mình và cảm giác được nhớ. Tay Lịch nắm mép sổ trắng bệch. (ch_17)
 - Linh tin rằng việc nhóm tìm ra sự thật đang gây thêm Rửa — mỗi lần tiến gần hơn một bước, ai đó mất thêm một năm. (ch_17)
 - Mùi dạ lan năm nay đậm hơn mọi năm trước, trời tối sớm hơn — Linh ghi nhận 'mỗi năm khác một chút.' (ch_17)
+
+
+## From Chapter 18
+- Lịch xưng 'cậu' với Linh khi nói chuyện riêng bên sông — giấu tình cảm sau đại từ khoảng cách (ch_18) (ch_18)
+- Linh hứa đi Hương Thủy một mình, chưa nói với nhóm (ch_18) (ch_18)
+- Linh nhận ra tình yêu không cần ký ức — 'biết rồi. Da đã ghi. Xương đã nhớ. Khác với ký ức Rửa cướp đi, loại ghi nhớ này nằm sâu hơn, dưới da, dưới thịt, nơi nước không chạm tới' (ch_18) (ch_18)
