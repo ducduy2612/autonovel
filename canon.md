@@ -198,3 +198,12 @@
 - Dạ lan pha trầm的香味在Hương Thủy常年存在，比城里更浓更持久 (ch_07)
 - Bà Lụa对Linh提起dạ lan香味时表现异常——手停止动作，眼神变化 (ch_07)
 - Linh和Bách正式开始合作调查谁在叫雨 (ch_07)
+
+
+## From Chapter 8
+- Lịch giữ cuốn sổ da đen, bìa mòn mép, ghi bằng mực đỏ — mọi lần Rửa từ 1994 đến nay, bao gồm: ngày, giờ, ai bị, mất gì, thời tiết, mùi, vị trí ngồi, ai khóc, ai im (ch_08)
+- Mùi dạ lan pha trầm lần đầu được Lịch ghi nhận ngày 23/6/1998, đúng đêm Linh Rửa lần ba (ch_08)
+- Lịch đã gạch bỏ dòng 'năm mình nhận ra mình thương Linh' trong entry ngày 3/9/1995 — dấu vết tình cảm bị che giấu nhưng vẫn đọc được (ch_08)
+- Entry 'Linh ngủ' trong sổ Lịch viết bằng mực đỏ, không ghi sự kiện Rửa — chỉ ghi khoảnh khắc Lịch nhìn Linh ngủ và không nắm tay (ch_08)
+- Chiếc áo sơ mi xanh nhạt Tuấn đưa cho Linh là áo Linh mặc mùa hè 1995, vải mòn ở khuỷu, còn mùi giặt bột Tide và cà phê rớt cũ (ch_08)
+- Cây quỳnh trong chậu ban công phòng Linh đã tàn sau đêm Rửa Duy — hoa trắng rụng dưới gốc, héo xẹp trên đất ẩm (ch_08)
