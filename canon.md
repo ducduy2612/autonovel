@@ -153,3 +153,9 @@
 - Duy đã gặp một cô gái tên Hạnh (hoặc Hằng) ở chợ Đông Ba, mua vải lụa, tóc vấn cao — chưa rõ đây là nhân vật sẽ quay lại hay chỉ chi tiết thiết lập (ch_01)
 - Tuấn đang may áo jacket dài tay cho Duy, hẹn xong trước thứ Sáu (ch_01)
 - Bách không đến quán hôm nay, báo bận, nói 'gặp ai đó' — lý do vắng mặt chưa xác minh (ch_01)
+
+
+## From Chapter 2
+- Bún bò ở quán bà Tâm cay bất thường trước khi mưa đến — Linh coi đây là dạng đồng hồ báo mưa: cay nhẹ thì mưa còn xa, cay xé lưỡi thì mưa đang ở dãy Bạch Mã, cay thấu xương thì mưa chỉ còn vài tiếng. (ch_02)
+- Linh mua cho Tuấn chiếc nhẫn bạc ở chợ Đông Ba ngày 15 tháng 8 năm 1996 (ngày sau khi hai người nắm tay lần đầu). (ch_02)
+- Bà Tâm bán bánh bèo ở quán — bánh còn ấm, lá chuối xanh mướt bên ngoài. (ch_02)
