@@ -298,3 +298,13 @@
 - Lịch xưng 'cậu' với Linh khi nói chuyện riêng bên sông — giấu tình cảm sau đại từ khoảng cách (ch_18) (ch_18)
 - Linh hứa đi Hương Thủy một mình, chưa nói với nhóm (ch_18) (ch_18)
 - Linh nhận ra tình yêu không cần ký ức — 'biết rồi. Da đã ghi. Xương đã nhớ. Khác với ký ức Rửa cướp đi, loại ghi nhớ này nằm sâu hơn, dưới da, dưới thịt, nơi nước không chạm tới' (ch_18) (ch_18)
+
+
+## From Chapter 19
+- Cảnh sửa ống nước cho xưởng may Linh hồi tháng ba năm 2000—Linh không nhớ. (ch_19)
+- Cảnh viết tên năm người lên giấy rồi đốt mỗi đêm, xếp thành hàng như bày trên bàn thờ. Tên Linh viết cẩn thận nhất, cháy nhẹ nhất. (ch_19)
+- Cảnh theo dõi nhóm mỗi đêm: bán hàng rong dọc sông, đi ngang quán bà Tâm, sửa ống nước cho nhà nào gọi. (ch_19)
+- Cảnh thú nhận gọi mưa ba lần trong ba tuần vì hoảng khi nhóm bắt đầu điều tra—sợ bị ghét nếu tìm ra, sợ bị buông nếu không tìm ra. (ch_19)
+- Cảnh mua trà xanh loại Lịch uống vì quen—thói quen duy nhất còn lại khi cảm xúc đã mờ. (ch_19)
+- Cảnh kể: hồi trước nhìn Linh cười mà muốn khóc, nhìn Tuấn nắm tay Linh mà tức ngực. Giờ nhìn và biết nên cảm nhưng không cảm. (ch_19)
+- Cảnh bắt đầu kể chuyện từ 'Mười sáu tuổi, hồi đó tôi tên Thảo'—câu mở đầu cho chương tiếp theo. (ch_19)
