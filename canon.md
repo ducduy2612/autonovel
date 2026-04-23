@@ -190,3 +190,11 @@
 - Lần Rửa gần nhất của Linh trước thời điểm chương 6: tháng chín năm ngoái (1999) (ch_06)
 - Gương trong phòng trọ Linh phản chiếu chậm nửa nhịp—hiện tượng chưa giải thích (ch_06)
 - Linh thấy bóng thứ hai trong gương: dáng người mỏng, vai rủ, đứng sau lưng—không rõ ai (ch_06)
+
+
+## From Chapter 7
+- Bà Lụa承认见过有人在深夜坐在河边，水没过脚，云层聚集（但她隐瞒了那人身份） (ch_07)
+- Bà Lụa说她1978年第一次被Rửa时也见过类似现象——有人坐在河边 (ch_07)
+- Dạ lan pha trầm的香味在Hương Thủy常年存在，比城里更浓更持久 (ch_07)
+- Bà Lụa对Linh提起dạ lan香味时表现异常——手停止动作，眼神变化 (ch_07)
+- Linh和Bách正式开始合作调查谁在叫雨 (ch_07)
