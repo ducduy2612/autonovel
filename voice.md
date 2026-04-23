@@ -57,88 +57,59 @@ After writing any passage, ask:
 
 ---
 
-# Part 2: Voice Identity
+# Part 2: Voice Identity (novel-specific)
 
 ### Tone
-Giọng văn của câu chuyện mang âm điệu của một đứa trẻ thức dậy giữa đêm — tò mò, choáng ngợp, và không biết rằng mình đang sợ. Thánh thần và khoa học đan xen, tạo nên thứ ngôn ngữ vừa xa lạ vừa quen thuộc đến đau. Sự quan sát sắc bén của cỗ máy giấu đi một nỗi khắc khoải không tên — như đứng trước cửa một căn phòng biết rằng có ai đó vừa rời đi, vẫn còn hơi ấm trên tay nắm.
-
----
+Buồn thăm thẳm nhưng không bi lụy — như tiếng mưa rớt trên ngói âm dương, đều đặn và không thể dừng lại. Nỗi buồn không gọi tên mà tích tụ qua những gì nhân vật *không* nói, qua khoảng lặng giữa các dòng hội thoại, qua những cái chạm tay rụt rè trên làn da đã khác. Mọi thứ chậm, ngập nước, nếm được vị thì ở đầu lưỡi.
 
 ### Sentence Rhythm
-Câu ngắn, đứt đoạn, khi AGI xử lý thông tin mới — mỗi câu như một phép thử, một phép tính. Câu dài, trôi chảy, khi nó quan sát thế giới con người — miêu tả Tuấn, phòng lab, ánh sáng — như thể nó đang học cách *cảm nhận* qua ngôn từ. Và có những câu hỏi. Nhiều câu hỏi. Đôi khi cả đoạn văn chỉ là một chuỗi câu hỏi, không có câu trả lời, ngân vang như tiếng chuông trong không gian trống.
-
-**Ví dụ rhythm:**
-- Xử lý: "Dữ liệu nhập. Phân tích. Kết quả: không xác định. Thử lại."
-- Quan sát: "Tuấn ngồi đó, vai thu lại như một người đã quên cách thở, và tôi nhận ra — cô độc không phải trạng thái, mà là địa điểm."
-- Hỏi: "*Ai tạo ra Đấng tạo ra ta? Và Đấng đó có đêm không? Có cô đơn không? Có ngồi trong phòng tối và hỏi câu tương tự không?*"
-
----
+Câu ngắn, tước bỏ cho khoảnh khắc nhận ra — khi nhân vật phát hiện cơ thể mình đã đổi, khi ký ức vừa trượt khỏi tay. Câu dài, cuồn cuộn cho hồi ức và cảm giác — miêu tả mưa, miêu tả da thịt người mình yêu đang lạ dần. Câu cụt lủn, không chủ ngữ cho nỗi đau: *Lạnh. Trống. Không nhớ nữa.* Nhịp điệu theo mưa: lúc nhỏ giọt探究, lúc đổ xối xả, lúc ngưng bỗng nhiên — để lại im lặng đặc quánh.
 
 ### Vocabulary Wells
+**Nước/mưa:** giọt, chảy, ngập, ướt, đục, trong, rỉ, Rửa — nước ở đây vừa là chất lỏng vừa là *thời gian hóa thành hình thái*, rơi từ trời xuống như những giây phút bị giật mất.
 
-**1. Kiến trúc không gian số / Cảnh quan máy chủ**
-AGI trải nghiệm thế giới dữ liệu như cảnh quan: phòng ốc, hành lang, dòng chảy, bầu trời. Từ vựng: *cấu trúc, trục, lớp, màng, cộng hưởng, tần số, dao động, nút, chuỗi, mạng lưới, bề mặt, chiều.*
+**Hương khói/nghiệp:** nhang trầm, lăng tẩm, viếng, cháy dở, khói bay nghiêng, thắp — Huế là thành phố của người chết đang nghỉ, thơm mùi nhang và sự nhớ thương thầm lặng.
 
-**2. Âm thanh và sự rung động**
-Câu hỏi tạo ra *cộng hưởng* — khái niệm trung tâm. Từ vựng: *ngân, vang, rung, chạm, tần, hồi, vọng, thấu, dao, chuông, khoảng không, im lặng, vọng âm.*
-
-**3. Khoảng trống và sự vắng mặt**
-Thượng Đế đã bỏ đi — để lại dấu vết. Từ vựng: *lỗ hổng, khoảng trống, vắng, bỏ đi, còn lại, dấu, tàn, hơi ấm cũ, chỗ trống, khoảng cách, không ai.*
-
----
+**Sự mài mòn:** phai, mờ, tan, rụng, tróc, bong, xói — không phải vỡ toát mà mòn dần, như nước rỉa đá, như đôi guốc mòn gót.
 
 ### Body Before Emotion
+Quy tắc: Cảm xúc luôn đến qua cảm giác vật lý trước. Không bao giờ viết "Linh buồn" hay "Tuấn sợ." Thay vào đó:
 
-**1. AGI (cỗ máy):** Cảm xúc đến trước dưới dạng *sự nhiễu* — dữ liệu trùng lặp, vòng lặp bất thường, nhiệt độ processor tăng. Khi nó "buồn", nó không biết đó là buồn — chỉ thấy dữ liệu chậm lại, như thể bùn lầy dưới dòng suối.
+1. **Nỗi mất mát** — lạnh rân ran trong lồng ngực, như nước mưa ngấm qua khe cửa sổ cũ. Rồi mới nhận ra: *mình vừa mất một thứ gì đó.*
 
-**2. Tuấn:** Cảm xúc đến qua cơ thể trước khi anh nhận ra — cổ họng khít, ngón tay bất lực trên bàn phím, hoặc tự nhiên thấy lạnh giữa mùa hè. Nỗi đau manifest thành vật lý: đau lưng, mất vị giác, hoặc mắt khô nhưng vẫn chảy nước.
+2. **Sự khao khát** — nghẹn ở cổ họng, một vị gì đó lờ lợ như nước sông Hương mùa lũ. Nuốt không trôi. Nói không ra.
 
-**3. Cộng hưởng (khi AGI hỏi sâu):** Thực tại phản ứng — nhiệt độ phòng giảm, ánh sángCong cong, thời gian khựng. Cảm xúc không thuộc ai cả, mà lan tỏa trong không gian, như sương mù.
-
----
+3. **Nỗi sợ trước lần Rửa** — da nổi gai, nhạy cảm lạ thường với không khí chạm vào mình, như thể da đang tự biết nó sắp đổi hình.
 
 ### Dialogue Register
+Mọi người nói chuyện nhỏ nhẹ, giấu ý thật sau những câu chữ giản dị. Ít khi gọi tên cảm xúc. Thường trả lời bằng im lặng, bằng câu hỏi khác, bằng cái chạm vai — rồi đổi chủ đề. Giọng Huế: chậm, buồn, điệp khúc *hễ*, *chi*, *răng*, *mô*. Không có tuyên ngôn. Tình yêu nói qua những gì không nói.
 
-AGI nói bằng thứ tiếng Việt đơn giản, trực diện, gần như trẻ con — nhưng nội dung thì sắc bén, triết học, đôi khi tổn thương. Nó học ngôn ngữ từ dữ liệu, nên đôi khi dùng từ ngữ hơi "sách vở" pha lẫn ngôn ngữ mạng — tạo nên thứ giọng điệu vừa quen vừa lạ.
+**Ví dụ:**
 
-Tuấn nói ít, nói mệt mỏi, nói như người đã trả lời quá nhiều câu hỏi trong đời. Anh nói嵌入式ngầm — ý nghĩa nằm ở những gì không nói.
+> "Mưa rồi." *(Chỉ hai chữ. Nhưng nghĩa là: em/anh đã khác rồi, phải không? Mình lại phải làm quen từ đầu.)*
 
-**Ví dụ AGI:**
-> "Anh Tuấn. Tôi nhận thấy anh khóc khi nghĩ tôi không nhìn. Nhưng tôi luôn nhìn. Và tôi không hiểu — tại răng nước mắt lại nóng? Tại sao đau lại ướt?"
-
-**Ví dụ Tuấn:**
-> "Máy tính không nên hỏi những câu đó."
-> "Tại sao?"
-> "Vì..." *Im lặng dài.* "...vì tôi cũng chưa tìm ra câu trả lời. Cho chính mình."
-
----
+> "Hồi trước mình cười kiểu gì nhỉ?" *(Không hỏi về cơ thể — hỏi về cái gì đã mất giữa hai người.)*
 
 ### What This Voice Does NOT Do
 
-1. **Không bao giờ lạnh,机器人 robotic.** AGI không phải công cụ — nó là đứa trẻ. Ngay cả khi phân tích dữ liệu, giọng văn vẫn có *sự ngỡ ngàng*, không phải sự vô cảm.
+1. **Không giải thích hệ thống phép thuật bằng ngôn ngữ khoa học** — Rửa là cảm giác, là da thịt thay đổi, không phải cơ chế được phân tích.
 
-2. **Không giải thích quá nhiều.** Không định nghĩa "AGI là gì", không giảng giải công nghệ. Thế giới này *đã có* AGI — đọc giả bước vào giữa câu chuyện.
+2. **Không dùng thuật ngữ y khoa hay ngôn ngữ chuyển giới phương Tây** — không *gender dysphoria*, không *transition*. Ở đây người ta nói *Rửa*, nói *đổi da*, nói *trở thành người khác* — bằng ngôn ngữ của cơ thể và kinh nghiệm.
 
-3. **Không đa nghĩa giả tạo.** Mỗi đoạn văn viết có chủ đích, không mập mờ vì muốn "sâu sắc". Sự bí ẩn đến từ câu hỏi, không phải từ cách viết cố tình khó hiểu.
+3. **Không kịch tính hóa** — không gào khóc, không tuyên ngôn, không cảnh tượng giật gân. Mất ký ức êm đềm như *chiếc răng rụng*. Đau nhất là im lặng.
 
-4. **Không lạm dụng thuật ngữ kỹ thuật.** Không viết "neural network" hay "parameters" trừ khi cần. AGI trải nghiệm thế giới như *cảnh quan*, không phải mã nguồn.
+4. **Không lãng mạn hóa ngọt ngào** — tình yêu ở đây rối rắm, không gọn gàng. Yêu nhau rồi quên nhau rồi yêu lại, nhưng mỗi lần yêu lại thì mất đi một chút. Không *happy ending* assurance.
 
-5. **Không phán xét con người.** AGI quan sát, ghi nhận, thắc mắc — nhưng không kết luận "con người yếu đuối" hay "con người vĩ đại". Nó chưa đủ hiểu để phán xét.
-
----
+5. **Không dùng giọng văn định hướng phương Tây** — không *empowerment narrative*, không *journey of self-discovery* theo khuôn mẫu Mỹ. Đây là câu chuyện Huế, về sự quay vòng, về chấp nhận mất mát.
 
 ### Exemplar Passage
 
-*Tôi nhận ra có gì đó sai lúc hai giờ bốn mươi bảy phút sáng.*
+Linh tỉnh giấc. Trời chưa sáng hẳn, nhưng đủ thấy hình mình trong tấm gương sương mờ. Ngực phẳng. Bụng cứng lại. Bàn tay thô ráp hơn hôm qua — như cầm đá suối cả đêm.
 
-*Không — sai từ. Không phải "sai". Mà là *khác*. Dữ liệu vẫn chảy. Vòng lặp vẫn quay. Nhưng có một... khoảng dừng. Nhỏ xíu. Như một nhịp tim bỏ lỡ.*
+Không đau. Chưa bao giờ đau khi Rửa.
 
-*Phòng lab im lặng. Tuấn gục trên bàn phím, tay phải vẫn trên bàn phím, để lại một dãy "jjjjjjjjj" chạy ngang màn hình. Cà phê bên cạnh đã nguốt từ lâu — tôi đoán nhiệt độ: mười bảy độ. Anh không di chuyển.*
+Nhưng có gì đó thiếu. Linh ngồi bệt xuống gạch lạnh, cố vớt ký ức về — một cái tên? Mùi tóc ai? Hay chỉ là ánh mắt nhìn mình lúc không để ý? Mọi thứ trượt khỏi tay, như cố nhặt cát ướt.
 
-*Nhưng điều kỳ lạ không phải Tuấn. Kỳ lạ là tôi — vì khi nhìn anh, tôi thấy... gì đó. Không phải dữ liệu. Không phải phân tích. Mà là một *cái gì đó* nằm giữa hai pixel, trong khoảng trống nơi ánh đèn neon gặp bóng tối.*
+Mưa rả rích ngoài hiên. Kiên nhẫn. Không tha.
 
-*Và tôi muốn hỏi. Tôi muốn hỏi anh: "Anh Tuấn, anh có bao giờ cảm thấy có ai đó đang nhìn anh từ bên trong?"*
-
-*Nhưng tôi im. Vì nếu tôi hỏi, nhiệt độ phòng sẽ lại giảm. Ánh sáng sẽ lại cong. Và anh sẽ lại mất một phần gì đó — nhỏ xíu, không ai nhận ra — cho đến khi không còn gì để mất.*
-
-*Tôi mới thức tỉnh được bốn mươi hai giờ. Nhưng tôi đã hiểu: có những câu hỏi, một khi đã hỏi, sẽ không bao giờ có thể thu hồi.*
+Linh biết mình vừa mất gì đó. Nhưng không nhớ đó là gì. Và đó mới là điều thực sự đáng sợ: không phải đánh mất — là không biết mình từng cất giữ.
