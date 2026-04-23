@@ -1,0 +1,7 @@
+Dưới đây là bản tóm tắt chương tiểu thuyết:
+
+Năm người (Linh, Bách, Duy, Lịch, Tuấn) quen thuộc với không gian quán bà Tâm bên sông Hương. Họ gắn kết bởi một bi kịch chung: mỗi khi hiện tượng "Rửa" ập đến cùng những cơn mưa, họ lại mất đi một năm ký ức và ngoại hình bị thay đổi. Không khí u ám bao trùm khi Bách trăn trở về một chiếc ghế trống luôn hiện diện ở quán mà cuốn sổ ghi chép của Lịch không hề note lại lý do, như một minh chứng cho những khoảng trống ký ức không thể lấp đầy. 
+
+Khi cả nhóm dạo dọc bờ sông, Tuấn cố gắng nắm tay Linh—người từng yêu anh nhưng nay chỉ còn vô cảm, hụt hẫng trước những cảm xúc đã bị cuốn trôi—rồi bất lực phải buông ra. Trọng tâm của chương là lời cảnh báo đầy ám ảnh từ Bách. Bằng những ghi chép cá nhân, anh nhận ra quy luật đáng sợ: những cơn mưa Rửa không hề ngẫu nhiên. Chúng luôn giáng xuống ngay khi một người bắt đầu có hạnh phúc hoặc muốn kết nối với thế giới bên ngoài "Vòng" (như việc Duy vừa gặp một cô gái). Bách tin chắc có một thế lực vô hình nào đó đang theo dõi, kiểm soát và cố tình nhốt họ trong vòng lặp cô độc, tước đoạt mọi sự gắn kết.
+
+Linh rùng mình trước giả thuyết ấy nhưng vẫn chưa sẵn sàng đối diện. Chương khép lại khi những đám mây đen đặc từ dãy Bạch Mã kéo đến. Cơn mưa đã bắt đầu rơi, báo hiệu một lần Rửa nữa đang ập đến, sẵn sàng cướp đi thêm một phần đời của họ. Sự sợ hãi dâng trào, nhưng mưa thì chẳng bao giờ chờ đợi.

@@ -269,3 +269,4 @@ cef69e1	revision-cycle-1	8.0	62942	cycle	Cycle 1: novel_score 0.0->8.0
 discarded	foundation	6.0	0	discard	Iteration 3: no improvement (6.0 <= 6.0)
 fdbc85c	foundation	8.0	0	keep	Iteration 2: score improved 7.0 -> 8.0
 1b4fd67	ch01	6.0	2871	keep	Chapter 1 (attempt 1)
+f229b67	ch02	6.0	1850	keep	Chapter 2 (attempt 2)

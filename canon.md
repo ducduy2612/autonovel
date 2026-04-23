@@ -159,3 +159,11 @@
 - Bún bò ở quán bà Tâm cay bất thường trước khi mưa đến — Linh coi đây là dạng đồng hồ báo mưa: cay nhẹ thì mưa còn xa, cay xé lưỡi thì mưa đang ở dãy Bạch Mã, cay thấu xương thì mưa chỉ còn vài tiếng. (ch_02)
 - Linh mua cho Tuấn chiếc nhẫn bạc ở chợ Đông Ba ngày 15 tháng 8 năm 1996 (ngày sau khi hai người nắm tay lần đầu). (ch_02)
 - Bà Tâm bán bánh bèo ở quán — bánh còn ấm, lá chuối xanh mướt bên ngoài. (ch_02)
+
+
+## From Chapter 3
+- Bách ghi chép riêng trong cuốn sổ bằng mực đỏ, giấu trong ngăn kéo phòng trọ (ch_03)
+- Ghế đầu bàn đã trống từ tháng 9/1994, theo ghi chép đầu tiên của Lịch (ch_03)
+- Ly nước cho ghế trống được rót từ lúc mở quán mỗi đêm, không ai uống, được rót mới mỗi đêm (ch_03)
+- Bách nhận ra quy luật: mưa đến khi ai trong nhóm bắt đầu có cuộc sống riêng (yêu ngoài Vòng, có bạn mới, tính chuyển việc) (ch_03)
+- Bách đến quán với tóc còn ướt, cho thấy Bách bị mưa chiều (mưa lúc hai giờ chiều, mười lăm phút) (ch_03)
