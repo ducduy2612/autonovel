@@ -175,3 +175,11 @@
 - Mùi dạ lan pha trầm xuất hiện mạnh ngay trước đêm Rửa chương 4, mạnh hơn mọi lần trước theo ghi nhận của Linh. (ch_04)
 - Bách công khai trình bày lý thuyết với cả nhóm: Rửa nhắm vào thành viên bắt đầu có cuộc sống riêng (yêu ngoài Vòng, chuyển việc, kết nối người mới). (ch_04)
 - Giọt mưa từ khe cửa sổ chạm cổ tay Linh trong đêm Rửa chương 4 — Linh cảm nhận được Rửa đang xảy ra nhưng không biết ai bị. (ch_04)
+
+
+## From Chapter 5
+- Lịch ghi ba lần ngửi mùi dạ lan pha trầm: ngày 3/9/1998, ngày 17/11/1999, và đêm Rửa Duy (đêm chương 4). Ba lần đều có Rửa. (ch_05)
+- Tuấn Rửa lần ba vào ngày 17/11/1999. (ch_05)
+- Quy luật Lịch phát hiện: trận mưa nào có mùi dạ lan pha trầm trước đó 1-2 tiếng thì có người Rửa; trận nào không có mùi thì không ai thay đổi. (ch_05)
+- Linh quyết định hợp tác với Bách để điều tra ai đang gọi mưa. (ch_05)
+- Lịch có vẻ đã biết hoặc đoán được điều gì thêm về mùi dạ lan nhưng chưa nói ra — 'tay vẫn vuốt mép sổ' và 'nhanh quá nhanh — như người vừa trút được gánh'. (ch_05)
