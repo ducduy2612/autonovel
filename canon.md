@@ -283,3 +283,12 @@
 - Bách ngửi mùi dạ lan pha trầm mạnh nhất ở đúng chỗ Cảnh ngồi — mạnh hơn nhà bà Lụa, mạnh hơn bất cứ đâu (ch_16)
 - Linh xác nhận: người gọi mưa biết nhóm, gọi là 'nhóm mình' — không phải người ngoài (ch_16)
 - Bách nối được: cùng một người đã hỏi Tuấn 'nhóm mình dạo này thế nào?' hai năm trước (ch_16)
+
+
+## From Chapter 17
+- Tuấn bị Rửa lần thứ tư trong đêm chương 17 (Nam→Nữ), hiện mang cơ thể nữ — vai nhỏ hơn, tóc ngắn tới mang tai, cằm mềm hơn, giọng cao hơn. (ch_17)
+- Tuấn mất một năm ký ức về Lịch (không phải về Linh) — biết Lịch quan trọng nhưng không nhớ tại sao, gọi cảm giác 'như bài hát quen mà quên lời.' (ch_17)
+- Bóng trong gương rõ hơn mọi lần trước — Linh nhận ra đó là người gọi mưa, người bị quên, người thuộc nhóm. Bóng đứng sau lưng, thấp hơn, mỏng hơn, vai rủ, đầu hơi cúi, ngón vuốt vô hình. (ch_17)
+- Lịch mất vai trò người giữ ký ức — khi Tuấn không còn nhớ Lịch đủ sâu, Lịch mất 'cầu nối' giữa mình và cảm giác được nhớ. Tay Lịch nắm mép sổ trắng bệch. (ch_17)
+- Linh tin rằng việc nhóm tìm ra sự thật đang gây thêm Rửa — mỗi lần tiến gần hơn một bước, ai đó mất thêm một năm. (ch_17)
+- Mùi dạ lan năm nay đậm hơn mọi năm trước, trời tối sớm hơn — Linh ghi nhận 'mỗi năm khác một chút.' (ch_17)
