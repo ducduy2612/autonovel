@@ -1,0 +1,110 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "N\u01b0\u1edbc m\u1eaft c\u0169ng nh\u01b0 m\u01b0a \u2014 r\u1edbt xu\u1ed1ng r\u1ed3i ch\u1ea3y \u0111i, ai bi\u1ebft gi\u1ecdt n\u00e0o c\u1ee7a tr\u1eddi, gi\u1ecdt n\u00e0o c\u1ee7a ng\u01b0\u1eddi.",
+    "fix": "Cut entirely. The preceding sensory details (n\u01b0\u1edbc m\u00eda m\u1eb7n, m\u00f9i \u0111\u1ea5t \u01b0\u1edbt) already evoke the rain/tears blur. Let the ambiguity exist without naming it. Replace with a physical beat: Ly n\u01b0\u1edbc m\u00eda m\u1eb7n h\u01a1n l\u00fac n\u00e3y. Hay l\u00e0 m\u00f9i \u0111\u1ea5t \u01b0\u1edbt ng\u1ea5m qua c\u1eeda?",
+    "note": "The voice mostly works \u2014 indirect communication, body-before-emotion, water vocabulary well deployed. The C\u00f4 B\u00edch scene nails the Hu\u1ebf restraint. But several passages over-explain feelings or reach for lyrical metaphors that feel imposed rather than emerged from character."
+  },
+  "beat_coverage": {
+    "score": 8,
+    "weakest_moment": "B\u00e1ch k\u1ec3 l\u1ea1i cho Linh: '\u1ee6y Ban bi\u1ebft c\u00f3 ng\u01b0\u1eddi th\u1ee9 s\u00e1u. H\u1ecd kh\u00f4ng bi\u1ebft ai. Nh\u01b0ng h\u1ecd \u0111ang t\u00ecm.' \u2014 the report-back scene compresses B\u00e1ch's emotional state into summary ('M\u1eaft th\u00e2m qu\u1ea7ng') rather than showing the toll of the night through action or dialogue rhythm.",
+    "fix": "Give B\u00e1ch one small physical tell that emerges from the break-in experience \u2014 a habit picked up: checking doors, flinching at sudden light. Let the night show on B\u00e1ch's body rather than stated exhaustion.",
+    "note": "All five beats hit and dramatized. The break-in has genuine tension. The C\u00f4 B\u00edch confrontation is the chapter's strongest scene \u2014 the 'C\u1edfi gi\u00e0y ra ch\u01b0a?' is a perfect beat that wasn't in the outline but should have been."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "'S\u1ee3 m\u00e0 kh\u00f4ng l\u00e0m g\u00ec th\u00ec c\u00f2n s\u1ee3 h\u01a1n.' \u2014 This reads like a fortune cookie line, not something a real 23-year-old would say aloud. B\u00e1ch's bluntness should produce something rougher, less aphoristic.",
+    "fix": "B\u00e1ch tr\u1ea3 l\u1eddi sau m\u1ed9t l\u00fac. 'S\u1ee3.' R\u1ed3i u\u1ed1ng n\u01b0\u1edbc. 'Nh\u01b0ng ng\u1ed3i nh\u00e0 c\u0169ng v\u1eady th\u00f4i.' \u2014 Let the fear sit in the pause, not in the aphorism.",
+    "note": "B\u00e1ch's directness, Linh's hesitation, and C\u00f4 B\u00edch's bureaucratic warmth are well-differentiated. The 'C\u1edfi gi\u00e0y ra ch\u01b0a?' is a character-revealing masterstroke \u2014 absurd, mundane, deeply human. But B\u00e1ch occasionally slips into delivering themes rather than speaking."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "The three clues convergence (th\u1ee3 n\u01b0\u1edbc / H\u01b0\u01a1ng Th\u1ee7y / ng\u01b0\u1eddi ng\u1ed3i b\u00ean s\u00f4ng) is well-executed but Linh's mental recap slightly over-signals the pattern: 'Ba m\u1ea3nh gh\u00e9p. C\u00f9ng tr\u1ecf v\u1ec1 m\u1ed9t h\u01b0\u1edbng.' \u2014 the reader has already assembled this.",
+    "fix": "Cut 'Ba m\u1ea3nh gh\u00e9p. C\u00f9ng tr\u1ecf v\u1ec1 m\u1ed9t h\u01b0\u1edbng.' End the chapter on the three lines themselves. Trust the reader to feel the convergence without narrating it.",
+    "note": "Thread 17 (\u1ee6y Ban knows) and thread 18 (red herring) are seeded naturally through B\u00e1ch's suspicion. The connection between threads 12 and 15 is earned because Linh draws it from memories we've seen her form in previous chapters."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "N\u01b0\u1edbc m\u1eaft c\u0169ng nh\u01b0 m\u01b0a \u2014 r\u1edbt xu\u1ed1ng r\u1ed3i ch\u1ea3y \u0111i, ai bi\u1ebft gi\u1ecdt n\u00e0o c\u1ee7a tr\u1eddi, gi\u1ecdt n\u00e0o c\u1ee7a ng\u01b0\u1eddi.",
+    "fix": "Cut. The paragraph works without it. Or replace with a single sensory detail: Ly n\u01b0\u1edbc m\u00eda tr\u00ean b\u00e0n s\u00f3ng s\u00e1nh nh\u1eb9 \u2014 r\u1edbt ra ngo\u00e0i, l\u1eabn v\u00e0o n\u01b0\u1edbc m\u01b0a tr\u00ean s\u00e0n.",
+    "strongest_sentence": "'C\u1edfi gi\u00e0y ra ch\u01b0a?' C\u00f4 B\u00edch h\u1ecfi.",
+    "note": "Generally strong. Sentence variety is good \u2014 fragments for impact, longer sentences for reflection. Concrete details work (calendar still on October, ink colors in files). The weakest prose is when the narrator reaches for lyrical metaphor instead of staying in body-sensation."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Strong continuity. Chapter 8 ended with Linh and L\u1ecbch on the balcony, rain dripping, qu\u1ef3nh fading. Chapter 9 opens with a time skip to the next encounter, but emotional state tracks \u2014 Linh's passivity here mirrors her paralysis at the end of Ch8. B\u00e1ch arriving wet suggests rain has continued. The callbacks to Ch6 (shadow in mirror) and Ch7 (B\u00e0 L\u1ee5a's river person) are precise."
+  },
+  "canon_compliance": {
+    "score": 8,
+    "violations": [],
+    "note": "All facts align: B\u00e1ch's current female body, C\u00f4 B\u00edch's lost sister H\u1ed3ng (1985), the sixth person's characteristics (H\u01b0\u01a1ng Th\u1ee7y, male, plumbing, knows rain), the 'b\u1ecb qu\u00ean ho\u00e0n to\u00e0n' mechanism, B\u00e0 L\u1ee5a's observation about unrequited love. The V\u00f2ng numbering system (V\u00f2ng 7 for the group) is a reasonable addition. One quibble: B\u00e1ch's occupation as 'th\u1ee3 \u0111i\u1ec7n' is new \u2014 needs to be noted in canon."
+  },
+  "lore_integration": {
+    "score": 7,
+    "weakest_moment": "Ai \u1edf Hu\u1ebf m\u00e0 c\u1ea7n kh\u00f3a? M\u01b0a m\u1edbi l\u00e0 th\u1ee9 ng\u01b0\u1eddi ta kh\u00f3a, c\u00f2n c\u1eeda th\u00ec c\u1ee9 m\u1edf \u2014 th\u00e0nh ph\u1ed1 n\u00e0y tin nhau, \u00edt nh\u1ea5t l\u00e0 ban ng\u00e0y. \u2014 This worldbuilding aside pauses the break-in's momentum to explain cultural attitudes. The information is good; the placement is wrong.",
+    "fix": "Move this observation to after B\u00e1ch is inside, when the ease of entry hits her. Or let it come through action: B\u00e1ch \u0111\u1ea9y c\u1ed5ng. Kh\u00f4ng kh\u00f3a. \u1ede Hu\u1ebf, ng\u01b0\u1eddi ta kh\u00f3a m\u01b0a, kh\u00f4ng kh\u00f3a c\u1eeda.",
+    "note": "The H\u1ed3 S\u01a1 M\u1eadt files are good lore integration \u2014 they show the institutional machinery around R\u1eeda. The warm-drink-as-care motif ('\u1ede Hu\u1ebf, \u0111\u1ed3 u\u1ed1ng \u1ea5m l\u00e0 c\u00e1ch ng\u01b0\u1eddi ta n\u00f3i t\u00f4i lo cho c\u1eadu') is perfectly integrated. But the chapter could use more of Hu\u1ebf's sensory specificity during the break-in."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The break-in sequence between 'C\u1eeda m\u1edf' and finding the group's file risks monotony \u2014 multiple 'R\u00fat h\u1ed3 s\u01a1... M\u1edf... \u0110\u1ecdc' beats in succession with similar rhythm.",
+    "fix": "Vary the discovery rhythm. Let B\u00e1ch's hands shake on one file. Let her drop something. Give one file a detail that stops her cold before she finds her group's. Break the scanning rhythm with a moment of genuine fear or recognition.",
+    "note": "The chapter sustains tension well. The C\u00f4 B\u00edch confrontation is genuinely surprising \u2014 a caught-intruder scene that becomes something more complex. The final three-clue convergence creates strong forward momentum. The 'Ho\u1eb7c \u0111ang c\u1ed1 gi\u1eef nh\u00f3m l\u1ea1i' line is the kind of recontextualization that makes readers need the next chapter."
+  },
+  "three_weakest_sentences": [
+    "N\u01b0\u1edbc m\u1eaft c\u0169ng nh\u01b0 m\u01b0a \u2014 r\u1edbt xu\u1ed1ng r\u1ed3i ch\u1ea3y \u0111i, ai bi\u1ebft gi\u1ecdt n\u00e0o c\u1ee7a tr\u1eddi, gi\u1ecdt n\u00e0o c\u1ee7a ng\u01b0\u1eddi.",
+    "Ai \u1edf Hu\u1ebf m\u00e0 c\u1ea7n kh\u00f3a? M\u01b0a m\u1edbi l\u00e0 th\u1ee9 ng\u01b0\u1eddi ta kh\u00f3a, c\u00f2n c\u1eeda th\u00ec c\u1ee9 m\u1edf \u2014 th\u00e0nh ph\u1ed1 n\u00e0y tin nhau, \u00edt nh\u1ea5t l\u00e0 ban ng\u00e0y.",
+    "C\u00e1ch ng\u01b0\u1eddi b\u1ecb R\u1eeda ch\u1ea1m \u0111\u1ed3 v\u1eadt \u0111\u1ec3 ch\u1eafc ch\u1eafn m\u00ecnh c\u00f2n \u1edf \u0111\u00e2y."
+  ],
+  "three_strongest_sentences": [
+    "'C\u1edfi gi\u00e0y ra ch\u01b0a?' C\u00f4 B\u00edch h\u1ecfi.",
+    "\u1ede Hu\u1ebf, \u0111\u1ed3 u\u1ed1ng \u1ea5m l\u00e0 c\u00e1ch ng\u01b0\u1eddi ta n\u00f3i *t\u00f4i lo cho c\u1eadu* m\u00e0 kh\u00f4ng c\u1ea7n m\u1edf mi\u1ec7ng.",
+    "'Ho\u1eb7c \u0111ang c\u1ed1 gi\u1eef nh\u00f3m l\u1ea1i.' C\u00f4 n\u00f3i cu\u1ed1i c\u00f9ng."
+  ],
+  "ai_patterns_detected": [
+    "Emotional beats listed rather than embodied: 'S\u1ee3. S\u1ee3 cho B\u00e1ch. S\u1ee3 h\u01a1n v\u00ec m\u00ecnh kh\u00f4ng d\u00e1m \u0111i c\u00f9ng.' \u2014 triple 's\u1ee3' reads as mechanical emphasis",
+    "Worldbuilding asides that pause scene momentum to explain cultural attitudes (the lock observation)",
+    "Narrator explaining character behavior: 'C\u00e1ch ng\u01b0\u1eddi b\u1ecb R\u1eeda ch\u1ea1m \u0111\u1ed3 v\u1eadt \u0111\u1ec3 ch\u1eafc ch\u1eafn m\u00ecnh c\u00f2n \u1edf \u0111\u00e2y' \u2014 editorial voice intruding on scene",
+    "Slight paragraph template repetition in the file-reading sequence (r\u00fat/m\u1edf/\u0111\u1ecdc pattern)"
+  ],
+  "overall_score": 6.95,
+  "weakest_dimension": "prose_quality",
+  "top_3_revisions": [
+    "Cut the 'N\u01b0\u1edbc m\u1eaft c\u0169ng nh\u01b0 m\u01b0a' metaphor entirely \u2014 it's the chapter's weakest line and the surrounding sensory details already do the work it's trying to do.",
+    "Remove narrator explanations of character behavior ('C\u00e1ch ng\u01b0\u1eddi b\u1ecb R\u1eeda ch\u1ea1m \u0111\u1ed3 v\u1eadt...') \u2014 trust the recurring touch motif (Linh on glass edges, C\u00f4 B\u00edch on table edges) to convey this without stating it.",
+    "Vary the break-in file-discovery rhythm \u2014 instead of three consecutive 'R\u00fat h\u1ed3 s\u01a1 / M\u1edf / \u0110\u1ecdc' beats, interrupt the pattern with a physical reaction (hands sweating on paper, a sound from the hallway, a file that makes B\u00e1ch stop cold before finding her group's)."
+  ],
+  "new_canon_entries": [
+    "Nh\u00f3m V\u00f2ng c\u1ee7a Linh \u0111\u01b0\u1ee3c \u1ee6y Ban ph\u00e2n lo\u1ea1i l\u00e0 V\u00f2ng 7, th\u00e0nh l\u1eadp n\u0103m 1994 t\u1ea1i tr\u01b0\u1eddng Qu\u1ed1c H\u1ecdc",
+    "B\u00e1ch l\u00e0m ngh\u1ec1 th\u1ee3 \u0111i\u1ec7n \u2014 C\u00f4 B\u00edch bi\u1ebft qua h\u1ed3 s\u01a1 v\u00e0 nh\u1eadn x\u00e9t 'kh\u00f3a v\u1edbi c\u1eadu nh\u01b0 b\u00e1nh b\u00e8o v\u1edbi \u0111\u0169a'",
+    "C\u00f3 c\u00e1c V\u00f2ng kh\u00e1c trong h\u1ed3 s\u01a1 \u1ee6y Ban: V\u00f2ng 14 (th\u00e0nh l\u1eadp 1978, 4 th\u00e0nh vi\u00ean, hi\u1ec7n 2 c\u00f2n ho\u1ea1t \u0111\u1ed9ng), V\u00f2ng 23 (th\u00e0nh l\u1eadp 1985, 3 th\u00e0nh vi\u00ean, \u0111\u00e3 tan r\u00e3)",
+    "H\u1ed3 s\u01a1 V\u00f2ng c\u1ee7a \u1ee6y Ban ghi chi ti\u1ebft m\u1ed7i l\u1ea7n R\u1eeda: ng\u00e0y, gi\u1edd, ai b\u1ecb, th\u1eddi ti\u1ebft, v\u1ecb tr\u00ed, ai kh\u00f3c, ai im, ai b\u1ecf v\u1ec1 s\u1edbm, ai ng\u1ed3i l\u1ea1i",
+    "C\u00f4 B\u00edch \u0111\u00e3 theo d\u00f5i B\u00e1ch \u0111i recon \u1ee6y Ban ba l\u1ea7n trong tu\u1ea7n tr\u01b0\u1edbc khi B\u00e1ch \u0111\u1ed9t nh\u1eadp, bi\u1ebft B\u00e1ch s\u1ebd \u0111\u1ebfn v\u00e0 ch\u1edd s\u1eb5n t\u1eeb t\u00e1m gi\u1edd",
+    "C\u00f4 B\u00edch c\u00f3 ghi ch\u00fa v\u1ec1 ng\u01b0\u1eddi th\u1ee9 s\u00e1u: 'Ng\u01b0\u1eddi n\u00e0y c\u00f3 kh\u1ea3 n\u0103ng \u0111ang g\u1ecdi m\u01b0a v\u1ec1 khu v\u1ef1c th\u00e0nh ph\u1ed1 Hu\u1ebf. C\u01a1 ch\u1ebf ch\u01b0a r\u00f5. \u0110\u1ed9ng c\u01a1 ch\u01b0a r\u00f5.'"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 15.17,
+    "sentence_length_cv": 0.75,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 0.05,
+    "language": "vi",
+    "vi_english_leaks": [],
+    "vi_translation_calques": [],
+    "vi_fiction_ai_tells": [],
+    "vi_telling_violations": 0,
+    "vi_structural_ai_tics": [
+      [
+        "kh\u00f4ng ph\u1ea3i .{3,50} m\u00e0 (?:l\u00e0|ch\u00ednh l\u00e0|ch\u00ednh)",
+        1
+      ]
+    ]
+  },
+  "raw_judge_score": 7
+}

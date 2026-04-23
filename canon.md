@@ -207,3 +207,12 @@
 - Entry 'Linh ngủ' trong sổ Lịch viết bằng mực đỏ, không ghi sự kiện Rửa — chỉ ghi khoảnh khắc Lịch nhìn Linh ngủ và không nắm tay (ch_08)
 - Chiếc áo sơ mi xanh nhạt Tuấn đưa cho Linh là áo Linh mặc mùa hè 1995, vải mòn ở khuỷu, còn mùi giặt bột Tide và cà phê rớt cũ (ch_08)
 - Cây quỳnh trong chậu ban công phòng Linh đã tàn sau đêm Rửa Duy — hoa trắng rụng dưới gốc, héo xẹp trên đất ẩm (ch_08)
+
+
+## From Chapter 9
+- Nhóm Vòng của Linh được Ủy Ban phân loại là Vòng 7, thành lập năm 1994 tại trường Quốc Học (ch_09)
+- Bách làm nghề thợ điện — Cô Bích biết qua hồ sơ và nhận xét 'khóa với cậu như bánh bèo với đũa' (ch_09)
+- Có các Vòng khác trong hồ sơ Ủy Ban: Vòng 14 (thành lập 1978, 4 thành viên, hiện 2 còn hoạt động), Vòng 23 (thành lập 1985, 3 thành viên, đã tan rã) (ch_09)
+- Hồ sơ Vòng của Ủy Ban ghi chi tiết mỗi lần Rửa: ngày, giờ, ai bị, thời tiết, vị trí, ai khóc, ai im, ai bỏ về sớm, ai ngồi lại (ch_09)
+- Cô Bích đã theo dõi Bách đi recon Ủy Ban ba lần trong tuần trước khi Bách đột nhập, biết Bách sẽ đến và chờ sẵn từ tám giờ (ch_09)
+- Cô Bích có ghi chú về người thứ sáu: 'Người này có khả năng đang gọi mưa về khu vực thành phố Huế. Cơ chế chưa rõ. Động cơ chưa rõ.' (ch_09)

@@ -1,0 +1,114 @@
+{
+  "voice_adherence": {
+    "score": 4,
+    "weakest_moment": "S\u1ee3 nh\u00ecn th\u1ea5y \u0111\u1eddi m\u00ecnh b\u1ecb ph\u1eb3ng phiu \u00e9p ch\u1eb7t gi\u1eefa hai trang h\u1ed3 s\u01a1 h\u00e0nh ch\u00ednh, nh\u01b0 con b\u01b0\u1edbm b\u1ecb ghim b\u1eb1ng kim ghim, m\u1ea5t \u0111i quy\u1ec1n bay.",
+    "fix": "The butterfly-pinned metaphor is overwrought and foreign to this voice. Replace with body-before-emotion: something physical Linh feels \u2014 maybe the cold of the chair, the weight of her own hands. Cut the metaphor entirely and let the fear live in sensation.",
+    "note": "The voice profile demands spare, rain-metaphor prose with body-before-emotion. This chapter frequently abandons that register for generic thriller prose and English-calqued metaphors. Best voice moments are the quiet ones ('Gh\u1ebf B\u00e1ch c\u00f2n \u1ea5m. C\u00f4 \u0111\u1eb7t tay l\u00ean ch\u1ed7 \u1ea5y. \u1ea4m. R\u1ed3i l\u1ea1nh d\u1ea7n.') but these are islands in a sea of overwriting."
+  },
+  "beat_coverage": {
+    "score": 5,
+    "weakest_moment": "The entire B\u00e1ch R\u1eeda subplot \u2014 'C\u01a1 th\u1ec3 nam h\u00f4m qua \u0111\u00e3 nh\u01b0\u1eddng ch\u1ed7 cho d\u00e1ng ng\u01b0\u1eddi n\u1eef g\u1ea7y gu\u1ed9c' \u2014 appears without setup, explanation, or dramatic purpose.",
+    "fix": "Either remove the R\u1eeda entirely (it's not in the outline) or earn it with a scene showing rain touching B\u00e1ch's skin during the break-in. If keeping it, dramatize the moment of change rather than summarizing it the next morning.",
+    "note": "All five outline beats are technically present, but Beat 3 (B\u00edch confrontation) resolves too easily \u2014 B\u00edch just hands over information. Beat 5 (the three clues connecting) is good but buried under telling prose."
+  },
+  "character_voice": {
+    "score": 4,
+    "weakest_moment": "H\u00e0nh \u0111\u1ed9ng ki\u1ec3m so\u00e1t \u0111i\u00ean r\u1ed3, b\u1ea1o l\u1ef1c, t\u00e0n nh\u1eabn. B\u1ea1o l\u1ef1c c\u1ee7a s\u1ef1 c\u00f4 \u0111\u1ed9c.",
+    "fix": "Linh doesn't think in abstract declarations. Replace with physical sensation: maybe her hand goes cold, or she feels the empty chair at her back. Let the reader feel the menace through Linh's body, not through narrated analysis.",
+    "note": "Linh and B\u00e1ch sound nearly identical in prose register. Linh's POV lacks her characteristic short sentences, her hesitation, her habit of leaving thoughts unfinished. B\u00e1ch's directness comes through in dialogue but not in interiority. Neither character uses Hu\u1ebf speech markers (h\u1ec5, chi, r\u0103ng, m\u00f4)."
+  },
+  "plants_seeded": {
+    "score": 6,
+    "weakest_moment": "Th\u1ee3 s\u1eeda \u1ed1ng n\u01b0\u1edbc. H\u01b0\u01a1ng Th\u1ee7y. Ng\u01b0\u1eddi ng\u1ed3i b\u00ean s\u00f4ng. \u2014 listed as bullet-point clues at chapter's end.",
+    "fix": "Instead of presenting all three clues as a neat list, let them surface more organically across different moments \u2014 one in the file, one mentioned by B\u00edch in passing, one Linh remembers from a previous conversation. Mystery works better when the reader assembles the puzzle.",
+    "note": "Thread 17 (\u1ee6y Ban knows about the sixth person) is planted effectively through B\u00edch's presence. Thread 18 (red herring: \u1ee6y Ban as enemy) is present but weakly executed \u2014 Linh dismisses it almost immediately."
+  },
+  "prose_quality": {
+    "score": 4,
+    "weakest_sentence": "M\u1ed9t bi\u1ebfn s\u1ed1 m\u1edbi b\u01b0\u1edbc v\u00e0o s\u00e2n kh\u1ea5u m\u1edd \u1ea3o n\u00e0y.",
+    "fix": "Cut entirely. The sentence adds nothing and sounds like translated bureaucratic metaphor. Let the rain, the paper in Linh's pocket, the cold chair do the work.",
+    "strongest_sentence": "Gh\u1ebf B\u00e1ch c\u00f2n \u1ea5m. C\u00f4 \u0111\u1eb7t tay l\u00ean ch\u1ed7 \u1ea5y. \u1ea4m. R\u1ed3i l\u1ea1nh d\u1ea7n. M\u01b0a v\u1eabn r\u01a1i.",
+    "note": "Chinese characters (\u5f71\u5b50, \u4e5f\u8bb8) appear in the text \u2014 these are AI artifacts. Several passages use English-style metaphors (butterfly pinned, shadows on stage) that feel alien to Vietnamese literary tradition. Sentence rhythm is too uniform; the chapter needs more fragments, more variation."
+  },
+  "continuity": {
+    "score": 3,
+    "note": "Previous chapter ended with an intimate, quiet moment between Linh and L\u1ecbch (shoulder touching, sugarcane drink, rain). This chapter opens without any emotional callback to that scene \u2014 Linh is just sitting with cold coffee and B\u00e1ch arrives. The emotional temperature drops without acknowledgment. Additionally, B\u00e1ch's gender shifts from male to female between scenes without explanation, creating severe continuity problems."
+  },
+  "canon_compliance": {
+    "score": 3,
+    "violations": [
+      "B\u00e1ch's gender/body: Canon states B\u00e1ch 'hi\u1ec7n t\u1ea1i mang c\u01a1 th\u1ec3 n\u1eef' after 3 R\u1eeda (Nam\u2192N\u1eef\u2192Nam\u2192N\u1eef), but the chapter opens with B\u00e1ch as male ('anh ta') and only transitions to female after an apparent fourth R\u1eeda \u2014 a canonical error",
+      "B\u00e1ch's R\u1eeda count would become 4 if this chapter's implication is correct, contradicting established 3 R\u1eeda",
+      "'N\u01b0\u1edbc m\u00eda v\u01b0\u01a1ng ra m\u00e9p, l\u1ea5m t\u1ea5m r\u00e2u c\u1ea1o ch\u01b0a s\u1ea1ch' \u2014 if B\u00e1ch just R\u1eeda'd to female body, there would be no stubble; R\u1eeda is complete biological change",
+      "Chinese characters (\u5f71\u5b50, \u4e5f\u8bb8) appear as AI artifacts in the text",
+      "No scene shows rain touching B\u00e1ch's bare skin to trigger R\u1eeda \u2014 violating established magic system rules"
+    ],
+    "note": "The B\u00e1ch R\u1eeda issue is a major violation that cascades through the chapter. Either B\u00e1ch should be female from the start (per canon), or the R\u1eeda needs to be properly set up and dramatized."
+  },
+  "lore_integration": {
+    "score": 5,
+    "weakest_moment": "The \u1ee6y Ban file room scene could be any government archive in any story \u2014 nothing about it feels specific to Hu\u1ebf or to the R\u1eeda system.",
+    "fix": "Add details unique to this world: maybe the files smell of nhang tr\u1ea7m because they're 'blessed' to prevent water damage, or the folders are color-coded by V\u00f2ng age, or there's a shelf of '\u0111\u00e3 gi\u1ea3i quy\u1ebft' (resolved) files that's conspicuously empty. Ground the scene in the world's specific texture.",
+    "note": "The Gi\u1ea5y X\u00e1c Nh\u1eadn system, the taboos about rain, the cultural details \u2014 none of these are present. The d\u1ea1 lan scent is mentioned at the end but feels tacked on rather than woven in."
+  },
+  "engagement": {
+    "score": 5,
+    "weakest_moment": "The B\u00edch confrontation resolves without tension \u2014 she simply acknowledges she expected B\u00e1ch and shows him a file. No stakes, no risk, no cost.",
+    "fix": "Give B\u00edch a reason to resist, even briefly. Maybe she has to decide whether to trust B\u00e1ch. Maybe she shows only part of the file. Maybe she makes B\u00e1ch promise something. The scene needs friction \u2014 currently it's two people who agree reading paper together.",
+    "note": "The break-in has initial momentum but deflates when B\u00edch appears. The final scene with Linh absorbing the three clues has potential, but it's undercut by overwrought prose ('B\u1ea1o l\u1ef1c c\u1ee7a s\u1ef1 c\u00f4 \u0111\u1ed9c'). The strongest tension is structural \u2014 the reader wants to know who the sixth person is \u2014 but the chapter doesn't escalate that desire effectively."
+  },
+  "three_weakest_sentences": [
+    "S\u1ee3 nh\u00ecn th\u1ea5y \u0111\u1eddi m\u00ecnh b\u1ecb ph\u1eb3ng phiu \u00e9p ch\u1eb7t gi\u1eefa hai trang h\u1ed3 s\u01a1 h\u00e0nh ch\u00ednh, nh\u01b0 con b\u01b0\u1edbm b\u1ecb ghim b\u1eb1ng kim ghim, m\u1ea5t \u0111i quy\u1ec1n bay.",
+    "M\u1ed9t bi\u1ebfn s\u1ed1 m\u1edbi b\u01b0\u1edbc v\u00e0o s\u00e2n kh\u1ea5u m\u1edd \u1ea3o n\u00e0y.",
+    "H\u00e0nh \u0111\u1ed9ng ki\u1ec3m so\u00e1t \u0111i\u00ean r\u1ed3, b\u1ea1o l\u1ef1c, t\u00e0n nh\u1eabn. B\u1ea1o l\u1ef1c c\u1ee7a s\u1ef1 c\u00f4 \u0111\u1ed9c."
+  ],
+  "three_strongest_sentences": [
+    "Gh\u1ebf B\u00e1ch c\u00f2n \u1ea5m. C\u00f4 \u0111\u1eb7t tay l\u00ean ch\u1ed7 \u1ea5y. \u1ea4m. R\u1ed3i l\u1ea1nh d\u1ea7n. M\u01b0a v\u1eabn r\u01a1i.",
+    "C\u00f3 ai \u0111\u00f3. \u0110\u00e3 t\u1eebng \u1edf \u0111\u00e2y. \u0110\u00e3 b\u1ecb t\u01b0\u1edbc \u0111o\u1ea1t, b\u1ecb x\u00f3a s\u1ed5 ngay tr\u00ean gi\u1ea5y t\u1edd n\u00e0y, ngay trong k\u00fd \u1ee9c c\u1ee7a nh\u1eefng ng\u01b0\u1eddi c\u00f9ng chung V\u00f2ng.",
+    "Ba d\u00f2ng ch\u1eef. Ba m\u1ea3nh gh\u00e9p r\u1eddi r\u1ea1c. Ba manh m\u1ed1i tr\u1ecf v\u1ec1 m\u1ed9t h\u01b0\u1edbng duy nh\u1ea5t."
+  ],
+  "ai_patterns_detected": [
+    "Chinese characters embedded (\u5f71\u5b50, \u4e5f\u8bb8) \u2014 clear AI generation artifact",
+    "Uniform paragraph rhythm throughout \u2014 most paragraphs follow topic-elaboration-close structure",
+    "English-calqued metaphors: 'butterfly pinned by pin', 'variable enters the stage', 'violence of solitude'",
+    "Characters speak in same register without differentiation",
+    "Emotional moments told rather than felt through body",
+    "Several paragraphs begin with identical transition patterns",
+    "The phrase '\u0111\u1eb7c qu\u00e1nh' appears twice for darkness \u2014 repetition of favored word"
+  ],
+  "overall_score": 4.0,
+  "weakest_dimension": "canon_compliance",
+  "top_3_revisions": [
+    "Fix B\u00e1ch's gender continuity: either establish B\u00e1ch as female from the chapter's opening (per canon) or remove the R\u1eeda subplot entirely since it's not in the outline. If keeping it, dramatize the moment of rain touching B\u00e1ch's skin during the break-in.",
+    "Rewrite Linh's POV to match her established voice \u2014 short sentences, fragments, body-before-emotion. Remove all abstract declarations ('b\u1ea1o l\u1ef1c c\u1ee7a s\u1ef1 c\u00f4 \u0111\u1ed9c') and replace with physical sensation. Cut the butterfly metaphor entirely.",
+    "Add tension to the B\u00edch confrontation: give her reluctance, conditions, or a cost for sharing information. Currently the scene is two allies exchanging data with no friction \u2014 it needs stakes or the reader disengages."
+  ],
+  "new_canon_entries": [
+    "B\u00e1ch bi\u1ebft b\u1ebb kh\u00f3a c\u1eeda s\u1ed5 \u0111\u1ec3 \u0111\u1ed9t nh\u1eadp",
+    "\u1ee6y Ban Nh\u00e2n D\u00e2n c\u00f3 ph\u00f2ng h\u1ed3 s\u01a1 m\u1eadt v\u1ec1 c\u00e1c V\u00f2ng R\u1eeda, ch\u1ee9a h\u00e0ng tr\u0103m th\u01b0 m\u1ee5c c\u00e1c-t\u00f4ng",
+    "H\u1ed3 s\u01a1 nh\u00f3m Qu\u1ed1c H\u1ecdc 1994 \u0111\u01b0\u1ee3c ghi d\u01b0\u1edbi nh\u00e3n 'V\u00f2ng 6 ng\u01b0\u1eddi - Qu\u1ed1c H\u1ecdc 1994' trong t\u1ee7 s\u1eaft s\u01a1n xanh d\u00e1n nh\u00e3n \u0111\u1ecf",
+    "Ghi ch\u00fa trong h\u1ed3 s\u01a1 (m\u1ef1c \u0111\u1ecf, n\u00e9t ch\u1eef nghi\u00eang): 'V\u00f2ng 6 ng\u01b0\u1eddi. Hi\u1ec7n t\u1ea1i 5. Ng\u01b0\u1eddi th\u1ee9 s\u00e1u: kh\u00f4ng r\u00f5. \u0110ang theo d\u00f5i.'",
+    "C\u00f4 B\u00edch \u0111\u00e3 \u0111o\u00e1n tr\u01b0\u1edbc B\u00e1ch s\u1ebd \u0111\u1ebfn t\u00ecm h\u1ed3 s\u01a1 \u2014 c\u00f3 th\u1ec3 b\u00e0 theo d\u00f5i nh\u00f3m",
+    "C\u00f4 B\u00edch cho B\u00e1ch xem trang ghi ch\u00fa: 'Ng\u01b0\u1eddi th\u1ee9 s\u00e1u b\u1ecb lo\u1ea1i v\u00ec b\u1ecb qu\u00ean ho\u00e0n to\u00e0n. Kh\u00f4ng r\u00f5 t\u1ef1 nguy\u1ec7n hay do R\u1eeda. \u0110ang \u0111i\u1ec1u tra.'"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 0.63,
+    "sentence_length_cv": 0.645,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 0.0,
+    "language": "vi",
+    "vi_english_leaks": [],
+    "vi_translation_calques": [],
+    "vi_fiction_ai_tells": [],
+    "vi_telling_violations": 0,
+    "vi_structural_ai_tics": []
+  },
+  "raw_judge_score": 4
+}
