@@ -167,3 +167,11 @@
 - Ly nước cho ghế trống được rót từ lúc mở quán mỗi đêm, không ai uống, được rót mới mỗi đêm (ch_03)
 - Bách nhận ra quy luật: mưa đến khi ai trong nhóm bắt đầu có cuộc sống riêng (yêu ngoài Vòng, có bạn mới, tính chuyển việc) (ch_03)
 - Bách đến quán với tóc còn ướt, cho thấy Bách bị mưa chiều (mưa lúc hai giờ chiều, mười lăm phút) (ch_03)
+
+
+## From Chapter 4
+- Duy đã Rửa lần thứ ba (Nam→Nữ) trong đêm mưa chương 4, mất ký ức về tình cảm với Hạnh (cô gái bán vải chợ Đông Ba, tóc vấn cao). (ch_04)
+- Cây quỳnh trên ban công phòng trọ Linh nở đúng đêm Rửa — Lịch xác nhận đã ghi nhận hiện tượng này ba lần trong sổ. (ch_04)
+- Mùi dạ lan pha trầm xuất hiện mạnh ngay trước đêm Rửa chương 4, mạnh hơn mọi lần trước theo ghi nhận của Linh. (ch_04)
+- Bách công khai trình bày lý thuyết với cả nhóm: Rửa nhắm vào thành viên bắt đầu có cuộc sống riêng (yêu ngoài Vòng, chuyển việc, kết nối người mới). (ch_04)
+- Giọt mưa từ khe cửa sổ chạm cổ tay Linh trong đêm Rửa chương 4 — Linh cảm nhận được Rửa đang xảy ra nhưng không biết ai bị. (ch_04)

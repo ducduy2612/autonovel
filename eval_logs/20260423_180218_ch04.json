@@ -1,0 +1,109 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "Ngh\u0129a l\u00e0: m\u00ecnh l\u1ea1i thay \u0111\u1ed5i. Ngh\u0129a l\u00e0: ai \u0111\u00f3 trong nh\u00f3m s\u1ebd R\u1eeda. Ngh\u0129a l\u00e0: m\u00ecnh l\u1ea1i m\u1ea5t th\u00eam m\u1ed9t n\u0103m. Nh\u01b0ng hai ch\u1eef \u0111\u00f3 c\u0169ng ngh\u0129a l\u00e0: m\u00ecnh v\u1eabn c\u00f2n \u0111\u00e2y, v\u1eabn c\u00f2n ng\u1ed3i chung b\u00e0n, v\u1eabn c\u00f2n \u0111i d\u1ecdc b\u1edd s\u00f4ng c\u00f9ng nhau. Ngh\u0129a l\u00e0: ch\u01b0a tan.",
+    "fix": "Cut this entire passage. The voice profile explicitly forbids explaining subtext. Let 'M\u01b0a r\u1ed3i.' sit alone \u2014 the reader knows what it means. If Linh must process, use body: 'Linh nu\u1ed1t n\u01b0\u1edbc b\u1ecdt. V\u1ecb \u0111\u1eafng. Hai ch\u1eef \u2014 nh\u01b0ng da \u0111\u00e3 hi\u1ec3u tr\u01b0\u1edbc c\u1ea3 \u0111\u1ea7u.'",
+    "note": "The chapter mostly nails the voice \u2014 body-before-emotion is consistent, the vocabulary wells (m\u01b0a/n\u01b0\u1edbc, nhang tr\u1ea7m, phai m\u00f2n) are drawn from naturally, and the spare dialogue register works. The qu\u1ef3nh blooming passage is excellent voice work. But there are 2-3 passages where the narrator over-explains emotional meaning, directly violating the 'Kh\u00f4ng gi\u1ea3i th\u00edch' and 'N\u1ed7i bu\u1ed3n kh\u00f4ng g\u1ecdi t\u00ean' principles. These read like lack of trust in the reader."
+  },
+  "beat_coverage": {
+    "score": 8,
+    "weakest_moment": "S\u00e1ng. Linh ch\u1ea1y ra qu\u00e1n. Duy ng\u1ed3i b\u1ec7t, m\u1eb7t m\u1edbi \u2014 c\u1eb1m m\u1ec1m h\u01a1n, vai h\u1eb9p h\u01a1n, \u00e1o r\u1ed9ng. Duy \u0111\u00e3 R\u1eeda. N\u1eef.",
+    "fix": "The transition from Linh's sleepless night to arriving at the caf\u00e9 could use one physical beat \u2014 Linh on the motorbike, dawn air on wet skin, the street still dark \u2014 to earn the arrival rather than jumping cut.",
+    "note": "All five outline beats are present and dramatized rather than summarized. Duy's R\u1eeda reveal is well-paced (back turned first, then face). The H\u1ea1nh memory-loss beat is emotionally precise. B\u00e1ch's pattern revelation lands hard. The weakest element is the transition between beats 2 and 3 \u2014 we jump from rain at night to morning at the caf\u00e9 with only a time stamp, missing an opportunity for Linh's physical state after a sleepless, rain-soaked night."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "Duy b\u1eadt c\u01b0\u1eddi. Ti\u1ebfng c\u01b0\u1eddi cao h\u01a1n h\u00f4m qua, trong h\u01a1n, nh\u01b0 thu\u1ef7 tinh ch\u1ea1m nhau.",
+    "fix": "Duy's laugh simile 'nh\u01b0 thu\u1ef7 tinh ch\u1ea1m nhau' feels literary rather than something Duy would generate. Consider a more Duy-appropriate image \u2014 something deflectionary or self-deprecating \u2014 or let the sound exist without metaphor, since Duy doesn't dwell.",
+    "note": "Dialogue differentiation is solid: Duy deflects with humor, B\u00e1ch attacks, L\u1ecbch records, Linh barely speaks. Pronoun use is correct (m\u00ecnh-c\u1eadu throughout, appropriate for the group). Duy's '\u0110\u1eb9p h\u01a1n h\u1ed3i tr\u01b0\u1edbc kh\u00f4ng?' is a perfect character moment \u2014 vanity as armor. B\u00e1ch's staccato accusations feel real. L\u1ecbch's 'Ng\u00e0y bao nhi\u00eau?' is dry and functional. Linh's internal voice could be more sensation-driven and less articulate in places \u2014 some internal monologue passages read too cleanly parsed for someone who 'thinks through physical sensation, not concepts.'"
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "Qu\u1ef3nh n\u1edf m\u1ed9t \u0111\u00eam r\u1ed3i t\u00e0n. Linh bi\u1ebft. Nh\u01b0ng\u591c\u91cc n\u00f3 n\u1edf \u2014 \u0111\u00eam nay \u2014 khi m\u00f9i d\u1ea1 lan \u0111\u1eb7c qu\u00e1, gi\u00f3 \u0111\u1ed5i chi\u1ec1u, tr\u1eddi \u0111en \u0111\u1eb7c \u2014 c\u00f3 ngh\u0129a g\u00ec?",
+    "fix": "Remove the explicit 'c\u00f3 ngh\u0129a g\u00ec?' question. Let Linh notice the qu\u1ef3nh, feel the dread physically, and not ask. The question tells the reader this is important; the body response would show it. Also fix the Chinese character error.",
+    "note": "Three seeds planted effectively: qu\u1ef3nh blooming on R\u1eeda nights (new thread 9), d\u1ea1 lan smell reinforced (thread 1), and R\u1eeda targeting those with outside connections (thread 8). L\u1ecbch's 'Ba l\u1ea7n r\u1ed3i. Ba l\u1ea7n c\u00e2y qu\u1ef3nh nh\u00e0 c\u1eadu n\u1edf \u0111\u00fang \u0111\u00eam R\u1eeda' is a strong reveal that doesn't feel forced \u2014 it emerges from her character as record-keeper. The sense of being watched across the river is set up without over-pointing. Integration is organic."
+  },
+  "prose_quality": {
+    "score": 6,
+    "weakest_sentence": "Nh\u01b0ng\u591c\u91cc n\u00f3 n\u1edf \u2014 \u0111\u00eam nay \u2014 khi m\u00f9i d\u1ea1 lan \u0111\u1eb7c qu\u00e1, gi\u00f3 \u0111\u1ed5i chi\u1ec1u, tr\u1eddi \u0111en \u0111\u1eb7c \u2014 c\u00f3 ngh\u0129a g\u00ec?",
+    "fix": "Fix the Chinese character error and cut the explicit question: 'Qu\u1ef3nh n\u1edf m\u1ed9t \u0111\u00eam r\u1ed3i t\u00e0n. Nh\u01b0ng \u0111\u00eam nay \u2014 m\u00f9i d\u1ea1 lan \u0111\u1eb7c qu\u00e1, gi\u00f3 \u0111\u1ed5i chi\u1ec1u \u2014 n\u00f3 bung tr\u1eafng r\u1ee5ng. Linh l\u00f9i l\u1ea1i m\u1ed9t b\u01b0\u1edbc.' Let the dread be physical, not articulated.",
+    "strongest_sentence": "M\u00ecnh qu\u00ean m\u1ea5t ch\u1ecb \u1ea5y b\u00e1n g\u00ec.",
+    "note": "The strongest prose is in sensory specifics: 'G\u1ed7 c\u0169. Nh\u1edb th\u1eddi ti\u1ebft tr\u01b0\u1edbc c\u1ea3 ng\u01b0\u1eddi.' 'B\u00e0 T\u00e2m \u0111\u1ebfn. \u0110\u1eb7t xu\u1ed1ng b\u00e0n m\u1ed9t ly n\u01b0\u1edbc n\u00f3ng. Kh\u00f4ng h\u1ecfi ai u\u1ed1ng. R\u00fat lui.' 'M\u1ed9t \u0111\u00eam. M\u1ed9t \u0111\u1eddi. Kh\u00f4ng ai k\u1ecbp ng\u1eafm.' These are efficient, image-driven, voice-appropriate. But the chapter has real problems: Chinese character intrusions (\u591c\u91cc, \u6628\u665a), a likely typo ('ki\u1ec7m \u0111\u00e1' should be 'ki\u1ebfm' or 'ti\u00ean'), 'gan ch\u00e2n' where 'g\u00f3t ch\u00e2n' is standard, and several passages that over-explain emotion rather than embodying it. Sentence openings repeat heavily in stretches \u2014 count of consecutive 'Linh' subjects exceeds 5 in the rain sequence."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Emotional continuity is strong \u2014 the previous chapter ends with Linh on the riverbank, B\u00e1ch talking about finding who watches, rain approaching from B\u1ea1ch M\u00e3. This chapter picks up with Linh at home that same night, the rain arriving, the dread fulfilled. Linh's 'Ch\u01b0a s\u1eb5n s\u00e0ng' echoes the previous chapter's closing. The b\u00fan b\u00f2 cay callback is absent but not missed. One small issue: B\u00e1ch's hair was wet in chapter 3 from afternoon rain, but here B\u00e1ch arrives with 't\u00f3c \u01b0\u1edbt, \u00e1o \u01b0\u1edbt' again \u2014 possibly from the night's rain, but the repetition feels coincidental."
+  },
+  "canon_compliance": {
+    "score": 7,
+    "violations": [
+      "B\u00e1ch states 'Tu\u1ea5n g\u1eb7p ng\u01b0\u1eddi l\u1ea1 \u1edf b\u1ebfn s\u00f4ng hai n\u0103m tr\u01b0\u1edbc. R\u1ed3i m\u01b0a. R\u1ed3i Tu\u1ea5n R\u1eeda.' \u2014 but per characters.md, Tu\u1ea5n's encounter with C\u1ea3nh is his Secret #2: 'Tu\u1ea5n \u0111\u00e3 ghi v\u00e0o s\u1ed5, nh\u01b0ng ch\u01b0a n\u00f3i ai.' B\u00e1ch should not know about this unless there's an unexplained source.",
+      "Duy's R\u1eeda count: L\u1ecbch records 'R\u1eeda l\u1ea7n th\u1ee9 ba' \u2014 consistent with canon (Nam\u2192N\u1eef\u2192Nam\u2192N\u1eef = 3 times), but verify this aligns with timeline expectations.",
+      "Minor: 'gan ch\u00e2n' appears to be non-standard Vietnamese; 'g\u00f3t ch\u00e2n' (heel) is the expected term for cold rising from feet."
+    ],
+    "note": "The B\u00e1ch-knowing-Tu\u1ea5n's-secret issue is the most significant violation. If Tu\u1ea5n told no one, B\u00e1ch cannot cite this as evidence. Either: (1) a line is needed showing B\u00e1ch learned this somehow, (2) Tu\u1ea5n mentioned the encounter casually without details, or (3) this is an error requiring revision. The R\u1eeda mechanics are otherwise consistent \u2014 Duy loses memories of H\u1ea1nh (two weeks, within the taken year), the one-person-per-rain rule holds, rain-must-touch-skin is observed."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "R\u1eeda ch\u1ec9 x\u1ea3y ra khi m\u01b0a ch\u1ea1m da.",
+    "fix": "This reads like a rulebook footnote intruding into Linh's consciousness. Linh wouldn't state the rule this clinically \u2014 Linh would feel the panic of the drop landing. Replace with body: 'M\u1ed9t gi\u1ecdt. L\u1ea1nh bu\u1ed1t. Da \u0111\u00e3 bi\u1ebft tr\u01b0\u1edbc \u0111\u1ea7u \u2014 R\u1eeda.' Or cut entirely; the reader learned this rule in earlier chapters.",
+    "note": "The world does genuine work here. Qu\u1ef3nh blooming isn't decorative \u2014 it's a diagnostic tool that L\u1ecbch has been tracking. The d\u1ea1 lan smell is tied to C\u1ea3nh's presence. B\u00e0 T\u00e2m's ritual behavior (lighting nhang, pushing tea without asking) embodies cultural norms without lecturing. L\u1ecbch's s\u1ed5 is a lore device that serves character. The strongest integration is how B\u00e1ch's pattern-observation uses accumulated lore to build a new hypothesis \u2014 this is lore doing narrative work, not set dressing."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "B\u00e1ch \u0111\u1eadp b\u00e0n l\u1ea7n b\u1ed1n. C\u1ed9p.",
+    "fix": "Four table slams is one too many. By the fourth, the gesture has lost impact. Cut to three, or vary B\u00e1ch's physical expression \u2014 grip the table edge, kick a chair, or go still instead of loud. The pattern of escalating volume is predictable; subvert it once.",
+    "note": "The chapter maintains tension through three engines: atmospheric dread (opening sequence), emotional loss (Duy's erasure of H\u1ea1nh), and mystery escalation (B\u00e1ch's pattern). Duy's 'M\u00ecnh qu\u00ean m\u1ea5t ch\u1ecb \u1ea5y b\u00e1n g\u00ec' is the emotional peak \u2014 simple, specific, devastating. The sense of being watched across the river adds thriller texture. What keeps this from 8: the over-explained passages deflate tension (telling the reader what to feel), and the final pages repeat Linh's 'ch\u01b0a s\u1eb5n s\u00e0ng / nh\u01b0ng m\u00ecnh bi\u1ebft' beat one too many times, diminishing its impact."
+  },
+  "three_weakest_sentences": [
+    "Nh\u01b0ng\u591c\u91cc n\u00f3 n\u1edf \u2014 \u0111\u00eam nay \u2014 khi m\u00f9i d\u1ea1 lan \u0111\u1eb7c qu\u00e1, gi\u00f3 \u0111\u1ed5i chi\u1ec1u, tr\u1eddi \u0111en \u0111\u1eb7c \u2014 c\u00f3 ngh\u0129a g\u00ec?",
+    "Ngh\u0129a l\u00e0: m\u00ecnh l\u1ea1i thay \u0111\u1ed5i. Ngh\u0129a l\u00e0: ai \u0111\u00f3 trong nh\u00f3m s\u1ebd R\u1eeda. Ngh\u0129a l\u00e0: m\u00ecnh l\u1ea1i m\u1ea5t th\u00eam m\u1ed9t n\u0103m.",
+    "R\u00e9t bu\u1ed1t t\u1eeb d\u01b0\u1edbi l\u00ean, xuy\u00ean qua gan ch\u00e2n, lan l\u00ean \u1ed1ng ch\u00e2n, khi\u1ebfn b\u1eafp th\u1ecbt co l\u1ea1i."
+  ],
+  "three_strongest_sentences": [
+    "M\u00ecnh qu\u00ean m\u1ea5t ch\u1ecb \u1ea5y b\u00e1n g\u00ec.",
+    "G\u1ed7 c\u0169. Nh\u1edb th\u1eddi ti\u1ebft tr\u01b0\u1edbc c\u1ea3 ng\u01b0\u1eddi.",
+    "M\u1ed9t \u0111\u00eam. M\u1ed9t \u0111\u1eddi. Kh\u00f4ng ai k\u1ecbp ng\u1eafm."
+  ],
+  "ai_patterns_detected": [
+    "Chinese character intrusions (\u591c\u91cc, \u6628\u665a) suggest machine-generated text insufficiently reviewed",
+    "Repeated paragraph-opening subjects (Linh, Linh, Linh in the rain sequence \u2014 5+ consecutive)",
+    "Subtext over-explanation: spelling out what 'M\u01b0a r\u1ed3i' means violates the voice principle of indirection",
+    "Symmetrical emotional beats at chapter end: 'Ch\u01b0a s\u1eb5n s\u00e0ng' / 'Nh\u01b0ng m\u00ecnh bi\u1ebft' repeated structurally three times",
+    "Some similes lean literary rather than character-generated ('nh\u01b0 thu\u1ef7 tinh ch\u1ea1m nhau' for Duy, who doesn't think in such terms)"
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "prose_quality",
+  "top_3_revisions": [
+    "Fix all Chinese character errors (\u591c\u91cc\u2192\u0111\u00eam nay, \u6628\u665a\u2192\u0111\u00eam qua) and the likely typo 'ki\u1ec7m \u0111\u00e1' and non-standard 'gan ch\u00e2n' \u2014 these are blocking errors that would embarrass in publication.",
+    "Cut the 'Ngh\u0129a l\u00e0:' passage entirely and the 'R\u1eeda ch\u1ec9 x\u1ea3y ra khi m\u01b0a ch\u1ea1m da' rule statement. Trust the reader to remember established rules and interpret subtext. Replace with a single body sensation if needed.",
+    "Resolve the canon violation: either add a line showing how B\u00e1ch learned about Tu\u1ea5n's riverside encounter (e.g., 'Tu\u1ea5n c\u00f3 k\u1ec3 l\u1ea7n \u0111\u00f3 \u2014 g\u1eb7p ng\u01b0\u1eddi l\u1ea1 h\u1ecfi v\u1ec1 nh\u00f3m \u2014 r\u1ed3i sau \u0111\u00f3 Tu\u1ea5n R\u1eeda'), or remove it from B\u00e1ch's list of examples and substitute a different instance."
+  ],
+  "new_canon_entries": [
+    "C\u00e2y qu\u1ef3nh tr\u00ean ban c\u00f4ng nh\u00e0 Linh bung n\u1edf \u0111\u00fang \u0111\u00eam R\u1eeda \u2014 L\u1ecbch \u0111\u00e3 ghi nh\u1eadn hi\u1ec7n t\u01b0\u1ee3ng n\u00e0y ba l\u1ea7n (ch_04)",
+    "Duy b\u1ecb R\u1eeda l\u1ea7n th\u1ee9 ba (Nam\u2192N\u1eef) \u0111\u00eam m\u01b0a ch\u01b0\u01a1ng 4, m\u1ea5t k\u00fd \u1ee9c v\u1ec1 H\u1ea1nh \u2014 ch\u1ec9 c\u00f2n nh\u1edb t\u00ean v\u00e0 hai tu\u1ea7n th\u1eddi gian, kh\u00f4ng nh\u1edb c\u1ea3m gi\u00e1c hay chi ti\u1ebft (ch_04)",
+    "B\u00e1ch c\u00f4ng khai \u0111\u01b0a ra gi\u1ea3 thuy\u1ebft: R\u1eeda nh\u1eafm v\u00e0o th\u00e0nh vi\u00ean c\u00f3 cu\u1ed9c s\u1ed1ng ri\u00eang, c\u00f3 ai \u0111\u00f3 \u0111ang g\u1ecdi m\u01b0a (ch_04)",
+    "Gi\u1ecdt m\u01b0a ch\u1ea1m c\u1ed5 tay Linh \u0111\u00eam R\u1eeda Duy \u2014 nh\u01b0ng Linh kh\u00f4ng b\u1ecb R\u1eeda l\u1ea7n n\u00e0y (ch_04)",
+    "L\u1ecbch ghi nh\u1eadn: qu\u1ef3nh n\u1edf, d\u1ea1 lan m\u1ea1nh, m\u01b0a l\u1edbn \u2014 ba hi\u1ec7n t\u01b0\u1ee3ng c\u00f9ng x\u1ea3y ra \u0111\u00eam R\u1eeda Duy (ch_04)"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 40.59,
+    "sentence_length_cv": 0.804,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi",
+    "vi_english_leaks": [],
+    "vi_translation_calques": [],
+    "vi_fiction_ai_tells": [],
+    "vi_telling_violations": 0,
+    "vi_structural_ai_tics": []
+  },
+  "raw_judge_score": 7
+}
