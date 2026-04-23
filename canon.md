@@ -224,3 +224,14 @@
 - Linh nhận ra quy luật (chưa xác nhận): Rửa nhắm người tìm sự thật HOẶC người xa nhóm nhất — hai cách nói trỏ cùng kết quả (ch_10)
 - Ly cà phê Bách để trên kệ bếp bà Tâm ba ngày không ai cất — bà Tâm cứ để đó (ch_10)
 - Bà Tâm luôn để ly nước lọc (không cà phê, không đường) cho ai vừa mất gì đó (ch_10)
+
+
+## From Chapter 11
+- Linh đi dọc bờ sông lúc không ngủ được — thói quen mà Lịch biết và ghi trong sổ (ch_11)
+- Có ly nước lọc để ngoài bậc thềm quán bà Tâm ban đêm, đầy, không ai uống — khác với ly trên bàn thứ sáu trong quán (ch_11)
+- Lịch thú nhận với Linh: sợ Rửa nhất vì sợ quên mặt Linh, không phải sợ đổi hình (ch_11)
+- Linh hứa 'Mình sẽ nhớ thay cậu' — lời hứa mang ký ức hộ người khác (ch_11)
+- Linh nhận ra Lịch đẹp — lần đầu nhìn kỹ, 'nhận ra' thay vì chỉ 'thấy' (ch_11)
+- Sau đêm Bách Rửa, Linh không ngủ tròn một đêm trong nhiều đêm liên tiếp (ch_11)
+- Gió dừng một nhịp khi Linh hỏi 'Ai đó đang nhìn tớ phải không?' — phản ứng chưa giải thích (ch_11)
+- Lịch xõa tóc lúc ba giờ sáng (khác với buộc cao khi ghi sổ) (ch_11)

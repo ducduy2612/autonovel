@@ -1,0 +1,5 @@
+Đêm hôm đó, chứng mất ngủ dai dẳng từ sau đợt "Rửa" của Bách khiến Linh lang thang ra bờ sông lúc ba giờ sáng. Tại đây, Linh cảm nhận rõ rệt một hiện diện vô hình nào đó đang theo dõi mình — không đáng sợ mà chỉ kiên nhẫn chờ đợi. Cạnh bậc thềm quán bà Tâm, Linh phát hiện một ly nước lọc đầy vắt đặt kỳ lạ, gợi sự tò mò.
+
+Lịch — người lưu giữ ký ức của nhóm — tìm đến ngồi cạnh. Lịch bộc lộ nỗi sợ hãi tột cùng: chưa từng trải qua "Rửa", Lịch không sợ sự biến đổi thể xác mà sợ rằng khi phải đối mặt với nó, nước sông sẽ cướp đi mất những ký ức về Linh — người mà Lịch thầm thương trọn vẹn. Đáp lại, Linh lần đầu tiên thực sự nhìn nhận vẻ đẹp mỏng manh và gánh nặng mà Lịch đang gánh vác, đưa ra một lời hứa thiêng liêng: "Mình sẽ nhớ thay cậu".
+
+Chương khép lại khi Linh trở về phòng. Qua chiếc gương cũ, Linh nhận ra thực thể vô hình kia có thể là một người đã bị nhóm lãng quên nhưng vẫn chưa rời đi. Hình ảnh Lịch và ly nước đầy lấp lánh trong tâm trí đã mang lại sự bình yên hiếm hoi, giúp Linh nhắm mắt_into một giấc ngủ nhẹ nhàng sau bao đêm trắng.
