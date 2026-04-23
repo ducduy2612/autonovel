@@ -268,3 +268,11 @@
 - Mùi dạ lan ở Hương Thủy đậm hơn thành phố ba phần, 'như thứ gì đó sống ở đây' (ch_14)
 - Linh đến nhà Cảnh một mình, không gặp Cảnh, chưa vào nhà (ch_14)
 - Nhà Cảnh: hai hoặc ba phòng, sạch, trật tự, nhưng cũ; cổng không có cửa, chỉ hai trụ gạch sơn trắng xám bong tróc; lối đi bằng gạch vỡ xếp lộn xộn mọc rêu (ch_14)
+
+
+## From Chapter 15
+- Tuấn thú nhận với Linh: nhớ Lịch nhiều hơn Linh từ năm 1998, nhưng tuyên bố 'Mình không yêu Lịch. Mình yêu em' với giọng không chắc (ch_15) (ch_15)
+- Linh nắm tay Lịch lần đầu ở xưởng may — da Lịch lạnh, chai ở gốc ngón trỏ, run nhẹ. Lịch nói 'Đừng' rồi 'Nếu mình yêu cậu sâu — mình sẽ Rửa' (ch_15) (ch_15)
+- Linh nhận ra mình đang chuyển cảm xúc khỏi Tuấn: 'Nhẹ tênh... khoảng cách với Tuấn không còn là vết thương nữa. Nó là sự thật' (ch_15) (ch_15)
+- Tuấn đưa ly nước mía cho Lịch tận tay (chạm ngón), nhưng đặt ly xuống bàn cho Linh — Linh để ý sự khác biệt (ch_15) (ch_15)
+- Lịch hỏi Linh về Tuấn: 'Bối rối kiểu gì?' — đang thu thập thông tin cho sổ ghi ngay cả trong tình huống cảm xúc (ch_15) (ch_15)
