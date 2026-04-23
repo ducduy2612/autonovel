@@ -183,3 +183,10 @@
 - Quy luật Lịch phát hiện: trận mưa nào có mùi dạ lan pha trầm trước đó 1-2 tiếng thì có người Rửa; trận nào không có mùi thì không ai thay đổi. (ch_05)
 - Linh quyết định hợp tác với Bách để điều tra ai đang gọi mưa. (ch_05)
 - Lịch có vẻ đã biết hoặc đoán được điều gì thêm về mùi dạ lan nhưng chưa nói ra — 'tay vẫn vuốt mép sổ' và 'nhanh quá nhanh — như người vừa trút được gánh'. (ch_05)
+
+
+## From Chapter 6
+- Linh lấy Giấy Xác Nhận Thay Đổi lần thứ năm tại Ủy Ban Nhân Dân (ch_06)
+- Lần Rửa gần nhất của Linh trước thời điểm chương 6: tháng chín năm ngoái (1999) (ch_06)
+- Gương trong phòng trọ Linh phản chiếu chậm nửa nhịp—hiện tượng chưa giải thích (ch_06)
+- Linh thấy bóng thứ hai trong gương: dáng người mỏng, vai rủ, đứng sau lưng—không rõ ai (ch_06)
