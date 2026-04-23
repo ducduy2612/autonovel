@@ -276,3 +276,10 @@
 - Linh nhận ra mình đang chuyển cảm xúc khỏi Tuấn: 'Nhẹ tênh... khoảng cách với Tuấn không còn là vết thương nữa. Nó là sự thật' (ch_15) (ch_15)
 - Tuấn đưa ly nước mía cho Lịch tận tay (chạm ngón), nhưng đặt ly xuống bàn cho Linh — Linh để ý sự khác biệt (ch_15) (ch_15)
 - Lịch hỏi Linh về Tuấn: 'Bối rối kiểu gì?' — đang thu thập thông tin cho sổ ghi ngay cả trong tình huống cảm xúc (ch_15) (ch_15)
+
+
+## From Chapter 16
+- Bách gặp người lạ (Cảnh) ở bờ sông Hương Thủy lúc năm giờ sáng — người đó hỏi 'Nhóm mình dạo này thế nào?' rồi nói nhầm và bỏ đi (ch_16)
+- Bách ngửi mùi dạ lan pha trầm mạnh nhất ở đúng chỗ Cảnh ngồi — mạnh hơn nhà bà Lụa, mạnh hơn bất cứ đâu (ch_16)
+- Linh xác nhận: người gọi mưa biết nhóm, gọi là 'nhóm mình' — không phải người ngoài (ch_16)
+- Bách nối được: cùng một người đã hỏi Tuấn 'nhóm mình dạo này thế nào?' hai năm trước (ch_16)

@@ -1,0 +1,107 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "\"Ch\u1ec9 c\u00f2n m\u1ea3nh v\u1ee1 \u2014 m\u00f9i d\u1ea1 lan, kho\u1ea3ng tr\u1ed1ng h\u00ecnh ng\u01b0\u1eddi, v\u00e0\u6905\u5b50 tr\u1ed1ng \u1edf \u0111\u1ea7u b\u00e0n qu\u00e1n b\u00e0 T\u00e2m m\u00e0 kh\u00f4ng ai nh\u1edb t\u1ea1i sao.\"",
+    "fix": "Replace Chinese character \u6905\u5b50 with Vietnamese 'chi\u1ebfc gh\u1ebf'. This is a hard error \u2014 either a bilingual generation artifact or a find-replace failure. Additionally, '\u5e72\u51c0' appears earlier and '\u8fd9\u8fb9' appears in the caf\u00e9 scene. All must be corrected to Vietnamese equivalents.",
+    "note": "The voice largely succeeds: rain/water imagery runs deep, body-before-emotion is consistent (tim \u0111\u1eadp nhanh, m\u1ed3 h\u00f4i l\u1ea1nh, tay run nh\u1eb9), the tone stays bu\u1ed3n th\u0103m th\u1eb3m without tipping into l\u1ee5y. The C\u1ea3nh encounter captures the Hu\u1ebf register \u2014 slow, indirect, everything unsaid. However, three Chinese character intrusions break immersion entirely, and B\u00e1ch's opening internal monologue is too articulate, too thesis-like for a character described as 'n\u00f3i nh\u01b0 \u0111\u1eadp b\u00faa.'"
+  },
+  "beat_coverage": {
+    "score": 8,
+    "weakest_moment": "The recounting scene at b\u00e0 T\u00e2m's, specifically: B\u00e1ch's internal recognition that C\u1ea3nh lied ('D\u1ed1i tr\u00e1. B\u00e1ch bi\u1ebft d\u1ed1i tr\u00e1 khi nghe.') is stated as conclusion rather than shown through physical reaction.",
+    "fix": "Replace the abstract assertion with body-first: something like B\u00e1ch's scalp tightening, or the breath catching, before the thought crystallizes. Let the reader arrive at 'd\u1ed1i tr\u00e1' through B\u00e1ch's body, not B\u00e1ch's narration.",
+    "note": "All five outline beats are present and dramatized rather than summarized. The B\u00e1ch-C\u1ea3nh river encounter is the strongest sequence \u2014 patient, layered, the 'nh\u00f3m m\u00ecnh' revelation lands with real weight. The caf\u00e9 scene efficiently completes the information transfer to Linh without redundancy. The Tu\u1ea5n callback is integrated naturally. Strong execution."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "\"Linh \u0111ang b\u1eadn chuy\u1ec3n c\u1ea3m x\u00fac, b\u1eadn n\u1eafm tay ng\u01b0\u1eddi kh\u00e1c, b\u1eadn nh\u1eadn ra th\u1ee9 m\u00e0 B\u00e1ch bi\u1ebft t\u1eeb l\u00e2u: t\u00ecnh y\u00eau kh\u00f4ng c\u1ea7n k\u00fd \u1ee9c \u0111\u1ec3 t\u1ed3n t\u1ea1i, nh\u01b0ng n\u00f3 c\u1ea7n ng\u01b0\u1eddi gi\u1eef. B\u00e1ch l\u00e0 ng\u01b0\u1eddi gi\u1eef. Lu\u00f4n l\u00e0 ng\u01b0\u1eddi gi\u1eef.\"",
+    "fix": "B\u00e1ch doesn't think in thesis statements. Replace with something concrete and physical \u2014 maybe B\u00e1ch touching her own palm where someone's hand should've been, or noting the empty chair and thinking about who sits in it versus who should. Let the philosophy emerge from sensation.",
+    "note": "B\u00e1ch's directness in dialogue works ('Th\u1eb3ng. V\u00f4 th\u1eebng. Gi\u1ecdng B\u00e1ch lu\u00f4n v\u1eady \u2014 \u0111\u1eadp b\u00faa, kh\u00f4ng gi\u1ea5u' is a good self-assessment, though it's the narrator saying it rather than B\u00e1ch demonstrating it). C\u1ea3nh's guarded, slow speech pattern is distinct and effective. Linh's minimal, indirect responses are true to profile. The voices differentiate well. But B\u00e1ch's internal narration occasionally sounds too self-aware, too eloquently philosophical for a character whose strength is action, not articulation."
+  },
+  "plants_seeded": {
+    "score": 7,
+    "weakest_moment": "The Tu\u1ea5n connection: \"Hai n\u0103m tr\u01b0\u1edbc. G\u1eb7p ng\u01b0\u1eddi l\u1ea1 \u1edf b\u1ebfn s\u00f4ng. Ng\u01b0\u1eddi \u0111\u00f3 h\u1ecfi 'nh\u00f3m m\u00ecnh d\u1ea1o n\u00e0y th\u1ebf n\u00e0o?' Tu\u1ea5n ghi v\u00e0o s\u1ed5.\" This is stated as information transfer rather than discovered organically.",
+    "fix": "Have B\u00e1ch hesitate before telling Linh \u2014 maybe B\u00e1ch doesn't want to admit she read Tu\u1ea5n's notes, or wasn't supposed to know. Let the revelation cost something. Or let Linh be the one to connect it ('Tu\u1ea5n k\u1ec3 m\u00ecnh r\u1ed3i...'), showing she's been processing too.",
+    "note": "C\u1ea3nh's physical description matches canon exactly and is seeded naturally through B\u00e1ch's observation. The d\u1ea1 lan intensity gradient (stronger near C\u1ea3nh) is effective worldbuilding reinforcement. The 'nh\u00f3m m\u00ecnh' callback to Tu\u1ea5n's earlier encounter is the strongest plant \u2014 it recontextualizes old information. B\u00e0 T\u00e2m's listening silence is maintained as a background thread. The glass-of-water motif continues."
+  },
+  "prose_quality": {
+    "score": 6,
+    "weakest_sentence": "\"Ch\u1ec9 c\u00f2n m\u1ea3nh v\u1ee1 \u2014 m\u00f9i d\u1ea1 lan, kho\u1ea3ng tr\u1ed1ng h\u00ecnh ng\u01b0\u1eddi, v\u00e0\u6905\u5b50 tr\u1ed1ng \u1edf \u0111\u1ea7u b\u00e0n qu\u00e1n b\u00e0 T\u00e2m m\u00e0 kh\u00f4ng ai nh\u1edb t\u1ea1i sao.\"",
+    "fix": "Replace \u6905\u5b50 with 'chi\u1ebfc gh\u1ebf'. Also audit entire chapter for \u5e72\u51c0 and \u8fd9\u8fb9 and any other Chinese character artifacts. These are not stylistic choices \u2014 they are generation errors that must be corrected before any editorial pass.",
+    "strongest_sentence": "\"Ng\u01b0\u1eddi \u0111\u00f3 c\u01b0\u1eddi nh\u1eb9. C\u01b0\u1eddi bu\u1ed3n. C\u01b0\u1eddi nhanh r\u1ed3i t\u1eaft, nh\u01b0 \u0111\u00e8n l\u1ed3ng th\u1eafp gi\u1eefa m\u01b0a.\"",
+    "note": "The prose has genuine highs \u2014 the l\u1eeda l\u1ed3ng simile is rooted in Vietnamese visual culture, the river imagery accumulates power, and the closing line ('Ch\u1edd m\u1ed9t c\u00e1i t\u00ean m\u00e0 ch\u00ednh h\u1ecd \u0111\u00e3 qu\u00ean') is devastating. But there are problems beyond the Chinese character errors: repetitive 'R\u1ed3i' paragraph-starts (at least 5 instances), some generic metaphor ('nh\u01b0 m\u0169i kim' appears twice), and occasional sentences that sound translated rather than lived ('B\u00e1ch ti\u1ebfn l\u1ea1i g\u1ea7n' feels clinical; 'B\u00e1ch \u0111i v\u1ec1 ph\u00eda' would be warmer). The best passages are when the prose slows to match C\u1ea3nh's rhythm \u2014 the worst are when it hurries to deliver information."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Excellent continuity from Chapter 15. Linh's emotional state (processing the hand-holding with L\u1ecbch, the shift away from Tu\u1ea5n) is referenced naturally through B\u00e1ch's perspective without over-explaining. The investigation momentum from Chapter 12's declaration carries forward logically. B\u00e1ch acting alone is consistent with her established pattern of independent action (she went to the \u1ee6y Ban alone earlier, she reconnoitered alone). The rain returning at chapter's end sets up ongoing tension. One small question: B\u00e1ch knows about Linh n\u1eafm tay L\u1ecbch \u2014 who told her? The chapter implies B\u00e1ch observed or deduced, but this could be clearer."
+  },
+  "canon_compliance": {
+    "score": 7,
+    "violations": [
+      "Chinese characters mixed into Vietnamese text: '\u5e72\u51c0' (should be 's\u1ea1ch'), '\u6905\u5b50' (should be 'chi\u1ebfc gh\u1ebf'), '\u8fd9\u8fb9' (should be '\u0111\u1eb1ng n\u00e0y' or 'b\u00ean n\u00e0y') \u2014 these are technical violations of language integrity even if not plot canon violations",
+      "B\u00e1ch's internal narration says 't\u00ecnh y\u00eau kh\u00f4ng c\u1ea7n k\u00fd \u1ee9c \u0111\u1ec3 t\u1ed3n t\u1ea1i' \u2014 this is Linh's Lie/Need theme, and having B\u00e1ch articulate it so cleanly undermines the dramatic structure where Linh must discover this through experience, not be told by another character who already knows"
+    ],
+    "note": "Physical descriptions match canon precisely: C\u1ea3nh's appearance (th\u1ea5p, m\u1ecfng, tay chai, \u00e1o s\u01a1 mi tr\u1eafng x\u00e1m b\u1ea1c m\u00e0u, d\u00e9p t\u1ed5 ong, c\u1eb1m \u00edt g\u00f3c c\u1ea1nh, m\u1eaft nh\u00ecn l\u00e2u), H\u01b0\u01a1ng Th\u1ee7y geography (ng\u1eadp n\u01b0\u1edbc, nh\u00e0 c\u1ecdc, b\u1edd s\u00f4ng kh\u00f4ng k\u00e8), and the d\u1ea1 lan smell pattern all align. The 'nh\u00f3m m\u00ecnh' callback to Tu\u1ea5n's encounter is canonically accurate. No timeline violations detected."
+  },
+  "lore_integration": {
+    "score": 7,
+    "weakest_moment": "\"Ng\u01b0\u1eddi ta n\u00f3i n\u01b0\u1edbc s\u00f4ng H\u01b0\u01a1ng mang c\u1eb7n k\u00fd \u1ee9c. \u1ede \u0111\u00e2y c\u1eb7n \u0111\u1eb7c h\u01a1n.\" This is delivered as narrator exposition, not as something B\u00e1ch would naturally think.",
+    "fix": "Have B\u00e1ch notice something physical \u2014 the water feeling heavier, sticking to her skin differently, or smelling different than upstream \u2014 and let the 'c\u1eb7n' idea emerge from sensation rather than folklore citation.",
+    "note": "The d\u1ea1 lan smell-as-presence is the strongest lore element \u2014 it functions as both worldbuilding and plot mechanics, and B\u00e1ch tracking C\u1ea3nh by scent is effective. The river-touching action (C\u1ea3nh ch\u1ea1m m\u1eb7t n\u01b0\u1edbc nh\u01b0 vu\u1ed1t da ai \u0111\u00f3) connects to the water/connectedness theme. The rain-calling mechanics remain mysterious without being over-explained, which is correct per the Voice document's prohibition on scientific analysis. But the chapter could do more with H\u01b0\u01a1ng Th\u1ee7y's specific characteristics \u2014 the nh\u00e0 c\u1ecdc, the flooding cycle, the isolation \u2014 as emotional atmosphere rather than just backdrop."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "B\u00e1ch's opening monologue: five sentences of abstract reflection before we get to any action. The reader is told what B\u00e1ch thinks about Linh rather than being drawn into B\u00e1ch's experience.",
+    "fix": "Start with B\u00e1ch's feet in mud, or the five AM darkness, or the smell. Let the philosophy come after the body. The opening should hook with sensation, not statement.",
+    "note": "The 'nh\u00f3m m\u00ecnh' moment is genuinely surprising and effective \u2014 it recontextualizes everything. The C\u1ea3nh encounter maintains tension through what's not said, through the carefully chosen words and the telltale signs B\u00e1ch reads (too calm, too slow, 'nghe l\u1ea1' as deflection). The caf\u00e9 scene could feel redundant but earns its place through Linh's recognition and the Tu\u1ea5n callback. The closing image (C\u1ea3nh waiting, the group unaware) is haunting. The chapter does what Chapter 15's ending promised \u2014 it pushes the investigation forward while maintaining emotional complexity."
+  },
+  "three_weakest_sentences": [
+    "\"Ch\u1ec9 c\u00f2n m\u1ea3nh v\u1ee1 \u2014 m\u00f9i d\u1ea1 lan, kho\u1ea3ng tr\u1ed1ng h\u00ecnh ng\u01b0\u1eddi, v\u00e0\u6905\u5b50 tr\u1ed1ng \u1edf \u0111\u1ea7u b\u00e0n qu\u00e1n b\u00e0 T\u00e2m m\u00e0 kh\u00f4ng ai nh\u1edb t\u1ea1i sao.\" \u2014 Chinese character error, immediate immersion break for any Vietnamese reader.",
+    "\"R\u1eeda \u0111\u00e3 l\u1ea5y\u5e72\u51c0. Ch\u1ec9 c\u00f2n m\u1ea3nh v\u1ee1 \u2014 m\u00f9i d\u1ea1 lan, kho\u1ea3ng tr\u1ed1ng h\u00ecnh ng\u01b0\u1eddi\" \u2014 '\u5e72\u51c0' is Chinese (g\u0101n j\u00ecng = s\u1ea1ch), another language violation that should never survive to editorial.",
+    "\"Linh \u0111ang b\u1eadn chuy\u1ec3n c\u1ea3m x\u00fac, b\u1eadn n\u1eafm tay ng\u01b0\u1eddi kh\u00e1c, b\u1eadn nh\u1eadn ra th\u1ee9 m\u00e0 B\u00e1ch bi\u1ebft t\u1eeb l\u00e2u: t\u00ecnh y\u00eau kh\u00f4ng c\u1ea7n k\u00fd \u1ee9c \u0111\u1ec3 t\u1ed3n t\u1ea1i, nh\u01b0ng n\u00f3 c\u1ea7n ng\u01b0\u1eddi gi\u1eef. B\u00e1ch l\u00e0 ng\u01b0\u1eddi gi\u1eef. Lu\u00f4n l\u00e0 ng\u01b0\u1eddi gi\u1eef.\" \u2014 Too thesis-like, too articulate for B\u00e1ch's character, and prematurely articulates the theme Linh needs to discover."
+  ],
+  "three_strongest_sentences": [
+    "\"Ng\u01b0\u1eddi \u0111\u00f3 c\u01b0\u1eddi nh\u1eb9. C\u01b0\u1eddi bu\u1ed3n. C\u01b0\u1eddi nhanh r\u1ed3i t\u1eaft, nh\u01b0 \u0111\u00e8n l\u1ed3ng th\u1eafp gi\u1eefa m\u01b0a.\" \u2014 The l\u1eeda l\u1ed3ng simile is culturally rooted, the repetition of 'c\u01b0\u1eddi' with decreasing intensity mirrors the action it describes.",
+    "\"Ch\u1edd m\u1ed9t c\u00e1i t\u00ean m\u00e0 ch\u00ednh h\u1ecd \u0111\u00e3 qu\u00ean.\" \u2014 Devastating closing line that crystallizes the entire chapter's tragedy into a single image.",
+    "\"Nh\u00f3m m\u00ecnh d\u1ea1o n\u00e0y th\u1ebf n\u00e0o?\" \u2014 Four words that carry six years of waiting, the entire tragedy of C\u1ea3nh's existence, and the central mystery of the novel. Perfect economy."
+  ],
+  "ai_patterns_detected": [
+    "Chinese character intrusions (\u5e72\u51c0, \u6905\u5b50, \u8fd9\u8fb9) \u2014 likely bilingual generation artifact where Chinese text wasn't fully localized",
+    "Repetitive 'R\u1ed3i' paragraph-starts (R\u1ed3i B\u00e1ch th\u1ea5y / R\u1ed3i ng\u01b0\u1eddi \u0111\u00f3 h\u1ecfi / R\u1ed3i n\u00f3i nh\u1ea7m / R\u1ed3i \u0111i / R\u1ed3i gi\u1ecdt th\u1ee9 hai) \u2014 structural monotony",
+    "Opening paragraph as thesis statement rather than sensory hook \u2014 B\u00e1ch's internal monologue summarizes themes before the reader experiences them",
+    "Self-narrating character traits: 'Gi\u1ecdng B\u00e1ch lu\u00f4n v\u1eady \u2014 \u0111\u1eadp b\u00faa, kh\u00f4ng gi\u1ea5u' tells the reader about B\u00e1ch's speech pattern instead of letting dialogue demonstrate it",
+    "Uniform paragraph rhythm in the caf\u00e9 scene \u2014 multiple short paragraphs following the same question-answer structure"
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "prose_quality",
+  "top_3_revisions": [
+    "Fix all Chinese character errors: replace \u5e72\u51c0 with s\u1ea1ch, \u6905\u5b50 with chi\u1ebfc gh\u1ebf, \u8fd9\u8fb9 with b\u00ean n\u00e0y/\u0111\u1eb1ng n\u00e0y. This is non-negotiable \u2014 these errors would cause immediate rejection by any Vietnamese-language editor.",
+    "Rewrite B\u00e1ch's opening to start with body/sensation rather than philosophical summary. Begin with mud on feet, fog on skin, smell in nose. Let the reader enter H\u01b0\u01a1ng Th\u1ee7y through B\u00e1ch's senses before learning why B\u00e1ch came. Cut or relocate the thesis about 't\u00ecnh y\u00eau kh\u00f4ng c\u1ea7n k\u00fd \u1ee9c' \u2014 B\u00e1ch shouldn't articulate Linh's theme better than Linh can.",
+    "Vary paragraph openings throughout the caf\u00e9 scene. Currently: B\u00e1ch n\u00f3i \u2192 Linh h\u1ecfi \u2192 B\u00e1ch k\u1ec3 \u2192 Linh h\u1ecfi \u2192 etc. Break this rhythm with action beats (b\u00e0 T\u00e2m moving, glass condensation, sounds from outside), with silence, with Linh's physical reactions before verbal ones."
+  ],
+  "new_canon_entries": [
+    "B\u00e1ch g\u1eb7p ng\u01b0\u1eddi l\u1ea1 (C\u1ea3nh) \u1edf b\u1edd s\u00f4ng H\u01b0\u01a1ng Th\u1ee7y l\u00fac n\u0103m gi\u1edd s\u00e1ng \u2014 ng\u01b0\u1eddi \u0111\u00f3 h\u1ecfi 'Nh\u00f3m m\u00ecnh d\u1ea1o n\u00e0y th\u1ebf n\u00e0o?' r\u1ed3i n\u00f3i nh\u1ea7m v\u00e0 b\u1ecf \u0111i",
+    "B\u00e1ch ng\u1eedi m\u00f9i d\u1ea1 lan pha tr\u1ea7m m\u1ea1nh nh\u1ea5t \u1edf \u0111\u00fang ch\u1ed7 C\u1ea3nh ng\u1ed3i \u2014 m\u1ea1nh h\u01a1n nh\u00e0 b\u00e0 L\u1ee5a, m\u1ea1nh h\u01a1n b\u1ea5t c\u1ee9 \u0111\u00e2u",
+    "Linh x\u00e1c nh\u1eadn: ng\u01b0\u1eddi g\u1ecdi m\u01b0a bi\u1ebft nh\u00f3m, g\u1ecdi l\u00e0 'nh\u00f3m m\u00ecnh' \u2014 kh\u00f4ng ph\u1ea3i ng\u01b0\u1eddi ngo\u00e0i",
+    "B\u00e1ch n\u1ed1i \u0111\u01b0\u1ee3c: c\u00f9ng m\u1ed9t ng\u01b0\u1eddi \u0111\u00e3 h\u1ecfi Tu\u1ea5n 'nh\u00f3m m\u00ecnh d\u1ea1o n\u00e0y th\u1ebf n\u00e0o?' hai n\u0103m tr\u01b0\u1edbc"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 13.72,
+    "sentence_length_cv": 0.768,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 0.0,
+    "language": "vi",
+    "vi_english_leaks": [],
+    "vi_translation_calques": [],
+    "vi_fiction_ai_tells": [],
+    "vi_telling_violations": 0,
+    "vi_structural_ai_tics": []
+  },
+  "raw_judge_score": 6
+}
