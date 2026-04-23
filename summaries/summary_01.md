@@ -1,0 +1,7 @@
+**Tóm tắt Chương 1: Nước Chảy Qua Ngón Tay**
+
+Chương mở đầu không khí u buồn, ngột ngạt tại quán bà Tâm sát bờ sông Hương. Nhân vật chính là Linh, một cô gái đang loạn cảm giác trong cơ thể nữ lần thứ ba sau bốn lần trải qua hiện tượng "Rửa" – một quá trình bí ẩn bóc tróc hình hài cũ, đồng thời cướp đi mỗi lần một năm ký ức của nạn nhân. Cùng có mặt là nhóm bạn: Duy sôi nổi, tuýp nạ, Lịch – "người lưu trữ" ký ức của nhóm vì chưa từng Rửa, và Tuấn – thợ may nữ trang mang lại cho Linh những rung cảm da thịt vô thức mà lý trí cô đã quên mất.
+
+Cốt truyện xoay quanh một cơn mưa ngập tràn phố Hội. Mưa mang theo sự sợ hãi tột cùng vì đó là tín hiệu của sự Rửa. Linh và Lịch bất giác ngửi thấy mùi hoa dạ lan quyện trầm – một mùi hương từng xuất hiện vào năm 1998, thời điểm Tuấn bị Rửa. May mắn, cơn mưa trôi qua mà không ai trong nhóm phải thay xác. Mọi người dần giải tán.
+
+Chương khép lại với sự cô đơn đến rợn ngợp. Linh ngồi lại một mình bên chiếc bàn có một ghế trống và một ly nước không ai đụng đến – những linh cảm man mác về một ai đó đã mất. Đối diện dòng Hương giang đục ngầu cuốn trôi mọi ký ức, Linh đối diện với sự trống rỗng của thân xác và trái tim mình. Cô lặng lẽ chờ đợi, mang theo linh cảm là có một ánh mắt vô hình nào đó từ dòng sông đang dõi theo mình, và biết rằng sự Rửa rồi sẽ sớm quay trở lại cướp đi những gì còn sót lại.

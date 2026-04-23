@@ -148,3 +148,8 @@
 - Linh đã nói "Cảm ơn anh" với Cảnh trong lần anh cố tiếp cận thứ ba, biến anh thành người lạ hoàn toàn trong mắt người mình yêu. (characters.md)
 - Bà Tâm thường xuyên thấy Cảnh ngồi ngoài bậc thềm quán nhìn vào cửa sổ, bà không đuổi mà lặng lẽ để thêm một ly nước ngoài cửa. (characters.md)
 - Lịch đã ba lần ngửi thấy mùi kỳ lạ báo hiệu có ai đó gọi mưa và đã ghi chép lại vào sổ—đều khớp với những trận mưa Rửa bất thường. (characters.md)
+
+## From Chapter 1
+- Duy đã gặp một cô gái tên Hạnh (hoặc Hằng) ở chợ Đông Ba, mua vải lụa, tóc vấn cao — chưa rõ đây là nhân vật sẽ quay lại hay chỉ chi tiết thiết lập (ch_01)
+- Tuấn đang may áo jacket dài tay cho Duy, hẹn xong trước thứ Sáu (ch_01)
+- Bách không đến quán hôm nay, báo bận, nói 'gặp ai đó' — lý do vắng mặt chưa xác minh (ch_01)
