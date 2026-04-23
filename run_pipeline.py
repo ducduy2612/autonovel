@@ -650,7 +650,7 @@ def run_foundation(state: dict) -> dict:
     banner("PHASE 1: FOUNDATION", "=")
 
     best_score = state.get("foundation_score", 0.0)
-    best_eval = ""
+    best_eval = state.get("best_eval", "")
     iteration = state.get("iteration", 0)
     consecutive_eval_failures = 0
 
@@ -877,6 +877,7 @@ def run_foundation(state: dict) -> dict:
             best_score = score
             state["foundation_score"] = score
             state["lore_score"] = lore
+            state["best_eval"] = best_eval
             save_state(state)
         else:
             step(f"Score did not improve ({score} <= {best_score}), discarding")

@@ -504,7 +504,14 @@ def parse_json_response(text):
     except json.JSONDecodeError:
         # Last resort: fix common issues (literal newlines in strings)
         fixed = re.sub(r'(?<!\\)\n', '\\n', text)
-        return json.loads(fixed, strict=False)
+        try:
+            return json.loads(fixed, strict=False)
+        except json.JSONDecodeError as e:
+            preview = text[:200] if len(text) > 200 else text
+            raise ValueError(
+                f"Could not parse JSON from judge response: {e}\n"
+                f"Response preview: {preview}"
+            ) from e
 
 
 # --- Cross-check variants (English / Vietnamese) ---
@@ -1049,15 +1056,22 @@ def main():
                        help="Evaluate the entire novel")
     args = parser.parse_args()
 
+    # Determine which evaluation to run
     if args.phase == "foundation":
-        result = evaluate_foundation()
+        eval_fn = evaluate_foundation
         score_key = "overall_score"
     elif args.chapter is not None:
-        result = evaluate_chapter(args.chapter)
+        eval_fn = lambda: evaluate_chapter(args.chapter)
         score_key = "overall_score"
-    elif args.full:
-        result = evaluate_full()
+    else:  # --full
+        eval_fn = evaluate_full
         score_key = "novel_score"
+
+    try:
+        result = eval_fn()
+    except Exception as e:
+        print(f"---\n{score_key}: -1\nerror: {e}")
+        sys.exit(1)
 
     # Print structured output
     print("---")
