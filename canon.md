@@ -334,3 +334,12 @@
 ## From Chapter 22
 - Cảnh tin rằng khi một người mất hết ký ức tình cảm, Rửa sẽ lấp khoảng trống bằng ký ức của người đã bị quên — chưa xác nhận là sự thật hay lý thuyết của Cảnh (ch_22) (ch_22)
 - Linh xưng 'mày' với Cảnh lần đầu khi tức giận cực độ — phá vỡ quy tắc không dùng tao-mày (ch_22) (ch_22)
+
+
+## From Chapter 23
+- Linh Rửa lần năm vào đêm chương 23, nhưng Rửa không hoàn toàn—da đổi kết cấu (mịn hơn mu bàn tay, thô hơn gốc ngón), cơ thể dừng giữa chừng, không cũ hẳn không mới hẳn. Nguyên nhân: mưa dừng giữa Rửa do Cảnh buông. (ch_23)
+- Linh mất một mảnh ký ức (không cả năm) trong lần Rửa parcial—biết có gì mất nhưng không nhớ mất gì, như chỗ trống trong tủ đồ. (ch_23)
+- Cảnh khóc lần đầu tiên sau sáu năm gọi mưa—nước mắt chảy trên da chai, biểu hiện cảm xúc cuối cùng trước khi có thể mất hoàn toàn. (ch_23)
+- Cảnh quyết định dừng gọi mưa và sẽ đến quán bà Tâm ngồi ghế đầu bàn—ghế vẫn còn, bà Tâm vẫn rót nước. (ch_23)
+- Linh hứa nhớ Cảnh 'từ bây giờ'—không từ trước, vì Rửa đã lấy hết—nhưng sẽ ghi nhớ mới bắt đầu từ khoảnh khắc này. (ch_23)
+- Cảnh xưng 'mình' với Linh khi mở lòng lần cuối—khác với 'tôi' trong profile—cho thấy Cảnh drop khoảng cách giả. (ch_23)

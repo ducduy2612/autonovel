@@ -1,0 +1,5 @@
+Giữa trận mưa tầm tã do Cảnh召唤, Linh nhận ra cơ thể mình đang-trigger quá trình "Rửa" – một sự chuyển đổi hình hài bắt buộc, đổi lại cô sẽ bị cuốn trôi mất một năm ký ức. Để bảo vệ những kỷ niệm về Tuấn và những người bạn, Linh kiên quyết níu tay Cảnh, thuyết phục cô hãy để mọi thứ diễn ra tự nhiên thay vì cố níu kéo bằng sự vô cảm. 
+
+Lời nói chân thành của Linh đã đánh thức phần nhân tính cuối cùng trong Cảnh. Lần đầu tiên sau sáu năm cô đơn và bị所有人 lãng quên, Cảnh bật khóc, buông tay ra và để cơn mưa dứt. Hành động này khiến quá trình Rửa của Linh dừng lại giữa chừng. Cô giữ nguyên hình hài nữ, chỉ đánh đổi một mảnh ký ức rất nhỏ mà không sao nhớ nổi đó là gì. Cảnh quyết định sẽ bước ra ngoài, tìm đến quán của bà Tâm nơi vẫn luôn có một chiếc ghế dự bị dành cho cô. Linh hứa sẽ nhớ đến Cảnh từ khoảnh khắc này, dù quá khứ về cô đã bị xem như chưa từng tồn tại. 
+
+Chương khép lại với hình ảnh Linh bước đi dọc bờ sông Hương lộng gió, mỏi mệt nhưng nhẹ nhõm. Cô dũng cảm chấp nhận sự thật rằng nhóm bạn của mình đang dần tan rã: chậm rãi, đau đớn, nhưng chân thật.
