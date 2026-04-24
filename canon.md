@@ -343,3 +343,16 @@
 - Cảnh quyết định dừng gọi mưa và sẽ đến quán bà Tâm ngồi ghế đầu bàn—ghế vẫn còn, bà Tâm vẫn rót nước. (ch_23)
 - Linh hứa nhớ Cảnh 'từ bây giờ'—không từ trước, vì Rửa đã lấy hết—nhưng sẽ ghi nhớ mới bắt đầu từ khoảnh khắc này. (ch_23)
 - Cảnh xưng 'mình' với Linh khi mở lòng lần cuối—khác với 'tôi' trong profile—cho thấy Cảnh drop khoảng cách giả. (ch_23)
+
+
+## From Chapter 24
+- Ba tháng sau lần Rửa cuối (Ch 23), Huế trời trong hẳn — không mưa liên tục, nắng ấm xuyên áo, sông Hương trong lại lộ đáy sỏi. (ch_24)
+- Cú lợn sông Hương không kêu trong ba tháng trời trong. (ch_24)
+- Bún bò quán bà Tâm cay nhẹ khi không có mưa, không cay xé lưỡi. (ch_24)
+- Duy quyết định chuyển đi Đà Nẵng, làm xưởng may, có người mới ngoài Vòng. (ch_24)
+- Bách cắt tóc ngắn sát gáy, cơ thể nữ ổn định sau ba tháng. (ch_24)
+- Cảnh ngồi ghế đầu bàn quán bà Tâm lần đầu tiên — ghế trống sáu năm nay có người. (ch_24)
+- Bà Tâm giữ ly nước Cảnh uống dở, đặt vào kệ phía sau quầy thay vì dọn. (ch_24)
+- Bà Tâm tiếp tục để ly nước ngoài bậc thềm dù Cảnh đã ngồi trong quán — hai ly, một trong một ngoài. (ch_24)
+- Tuấn cài kẹp tóc — thói quen mới, khác với trước đây. (ch_24)
+- Linh nhận ra sự khác giữa nhẹ và trống: nhẹ là có nhưng không còn nặng, trống là không có gì. (ch_24)

@@ -1,0 +1,111 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "Im l\u1eb7ng \u1edf qu\u00e1n b\u00e0 T\u00e2m kh\u00f4ng gi\u1ed1ng im l\u1eb7ng \u1edf \u0111\u00e2u. Im l\u1eb7ng \u1edf \u0111\u00e2y d\u00e0y, \u0111\u1eb7c, nh\u01b0 n\u01b0\u1edbc s\u00f4ng H\u01b0\u01a1ng \u2014 \u0111\u1ee5c nh\u01b0ng kh\u00f4ng b\u1ea9n. Im l\u1eb7ng \u1edf \u0111\u00e2y c\u00f3 tr\u1ecdng l\u01b0\u1ee3ng. \u0110\u1eb7t l\u00ean vai, \u00e9p nh\u1eb9, nh\u01b0ng kh\u00f4ng \u0111au. Im l\u1eb7ng c\u1ee7a ng\u01b0\u1eddi \u0111\u00e3 ng\u1ed3i c\u00f9ng nhau qu\u00e1 nhi\u1ec1u l\u1ea7n, n\u00f3i qu\u00e1 nhi\u1ec1u c\u00e2u kh\u00f4ng c\u1ea7n n\u00f3i, v\u00e0 gi\u1edd ch\u1ec9 c\u1ea7n ng\u1ed3i.",
+    "fix": "Cut this entire passage. The silence has already been demonstrated by the scene work\u2014no one speaking, just small actions, coffee cooling. Replace with one sensory beat: 'C\u00e0 ph\u00ea ngu\u1ed9i d\u1ea7n. N\u1eafng tr\u00f4i qua m\u1eb7t b\u00e0n.' Let the reader feel the silence through what's described, not through explanation of what silence means.",
+    "note": "The voice profile says 'n\u1ed7i bu\u1ed3n kh\u00f4ng g\u1ecdi t\u00ean m\u00e0 t\u00edch t\u1ee5 qua nh\u1eefng g\u00ec nh\u00e2n v\u1eadt KH\u00d4NG n\u00f3i.' This passage does the opposite\u2014it names and explains the silence. The b\u00fan b\u00f2 cay detail earlier is perfect voice adherence; this passage breaks it."
+  },
+  "beat_coverage": {
+    "score": 8,
+    "weakest_moment": "Linh nh\u00ecn n\u0103m ng\u01b0\u1eddi quanh b\u00e0n. [Then catalogs each person's future in succession: L\u1ecbch s\u1ebd c\u1ea7n, Tu\u1ea5n c\u00f3 th\u1ec3 y\u00eau L\u1ecbch, B\u00e1ch s\u1ebd b\u1eadn, Duy chuy\u1ec3n \u0111i, C\u1ea3nh ng\u1ed3i.]",
+    "fix": "Break this catalog. Let each person's future leak into the scene organically\u2014one during dialogue, one during a gesture, one held back entirely. The Tu\u1ea5n-L\u1ecbch thread is already shown through 'g\u1eafp cho L\u1ecbch mi\u1ebfng cu\u1ed1i' and 'tay Tu\u1ea5n ch\u1ea1m \u0111\u0169a L\u1ecbch'\u2014the subsequent explanation 'Tu\u1ea5n c\u00f3 th\u1ec3 y\u00eau L\u1ecbch th\u1eadt' is redundant. Trust the scene.",
+    "note": "All five outline beats are hit and most are dramatized rather than summarized. The C\u1ea3nh-sitting beat is exceptionally well executed\u2014the 'kh\u00f3e m\u00f4i h\u01a1i cong' and 'v\u1ebft m\u00f4i m\u1edd tr\u00ean mi\u1ec7ng ly' are perfect small details. Duy's announcement is understated correctly."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "\"Hot.\" B\u00e1ch n\u00f3i. \"M\u01b0a \u00edt \u0111i th\u00ec n\u00f3ng. \u0110\u01a1n gi\u1ea3n.\"",
+    "fix": "B\u00e1ch wouldn't say 'Hot' in English or use '\u0111\u01a1n gi\u1ea3n' like a textbook. B\u00e1ch speaks blunt but Hue: 'N\u00f3ng. M\u01b0a \u00edt th\u00ec n\u00f3ng. C\u00f3 g\u00ec \u0111\u00e2u.' The English loanword 'Hot' breaks register for a 23-year-old Hue native in 2000.",
+    "note": "C\u1ea3nh's dialogue is pitch-perfect\u2014two words, kh\u00e0n, barely there. Duy's 'Hu\u1ebf m\u00f4 d\u1ea1o n\u00e0y n\u00f3ng v\u1eady?' correctly uses 'm\u00f4.' Linh's '\u1eea. B\u1ea1n.' is exactly right for the voice profile. Tu\u1ea5n's domestic chatter with b\u00e0 T\u00e2m ('xin th\u00eam \u0111\u0169a, xin th\u00eam n\u01b0\u1edbc m\u1eafm') reveals character through action. But B\u00e1ch occasionally slips into explaining-things-to-reader mode."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "The b\u00fan b\u00f2 thread harvest is elegant but risks being too subtle\u2014if a reader doesn't remember Ch 2's cay-b\u00e1o-m\u01b0a system, 'kh\u00f4ng cay l\u1eafm' reads as random detail.",
+    "fix": "Add one tiny anchor sentence before or after: 'Linh \u0111\u1ec3 \u00fd. Kh\u00f4ng cay x\u00e9 l\u01b0\u1ee1i. Kh\u00f4ng m\u01b0a.' This gives the reader who forgot the system a micro-reminder without over-explaining. Currently the passage trusts the reader almost too much.",
+    "note": "Thread harvesting is largely invisible and natural. C\u1ea3nh in the sixth chair is the chapter's emotional climax and it's earned through 23 chapters of the empty chair. B\u00e0 T\u00e2m keeping C\u1ea3nh's glass is a beautiful silent payoff. Ly outside + ly inside = perfect visual threading."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "Im l\u1eb7ng \u1edf qu\u00e1n b\u00e0 T\u00e2m kh\u00f4ng gi\u1ed1ng im l\u1eb7ng \u1edf \u0111\u00e2u. Im l\u1eb7ng \u1edf \u0111\u00e2y d\u00e0y, \u0111\u1eb7c, nh\u01b0 n\u01b0\u1edbc s\u00f4ng H\u01b0\u01a1ng \u2014 \u0111\u1ee5c nh\u01b0ng kh\u00f4ng b\u1ea9n.",
+    "fix": "Cut entirely. Replace with action: 'N\u1eafng tr\u00f4i qua m\u1eb7t b\u00e0n. C\u00e0 ph\u00ea ngu\u1ed9i d\u1ea7n. Kh\u00f4ng ai n\u00f3i. Kh\u00f4ng c\u1ea7n.' The silence is already present in the scene\u2014naming it makes it disappear.",
+    "strongest_sentence": "B\u00fan b\u00f2 s\u00e1ng nay kh\u00f4ng cay l\u1eafm.",
+    "note": "Three consecutive sentences near the end start with 'Linh' (Linh ch\u1ea1m ng\u1ef1c / Linh nh\u1ea5c ly / Linh nh\u00ecn)\u2014minor pattern slip. The sand metaphor returning ('c\u00e1t \u01b0\u1edbt tr\u01b0\u1ee3t qua ng\u00f3n') is a strong callback. 'V\u1ebft m\u00f4i m\u1edd tr\u00ean mi\u1ec7ng ly' is exactly the kind of specific physical detail the voice calls for."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Three-month gap from Ch 23 is appropriate. Linh's partial R\u1eeda effects noted correctly (da m\u1ecbn h\u01a1n mu b\u00e0n tay, th\u00f4 h\u01a1n g\u1ed1c ng\u00f3n). C\u1ea3nh's journey from Ch 23's ending\u2014walking toward qu\u00e1n b\u00e0 T\u00e2m\u2014to now sitting there is seamless. Tu\u1ea5n sitting one seat away tracks from Ch 13's established distance and Ch 15's emotional shift. L\u1ecbch's s\u1ed5 closed then opened for one line ('S\u00e1u ng\u01b0\u1eddi') is a perfect evolution of her relationship to record-keeping."
+  },
+  "canon_compliance": {
+    "score": 8,
+    "violations": [
+      "Minor: Outline says 'C\u00e0 ph\u00ea tr\u01b0\u1edbc m\u1eb7t, kh\u00f4ng ai u\u1ed1ng' for C\u1ea3nh, but chapter gives C\u1ea3nh n\u01b0\u1edbc l\u1ecdc. This is actually BETTER than outline (C\u1ea3nh drinks water per established canon), but technically deviates from outline entry.",
+      "B\u00e1ch uses 'Tao n\u00f3i s\u1ef1 th\u1eadt' with Duy\u2014voice profile says group never uses tao-m\u00e0y except in extreme anger. This reads as casual, not extreme anger. Should be 'M\u00ecnh n\u00f3i s\u1ef1 th\u1eadt' or just 'S\u1ef1 th\u1eadt.'"
+    ],
+    "note": "All physical descriptions match canon. C\u1ea3nh: th\u1ea5p, m\u1ecfng, tay chai, \u00e1o s\u01a1 mi tr\u1eafng x\u00e1m, d\u00e9p t\u1ed5 ong. B\u00e0 T\u00e2m: doesn't ask, keeps habits. L\u1ecbch: s\u1ed5 da \u0111en, writes in red. Timeline (three months after Ch 23 = approximately early 2001) is consistent. The R\u1eeda parcial effects are consistent with Ch 23's 'kh\u00f4ng c\u0169 h\u1eb3n kh\u00f4ng m\u1edbi h\u1eb3n.'"
+  },
+  "lore_integration": {
+    "score": 7,
+    "weakest_moment": "The passage about what m\u01b0a might or might not do now: 'M\u01b0a c\u00f3 th\u1ec3 \u0111\u1ebfn. S\u1ebd \u0111\u1ebfn. Hu\u1ebf lu\u00f4n m\u01b0a. Nh\u01b0ng khi m\u01b0a \u0111\u1ebfn \u2014 c\u00f3 th\u1ec3 ch\u1ec9 l\u00e0 m\u01b0a. N\u01b0\u1edbc r\u01a1i... Kh\u00f4ng h\u01a1n. Kh\u00f4ng g\u1ecdi ai. Kh\u00f4ng R\u1eeda ai. Ch\u1ec9 n\u01b0\u1edbc.'",
+    "fix": "This risks undoing the established rule that the V\u00f2ng still exists and R\u1eeda will still happen. If C\u1ea3nh stops calling rain, rain may still come naturally, and when it does, someone will still change. The narrator's uncertainty ('c\u00f3 th\u1ec3 ch\u1ec9 l\u00e0 m\u01b0a') is appropriate, but 'Kh\u00f4ng R\u1eeda ai' is too hopeful and contradicts canon. Revise to: 'Nh\u01b0ng khi m\u01b0a \u0111\u1ebfn \u2014 Linh kh\u00f4ng bi\u1ebft. C\u00f3 th\u1ec3 ch\u1ec9 l\u00e0 n\u01b0\u1edbc r\u01a1i. C\u00f3 th\u1ec3 v\u1eabn l\u00e0 R\u1eeda. Kh\u00f4ng bi\u1ebft.' The uncertainty is more honest.",
+    "note": "The b\u00fan b\u00f2 cay system, c\u00fa l\u1ee3n silence, s\u00f4ng H\u01b0\u01a1ng clarity, and d\u1ea1 lan absence all work as integrated world details. The Gh\u1ebf tr\u1ed1ng resolution is the chapter's strongest lore moment. But the ending's speculation about rain needs calibration against established rules."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The middle section where Linh catalogs each person's future (L\u1ecbch s\u1ebd c\u1ea7n / Tu\u1ea5n c\u00f3 th\u1ec3 y\u00eau L\u1ecbch / B\u00e1ch s\u1ebd b\u1eadn / Duy chuy\u1ec3n \u0111i / C\u1ea3nh ng\u1ed3i) reads like a summary paragraph, slowing momentum right when the chapter should be building toward the final image.",
+    "fix": "Cut the catalog by half. Keep only the two most surprising futures (Tu\u1ea5n-L\u1ecbch; L\u1ecbch will need her own life). Let B\u00e1ch and Duy's futures remain implied by their actions. The emotional weight comes from what's left unsaid\u2014not from a complete inventory of every character's trajectory.",
+    "note": "The C\u1ea3nh-sitting moment genuinely surprises with its quietness\u2014it would have been easy to make this dramatic, but the restraint is the point. Duy's announcement lands with appropriate weight. The b\u00e0 T\u00e2m glass-keeping moment is a small emotional detonation. But the chapter's pacing sags in the middle catalog."
+  },
+  "three_weakest_sentences": [
+    "Im l\u1eb7ng \u1edf qu\u00e1n b\u00e0 T\u00e2m kh\u00f4ng gi\u1ed1ng im l\u1eb7ng \u1edf \u0111\u00e2u.",
+    "\"Hot.\" B\u00e1ch n\u00f3i. \"M\u01b0a \u00edt \u0111i th\u00ec n\u00f3ng. \u0110\u01a1n gi\u1ea3n.\"",
+    "M\u1ed9t ch\u1eef. \u0110\u1ee7."
+  ],
+  "three_strongest_sentences": [
+    "B\u00fan b\u00f2 s\u00e1ng nay kh\u00f4ng cay l\u1eafm.",
+    "B\u00e0 T\u00e2m kh\u00f4ng n\u00f3i t\u1ea1i sao. Linh kh\u00f4ng h\u1ecfi. C\u1ea3 hai bi\u1ebft.",
+    "Tr\u1ed1ng h\u00f4m nay l\u00e0 ng\u01b0\u1eddi \u0111i mua, ng\u01b0\u1eddi \u0111i l\u00e0m, ng\u01b0\u1eddi s\u1ebd quay l\u1ea1i. Tr\u1ed1ng t\u1ea1m. Tr\u1ed1ng ch\u1edd."
+  ],
+  "ai_patterns_detected": [
+    "Explanatory passage about what silence 'means' rather than letting silence exist through scene work",
+    "Character-future catalog reads like AI summary mode (listing each character with a sentence about their trajectory)",
+    "\"M\u1ed9t ch\u1eef. \u0110\u1ee7.\" is too neat and symmetrical\u2014the voice profile explicitly warns against wrapping emotions in tidy packages",
+    "Slight paragraph-length uniformity in the middle section"
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "prose_quality",
+  "top_3_revisions": [
+    "Cut the entire 'Im l\u1eb7ng \u1edf qu\u00e1n b\u00e0 T\u00e2m kh\u00f4ng gi\u1ed1ng im l\u1eb7ng \u1edf \u0111\u00e2u' paragraph (4 sentences). The silence has been demonstrated by the scene. Trust it. Replace with one physical beat.",
+    "Revise B\u00e1ch's 'Hot' / '\u0110\u01a1n gi\u1ea3n' dialogue to Hue register: 'N\u00f3ng. M\u01b0a \u00edt th\u00ec n\u00f3ng. C\u00f3 g\u00ec \u0111\u00e2u.' Remove English loanword and textbook-explanation tone.",
+    "Reduce Linh's future-catalog by half. Cut B\u00e1ch and Duy's entries entirely (their futures are shown through their actions and dialogue). Keep only Tu\u1ea5n-L\u1ecbch ('Tu\u1ea5n c\u00f3 th\u1ec3 y\u00eau L\u1ecbch th\u1eadt. Ho\u1eb7c \u0111\u00e3 y\u00eau.') and L\u1ecbch ('L\u1ecbch s\u1ebd c\u1ea7n cu\u1ed9c s\u1ed1ng ri\u00eang'). Trust the reader to infer the rest."
+  ],
+  "new_canon_entries": [
+    "Ba th\u00e1ng sau Ch 23, Hu\u1ebf tr\u1eddi trong li\u00ean t\u1ee5c kh\u00f4ng m\u01b0a, s\u00f4ng H\u01b0\u01a1ng trong l\u1ea1i l\u1ed9 \u0111\u00e1y s\u1ecfi, c\u00fa l\u1ee3n kh\u00f4ng k\u00eau (ch_24)",
+    "Duy chuy\u1ec3n \u0111i \u0110\u00e0 N\u1eb5ng th\u1ee9 Ba tu\u1ea7n sau, xe \u0111\u00f2 t\u00e1m gi\u1edd s\u00e1ng, l\u00e0m x\u01b0\u1edfng may l\u01b0\u01a1ng h\u01a1n, c\u00f3 ng\u01b0\u1eddi m\u1edbi ngo\u00e0i V\u00f2ng (ch_24)",
+    "B\u00e1ch c\u1eaft t\u00f3c s\u00e1t g\u00e1y, c\u01a1 th\u1ec3 n\u1eef \u1ed5n sau ba th\u00e1ng, u\u1ed1ng n\u01b0\u1edbc m\u00eda n\u00f3ng g\u1eebng nhi\u1ec1u (ch_24)",
+    "Tu\u1ea5n b\u1eaft \u0111\u1ea7u c\u00e0i k\u1eb9p t\u00f3c b\u00ean tai \u2014 th\u00f3i quen m\u1edbi (ch_24)",
+    "C\u1ea3nh ng\u1ed3i gh\u1ebf \u0111\u1ea7u b\u00e0n qu\u00e1n b\u00e0 T\u00e2m l\u1ea7n \u0111\u1ea7u ti\u00ean sau s\u00e1u n\u0103m, u\u1ed1ng n\u01b0\u1edbc l\u1ecdc, b\u00e0 T\u00e2m \u0111\u1ec3 ly cho C\u1ea3nh (ch_24)",
+    "B\u00e0 T\u00e2m gi\u1eef ly n\u01b0\u1edbc C\u1ea3nh u\u1ed1ng d\u1edf, \u0111\u1eb7t v\u00e0o k\u1ec7 ph\u00eda sau qu\u1ea7y kh\u00f4ng d\u1ecdn (ch_24)",
+    "L\u1ecbch ghi trong s\u1ed5: 'Ng\u00e0y [tr\u1ed1ng]. Tr\u1eddi trong. S\u00e1u ng\u01b0\u1eddi.' \u2014 entry ng\u1eafn nh\u1ea5t t\u1eeb tr\u01b0\u1edbc \u0111\u1ebfn nay (ch_24)",
+    "R\u1eeda parcial c\u1ee7a Linh sau ba th\u00e1ng: da m\u1ecbn h\u01a1n mu b\u00e0n tay, th\u00f4 h\u01a1n g\u1ed1c ng\u00f3n, m\u1ea5t m\u1ed9t m\u1ea3nh k\u00fd \u1ee9c kh\u00f4ng nh\u1edb m\u1ea5t g\u00ec (ch_24)",
+    "L\u1ecbch h\u1ee9a ra \u0111\u01b0a Duy ng\u00e0y \u0111i \u0110\u00e0 N\u1eb5ng (ch_24)"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 25.45,
+    "sentence_length_cv": 0.737,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 1.0,
+    "language": "vi",
+    "vi_english_leaks": [],
+    "vi_translation_calques": [],
+    "vi_fiction_ai_tells": [],
+    "vi_telling_violations": 0,
+    "vi_structural_ai_tics": []
+  },
+  "raw_judge_score": 7
+}
