@@ -1,0 +1,108 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "\u1ede Hu\u1ebf, m\u1ecdi th\u1ee9 \u0111\u1ec1u \u1ea9m, m\u1ecdi th\u1ee9 \u0111\u1ec1u l\u1eabn v\u00e0o nhau: m\u00f9i v\u1ecb, \u00e2m thanh, k\u00fd \u1ee9c. N\u01b0\u1edbc m\u1eaft c\u0169ng nh\u01b0 m\u01b0a \u2014 r\u1edbt xu\u1ed1ng r\u1ed3i ch\u1ea3y \u0111i, ai bi\u1ebft gi\u1ecdt n\u00e0o c\u1ee7a tr\u1eddi, gi\u1ecdt n\u00e0o c\u1ee7a ng\u01b0\u1eddi.",
+    "fix": "Cut this passage entirely. It's generic literary musking that tells the reader how to feel. Replace with a single sensory detail: the taste of the cool n\u01b0\u1edbc m\u00eda, the specific smell of wet asphalt\u2014let the body carry the theme without the narrator explaining it.",
+    "note": "The voice profile calls for body-before-emotion and for emotions that accumulate through what characters don't say. This passage does the opposite\u2014naming abstractions (m\u00f9i v\u1ecb, \u00e2m thanh, k\u00fd \u1ee9c) and delivering a thesis statement about tears and rain. The best moments in this chapter nail the voice: 'S\u1ee3. S\u1ee3 cho B\u00e1ch. S\u1ee3 h\u01a1n v\u00ec m\u00ecnh kh\u00f4ng d\u00e1m \u0111i c\u00f9ng.' is perfect\u2014short, physical, indirect."
+  },
+  "beat_coverage": {
+    "score": 8,
+    "weakest_moment": "The beat where Linh hesitates about going with B\u00e1ch is reduced to two words: '\u0110i m\u1ed9t m\u00ecnh \u0111i.' The outline specifies 'Linh do d\u1ef1' as an emotional beat, but the chapter renders Linh's refusal as decisiveness rather than hesitation.",
+    "fix": "Add one beat of physical hesitation before the refusal\u2014Linh's hand pausing on the glass, a breath held and released, a glance toward the dark street\u2014before she says no. This would show the do d\u1ef1 rather than skipping it.",
+    "note": "All five outline beats are hit and most are fully dramatized. The break-in sequence is appropriately tense, C\u00f4 B\u00edch's confrontation is a genuine scene rather than summary, and the morning debrief connects clues effectively. The file-reading sequence could use more visceral reaction from B\u00e1ch, but the beats are present and functional."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "T\u00f4i l\u00e0 ng\u01b0\u1eddi ghi ch\u00e9p. Ng\u01b0\u1eddi gi\u1eef h\u1ed3 s\u01a1. Ng\u01b0\u1eddi nh\u00ecn th\u1ea5y m\u1ecdi th\u1ee9 tr\u00f4i qua m\u00e0 kh\u00f4ng ng\u0103n \u0111\u01b0\u1ee3c.",
+    "fix": "Replace with something more specific to C\u00f4 B\u00edch's bureaucratic register. She's a woman who speaks in forms and procedures. Something like: 'T\u00f4i ch\u1ec9 ghi. Hai m\u01b0\u01a1i n\u0103m r\u1ed3i, t\u00f4i ch\u1ec9 ghi.' Shorter, less poetic, more tired-bureaucrat-than-philosopher.",
+    "note": "B\u00e1ch's voice is distinct\u2014direct, aggressive, no filler. 'C\u00f4 mu\u1ed1n g\u00ec?' is pure B\u00e1ch. Linh's silence and object-touching reads correctly. The standout moment is C\u00f4 B\u00edch's 'C\u1edfi gi\u00e0y ra ch\u01b0a?'\u2014a question so specific and unexpected that it instantly humanizes her. But some of C\u00f4 B\u00edch's later dialogue drifts toward generic wisdom-dispensing rather than the tired, precise bureaucrat established in her profile."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "The red herring about \u1ee6y Ban as potential enemy is planted via B\u00e1ch's dialogue ('Ch\u01b0a ch\u1eafc') rather than through scene work\u2014it's told, not dramatized.",
+    "fix": "Add one specific detail in the file room that makes B\u00e1ch (and the reader) genuinely uncertain: a locked drawer, a separate file with Linh's name circled, a notation B\u00e1ch doesn't have time to read before C\u00f4 B\u00edch arrives. Physical evidence of ambiguity rather than character assertion.",
+    "note": "The three clues connecting (th\u1ee3 n\u01b0\u1edbc, H\u01b0\u01a1ng Th\u1ee7y, ng\u01b0\u1eddi ng\u1ed3i b\u00ean s\u00f4ng) are seeded well and feel like organic discoveries. The file detail about 'ai kh\u00f3c, ai im, ai b\u1ecf v\u1ec1 s\u1edbm, ai ng\u1ed3i l\u1ea1i' is genuinely creepy and suggests someone has been watching closely\u2014a seed for future revelation. C\u00f4 B\u00edch's missing sister connects her personal stakes to the institutional role without exposition-dumping."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "B\u00e1ch l\u01b0\u1edbt qua, tim \u0111\u1eadp th\u00ecnh th\u1ecbch trong ng\u1ef1c, tay l\u1ea1nh t\u1eeb \u0111\u1ea7u ng\u00f3n lan xu\u1ed1ng c\u1ed5 tay.",
+    "fix": "'Tim \u0111\u1eadp th\u00ecnh th\u1ecbch trong ng\u1ef1c' is clich\u00e9 in any language. Replace with something more specific to B\u00e1ch's body: 'M\u00e1u ch\u1ea1y n\u00f3ng ra t\u1eadn \u0111\u1ea7u ng\u00f3n \u2014 tay l\u1ea1nh m\u00e0 th\u1ecbt n\u00f3ng, nh\u01b0 ch\u1ea1m v\u00e0o \u1ed1ng n\u01b0\u1edbc m\u00f9a m\u01b0a.' Keep the sensation, lose the formula.",
+    "strongest_sentence": "C\u1edfi gi\u00e0y ra ch\u01b0a?",
+    "note": "Sentence variety is generally good\u2014fragments ('Tr\u1eddi t\u1ed1i.', 'N\u1eeda \u0111\u00eam.', 'S\u1ee3.') mixed with longer rhythms. The 'nh\u01b0' simile count runs high (6+ across the chapter), which becomes a visible pattern. The strongest prose comes in the quiet moments: the description of the wilted qu\u1ef3nh, the final image of Linh folding three lines into her pocket. The action sequences are competent but lean on familiar constructions."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Chapter 8 ended with Linh and L\u1ecbch sitting in intimate silence, the qu\u1ef3nh wilting, a moment of warmth. Chapter 9 opens with B\u00e1ch arriving at the caf\u00e9 at 8pm\u2014the emotional register shifts appropriately from intimate to urgent. The wilted qu\u1ef3nh is mentioned again ('\u0111\u00e3 t\u00e0n' in the previous chapter's closing). B\u00e1ch's s\u1ed5 m\u1ef1c \u0111\u1ecf carries forward. B\u00e0 T\u00e2m's silent observation continues. The ly n\u01b0\u1edbc on the empty chair persists. Emotional continuity holds: Linh has just recognized something new and warm in L\u1ecbch, and now she's being pulled back into investigation\u2014her '\u0110i m\u1ed9t m\u00ecnh \u0111i' reads as someone protecting fragile new feelings rather than mere caution."
+  },
+  "canon_compliance": {
+    "score": 9,
+    "violations": [],
+    "note": "All facts align with established canon. V\u00f2ng 7, Qu\u1ed1c H\u1ecdc 1994, five current members. H\u1ed3 s\u01a1 details match (ng\u00e0y, gi\u1edd, ai b\u1ecb, th\u1eddi ti\u1ebft, v\u1ecb tr\u00ed, ai kh\u00f3c, ai im). C\u00f4 B\u00edch's sister H\u1ed3ng, R\u1eeda 1985. B\u00e1ch is th\u1ee3 \u0111i\u1ec7n. File on ng\u01b0\u1eddi th\u1ee9 s\u00e1u: nam, H\u01b0\u01a1ng Th\u1ee7y, ng\u00e0nh n\u01b0\u1edbc, knows before rain, possibly calling rain. The detail about B\u00e1ch doing recon three times is consistent with Ch 9 canon ('C\u00f4 B\u00edch \u0111\u00e3 theo d\u00f5i B\u00e1ch \u0111i recon \u1ee6y Ban ba l\u1ea7n trong tu\u1ea7n'). No timeline or factual errors detected."
+  },
+  "lore_integration": {
+    "score": 7,
+    "weakest_moment": "The \u1ee6y Ban file room is described in generic bureaucratic terms\u2014t\u1ee7 s\u1eaft, b\u00e0n l\u00e0m vi\u1ec7c, gh\u1ebf x\u1ebfp, l\u1ecbch c\u0169. This could be any government building in Vietnam.",
+    "fix": "Add one Hu\u1ebf-specific detail to the file room: nhang tr\u1ea7m stubs in a tin can (someone burns incense here\u2014why?), or the specific texture of the Hu\u1ebf humidity inside the room (papers curling at edges, mold on oldest files), or the sound of the s\u00f4ng H\u01b0\u01a1ng audible through the window. Make the bureaucracy feel like it belongs to this city.",
+    "note": "The lore does work thematically\u2014the bureaucratic filing of R\u1eeda incidents mirrors L\u1ecbch's personal notebooks, and the clinical language ('Ng\u01b0\u1eddi th\u1ee9 s\u00e1u b\u1ecb lo\u1ea1i do b\u1ecb qu\u00ean ho\u00e0n to\u00e0n') creates effective horror through contrast with the lived experience. C\u00f4 B\u00edch is the strongest integration point: her institutional role and personal loss are inseparable. But the \u1ee6y Ban as setting is under-characterized compared to qu\u00e1n b\u00e0 T\u00e2m."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The morning debrief scene at qu\u00e1n b\u00e0 T\u00e2m reiterates information the reader already knows from the file-reading scene. B\u00e1ch recaps what we just witnessed: 'Bi\u1ebft c\u00f3 ng\u01b0\u1eddi th\u1ee9 s\u00e1u. Bi\u1ebft ng\u01b0\u1eddi \u0111\u00f3 \u0111ang g\u1ecdi m\u01b0a.'",
+    "fix": "Compress the recap. Let Linh read the notes silently while B\u00e1ch watches her reaction\u2014what matters is Linh's response to the information, not the information itself being repeated. One line of B\u00e1ch's explanation, then pivot immediately to Linh processing: her finger tracing 'H\u01b0\u01a1ng Th\u1ee7y,' the weight settling in her chest.",
+    "note": "The break-in sequence builds genuine tension. C\u00f4 B\u00edch's appearance is the chapter's best surprise\u2014the question 'C\u1edfi gi\u00e0y ra ch\u01b0a?' completely recontextualizes the confrontation. The final section where Linh connects three clues and feels the weight of the forgotten person is emotionally effective. But the structure is predictable (decision\u2192action\u2192discovery\u2192share\u2192connect), and the morning scene loses momentum by repeating revelations."
+  },
+  "three_weakest_sentences": [
+    "B\u00e1ch l\u01b0\u1edbt qua, tim \u0111\u1eadp th\u00ecnh th\u1ecbch trong ng\u1ef1c, tay l\u1ea1nh t\u1eeb \u0111\u1ea7u ng\u00f3n lan xu\u1ed1ng c\u1ed5 tay.",
+    "S\u1ee3 c\u00e1i c\u00e1ch s\u1ef1 th\u1eadt \u0111ang m\u1edf ra, t\u1eebng l\u1edbp m\u1ed9t, nh\u01b0 b\u00f3c v\u1ecf c\u1ee7 h\u00e0nh.",
+    "N\u01b0\u1edbc m\u1eaft c\u0169ng nh\u01b0 m\u01b0a \u2014 r\u1edbt xu\u1ed1ng r\u1ed3i ch\u1ea3y \u0111i, ai bi\u1ebft gi\u1ecdt n\u00e0o c\u1ee7a tr\u1eddi, gi\u1ecdt n\u00e0o c\u1ee7a ng\u01b0\u1eddi."
+  ],
+  "three_strongest_sentences": [
+    "C\u1edfi gi\u00e0y ra ch\u01b0a?",
+    "S\u1ee3. S\u1ee3 cho B\u00e1ch. S\u1ee3 h\u01a1n v\u00ec m\u00ecnh kh\u00f4ng d\u00e1m \u0111i c\u00f9ng.",
+    "\u1ede Hu\u1ebf, \u0111\u1ed3 u\u1ed1ng \u1ea5m l\u00e0 c\u00e1ch ng\u01b0\u1eddi ta n\u00f3i *t\u00f4i lo cho c\u1eadu* m\u00e0 kh\u00f4ng c\u1ea7n m\u1edf mi\u1ec7ng."
+  ],
+  "ai_patterns_detected": [
+    "Heavy 'nh\u01b0' simile usage (6+ instances) creating visible repetitive pattern",
+    "Some paragraphs follow topic\u2192elaboration\u2192thematic wrap-up structure",
+    "The 'naming three parallel things' pattern appears multiple times (m\u00f9i v\u1ecb, \u00e2m thanh, k\u00fd \u1ee9c / ai kh\u00f3c, ai im, ai b\u1ecf v\u1ec1 s\u1edbm, ai ng\u1ed3i l\u1ea1i / s\u1ee3, lo l\u1eafng, h\u1ed1i h\u1eadn)",
+    "Emotional peaks sometimes explained rather than rendered through sensation",
+    "The break-in sequence follows a mechanically efficient structure (approach\u2192obstacle\u2192solution\u2192discovery) without surprising deviation"
+  ],
+  "overall_score": 6.95,
+  "weakest_dimension": "prose_quality",
+  "top_3_revisions": [
+    "Cut the 'N\u01b0\u1edbc m\u1eaft c\u0169ng nh\u01b0 m\u01b0a' passage and the 'b\u00f3c v\u1ecf c\u1ee7 h\u00e0nh' metaphor\u2014both are thesis statements the chapter doesn't need. Trust the sensory details (the taste of cooling n\u01b0\u1edbc m\u00eda, the smell of wet asphalt, the weight of the folded paper in Linh's pocket) to carry the theme.",
+    "Rework the morning debrief scene to focus on Linh's reaction rather than B\u00e1ch's recap. The reader already knows the file contents. What matters is how Linh's body receives the information\u2014let her finger trace the words, let the realization settle physically before the intellectual connection.",
+    "Add one Hu\u1ebf-specific sensory detail to the \u1ee6y Ban file room to differentiate it from generic bureaucratic space: the sound of the river through the window, the particular way Hu\u1ebf humidity has curled the oldest files, a stub of nhang tr\u1ea7m in a coffee tin. Make the institution feel like it belongs to this city."
+  ],
+  "new_canon_entries": [
+    "B\u00e1ch \u0111i recon \u1ee6y Ban ba l\u1ea7n trong tu\u1ea7n tr\u01b0\u1edbc khi \u0111\u1ed9t nh\u1eadp, mang theo k\u1eb9p gi\u1ea5y b\u1ebb th\u00e0nh \u0111\u1ed3 nh\u1ed3i kh\u00f3a, \u0111\u00e8n pin nh\u1ecf c\u1ee1 ng\u00f3n tay, s\u1ed5 ghi ch\u00e9p m\u1ef1c \u0111\u1ecf",
+    "Ph\u00f2ng h\u1ed3 s\u01a1 m\u1eadt \u1ee6y Ban l\u00e0 ph\u00f2ng 204, l\u1ea7u hai, r\u1ebd tr\u00e1i; c\u00f3 b\u1ed1n t\u1ee7 s\u1eaft, t\u1ee7 th\u1ee9 ba ch\u1ee9a h\u1ed3 s\u01a1 c\u00e1c V\u00f2ng",
+    "Linh t\u1ef1 ch\u00e9p ba manh m\u1ed1i v\u00e0o gi\u1ea5y nh\u1ecf b\u1ecf t\u00fai \u00e1o: th\u1ee3 s\u1eeda \u1ed1ng n\u01b0\u1edbc, H\u01b0\u01a1ng Th\u1ee7y, ng\u01b0\u1eddi ng\u1ed3i b\u00ean s\u00f4ng"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 15.17,
+    "sentence_length_cv": 0.75,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 0.05,
+    "language": "vi",
+    "vi_english_leaks": [],
+    "vi_translation_calques": [],
+    "vi_fiction_ai_tells": [],
+    "vi_telling_violations": 0,
+    "vi_structural_ai_tics": [
+      [
+        "kh\u00f4ng ph\u1ea3i .{3,50} m\u00e0 (?:l\u00e0|ch\u00ednh l\u00e0|ch\u00ednh)",
+        1
+      ]
+    ]
+  },
+  "raw_judge_score": 7
+}

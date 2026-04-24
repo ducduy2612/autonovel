@@ -306,3 +306,4 @@ discarded	ch20	5.39	2465	discard	Chapter 20 attempt 3
 95f31e5	ch23	6.5	1747	keep	Chapter 23 (attempt 1)
 reverted	rev-ch13	5.82	1537	discard	Cycle 1: momentum_loss regressed 6.5->5.82
 cc936b2	rev-ch04	7.0	3705	keep	Cycle 1: thinnest_character improved 6.0->7.0
+f35de50	rev-ch16	7.0	1591	keep	Cycle 1: momentum_loss improved 7.0->7.0
