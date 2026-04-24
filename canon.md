@@ -329,3 +329,8 @@
 - Cảnh nói 'Tôi sợ ngồi một mình' — lần đầu tiên nói sợ trong sáu năm (ch_21)
 - Linh chạm vai Cảnh — lần đầu tiên ai trong nhóm chạm Cảnh kể từ khi bị quên (ch_21)
 - Cảnh xác nhận với Linh: 'Tôi biết' về việc mình đang mất khả năng cảm xúc (ch_21)
+
+
+## From Chapter 22
+- Cảnh tin rằng khi một người mất hết ký ức tình cảm, Rửa sẽ lấp khoảng trống bằng ký ức của người đã bị quên — chưa xác nhận là sự thật hay lý thuyết của Cảnh (ch_22) (ch_22)
+- Linh xưng 'mày' với Cảnh lần đầu khi tức giận cực độ — phá vỡ quy tắc không dùng tao-mày (ch_22) (ch_22)

@@ -1,0 +1,107 @@
+{
+  "voice_adherence": {
+    "score": 5,
+    "weakest_moment": "\u0110au \u0111\u1edbn v\u1eadt l\u00fd xo\u00e1y qua l\u1ed3ng ng\u1ef1c Linh. C\u1ea3nh \u0111\u00e3 c\u00f4 \u0111\u01a1n \u0111\u1ebfn m\u1ee9c s\u1eb5n s\u00e0ng t\u1ef1 t\u01b0\u1edbc \u0111o\u1ea1t linh h\u1ed3n m\u00ecnh, h\u00f3a m\u00ecnh th\u00e0nh m\u1ed9t con virus k\u00fd \u1ee9c, ch\u1ec9 \u0111\u1ec3 \u0111\u01b0\u1ee3c \u0111\u1ecdng l\u1ea1i trong \u0111\u1ea7u n\u0103m ng\u01b0\u1eddi kh\u00f4ng c\u00f2n bi\u1ebft c\u1eadu l\u00e0 ai. T\u00ecnh y\u00eau c\u1ee7a C\u1ea3nh t\u00e0n nh\u1eabn \u0111\u1ebfn th\u1ea3m th\u01b0\u01a1ng. M\u1ed9t m\u1ea7m m\u1ecdc tr\u00ean \u0111\u1ea5t c\u1eb1n, \u0111\u00e2m r\u1ec5 v\u00e0o m\u00e1u th\u1ecbt ng\u01b0\u1eddi kh\u00e1c \u0111\u1ec3 h\u00fat l\u1ea5y s\u1ef1 s\u1ed1ng.",
+    "fix": "Cut this entire passage. Replace with one physical sensation: 'Linh nu\u1ed1t khan. V\u1ecb g\u00ec \u0111\u00f3 l\u1ee3 n\u01a1i c\u1ed5 \u2014 nh\u01b0 n\u01b0\u1edbc s\u00f4ng H\u01b0\u01a1ng m\u00f9a l\u0169. Nghe C\u1ea3nh n\u00f3i m\u00e0 ru\u1ed9t gan l\u1ea1nh ng\u1eaft.' Let the reader feel the horror through the body, not through authorial interpretation.",
+    "note": "The voice profile demands body-before-emotion and specifically bans k\u1ecbch t\u00ednh h\u00f3a. This passage does the opposite: it narrates C\u1ea3nh's psychology in abstract terms, uses the Western/scientific metaphor 'virus k\u00fd \u1ee9c' (completely alien to Hu\u1ebf oral tradition), and stacks three evaluative sentences in a row. The strongest voice moment is 'L\u1ea1nh. L\u1ea1nh t\u1eeb d\u01b0\u1edbi g\u00f3t ch\u00e2n l\u00ean' \u2014 perfect body-first writing. But the chapter repeatedly abandons this principle at emotional peaks, reverting to AI-typical exposition."
+  },
+  "beat_coverage": {
+    "score": 7,
+    "weakest_moment": "Beat 2 \u2014 Linh's gradual understanding is compressed into one metaphor: 'M\u00e1i ch\u00e8o tr\u01b0\u1ee3t tay, r\u01a1i xu\u1ed1ng v\u1ef1c s\u00e2u th\u1eb3m.' The realization that C\u1ea3nh is hollowing people out should be slower, more physical, accumulating detail by detail.",
+    "fix": "Let Linh discover the plan in stages: first confusion, then a physical reaction (cold spreading), then understanding through a concrete image \u2014 perhaps watching water fill a crack in the floor, or remembering how s\u00f4ng H\u01b0\u01a1ng carries sediment. The 'm\u00e1i ch\u00e8o' clich\u00e9 should be replaced with something from Linh's world (sewing, fabric, needles).",
+    "note": "All five beats are present and the climax (beat 5) lands well. 'Ch\u1ec9 c\u1ea7n \u0111\u1ebfn qu\u00e1n. Ng\u1ed3i gh\u1ebf \u0111\u00f3. C\u00f3 m\u1eb7t.' is exactly right \u2014 simple, physical, earned. But beats 1-2 feel rushed; C\u1ea3nh's revelation should hit harder if Linh processes it through sensation rather than instant comprehension."
+  },
+  "character_voice": {
+    "score": 6,
+    "weakest_moment": "'M\u00e0y s\u1ebd ch\u1ec9 l\u00e0 k\u00fd \u1ee9c r\u00e1c!' Linh b\u1eadt l\u00ean, gi\u1ecdng ngh\u1eb9n l\u1ea1i. Tu\u00f4n tr\u00e0o. 'M\u00e0y s\u1ebd l\u00e0 c\u00e1i b\u00f3ng trong g\u01b0\u01a1ng. L\u00e0 ti\u1ebfng n\u01b0\u1edbc r\u1ec9 trong \u1ed1ng. L\u00e0 m\u1ed9t m\u00f9i h\u01b0\u01a1ng ai \u0111\u00f3 ng\u1eedi th\u1ea5y r\u1ed3i qu\u00ean m\u1ea5t. Th\u1ebf th\u00ec \u0111\u00e1ng \u00e0?'",
+    "fix": "The switch from 'c\u1eadu' to 'm\u00e0y' is defensible at extreme emotional peaks (canon notes this exception). But the speech itself is too articulate and rhetorical for Linh \u2014 it reads like a pre-written argument. Real explosion would be messier: shorter fragments, repetitions, self-interruptions. 'R\u00e1c. M\u00e0y bi\u1ebft kh\u00f4ng \u2014 r\u00e1c. Ch\u1ec9 c\u00f2n m\u00f9i. R\u1ed3i m\u00f9i c\u0169ng bay.' Something broken rather than eloquent.",
+    "note": "C\u1ea3nh's voice is better \u2014 flat, minimal, with the devastating '\u00cdt nh\u1ea5t t\u00f4i s\u1ebd t\u1ed3n t\u1ea1i trong m\u1ecdi ng\u01b0\u1eddi.' Linh's voice wavers between the defined character (indirect, physical, hesitant) and a generic protagonist who delivers speeches. The 'd\u1eef li\u1ec7u' / 'th\u00f4ng tin' / '\u0111o\u1ea1n b\u0103ng' metaphors sound like a tech-educated narrator, not a Hu\u1ebf seamstress."
+  },
+  "plants_seeded": {
+    "score": 6,
+    "weakest_moment": "The reveal about R\u1eeda 'filling empty spaces' with the forgotten person's memories is dropped without prior planting. This is a major lore element that should have been foreshadowed \u2014 perhaps B\u00e0 L\u1ee5a mentioning something about 'n\u01b0\u1edbc kh\u00f4ng \u0111\u1ec3 h\u1ed1c \u0111\u00e1 tr\u1ed1ng,' or Linh noticing that memories feel different after multiple R\u1eeda cycles.",
+    "fix": "If this is genuinely new information (C\u1ea3nh's theory/belief rather than confirmed canon), frame it as such \u2014 Linh should react with uncertainty: 'Linh kh\u00f4ng bi\u1ebft \u0111i\u1ec1u \u0111\u00f3 c\u00f3 th\u1eadt kh\u00f4ng. Nh\u01b0ng C\u1ea3nh tin.' If it IS true, it needed seeding in earlier chapters.",
+    "note": "The d\u1ea1 lan foreshadowing works well \u2014 smell intensity correlating with rain-calling is earned from prior chapters. The rain details (r\u00eau teo, qu\u1ef3nh bung n\u1ee5) are good lore integration. But C\u1ea3nh's master plan being introduced this late without earlier hints makes it feel like a sudden twist rather than a devastating revelation."
+  },
+  "prose_quality": {
+    "score": 5,
+    "weakest_sentence": "M\u00e1i ch\u00e8o tr\u01b0\u1ee3t tay, r\u01a1i xu\u1ed1ng v\u1ef1c s\u00e2u th\u1eb3m.",
+    "fix": "Delete. Replace with a sensation from Linh's world: 'Kim ch\u1ec9 \u0111\u1ee9t ch\u1ec9. V\u1ea3i tr\u01b0\u1ee3t tay.' Or simply cut \u2014 the paragraph works without it. The metaphor adds nothing and the clich\u00e9 undercuts the tension.",
+    "strongest_sentence": "Ch\u1ec9 c\u1ea7n \u0111\u1ebfn qu\u00e1n. Ng\u1ed3i gh\u1ebf \u0111\u00f3. C\u00f3 m\u1eb7t.",
+    "note": "Sentence variety is inconsistent. Good fragments ('L\u1ea1nh.' 'S\u1ee3.') but also stretches where every sentence follows subject-verb pattern. 'Linh nh\u00ecn...' appears as paragraph opener at least four times. The strongest prose is in the final movement \u2014 rain falling, hand-grabbing, the simple invitation. The weakest is in the middle exposition, where abstract metaphors pile up. 'Virus k\u00fd \u1ee9c' is particularly jarring \u2014 wrong register, wrong cultural framework."
+  },
+  "continuity": {
+    "score": 7,
+    "note": "Follows directly from Ch 21's ending (Linh sitting with C\u1ea3nh, C\u1ea3nh beginning to speak). Emotional states track: C\u1ea3nh's flatness, Linh's cold-spreading understanding. The pronoun shift (c\u1eadu \u2192 m\u00e0y) escalates naturally from Ch 21's intimacy. Physical details consistent \u2014 C\u1ea3nh's house, the s\u00f4ng, the d\u1ea1 lan. One issue: Ch 21 ended with C\u1ea3nh's hand in Linh's, but this chapter opens with distance between them again. Needs a transition beat \u2014 did C\u1ea3nh pull away? Did time pass?"
+  },
+  "canon_compliance": {
+    "score": 6,
+    "violations": [
+      "C\u1ea3nh's claim that R\u1eeda 'fills' empty emotional spaces with the forgotten person's memories is not established in canon. Canon states R\u1eeda TAKES memories; there is no mechanism for it to deposit new ones. If this is true, it's a major new rule. If it's C\u1ea3nh's theory/belief, it must be framed as such \u2014 currently presented as fact.",
+      "The 'virus k\u00fd \u1ee9c' metaphor implies a transfer mechanism that contradicts the oral/supernatural framework of the world. Canon describes R\u1eeda through water metaphors and bodily sensation, not through informational/technological language.",
+      "C\u1ea3nh says 'M\u00ecnh c\u1ea7n b\u1ecdn c\u1eadu nh\u1edb m\u00ecnh' but canon establishes that the group CAN'T remember \u2014 being forgotten by the entire V\u00f2ng is irreversible. C\u1ea3nh should know this. Is C\u1ea3nh lying to himself, or does the 'filling' theory circumvent this? Unclear."
+    ],
+    "note": "The chapter introduces a potentially major retcon or reveals without clearly marking it as character belief vs. world truth. This needs clarification."
+  },
+  "lore_integration": {
+    "score": 5,
+    "weakest_moment": "'C\u1eadu \u0111ang bi\u1ebfn m\u00ecnh th\u00e0nh d\u1eef li\u1ec7u. K\u00fd \u1ee9c v\u00f4 h\u1ed3n c\u1ea5y v\u00e0o n\u0103m b\u1ed9 n\u00e3o.' \u2014 The technological metaphor ('d\u1eef li\u1ec7u,' 'c\u1ea5y v\u00e0o b\u1ed9 n\u00e3o') breaks the Hu\u1ebf mythological framework entirely. Linh is a seamstress in 2000s Hu\u1ebf, not a programmer.",
+    "fix": "Reframe through water/fabric metaphors: 'C\u1eadu \u0111ang bi\u1ebfn m\u00ecnh th\u00e0nh n\u01b0\u1edbc b\u1ea9n. R\u1ec9 v\u00e0o v\u00f2i. Ng\u1ea5m qua v\u00e1ch. B\u1ecdn m\u00ecnh s\u1ebd kh\u00f4ng nh\u1edb c\u1eadu \u2014 ch\u1ec9 c\u00f3 v\u1ecb l\u1ea1 \u1edf \u0111\u1ea7u l\u01b0\u1ee1i, kh\u00f4ng bi\u1ebft t\u1eeb \u0111\u00e2u.' Or sewing: 'C\u1eadu \u0111ang t\u1ef1 x\u00e9 th\u00e0nh ch\u1ec9. Nh\u00e9t v\u00e0o v\u1ebft c\u1eaft tr\u00ean da b\u1ecdn m\u00ecnh. \u0110\u1eafp l\u1ea1i. Nh\u01b0ng ch\u1ec9 kh\u00f4ng ph\u1ea3i da.'",
+    "note": "When the chapter uses water imagery (s\u00f4ng ch\u1ea3y, m\u01b0a r\u1ecf, n\u01b0\u1edbc ng\u1eadp), the world feels alive. When it uses 'virus,' 'd\u1eef li\u1ec7u,' 'th\u00f4ng tin,' '\u0111o\u1ea1n b\u0103ng,' it sounds like a different novel. The best lore moment is the rain arriving \u2014 d\u1ea1 lan bung n\u1ee5, r\u00eau teo l\u1ea1i. These details make Hu\u1ebf breathe."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The middle section where C\u1ea3nh explains the plan and Linh interprets it. This is the chapter's core revelation but it reads as exposition \u2014 told rather than discovered. The reader is told what to feel ('\u0110au \u0111\u1edbn v\u1eadt l\u00fd xo\u00e1y qua l\u1ed3ng ng\u1ef1c Linh') instead of feeling it.",
+    "fix": "Break the revelation into pieces. Let Linh piece it together through physical sensations that build: first the cold, then nausea, then the understanding arriving like a punch. Cut the narrator's interpretation and let dialogue + silence + body do the work. Trust the reader to grasp the horror without 'T\u00ecnh y\u00eau c\u1ee7a C\u1ea3nh t\u00e0n nh\u1eabn \u0111\u1ebfn th\u1ea3m th\u01b0\u01a1ng.'",
+    "note": "The opening is strong (atmosphere, C\u1ea3nh's physical stillness). The climax is genuinely moving \u2014 Linh grabbing C\u1ea3nh's cold hand, the simple invitation. The final image of m\u1ea3nh gi\u1ea5y ch\u00e1y d\u1edf flowing into mud is perfect. But the middle sags under explanation. The best chapters trust silence; this one over-explains."
+  },
+  "three_weakest_sentences": [
+    "M\u00e1i ch\u00e8o tr\u01b0\u1ee3t tay, r\u01a1i xu\u1ed1ng v\u1ef1c s\u00e2u th\u1eb3m.",
+    "\u0110au \u0111\u1edbn v\u1eadt l\u00fd xo\u00e1y qua l\u1ed3ng ng\u1ef1c Linh.",
+    "M\u1ed9t m\u1ea7m m\u1ecdc tr\u00ean \u0111\u1ea5t c\u1eb1n, \u0111\u00e2m r\u1ec5 v\u00e0o m\u00e1u th\u1ecbt ng\u01b0\u1eddi kh\u00e1c \u0111\u1ec3 h\u00fat l\u1ea5y s\u1ef1 s\u1ed1ng."
+  ],
+  "three_strongest_sentences": [
+    "\u00cdt nh\u1ea5t t\u00f4i s\u1ebd t\u1ed3n t\u1ea1i trong m\u1ecdi ng\u01b0\u1eddi.",
+    "Ch\u1ec9 c\u1ea7n \u0111\u1ebfn qu\u00e1n. Ng\u1ed3i gh\u1ebf \u0111\u00f3. C\u00f3 m\u1eb7t.",
+    "M\u01b0a b\u1eaft \u0111\u1ea7u r\u1ecf. M\u1ed9t gi\u1ecdt. Hai gi\u1ecdt. \u0110\u00e1nh b\u1ed9p xu\u1ed1ng m\u00e1i hi\u00ean."
+  ],
+  "ai_patterns_detected": [
+    "Over-explanation of emotional significance at climax \u2014 narrator tells reader what to feel instead of showing through body/scene",
+    "Uniform paragraph structure in middle section: topic sentence \u2192 elaboration \u2192 interpretation \u2192 wrap-up",
+    "Western/scientific metaphors ('virus k\u00fd \u1ee9c,' 'd\u1eef li\u1ec7u,' 'th\u00f4ng tin') that don't belong in oral-tradition Hu\u1ebf setting",
+    "Abstract metaphor stacking ('m\u1ea7m m\u1ecdc tr\u00ean \u0111\u1ea5t c\u1eb1n, \u0111\u00e2m r\u1ec5 v\u00e0o m\u00e1u th\u1ecbt') that sounds like AI-generated literary analysis rather than character perception",
+    "Multiple paragraphs opening with 'Linh' + verb of perception (nh\u00ecn, nghe, ng\u1eedi) \u2014 repetitive sentence starters",
+    "Emotional moments described through abstract nouns rather than physical sensation, violating the body-before-emotion principle"
+  ],
+  "overall_score": 6.0,
+  "weakest_dimension": "prose_quality",
+  "top_3_revisions": [
+    "Cut ALL abstract interpretation in the middle section (from 'M\u00e1i ch\u00e8o tr\u01b0\u1ee3t tay' through 'h\u00fat l\u1ea5y s\u1ef1 s\u1ed1ng'). Replace with 2-3 physical sensations: cold spreading, taste in throat, hands going numb. Let the reader discover the horror alongside Linh rather than being told what to feel. The revelation is powerful enough without narrator commentary.",
+    "Replace technological metaphors ('virus k\u00fd \u1ee9c,' 'd\u1eef li\u1ec7u,' 'c\u1ea5y v\u00e0o b\u1ed9 n\u00e3o,' '\u0111o\u1ea1n b\u0103ng') with water/fabric equivalents from Linh's world. Linh is a seamstress in Hu\u1ebf \u2014 she should think in terms of thread, fabric, water, rain, stone. 'C\u1eadu \u0111ang t\u1ef1 r\u00e3 th\u00e0nh n\u01b0\u1edbc \u0111\u1ee5c. Ng\u1ea5m v\u00e0o \u0111\u1ea5t b\u1ecdn m\u00ecnh. Nh\u01b0ng n\u01b0\u1edbc \u0111\u1ee5c kh\u00f4ng ph\u1ea3i ng\u01b0\u1eddi.'",
+    "Clarify whether C\u1ea3nh's 'filling' theory is canon truth or character belief. If true, add a beat where Linh questions it \u2014 'Linh kh\u00f4ng bi\u1ebft \u0111i\u1ec1u \u0111\u00f3 c\u00f3 th\u1eadt. N\u01b0\u1edbc \u0111\u00e3 bao gi\u1edd l\u1ea5p h\u1ed1c \u0111\u00e1 ch\u01b0a? Hay ch\u1ec9 cu\u1ed1n \u0111i?' If it's C\u1ea3nh's desperate theory, let it sound desperate, not authoritative. This ambiguity currently reads as a canon violation."
+  ],
+  "new_canon_entries": [
+    "C\u1ea3nh tin r\u1eb1ng khi m\u1ed9t ng\u01b0\u1eddi m\u1ea5t h\u1ebft k\u00fd \u1ee9c t\u00ecnh c\u1ea3m, R\u1eeda s\u1ebd l\u1ea5p kho\u1ea3ng tr\u1ed1ng b\u1eb1ng k\u00fd \u1ee9c c\u1ee7a ng\u01b0\u1eddi \u0111\u00e3 b\u1ecb qu\u00ean \u2014 ch\u01b0a x\u00e1c nh\u1eadn l\u00e0 s\u1ef1 th\u1eadt hay l\u00fd thuy\u1ebft c\u1ee7a C\u1ea3nh (ch_22)",
+    "Linh x\u01b0ng 'm\u00e0y' v\u1edbi C\u1ea3nh l\u1ea7n \u0111\u1ea7u khi t\u1ee9c gi\u1eadn c\u1ef1c \u0111\u1ed9 \u2014 ph\u00e1 v\u1ee1 quy t\u1eafc kh\u00f4ng d\u00f9ng tao-m\u00e0y (ch_22)"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 0.0,
+    "sentence_length_cv": 0.666,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 0.0,
+    "language": "vi",
+    "vi_english_leaks": [],
+    "vi_translation_calques": [],
+    "vi_fiction_ai_tells": [],
+    "vi_telling_violations": 0,
+    "vi_structural_ai_tics": []
+  },
+  "raw_judge_score": 6
+}
