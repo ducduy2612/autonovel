@@ -1,0 +1,108 @@
+{
+  "revisions": [
+    {
+      "quote": "M\u1eaft. M\u1eaft nh\u00ecn B\u00e1ch l\u00e2u h\u01a1n m\u1ee9c th\u01b0\u1eddng. Kh\u00f4ng ph\u1ea3i nh\u00ecn xem. Nh\u00ecn *kh\u00e1t*. Nh\u01b0 ng\u01b0\u1eddi gi\u1eefa sa m\u1ea1c nh\u00ecn ly n\u01b0\u1edbc. Nh\u01b0 ng\u01b0\u1eddi \u0111\u00f3i nh\u00ecn c\u01a1m. Nh\u01b0 ng\u01b0\u1eddi s\u1ed1ng m\u1ed9t m\u00ecnh qu\u00e1 l\u00e2u nh\u00ecn b\u1ea5t c\u1ee9 ai ch\u1ecbu d\u1eebng l\u1ea1i.",
+      "type": "OVER-EXPLAIN",
+      "reason": "Three consecutive similes exhaust the same comparison. 'Nh\u00ecn kh\u00e1t' is potent alone; the pile-on dilutes rather than deepens.",
+      "rewrite": "M\u1eaft. M\u1eaft nh\u00ecn B\u00e1ch l\u00e2u h\u01a1n m\u1ee9c th\u01b0\u1eddng. Kh\u00f4ng ph\u1ea3i nh\u00ecn xem. Nh\u00ecn *kh\u00e1t*. Nh\u01b0 ng\u01b0\u1eddi s\u1ed1ng m\u1ed9t m\u00ecnh qu\u00e1 l\u00e2u nh\u00ecn b\u1ea5t c\u1ee9 ai ch\u1ecbu d\u1eebng l\u1ea1i."
+    },
+    {
+      "quote": "Nh\u00f3m m\u00ecnh. Hai ch\u1eef \u0111\u00f3. *Nh\u00f3m m\u00ecnh.* Kh\u00f4ng ph\u1ea3i \"b\u1ea1n b\u00e8.\" Kh\u00f4ng ph\u1ea3i \"m\u1ecdi ng\u01b0\u1eddi.\" *Nh\u00f3m m\u00ecnh.* C\u00e1ch g\u1ecdi n\u1ed9i b\u1ed9. C\u00e1ch ch\u1ec9 n\u0103m ng\u01b0\u1eddi ng\u1ed3i qu\u00e1n b\u00e0 T\u00e2m m\u1ed7i t\u1ed1i, \u0111\u1ec3 gh\u1ebf tr\u1ed1ng \u0111\u1ea7u b\u00e0n, u\u1ed1ng c\u00e0 ph\u00ea \u0111en kh\u00f4ng \u0111\u01b0\u1eddng v\u00e0 n\u01b0\u1edbc l\u1ecdc kh\u00f4ng \u0111\u00e1. C\u00e1ch g\u1ecdi m\u00e0 ch\u1ec9 ng\u01b0\u1eddi trong V\u00f2ng m\u1edbi d\u00f9ng.",
+      "type": "OVER-EXPLAIN",
+      "reason": "The narrator lectures the reader on why 'nh\u00f3m m\u00ecnh' matters, spelling out implications the caf\u00e9 scene later demonstrates more powerfully through Linh's reaction.",
+      "rewrite": "Nh\u00f3m m\u00ecnh. Hai ch\u1eef \u0111\u00f3. *Nh\u00f3m m\u00ecnh.* Kh\u00f4ng ph\u1ea3i \"b\u1ea1n b\u00e8.\" Kh\u00f4ng ph\u1ea3i \"m\u1ecdi ng\u01b0\u1eddi.\" C\u00e1ch g\u1ecdi m\u00e0 ch\u1ec9 ng\u01b0\u1eddi trong V\u00f2ng m\u1edbi d\u00f9ng."
+    },
+    {
+      "quote": "Ng\u01b0\u1eddi l\u1ea1 kh\u00f4ng bi\u1ebft nh\u00f3m. Ng\u01b0\u1eddi l\u1ea1 kh\u00f4ng g\u1ecdi \"nh\u00f3m m\u00ecnh.\" Ng\u01b0\u1eddi l\u1ea1 kh\u00f4ng nh\u00ecn m\u1eaft l\u00e2u nh\u01b0 kh\u00e1t. Ng\u01b0\u1eddi l\u1ea1 kh\u00f4ng ng\u1ed3i b\u1edd s\u00f4ng n\u0103m gi\u1edd s\u00e1ng, ch\u1ea1m m\u1eb7t n\u01b0\u1edbc nh\u01b0 vu\u1ed1t da ng\u01b0\u1eddi y\u00eau.",
+      "type": "REDUNDANT",
+      "reason": "The previous passage already explained why 'nh\u00f3m m\u00ecnh' is significant. This anaphoric barrage restates the same insight four different ways.",
+      "rewrite": "Ng\u01b0\u1eddi l\u1ea1 kh\u00f4ng ng\u1ed3i b\u1edd s\u00f4ng n\u0103m gi\u1edd s\u00e1ng, ch\u1ea1m m\u1eb7t n\u01b0\u1edbc nh\u01b0 vu\u1ed1t da ng\u01b0\u1eddi y\u00eau."
+    },
+    {
+      "quote": "D\u1ed1i tr\u00e1. B\u00e1ch bi\u1ebft d\u1ed1i tr\u00e1 khi nghe. Gi\u1ecdng ng\u01b0\u1eddi \u0111\u00f3 *qu\u00e1* b\u00ecnh th\u1ea3n. *Qu\u00e1* ch\u1eadm. Ng\u01b0\u1eddi b\u00ecnh th\u01b0\u1eddng nghe \"g\u1ecdi m\u01b0a\" s\u1ebd h\u1ecfi l\u1ea1i \u2014 g\u1ecdi m\u01b0a l\u00e0 g\u00ec? Ai g\u1ecdi? Sao g\u1ecdi? Nh\u01b0ng ng\u01b0\u1eddi n\u00e0y ch\u1ec9 n\u00f3i \"nghe l\u1ea1\" r\u1ed3i chuy\u1ec3n h\u01b0\u1edbng sang \"m\u01b0a nhi\u1ec1u.\" Che gi\u1ea5u. T\u1ec7.",
+      "type": "TELL",
+      "reason": "The analysis of *why* it's a lie is narrated didactically. Showing B\u00e1ch's physical distrust reaction would let the reader deduce the deception.",
+      "rewrite": "D\u1ed1i tr\u00e1. B\u00e1ch bi\u1ebft d\u1ed1i tr\u00e1 khi nghe \u2014 l\u00f4ng g\u00e1y n\u1ed5i, nh\u01b0 khi ai \u0111\u00f3 n\u00f3i t\u00ean m\u00ecnh m\u00e0 m\u00ecnh kh\u00f4ng ti\u1ebft l\u1ed9. Gi\u1ecdng ng\u01b0\u1eddi \u0111\u00f3 *qu\u00e1* b\u00ecnh th\u1eadn. *Qu\u00e1* ch\u1eadm. Ng\u01b0\u1eddi b\u00ecnh th\u01b0\u1eddng nghe \"g\u1ecdi m\u01b0a\" s\u1ebd h\u1ecfi l\u1ea1i. Ng\u01b0\u1eddi n\u00e0y ch\u1ec9 n\u00f3i \"nghe l\u1ea1\" r\u1ed3i chuy\u1ec3n h\u01b0\u1edbng."
+    },
+    {
+      "quote": "Tim \u0111\u1eadp nhanh. B\u00e1ch kh\u00f4ng hi\u1ec3u t\u1ea1i sao. *Nh\u00f3m m\u00ecnh.* Hai ch\u1eef. Ng\u01b0\u1eddi l\u1ea1 kh\u00f4ng bi\u1ebft nh\u00f3m.",
+      "type": "TELL",
+      "reason": "'Tim \u0111\u1eadp nhanh' is a clich\u00e9 vital-signs tell. The subsequent sentence ('B\u00e1ch kh\u00f4ng hi\u1ec3u t\u1ea1i sao') undercuts the tension by narrating confusion rather than embodying it.",
+      "rewrite": "B\u00e1ch \u0111\u1ee9ng d\u1eady. \u0110\u1ea5t d\u00ednh d\u00e9p. L\u1ea1nh. B\u00e1ch \u0111i v\u1ec1 ph\u00eda th\u00e0nh ph\u1ed1, l\u00f2ng b\u00e0n tay \u01b0 \u00e1t \u2014 kh\u00f4ng ph\u1ea3i n\u01b0\u1edbc s\u00f4ng, l\u00e0 m\u1ed3 h\u00f4i. M\u1ed3 h\u00f4i l\u1ea1nh."
+    },
+    {
+      "quote": "Th\u1eb3ng. V\u00f4 th\u1eebng. Gi\u1ecdng B\u00e1ch lu\u00f4n v\u1eady \u2014 \u0111\u1eadp b\u00faa, kh\u00f4ng gi\u1ea5u.",
+      "type": "TELL",
+      "reason": "Tells us about B\u00e1ch's voice quality rather than letting dialogue demonstrate it. The hammer metaphor is generic.",
+      "rewrite": "\"Anh \u1edf \u0111\u00e2y t\u1eeb l\u00e2u?\" C\u00e2u h\u1ecfi bay ra tr\u01b0\u1edbc khi B\u00e1ch k\u1ecbp ngh\u0129. V\u00f4 th\u1eebng. Gi\u1ecdng B\u00e1ch lu\u00f4n v\u1eady."
+    },
+    {
+      "quote": "H\u01b0\u01a1ng Th\u1ee7y l\u00fac n\u0103m gi\u1edd s\u00e1ng l\u00e0 n\u01a1i kh\u00f4ng thu\u1ed9c v\u1ec1 ng\u01b0\u1eddi s\u1ed1ng.",
+      "type": "TELL",
+      "reason": "Declares atmosphere instead of evoking it. The sensory details that follow (s\u01b0\u01a1ng \u0111\u1eb7c qu\u00e1nh, m\u00f9i b\u00f9n non) do the real work.",
+      "rewrite": "S\u01b0\u01a1ng t\u1eeb s\u00f4ng b\u1ed1c l\u00ean \u0111\u1eb7c qu\u00e1nh, ng\u1eedi b\u00f9n non v\u00e0 m\u1ea7m tre v\u00e0 th\u1ee9 g\u00ec kim lo\u1ea1i nh\u1eb9 \u2014 nh\u01b0 m\u00e1u h\u00f2a trong n\u01b0\u1edbc m\u01b0a."
+    },
+    {
+      "quote": "Hai ch\u1eef. Nh\u01b0ng B\u00e1ch nghe nhi\u1ec1u h\u01a1n. Nghe: *m\u00ecnh l\u1ea1i ph\u1ea3i \u0111\u1ed1i di\u1ec7n. M\u00ecnh l\u1ea1i ph\u1ea3i t\u00ecm. M\u00ecnh l\u1ea1i ph\u1ea3i nh\u00ecn v\u00e0o kho\u1ea3ng tr\u1ed1ng v\u00e0 h\u1ecfi ai \u0111\u00e3 t\u1eebng l\u1ea5p \u0111\u1ea7y n\u00f3.*",
+      "type": "OVER-EXPLAIN",
+      "reason": "The italicised internal monologue spells out thematic subtext the reader already feels from Linh's 'Kh\u00f4ng nh\u1ea7m' revelation. Trust the prior scene.",
+      "rewrite": "Hai ch\u1eef. Nh\u01b0ng B\u00e1ch nghe nhi\u1ec1u h\u01a1n."
+    },
+    {
+      "quote": "M\u1eaft Linh \u01b0\u01a1n \u2014 ch\u01b0a kh\u00f3c, nh\u01b0ng \u01b0\u01a1n. B\u00e1ch bi\u1ebft c\u1ea3m gi\u00e1c \u0111\u00f3. Bi\u1ebft nh\u01b0 bi\u1ebft m\u00ecnh \u0111ang d\u1ea7n m\u1ea5t th\u1ee9 g\u00ec \u0111\u00f3 m\u00e0 kh\u00f4ng g\u1ecdi t\u00ean \u0111\u01b0\u1ee3c.",
+      "type": "TELL",
+      "reason": "The doubling on '\u01b0\u01a1n' is redundant, and the narrator's philosophical gloss ('Bi\u1ebft nh\u01b0 bi\u1ebft m\u00ecnh \u0111ang d\u1ea7n m\u1ea5t...') abstracts a moment that should stay physical and immediate.",
+      "rewrite": "M\u1eaft Linh \u01b0\u01a1n. B\u00e1ch bi\u1ebft c\u1ea3m gi\u00e1c \u0111\u00f3 \u2014 ngh\u1eb9n \u1edf c\u1ed5 h\u1ecdng, kh\u00f4ng th\u00e0nh ti\u1ebfng."
+    },
+    {
+      "quote": "Linh g\u1eadt \u0111\u1ea7u. Nh\u01b0 \u0111\u00e3 bi\u1ebft. Nh\u01b0 \u0111\u00e3 ng\u1eedi. Linh \u0111\u1ebfn nh\u00e0 ng\u01b0\u1eddi \u0111\u00f3 r\u1ed3i \u2014 B\u00e1ch \u0111o\u00e1n. Kh\u00f4ng n\u00f3i. Kh\u00f4ng h\u1ecfi. Ch\u1ec9 ghi nh\u1eadn.",
+      "type": "REDUNDANT",
+      "reason": "Four short phrases restate the same micro-beat (Linh knows something). The guess about Linh visiting is narrated then dropped\u2014dramatic potential unused.",
+      "rewrite": "Linh g\u1eadt \u0111\u1ea7u. Nh\u01b0 \u0111\u00e3 ng\u1eedi. B\u00e1ch th\u1ea5y \u2014 kh\u00f4ng h\u1ecfi."
+    },
+    {
+      "quote": "\"Ng\u01b0\u1eddi \u0111\u00f3 kh\u00f4ng ph\u1ea3i qu\u00e1i v\u1eadt,\" Linh n\u00f3i cu\u1ed1i c\u00f9ng. Gi\u1ecdng kh\u00f4ng tuy\u00ean ng\u00f4n. Kh\u00f4ng k\u1ebft \u00e1n. Ch\u1eb3ng qua l\u00e0 s\u1ef1 th\u1eadt.",
+      "type": "TELL",
+      "reason": "Three negatives describe Linh's voice quality abstractly ('kh\u00f4ng tuy\u00ean ng\u00f4n. Kh\u00f4ng k\u1ebft \u00e1n'). A concrete vocal detail would anchor the line.",
+      "rewrite": "\"Ng\u01b0\u1eddi \u0111\u00f3 kh\u00f4ng ph\u1ea3i qu\u00e1i v\u1eadt,\" Linh n\u00f3i cu\u1ed1i c\u00f9ng. Gi\u1ecdng nh\u1ecf \u2014 nh\u1ecf nh\u01b0 m\u01b0a r\u1ea3 r\u00edch, nh\u01b0 kh\u00f4ng d\u00e1m n\u00f3i to h\u01a1n s\u1ee3 ai nghe \u0111\u01b0\u1ee3c."
+    },
+    {
+      "quote": "Gi\u1ecdng tr\u1ea7m. Ch\u1eadm. R\u1ea5t ch\u1eadm. Nh\u01b0 ng\u01b0\u1eddi \u0111\u00e3 quen n\u00f3i m\u1ed9t m\u00ecnh, quen \u0111\u1ebfn m\u1ee9c qu\u00ean m\u1ea5t nh\u1ecbp tr\u00f2 chuy\u1ec7n c\u00f3 hai ng\u01b0\u1eddi.",
+      "type": "OVER-EXPLAIN",
+      "reason": "The simile explains the character's psychology instead of letting the pause itself convey that loneliness.",
+      "rewrite": "Gi\u1ecdng tr\u1ea7m. Ch\u1eadm. R\u1ea5t ch\u1eadm."
+    },
+    {
+      "quote": "B\u00e0 T\u00e2m \u1edf qu\u1ea7y, lau ly, kh\u00f4ng nh\u00ecn\u8fd9\u8fb9. Nh\u01b0ng B\u00e1ch bi\u1ebft b\u00e0 nghe. B\u00e0 lu\u00f4n nghe.",
+      "type": "GENERIC",
+      "reason": "Contains untranslated Chinese ('\u8fd9\u8fb9'). Even corrected, 'B\u00e0 lu\u00f4n nghe' is a stock phrase\u2014the eavesdropping innkeeper is a generic device.",
+      "rewrite": "B\u00e0 T\u00e2m \u1edf qu\u1ea7y, lau ly, kh\u00f4ng nh\u00ecn sang. Tay b\u00e0 d\u1eebng m\u1ed9t nh\u1ecbp khi B\u00e1ch n\u00f3i 'nh\u00f3m m\u00ecnh' \u2014 B\u00e1ch th\u1ea5y."
+    },
+    {
+      "quote": "Hai ng\u01b0\u1eddi ng\u1ed3i im. Kh\u00f4ng n\u00f3i. S\u01b0\u01a1ng m\u00f9 b\u1ed1c l\u00ean t\u1eeb s\u00f4ng, tr\u1eafng \u0111\u1ee5c, che khu\u1ea5t b\u1edd b\u00ean kia. Ch\u1ec9 c\u00f2n ti\u1ebfng n\u01b0\u1edbc r\u00f3c r\u00e1ch v\u00e0 ti\u1ebfng th\u1edf \u2014 hai nh\u1ecbp th\u1edf, m\u1ed9t nhanh m\u1ed9t ch\u1eadm.",
+      "type": "PACING",
+      "reason": "After the charged 'g\u1ecdi m\u01b0a' exchange and the stranger's lie, this meditative pause arrives too early\u2014B\u00e1ch should push or physically react before settling into stillness.",
+      "rewrite": "B\u00e1ch kh\u00f4ng \u00e9p. Ch\u01b0a. B\u00e1ch ng\u1ed3i xu\u1ed1ng. Ng\u1ed3i b\u1ec7t c\u1ea1nh ng\u01b0\u1eddi \u0111\u00f3, \u0111\u1ea5t \u01b0\u1edbt th\u1ea5m qua qu\u1ea7n. L\u1ea1nh. S\u01b0\u01a1ng m\u00f9 b\u1ed1c l\u00ean t\u1eeb s\u00f4ng, tr\u1eafng \u0111\u1ee5c, che khu\u1ea5t b\u1edd b\u00ean kia."
+    },
+    {
+      "quote": "Ngo\u00e0i c\u1eeda s\u1ed5, gi\u1ecdt \u0111\u1ea7u ti\u00ean r\u1edbt xu\u1ed1ng m\u1eb7t s\u00f4ng. Tr\u00f2n. L\u0103n. Tan. R\u1ed3i gi\u1ecdt th\u1ee9 hai. Th\u1ee9 ba. M\u01b0a b\u1eaft \u0111\u1ea7u.",
+      "type": "GENERIC",
+      "reason": "The single-drop-then-rain pattern is a stock cinematic closing. The short staccato rhythm is effective but the imagery could be tied to the chapter's motifs.",
+      "rewrite": "Ngo\u00e0i c\u1eeda s\u1ed5, gi\u1ecdt \u0111\u1ea7u ti\u00ean r\u1edbt xu\u1ed1ng m\u1eb7t s\u00f4ng \u2014 tr\u00f2n, l\u0103n, tan. Gi\u1ecdt th\u1ee9 hai. Th\u1ee9 ba. M\u01b0a b\u1eaft \u0111\u1ea7u. M\u00f9i d\u1ea1 lan tr\u1ea7m d\u00e2ng l\u00ean t\u1eeb m\u1eb7t n\u01b0\u1edbc, \u0111\u1eadm h\u01a1n, nh\u01b0 ai \u0111\u00f3 b\u00ean kia b\u1edd v\u1eeba th\u1edf ra."
+    }
+  ],
+  "tightest_passage": "Ng\u01b0\u1eddi \u0111\u00f3 c\u01b0\u1eddi nh\u1eb9. C\u01b0\u1eddi bu\u1ed3n. C\u01b0\u1eddi nhanh r\u1ed3i t\u1eaft, nh\u01b0 \u0111\u00e8n l\u1ed3ng th\u1eafp gi\u1eefa m\u01b0a.",
+  "loosest_passage": "Nh\u00f3m m\u00ecnh. Hai ch\u1eef \u0111\u00f3. *Nh\u00f3m m\u00ecnh.* Kh\u00f4ng ph\u1ea3i \"b\u1ea1n b\u00e8.\" Kh\u00f4ng ph\u1ea3i \"m\u1ecdi ng\u01b0\u1eddi.\" *Nh\u00f3m m\u00ecnh.* C\u00e1ch g\u1ecdi n\u1ed9i b\u1ed9. C\u00e1ch ch\u1ec9 n\u0103m ng\u01b0\u1eddi ng\u1ed3i qu\u00e1n b\u00e0 T\u00e2m m\u1ed7i t\u1ed1i, \u0111\u1ec3 gh\u1ebf tr\u1ed1ng \u0111\u1ea7u b\u00e0n, u\u1ed1ng c\u00e0 ph\u00ea \u0111en kh\u00f4ng \u0111\u01b0\u1eddng v\u00e0 n\u01b0\u1edbc l\u1ecdc kh\u00f4ng \u0111\u00e1. C\u00e1ch g\u1ecdi m\u00e0 ch\u1ec9 ng\u01b0\u1eddi trong V\u00f2ng m\u1edbi d\u00f9ng.",
+  "recurring_patterns": [
+    "Over-explanation through multiple similes stacking the same comparison",
+    "Narrator spelling out emotional/thematic implications the scene has already conveyed",
+    "Abstract tells replacing concrete sensory details (tim \u0111\u1eadp nhanh, gi\u1ecdng kh\u00f4ng tuy\u00ean ng\u00f4n)"
+  ],
+  "missed_opportunities": [
+    "The stranger's chai hands could connect to a specific trade that later reveals his pre-R\u1eeda identity",
+    "B\u00e0 T\u00e2m's paused hand while washing glasses is mentioned once and dropped \u2014 she could be a silent witness who knows the stranger's name",
+    "Tu\u1ea5n's note about the same encounter two years ago is introduced late and clinically; it could be a gut-punch foreshadowing if planted earlier"
+  ],
+  "revision_strategy": "Cut every passage where the narrator lectures the reader on meaning (the 'Nh\u00f3m m\u00ecnh' gloss, the triple simile, the italicised internal monologue) and trust the caf\u00e9 dialogue scene to carry the revelation. Replace abstract tells with one concrete sensory beat each.",
+  "one_sentence_verdict": "The chapter builds a haunting encounter and a devastating recognition, but it keeps explaining its own power away \u2014 strip the over-commentary and the atmosphere will do the work."
+}

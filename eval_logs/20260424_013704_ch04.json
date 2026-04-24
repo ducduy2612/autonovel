@@ -1,0 +1,104 @@
+{
+  "voice_adherence": {
+    "score": 7,
+    "weakest_moment": "L\u1ea1nh ki\u1ec3u nh\u1eadn ra, l\u1ea7n \u0111\u1ea7u ti\u00ean, r\u1eb1ng c\u00f3 th\u1ec3 m\u01b0a kh\u00f4ng ng\u1eabu nhi\u00ean. C\u00f3 th\u1ec3 R\u1eeda kh\u00f4ng ph\u1ea3i th\u1eddi ti\u1ebft. C\u00f3 th\u1ec3 c\u00f3 ai \u0111\u00f3, \u1edf \u0111\u00e2u \u0111\u00f3, \u0111ang nh\u00ecn nh\u00f3m m\u00ecnh v\u00e0 quy\u1ebft \u0111\u1ecbnh: ng\u01b0\u1eddi n\u00e0y \u0111ang vui qu\u00e1. Ph\u1ea3i l\u1ea5y \u0111i.",
+    "fix": "Thay b\u1eb1ng c\u1ea3m gi\u00e1c v\u1eadt l\u00fd: da n\u1ed5i gai d\u1ecdc s\u1ed1ng l\u01b0ng, nh\u1ecbp tim ch\u1eadm l\u1ea1i thay v\u00ec nhanh l\u00ean, tay l\u1ea1nh kh\u00f4ng c\u1ea7m n\u1ed5i ly. \u0110\u1ec3 \u0111\u1ea7u t\u1ef1 k\u1ebft lu\u1eadn sau, ho\u1eb7c kh\u00f4ng k\u1ebft lu\u1eadn \u2014 ch\u1ec9 \u0111\u1ec3 da b\u00e1o \u0111\u1ed9ng.",
+    "note": "Chapter captures voice well overall. Body-before-emotion works in strongest passages. The qu\u1ef3nh bloom scene, Duy's examination of new body, and Linh's reaction to L\u1ecbch's scar are all excellent. But several late passages shift into abstract emotional narration ('L\u1ea1nh ki\u1ec3u nh\u1eadn ra...') that breaks the principle. Also, the ending repeats 'm\u00ecnh ch\u01b0a s\u1eb5n s\u00e0ng' four times \u2014 voice profile calls for restraint, not incantation."
+  },
+  "beat_coverage": {
+    "score": 8,
+    "weakest_moment": "B\u00e1ch \u0111\u1eadp b\u00e0n: 'Ngay sau khi c\u1eadu \u1ea5y h\u1eb9n h\u00f2. Ngay sau.' \u2014 the speech continues into a long exposition block that lists every case, which feels more like B\u00e1ch reciting a summary than a person in the grip of anger.",
+    "fix": "Break B\u00e1ch's dialogue. Have B\u00e1ch start, get interrupted by Duy's silence, pace, then add one more piece of evidence. Let the pattern emerge through the scene rather than one monologue. B\u00e1ch should be angrier, less articulate \u2014 fury doesn't catalog.",
+    "note": "All five outline beats are present and dramatized. The Duy/H\u1ea1nh revelation is the chapter's strongest sequence \u2014 the forced laugh, the specific detail forgotten ('b\u00e1n g\u00ec'), the gap between knowing and feeling. L\u1ecbch's note-taking in the middle of grief is perfect characterization. The m\u01b0a ch\u1ea1m c\u1ed5 tay beat is visceral. One beat slightly undercooked: B\u00e1ch's pattern presentation reads more as thesis than explosion."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "Duy h\u1ecfi. Gi\u1ecdng n\u1eef, nh\u1ecf, m\u1ec7t m\u1ecfi. 'Ai l\u1ea1i l\u00e0m th\u1ebf? Ai l\u1ea1i g\u1ecdi m\u01b0a \u0111\u1ec3 R\u1eeda m\u00ecnh? \u0110\u1ec3 l\u1ea5y k\u00fd \u1ee9c m\u00ecnh? T\u1ea1i sao?' \u2014 Duy's philosophical questions feel too on-theme for someone who just lost two weeks of love and is still touching their new face.",
+    "fix": "Let Duy stay in the personal: 'Nh\u01b0ng t\u1ea1i sao H\u1ea1nh? T\u1ea1i sao kh\u00f4ng l\u1ea5y c\u00e1i g\u00ec kh\u00e1c?' or even just return to the concrete loss: 'M\u00ecnh ch\u1ec9 mu\u1ed1n nh\u1edb ch\u1ecb \u1ea5y b\u00e1n g\u00ec.' A person in fresh grief doesn't generalize to 'k\u00fd \u1ee9c m\u00ecnh' \u2014 they mourn the specific thing taken.",
+    "note": "Duy's voice is the most distinctive here \u2014 the laugh that doesn't reach eyes, '\u0110\u1eb9p h\u01a1n h\u1ed3i tr\u01b0\u1edbc kh\u00f4ng?' as first words post-R\u1eeda, the tactile self-examination. L\u1ecbch's clinical 'Ng\u00e0y bao nhi\u00eau?' is perfect. B\u00e1ch's aggression reads clearly. Linh as observer-commentator fits the profile. But Duy's late-scene questions drift toward thematic mouthpiece."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "The qu\u1ef3nh bloom is introduced and then explained by L\u1ecbch ('Ba l\u1ea7n c\u00e2y qu\u1ef3nh nh\u00e0 c\u1eadu n\u1edf \u0111\u00fang \u0111\u00eam R\u1eeda') in the same chapter \u2014 slightly too fast a payoff for a plant that should linger as question.",
+    "fix": "Have Linh mention the qu\u1ef3nh to L\u1ecbch, but let L\u1ecbch's recognition come through behavior (hand freezing, eyes widening, flipping back in notebook) rather than immediate verbal confirmation. Let the reader sit with the correlation one scene longer before L\u1ecbch names it.",
+    "note": "Excellent seeding of: the d\u1ea1 lan smell (reinforced from prior setup, now stronger), the watching presence across the river, B\u00e1ch's pattern theory, Linh's emerging feelings for L\u1ecbch (through the scar detail), and the rain-through-window mechanic. The plants feel organic, not listed. The weakest integration is the qu\u1ef3nh \u2014 planted and partially harvested too quickly."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "C\u1ea3m gi\u00e1c quen, c\u1ea3m gi\u00e1c \u0111\u00eam qua khi m\u00f9i d\u1ea1 lan tr\u00e0n qua c\u1eeda s\u1ed5, c\u1ea3m gi\u00e1c l\u00fac gi\u1ecdt m\u01b0a ch\u1ea1m c\u1ed5 tay.",
+    "fix": "Cut the scaffold: 'Gi\u1ed1ng \u0111\u00eam qua \u2014 m\u00f9i d\u1ea1 lan, gi\u1ecdt m\u01b0a, da t\u1ef1 bi\u1ebft tr\u01b0\u1edbc \u0111\u1ea7u.' Or anchor in body only: 'Da n\u1ed5i gai. Nh\u01b0 \u0111\u00eam qua. Nh\u01b0 l\u00fac gi\u1ecdt m\u01b0a ch\u1ea1m c\u1ed5 tay.' Three 'c\u1ea3m gi\u00e1c' in one sentence is thesaurus-avoidance that becomes its own pattern.",
+    "strongest_sentence": "Nh\u01b0 \u0111\u00f4i gi\u00e0y c\u00f2n m\u00e0 ch\u00e2n \u0111\u00e3 m\u1ea5t.",
+    "note": "Best moments: the qu\u1ef3nh bloom description ('c\u00e1nh xo\u00e8 r\u1ed9ng b\u1eb1ng l\u00f2ng b\u00e0n tay, nh\u1ee5y v\u00e0ng hoe ch\u00eca ra gi\u1eefa, nh\u01b0 th\u1ec3 ai \u0111\u00f3 \u0111\u00e3 th\u1ed5i ph\u1ed3ng cu\u1ed9c \u0111\u1eddi c\u1ea3 th\u00e1ng v\u00e0o m\u1ed9t \u0111\u00eam'), Duy's laugh breaking, the shoe metaphor. Weakened by: 'm\u1ee7 nh\u00e9t gi\u1eefa l\u1ed3ng ng\u1ef1c' (pus \u2014 tonally wrong for this voice), several paragraphs starting with character name + period fragment in succession, and the ending's repetitive incantation structure."
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Follows naturally from Ch 3's ending. B\u00e1ch's river-bank conviction carries into this chapter's\u6124\u6012. The group's established dynamics (L\u1ecbch as recorder, B\u00e1ch as confronter, Duy as deflector) persist. One minor question: Ch 3 ends with rain imminent and the group on the riverbank; Ch 4 opens with a new night in Linh's room. The time gap is logical but unmarked \u2014 one transitional sentence ('Ba \u0111\u00eam sau' or similar) would help."
+  },
+  "canon_compliance": {
+    "score": 9,
+    "violations": [],
+    "note": "All facts align: Duy's third R\u1eeda (Nam\u2192N\u1eef), loss of H\u1ea1nh memory, qu\u1ef3nh blooming on R\u1eeda night, d\u1ea1 lan stronger than before, rain through window crack touching Linh's wrist, B\u00e1ch's pattern theory presented to group, L\u1ecbch's notebook entry referencing 3/9/1998. Duy's description matches profile (now female). H\u1ea1nh correctly identified as fabric seller at \u0110\u00f4ng Ba with t\u00f3c v\u1ea5n cao. No violations found."
+  },
+  "lore_integration": {
+    "score": 7,
+    "weakest_moment": "B\u00e0 T\u00e2m th\u1eafp nhang m\u1ed7i s\u00e1ng. Th\u1eafp nhang tr\u01b0\u1edbc khi m\u01b0a. Th\u1eafp nhang sau khi m\u01b0a. Nhang tr\u1ea7m, theo l\u1eddi ng\u01b0\u1eddi gi\u00e0, c\u00f3 m\u00f9i ng\u01b0\u1eddi \u0111\u00e3 ch\u1ebft. M\u01b0a kh\u00f4ng R\u1eeda ng\u01b0\u1eddi ch\u1ebft.",
+    "fix": "The exposition about incense and the dead feels inserted for worldbuilding delivery. Instead, let Linh notice the smell and have one association: 'M\u00f9i nhang. B\u00e0 T\u00e2m l\u1ea1i th\u1eafp r\u1ed3i. M\u01b0a kh\u00f4ng R\u1eeda ng\u01b0\u1eddi ch\u1ebft \u2014 may cho ai?' The rule about the dead can be implicit or saved for a moment where it has emotional weight.",
+    "note": "S\u00f4ng H\u01b0\u01a1ng as presence works ('s\u00f4ng nh\u00ecn l\u1ea1i'). The d\u1ea1 lan smell is lore doing narrative work. Qu\u1ef3nh as R\u1eeda indicator is well-integrated. Nhang tr\u1ea7m and b\u00fan b\u00f2 cay as rain-indicators are mentioned but feel slightly checklist-like. The strongest lore moment is the rain-through-window mechanic \u2014 it demonstrates the magic system's cruelty through action, not explanation."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The final eight paragraphs, from 'Linh nh\u1eafm m\u1eaft' to 'M\u00ecnh bi\u1ebft,' repeat the same emotional beat (Linh knows but isn't ready) without escalation. The tension plateaus instead of climbing.",
+    "fix": "After the B\u00e1ch confrontation, cut to one sharp image: Linh looks at the river, sees the shape, feels the gaze. One body reaction. Then end on Linh's hand touching the wrist where rain fell \u2014 concrete, ominous, no internal monologue needed. Trust the image. Trust the reader to feel the dread without being told 'M\u00ecnh bi\u1ebft' four times.",
+    "note": "The chapter's first two-thirds are gripping. The qu\u1ef3nh bloom creates genuine unease. Duy's R\u1eeda revelation and the H\u1ea1nh loss are emotionally devastating \u2014 the detail 'm\u00ecnh qu\u00ean m\u1ea5t ch\u1ecb \u1ea5y b\u00e1n g\u00ec' is a masterful choice, specific and crushing. B\u00e1ch's theory raises stakes effectively. The watching-presence across the river adds genuine dread. Engagement drops in the final section due to repetitive internal circling."
+  },
+  "three_weakest_sentences": [
+    "C\u1ea3m gi\u00e1c quen, c\u1ea3m gi\u00e1c \u0111\u00eam qua khi m\u00f9i d\u1ea1 lan tr\u00e0n qua c\u1eeda s\u1ed5, c\u1ea3m gi\u00e1c l\u00fac gi\u1ecdt m\u01b0a ch\u1ea1m c\u1ed5 tay.",
+    "Kh\u00f4ng ph\u1ea3i bu\u1ed3n, ch\u01b0a ph\u1ea3i bu\u1ed3n. L\u00e0 c\u00e1i g\u00ec \u0111\u00f3 \u0111\u1eb7c h\u01a1n, \u0111\u1eb7c nh\u01b0 m\u1ee7 nh\u00e9t gi\u1eefa l\u1ed3ng ng\u1ef1c, \u00e9p hai l\u00e1 ph\u1ed5i s\u00e1t v\u00e0o nhau.",
+    "Ch\u01b0a s\u1eb5n s\u00e0ng tin. Ch\u01b0a s\u1eb5n s\u00e0ng \u0111\u1ed1i m\u1eb7t. Ch\u01b0a s\u1eb5n s\u00e0ng th\u1eeba nh\u1eadn r\u1eb1ng R\u1eeda, th\u1ee9 \u0111\u00e3 c\u01b0\u1edbp \u0111i b\u1ed1n n\u0103m k\u00fd \u1ee9c v\u1ec1 Tu\u1ea5n, b\u1ed1n n\u0103m y\u00eau kh\u00f4ng c\u00f2n nh\u1edb l\u00fd do, kh\u00f4ng ph\u1ea3i tai n\u1ea1n."
+  ],
+  "three_strongest_sentences": [
+    "Nh\u01b0 \u0111\u00f4i gi\u00e0y c\u00f2n m\u00e0 ch\u00e2n \u0111\u00e3 m\u1ea5t.",
+    "Qu\u1ef3nh n\u1edf m\u1ed9t \u0111\u00eam r\u1ed3i t\u00e0n. M\u1ed9t \u0111\u00eam. M\u1ed9t \u0111\u1eddi. Kh\u00f4ng ai k\u1ecbp ng\u1eafm.",
+    "M\u00ecnh qu\u00ean m\u1ea5t ch\u1ecb \u1ea5y b\u00e1n g\u00ec."
+  ],
+  "ai_patterns_detected": [
+    "Ending repetition: 'M\u00ecnh ch\u01b0a s\u1eb5n s\u00e0ng' appears as a refrain four times in the final section \u2014 AI often uses cyclic returns to a phrase to create faux-closure",
+    "Paragraph uniformity: Multiple paragraphs in the middle section follow identical structure (character name + period + action verb + object)",
+    "Emotional summary blocks: Several late passages narrate emotional state abstractly rather than staying in sensation \u2014 'L\u1ea1nh ki\u1ec3u nh\u1eadn ra' is analysis, not experience",
+    "Triple parallelism: 'Ch\u01b0a s\u1eb5n s\u00e0ng tin. Ch\u01b0a s\u1eb5n s\u00e0ng \u0111\u1ed1i m\u1eb7t. Ch\u01b0a s\u1eb5n s\u00e0ng th\u1eeba nh\u1eadn' \u2014 three-clause parallel structure is a common AI rhetorical pattern"
+  ],
+  "overall_score": 7.0,
+  "weakest_dimension": "prose_quality",
+  "top_3_revisions": [
+    "Cut the final eight paragraphs to three: Linh looks at river, feels watched, touches wrist where rain fell. End on image, not internal monologue. Remove all four instances of 'm\u00ecnh ch\u01b0a s\u1eb5n s\u00e0ng' \u2014 the dread is already in the body, let it stay there.",
+    "Break B\u00e1ch's pattern-revelation monologue into two interrupted beats. Let B\u00e1ch start angry, get shut down by Duy's silence, pace, then add one more piece of evidence with less articulation. Anger should fragment the speech, not organize it.",
+    "Replace 'm\u1ee7 nh\u00e9t gi\u1eefa l\u1ed3ng ng\u1ef1c' with something from the established vocabulary wells (n\u01b0\u1edbc, m\u00e0i m\u00f2n, or h\u01b0\u01a1ng kh\u00f3i): '\u0111\u1eb7c nh\u01b0 n\u01b0\u1edbc s\u00f4ng H\u01b0\u01a1ng m\u00f9a l\u0169 ngh\u1eb9n \u1edf c\u1ed5 h\u1ecdng, nu\u1ed1t kh\u00f4ng tr\u00f4i' connects grief to the physical world already built."
+  ],
+  "new_canon_entries": [
+    "Linh tr\u1ed3ng c\u00e2y qu\u1ef3nh tr\u00ean ban c\u00f4ng ph\u00f2ng tr\u1ecd t\u1eeb m\u00f9a m\u01b0a n\u0103m ngo\u00e1i (ch_04)",
+    "L\u1ecbch c\u00f3 s\u1eb9o nh\u1ecf \u1edf \u0111\u1ed1t gi\u1eefa ng\u00f3n tr\u1ecf tay ph\u1ea3i t\u1eeb n\u0103m 1996, do ghim ng\u00f3n khi may t\u00fai x\u00e1ch cho Tu\u1ea5n (ch_04)",
+    "Duy quen H\u1ea1nh \u0111\u00fang hai tu\u1ea7n tr\u01b0\u1edbc khi R\u1eeda \u2014 m\u1ea5t c\u1ea3 chi ti\u1ebft c\u1ee5 th\u1ec3 (ch\u1ecb b\u00e1n g\u00ec) l\u1eabn c\u1ea3m x\u00fac (ch_04)",
+    "B\u00e0 T\u00e2m th\u1eafp nhang tr\u1ea7m m\u1ed7i s\u00e1ng, tr\u01b0\u1edbc v\u00e0 sau khi m\u01b0a (ch_04)",
+    "Linh b\u1eaft \u0111\u1ea7u nh\u1eadn ra t\u00ecnh c\u1ea3m m\u1edbi v\u1edbi L\u1ecbch \u2014 qua chi ti\u1ebft s\u1eb9o, ng\u1ef1c \u1ea5m l\u00ean \u2014 nh\u01b0ng t\u1ef1 gh\u00e9t c\u1ea3m gi\u00e1c \u0111\u00f3 v\u00ec s\u1ee3 R\u1eeda s\u1ebd l\u1ea5y \u0111i (ch_04)"
+  ],
+  "slop": {
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 3.78,
+    "sentence_length_cv": 0.786,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 0.0,
+    "language": "vi",
+    "vi_english_leaks": [],
+    "vi_translation_calques": [],
+    "vi_fiction_ai_tells": [],
+    "vi_telling_violations": 0,
+    "vi_structural_ai_tics": []
+  },
+  "raw_judge_score": 7
+}
