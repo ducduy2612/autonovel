@@ -308,3 +308,16 @@
 - Cảnh mua trà xanh loại Lịch uống vì quen—thói quen duy nhất còn lại khi cảm xúc đã mờ. (ch_19)
 - Cảnh kể: hồi trước nhìn Linh cười mà muốn khóc, nhìn Tuấn nắm tay Linh mà tức ngực. Giờ nhìn và biết nên cảm nhưng không cảm. (ch_19)
 - Cảnh bắt đầu kể chuyện từ 'Mười sáu tuổi, hồi đó tôi tên Thảo'—câu mở đầu cho chương tiếp theo. (ch_19)
+
+
+## From Chapter 20
+- Lịch ghi trong sổ: ngày 1/10/1994 sáu người ngồi quán Bến Nghé, mưa, Rửa lần đầu; ngày 15/10/1994 chỉ còn năm người, ghế thứ sáu trống (CẦN SỬA cho khớp timeline canon) (ch_20)
+- Lịch đã ba lần thấy bóng người ngoài cửa kính quán bà Tâm ban đêm — dáng thấp, mỏng, vai rủ (ch_20)
+- Bà Tâm rót nước tràn mép ly ghế trống rồi lau bằng khăn ấm mỗi đêm — thói quen lặng lẽ (ch_20)
+- Tuấn tự nhận ra mình yêu Linh giống cách Cảnh giữ nhóm — cả hai đều níu, chỉ khác phương tiện (ch_20)
+- Duy thú nhận: 'Mình giả vờ ổn sáu năm rồi. Giả vững mệt lắm' (ch_20)
+- Lịch nói sợ Rửa vì sợ mất một năm về Linh — giấu tình cảm nên nông, nên nước chưa lấy (lí thuyết của Lịch) (ch_20)
+- Tuấn nói với Linh: 'Mình buông cậu rồi' (ch_20)
+- Linh và Lịch nhìn thấy dáng người (Cảnh) đứng bên kia sông Hương sau cuộc họp nhóm — thấp, mỏng, vai rủ (ch_20)
+- Lịch quyết định đi cùng Linh đến Hương Thủy — nắm tay Linh, không buông (ch_20)
+- Bách xác nhận: Ủy Ban không phải kẻ thù, chỉ ghi chép, không gọi mưa (ch_20)
