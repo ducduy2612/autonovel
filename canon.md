@@ -321,3 +321,11 @@
 - Linh và Lịch nhìn thấy dáng người (Cảnh) đứng bên kia sông Hương sau cuộc họp nhóm — thấp, mỏng, vai rủ (ch_20)
 - Lịch quyết định đi cùng Linh đến Hương Thủy — nắm tay Linh, không buông (ch_20)
 - Bách xác nhận: Ủy Ban không phải kẻ thù, chỉ ghi chép, không gọi mưa (ch_20)
+
+
+## From Chapter 21
+- Cảnh viết tên năm người lên giấy mỗi đêm theo thứ tự: Bách, Duy, Lịch, Tuấn, Linh — tên Linh viết cuối, chậm nhất, cháy nhẹ nhất (ch_21)
+- Cảnh thú nhận với Linh: gọi mưa ba lần trong ba tuần vì hoảng khi nhóm bắt đầu điều tra (ch_21)
+- Cảnh nói 'Tôi sợ ngồi một mình' — lần đầu tiên nói sợ trong sáu năm (ch_21)
+- Linh chạm vai Cảnh — lần đầu tiên ai trong nhóm chạm Cảnh kể từ khi bị quên (ch_21)
+- Cảnh xác nhận với Linh: 'Tôi biết' về việc mình đang mất khả năng cảm xúc (ch_21)
