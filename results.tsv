@@ -308,3 +308,4 @@ reverted	rev-ch13	5.82	1537	discard	Cycle 1: momentum_loss regressed 6.5->5.82
 cc936b2	rev-ch04	7.0	3705	keep	Cycle 1: thinnest_character improved 6.0->7.0
 f35de50	rev-ch16	7.0	1591	keep	Cycle 1: momentum_loss improved 7.0->7.0
 dac2c74	rev-ch09	7.0	1398	keep	Cycle 1: cut_candidate improved 6.95->7.0
+ceacbd3	rev-ch20	7.0	3815	keep	Cycle 1: missing_scene improved 6.0->7.0
