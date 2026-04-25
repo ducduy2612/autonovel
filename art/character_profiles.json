@@ -1,0 +1,82 @@
+[
+  {
+    "patterns": [
+      "Linh",
+      "LINH"
+    ],
+    "key": "linh",
+    "descriptor": "A narrow-shouldered, slender figure with a utilitarian chin-length bob, featuring rough, calloused hands with bitten-down fingernails, dressed in simple, loose-fitting dark clothing."
+  },
+  {
+    "patterns": [
+      "Tuấn",
+      "TUẤN"
+    ],
+    "key": "tuan",
+    "descriptor": "A tall, lean frame with long hair tied back in a half-bun, displaying elegant, long-fingered hands that constantly fidget with a small ring, wearing a neatly tailored but slightly oversized shirt."
+  },
+  {
+    "patterns": [
+      "Cảnh",
+      "Cảnh (Người thứ sáu)",
+      "Thảo"
+    ],
+    "key": "canh",
+    "descriptor": "A slight, compressed figure of below-average height in faded, meticulously clean clothes—worn grey shirt and bleached blue trousers—standing with a rigid posture and wearing plastic sandals."
+  },
+  {
+    "patterns": [
+      "Lịch",
+      "LỊCH"
+    ],
+    "key": "lich",
+    "descriptor": "An upright, observant figure carrying a worn notebook, viewed from behind as a silhouette with a neat, tightly secured hairstyle, projecting a stiff, guarded stance."
+  },
+  {
+    "patterns": [
+      "Bách",
+      "BÁCH"
+    ],
+    "key": "bach",
+    "descriptor": "A broad-shouldered, tense figure in a slightly masculine-cut jacket, standing with a rigid, confrontational posture, with hair cropped short at the nape of the neck."
+  },
+  {
+    "patterns": [
+      "Duy",
+      "DUY"
+    ],
+    "key": "duy",
+    "descriptor": "A relaxed, casual silhouette with an easy, unguarded slouch, hands often shoved deep into trouser pockets, wearing a simple, unbuttoned collared shirt."
+  },
+  {
+    "patterns": [
+      "Cô Bích",
+      "Nguyễn Thị Bích",
+      "Bích"
+    ],
+    "key": "co_bich",
+    "descriptor": "A middle-aged woman with a stiff, bureaucratic posture, wearing a neatly tucked blouse and carrying a clipboard, her hair pinned up in a tight, formal bun."
+  },
+  {
+    "patterns": [
+      "Bà Tâm",
+      "Tâm"
+    ],
+    "key": "ba_tam",
+    "descriptor": "A short, elderly woman with a hunched back and grey hair tied in a loose knot, wearing a faded, traditional loose-fitting blouse, viewed from behind as she bends over to wipe a table with a warm towel."
+  },
+  {
+    "patterns": [
+      "Hồng"
+    ],
+    "key": "hong",
+    "descriptor": "A distant silhouette of a solitary figure walking away, carrying a single worn suitcase, the posture showing exhaustion and a definitive departure."
+  },
+  {
+    "patterns": [
+      "Bà Lụa"
+    ],
+    "key": "ba_lua",
+    "descriptor": "A frail, elderly woman sitting rigidly on a low stool, viewed from behind, her thin shoulders draped in a dark, traditional shawl, with wisps of white hair escaping a bun."
+  }
+]

@@ -2,33 +2,33 @@
   {
     "num": 1,
     "direction": "Abstract Geometric",
-    "concept": "Repeating motif across all chapters",
-    "medium": "Pure black-and-white vector",
+    "concept": "A monochromatic, single geometric motif that represents a fragmented, dissolving silhouette trapped within the shape of a water droplet.",
+    "medium": "Pure black-and-white vector art with crisp, hard edges and a flat graphic quality.",
     "file": "ornament_01.png",
-    "size": 66538
+    "size": 28724
   },
   {
     "num": 2,
     "direction": "Figurative Symbolic",
-    "concept": "Changing motif per chapter (coastal flora)",
-    "medium": "Muted watercolor and ink with spectral dissolving edges",
+    "concept": "A specific, changing symbolic motif for each chapter, focusing on surreal anatomical distortions merging with Vietnamese architectural elements.",
+    "medium": "Stipple and ink wash, utilizing a full-color watercolor palette with damp, bleeding edges.",
     "file": "ornament_02.png",
-    "size": 53615
+    "size": 173777
   },
   {
     "num": 3,
     "direction": "Minimal Line",
-    "concept": "Single continuous motif across all chapters",
-    "medium": "Sparse skeletal ink line art",
+    "concept": "A single, continuous, monochrome line drawing that forms a raindrop containing the fragmentary outline of a mundane object fading into nothingness.",
+    "medium": "Single-line ink stroke with dry brush texture, pure black ink on white.",
     "file": "ornament_03.png",
-    "size": 23156
+    "size": 42568
   },
   {
     "num": 4,
     "direction": "Detailed Engraving",
-    "concept": "Changing motif per chapter (coastal flora)",
-    "medium": "High-contrast woodcut and stipple",
+    "concept": "A highly detailed, fixed vignette combining photorealistic Vietnamese urban textures with grotesque, melting anatomy in a classical format.",
+    "medium": "Vintage woodcut printmaking style using cross-hatching, pure monochrome with no grayscale.",
     "file": "ornament_04.png",
-    "size": 95122
+    "size": 154288
   }
 ]

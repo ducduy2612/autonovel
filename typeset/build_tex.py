@@ -481,7 +481,7 @@ def main():
         if ornament_file:
             ornament_tex = (
                 f"\\begin{{center}}\n"
-                f"\\includegraphics[width=0.8in]{{{ornament_file}}}\n"
+                f"\\includegraphics[width=1.1in]{{{ornament_file}}}\n"
                 f"\\end{{center}}\n"
                 f"\\vspace{{0.15in}}\n"
             )

@@ -2,25 +2,25 @@
   {
     "num": 1,
     "direction": "Traditional parchment fantasy map",
-    "concept": "Labeled, full color, detailed",
-    "medium": "Watercolor and ink on ancient, water-stained parchment",
+    "concept": "A weathered, sepia-toned cartographer's map on aged, water-damaged parchment, where the intricate urban geography of Hu\u1ebf is overlaid with anatomical veins. It is heavily labeled in elegant, bleeding ink calligraphy, detailing both mundane streets and supernatural locations.",
+    "medium": "Sepia ink and watercolor on textured, frayed parchment, detailed cartography with anatomical surrealism.",
     "file": "map_01.png",
-    "size": 195020
+    "size": 233883
   },
   {
     "num": 2,
     "direction": "Acoustic/scientific diagram",
-    "concept": "Unlabeled, black and white, schematic",
-    "medium": "Technical schematic print on weathered vellum",
+    "concept": "A clinical, black and white schematic map resembling an acoustic frequency readout and a topographical watershed diagram. It tracks the unseen supernatural rainfall and memory erosion of the city through stark data visualization, entirely unlabeled except for symbolic waveforms.",
+    "medium": "Black and white vector graphics, precise clinical linework, schematic blueprint, topographical data visualization.",
     "file": "map_02.png",
-    "size": 183707
+    "size": 233512
   },
   {
     "num": 3,
     "direction": "Birds-eye illustration",
-    "concept": "Symbolically coded, sepia, impressionistic",
-    "medium": "Ink-wash and charcoal panoramic birds-eye view",
+    "concept": "A full-color, impressionistic aerial landscape illustration looking down on a surreal, rain-drenched city. It captures a melancholic dream where urban architecture morphs into living tissue and ghosts, using purely symbolic color-coding and iconography to identify key locations without text.",
+    "medium": "Full-color watercolor and ink wash, photorealistic base blending into surreal impressionistic anatomy, birds-eye view.",
     "file": "map_03.png",
-    "size": 199741
+    "size": 257089
   }
 ]

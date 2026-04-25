@@ -5,12 +5,12 @@
 # Title broken into display lines (centered on title page).
 # Each entry has a LaTeX font size and the text.
 title_lines:
-  - Huge: "Đảo"
+  - Huge: "Những Người Tình"
   - small: "của"
-  - Huge: "Những Người Mới Chết"
+  - Huge: "Mưa"
 
 # Short form (used in half-title page, PDF metadata, running headers)
-title_short: "Đảo Của Những Người Mới Chết"
+title_short: "Những Người Tình của Mưa"
 
 # Author name (title page + PDF metadata)
 author: "Duy Tom"

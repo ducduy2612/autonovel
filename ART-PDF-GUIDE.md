@@ -11,31 +11,60 @@ python3 gen_art.py budget
 # Step 1: Derive visual style from world + voice
 python3 gen_art.py style
 
-# Step 2: Generate variants, pick one
+# Step 2: Generate character profiles from characters.md (writes art/character_profiles.json)
+python3 gen_art.py gen-characters
+
+# Step 3: Generate variants, pick one
 python3 gen_art.py curate cover --n=4
 python3 gen_art.py pick cover 2
 
 python3 gen_art.py curate ornament --n=4
 python3 gen_art.py pick ornament 3
 
-# Step 3: Batch generation (after picking references)
+# Step 4: Batch generation (after picking references)
 python3 gen_art.py ornaments-all        # one ornament per chapter
 python3 gen_art.py scene-break           # decorative scene break
 python3 gen_art.py curate map --n=3      # map illustration
 python3 gen_art.py pick map 1
 
-# Step 4: Vectorize ornaments to SVG
+# Step 5: Vectorize ornaments to SVG
 python3 gen_art.py vectorize
 
 # Or run everything interactively (stops at human pick points)
 python3 gen_art.py all
 ```
 
+### Character profiles
+
+Chapter ornaments detect which characters appear in each chapter and include
+silhouette-safe visual cues. Profiles are **generated from `characters.md`**
+via Claude — never hardcoded — so they always match the current novel.
+
+```bash
+# Regenerate when characters.md changes
+python3 gen_art.py gen-characters
+```
+
+Output: `art/character_profiles.json` — array of entries:
+```json
+[
+  {
+    "patterns": ["Linh", "linh"],
+    "key": "linh",
+    "descriptor": "A slender figure seen from behind, short jaw-length hair, narrow shoulders..."
+  }
+]
+```
+
+When `ornaments-all` runs, it loads this file to detect characters per chapter
+and weave their silhouettes into the scene prompt.
+
 ### File locations
 
 | File | Purpose |
 |---|---|
 | `art/visual_style.json` | AI-derived art style (colors, mood, concepts) |
+| `art/character_profiles.json` | AI-derived character silhouette profiles (from characters.md) |
 | `art/variants/` | All generated variants before picking |
 | `art/cover.png` | Final cover (picked from variants) |
 | `art/ornament_reference.png` | Reference style for chapter ornaments |

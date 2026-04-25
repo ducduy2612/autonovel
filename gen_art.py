@@ -5,12 +5,16 @@ Generate novel art via Cloudflare Workers AI (Flux 2 Dev).
 Uses CLOUDFLARE_API_KEY and CLOUDFLARE_ACCOUNT_ID from .env.
 Model: @cf/black-forest-labs/flux-2-dev
 
+Character profiles for ornaments are derived from characters.md via Claude
+and stored in art/character_profiles.json — never hardcoded.
+
 Chapter ornaments use atmospheric scenes with characters as compositional
 elements (silhouettes, back views, hands) — never faces — for visual
 consistency across chapters.
 
 Curation workflow (human-in-the-loop):
   python gen_art.py style                    # Derive visual style from world + voice
+  python gen_art.py gen-characters           # Derive character profiles from characters.md
   python gen_art.py curate cover --n=4       # Generate 4 cover variants, pick one
   python gen_art.py curate ornament --n=4    # Generate 4 ornament style variants
   python gen_art.py pick cover 2             # Select variant #2 as final
@@ -26,7 +30,7 @@ Post-processing:
   python gen_art.py vectorize ornament_ch01  # Vectorize a single image
 
 Full pipeline:
-  python gen_art.py all                      # style → curate → batch → vectorize
+  python gen_art.py all                      # style → gen-characters → curate → batch → vectorize
 
 Safety:
   python gen_art.py archive                  # Zip current art/ to art/archive/<ts>.zip
@@ -402,6 +406,7 @@ def cmd_curate(args):
         label = d.get("direction", f"variant_{i}")
         print(f"\n  [{i}/{n}] {label.upper()}: {d.get('concept', '')[:80]}")
         print(f"    Medium: {d.get('medium', 'N/A')}")
+        print(f"    PROMPT: {prompt}")
 
         url, desc = flux_generate(prompt, resolution=resolution, aspect_ratio=aspect)
         dest = VARIANTS_DIR / f"{art_type}_{i:02d}.png"
@@ -559,67 +564,109 @@ def cmd_pick(args):
 
 # Maps character identifiers to the visual cues that work from behind /
 # as silhouette / partial view — NO face details.
-_CHARACTER_PATTERNS = [
-    # (search_patterns, char_key, silhouette_descriptor)
-    (
-        ["Cường", "cường"],
-        "cuong",
-        "A tall gaunt man seen from behind, short uneven hair, pale skin, "
-        "long fingers. He touches his left ribcage. Wearing nondescript dark clothes.",
-    ),
-    (
-        ["Kẻ Đuổi", "kẻ đuổi", "Nàng", "nàng"],
-        "ke_duoi",
-        "A woman glimpsed as a translucent silhouette, long flowing hair, "
-        "standing too close. Uncanny stillness. Rendered with slight pixel-edge artifacts.",
-    ),
-    (
-        ["Hạnh", "hạnh"],
-        "hanh",
-        "A stocky figure seen from behind, short grey hair, metal-framed glasses "
-        "in one hand, unbuttoned jacket. Stands at an angle, never straight-on.",
-    ),
-    (
-        ["Giám đốc", "giám đốc"],
-        "giam_doc",
-        "A still figure in a clean white coat, hair tied back, "
-        "holding a clipboard. Perfectly erect posture. No jewelry, no personal markers.",
-    ),
-    (
-        ["Bảo", "bảo"],
-        "bao",
-        "A wiry figure crouched over electronics, back to viewer, "
-        "surrounded by cables and soldering gear. Sleeves rolled up.",
-    ),
-    (
-        ["Người thứ 13", "người thứ 13", "Người Thứ 13"],
-        "nguoi_13",
-        "A dark shape barely distinguishable from shadow, "
-        "standing at the edge of frame. No features, just outline and presence.",
-    ),
-    (
-        ["Tuấn", "tuấn"],
-        "tuan",
-        "A figure in a white coat sitting at a desk, back to viewer, "
-        "reading something intently. Calm stillness.",
-    ),
-    (
-        ["Bà Lành", "bà lành", "Lành", "lành"],
-        "ba_lanh",
-        "An older woman in neat clothes, seen from behind, "
-        "watering a small plant on a windowsill. Gentle posture.",
-    ),
-]
+CHAR_PROFILES_FILE = ART_DIR / "character_profiles.json"
 
 _CHARACTER_CACHE = None
 
 
 def _load_character_profiles():
-    """Return the character pattern list (cached)."""
+    """Return the character pattern list (cached).
+
+    Reads from art/character_profiles.json if it exists.
+    Each entry: {"patterns": [...], "key": "...", "descriptor": "..."}
+    Converted to (patterns_list, key, descriptor) tuples at runtime.
+    """
     global _CHARACTER_CACHE
-    if _CHARACTER_CACHE is None:
-        _CHARACTER_CACHE = _CHARACTER_PATTERNS
-    return _CHARACTER_CACHE
+    if _CHARACTER_CACHE is not None:
+        return _CHARACTER_CACHE
+
+    if CHAR_PROFILES_FILE.exists():
+        raw = json.loads(CHAR_PROFILES_FILE.read_text())
+        _CHARACTER_CACHE = [
+            (entry["patterns"], entry["key"], entry["descriptor"])
+            for entry in raw
+        ]
+        return _CHARACTER_CACHE
+
+    print(f"ERROR: {CHAR_PROFILES_FILE} not found. Run: gen_art.py gen-characters",
+          file=sys.stderr)
+    sys.exit(1)
+
+
+def cmd_gen_characters(args):
+    """Derive character silhouette profiles from characters.md via Claude.
+
+    Produces art/character_profiles.json with search patterns and
+    silhouette-safe visual descriptors for each named character.
+    """
+    characters_path = BASE_DIR / "characters.md"
+    if not characters_path.exists():
+        print("ERROR: characters.md not found", file=sys.stderr)
+        sys.exit(1)
+
+    characters_text = characters_path.read_text()
+
+    # Also include world + style for cultural context
+    world_text = ""
+    world_path = BASE_DIR / "world.md"
+    if world_path.exists():
+        world_text = world_path.read_text()[:3000]
+
+    style_text = ""
+    if STYLE_FILE.exists():
+        style = load_style()
+        style_text = (
+            f"Art style: {style.get('art_style', '')}. "
+            f"Mood: {style.get('mood', '')}. "
+            f"Colors: {style.get('color_palette', '')}"
+        )
+
+    prompt = f"""You are an art director defining visual profiles for characters in a novel.
+These profiles will be used to generate chapter ornament illustrations where characters
+appear as silhouettes, back views, or partial body details — NEVER faces or front portraits.
+
+NOVEL WORLD (excerpt):
+{world_text}
+
+CURRENT ART STYLE:
+{style_text}
+
+CHARACTERS:
+{characters_text}
+
+For EVERY named character in the character file, produce a JSON profile:
+
+[
+  {{
+    "patterns": ["Name", "name", "alias1", "alias2"],
+    "key": "snake_case_key",
+    "descriptor": "One-sentence silhouette-safe visual description in English. Describe body type, posture, distinctive clothing or accessories, hair, stance — all as seen from BEHIND or as a shadow. No faces. No front portraits."
+  }}
+]
+
+Rules:
+- "patterns" must include the character name with and without diacritics, plus any aliases or nicknames used in the text.
+- "descriptor" must be concrete and physical — body build, height, posture, clothing, hair, distinguishing marks.
+- Descriptors must work when the figure is seen from behind, as a silhouette, or shown only as hands.
+- Include ALL named characters, even minor ones.
+- Output valid JSON array only, no markdown fences."""
+
+    print("Generating character profiles from characters.md...")
+    result = call_claude(prompt, max_tokens=3000)
+    text = result.strip()
+    if text.startswith("```"):
+        text = re.sub(r'^```\w*\n?', '', text)
+        text = re.sub(r'\n?```$', '', text)
+
+    profiles = json.loads(text)
+
+    ART_DIR.mkdir(exist_ok=True)
+    CHAR_PROFILES_FILE.write_text(json.dumps(profiles, indent=2, ensure_ascii=False))
+
+    print(f"\nGenerated {len(profiles)} character profiles → {CHAR_PROFILES_FILE}")
+    for entry in profiles:
+        print(f"  {entry['key']}: patterns={entry['patterns'][:3]}")
+    return profiles
 
 
 def _detect_characters_in_chapter(chapter_text, top_n=2):
@@ -708,7 +755,8 @@ def cmd_ornaments_all(args):
         # Show which characters were detected
         chars = _detect_characters_in_chapter(chapter_text)
         char_names = [c[0] for c in chars] if chars else ["(none)"]
-        print(f"  Ch {num}: '{title}' chars={char_names}", end="", flush=True)
+        print(f"  Ch {num}: '{title}' chars={char_names}")
+        print(f"    PROMPT: {prompt}")
 
         if ref_path:
             url, _ = flux_edit(prompt, [ref_path], resolution="1K", aspect_ratio="1:1")
@@ -717,7 +765,7 @@ def cmd_ornaments_all(args):
 
         dest = ART_DIR / f"ornament_ch{num:02d}.png"
         size = download_image(url, dest)
-        print(f" → {dest.name} ({size:,} bytes)")
+        print(f"    → {dest.name} ({size:,} bytes)")
         time.sleep(1)
 
 
@@ -816,7 +864,13 @@ def cmd_all(args):
     else:
         print(f"  Using existing style from {STYLE_FILE}")
 
-    print("\n--- Step 2: Generate Cover Variants ---")
+    print("\n--- Step 2: Character Profiles ---")
+    if not CHAR_PROFILES_FILE.exists():
+        cmd_gen_characters(args)
+    else:
+        print(f"  Using existing profiles from {CHAR_PROFILES_FILE}")
+
+    print("\n--- Step 3: Generate Cover Variants ---")
     class CurateArgs:
         pass
     ca = CurateArgs()
@@ -831,7 +885,7 @@ def cmd_all(args):
         print("\n(Stopping here — pick a cover first)")
         return
 
-    print("\n--- Step 3: Generate Ornament Style Variants ---")
+    print("\n--- Step 4: Generate Ornament Style Variants ---")
     ca.art_type = "ornament"
     cmd_curate(ca)
     print("\n>>> HUMAN ACTION: Review art/variants/ornament_*.png")
@@ -841,18 +895,18 @@ def cmd_all(args):
         print("\n(Stopping here — pick an ornament style first)")
         return
 
-    print("\n--- Step 4: Generate All Chapter Ornaments ---")
+    print("\n--- Step 5: Generate All Chapter Ornaments ---")
     cmd_ornaments_all(args)
 
-    print("\n--- Step 5: Scene Break ---")
+    print("\n--- Step 6: Scene Break ---")
     cmd_scene_break(args)
 
-    print("\n--- Step 6: Map Variants ---")
+    print("\n--- Step 7: Map Variants ---")
     ca.art_type = "map"
     ca.n = 3
     cmd_curate(ca)
 
-    print("\n--- Step 7: Vectorize ---")
+    print("\n--- Step 8: Vectorize ---")
     cmd_vectorize(args)
 
     print("\n" + "=" * 60)
@@ -925,6 +979,7 @@ def main():
 
     sub.add_parser("ornaments-all", help="Generate ornaments for all chapters")
     sub.add_parser("scene-break", help="Generate scene break decoration")
+    sub.add_parser("gen-characters", help="Generate character profiles from characters.md")
 
     p = sub.add_parser("vectorize", help="Convert raster art to SVG")
     p.add_argument("target", nargs="?", default="all", help="Image name or 'all'")
@@ -954,6 +1009,7 @@ def main():
         "style": cmd_style,
         "curate": cmd_curate,
         "pick": cmd_pick,
+        "gen-characters": cmd_gen_characters,
         "ornaments-all": cmd_ornaments_all,
         "scene-break": cmd_scene_break,
         "vectorize": cmd_vectorize,

@@ -1,15 +1,15 @@
 {
   "magic_system": {
     "score": 7,
-    "gap": "The climax (Ch 22-23) introduces two mechanics not established in the hard rules: (1) Minh's plan to 'pour' his memories into emptied minds, and (2) Linh's 'partial R\u1eeda' that takes only a fragment rather than a full year. Rule 3 states 'thay \u0111\u1ed5i lu\u00f4n l\u00e0 chuy\u1ec3n gi\u1edbi ho\u00e0n to\u00e0n' and Rule 4 specifies exactly 'm\u1ed9t n\u0103m d\u01b0\u01a1ng l\u1ecbch tr\u00f2n.' A writer would have to retroactively justify or rewrite the ending to match established rules.",
-    "fix": "Either (a) revise the climax to work within existing rules\u2014perhaps Minh's memory-insertion plan is his delusion that Linh must debunk, not a real mechanic\u2014or (b) foreshadow these exceptions earlier: have a character discover historical records of 'incomplete' R\u1eeda, or show the rules bending when the caller stops mid-call. The partial R\u1eeda needs at minimum one prior hint that interruption is possible.",
+    "gap": "The climax (Ch 22-23) introduces two mechanics not established in the hard rules: (1) Cảnh's plan to 'pour' his memories into emptied minds, and (2) Linh's 'partial R\u1eeda' that takes only a fragment rather than a full year. Rule 3 states 'thay \u0111\u1ed5i lu\u00f4n l\u00e0 chuy\u1ec3n gi\u1edbi ho\u00e0n to\u00e0n' and Rule 4 specifies exactly 'm\u1ed9t n\u0103m d\u01b0\u01a1ng l\u1ecbch tr\u00f2n.' A writer would have to retroactively justify or rewrite the ending to match established rules.",
+    "fix": "Either (a) revise the climax to work within existing rules\u2014perhaps Cảnh's memory-insertion plan is his delusion that Linh must debunk, not a real mechanic\u2014or (b) foreshadow these exceptions earlier: have a character discover historical records of 'incomplete' R\u1eeda, or show the rules bending when the caller stops mid-call. The partial R\u1eeda needs at minimum one prior hint that interruption is possible.",
     "note": "The system otherwise excels: costs drive all plot (memory loss forces relationship dilemmas), societal implications are specific and numerous (administrative nightmare, love as finite resource, rain-avoidance economy), and testability is high. The problem is confined to the final act."
   },
   "world_history": {
     "score": 6,
     "gap": "History consists of three points (Th\u1eddi S\u01a1 Kh\u1edfi, L\u1ea7n G\u00e3y \u0110\u1ea7u Ti\u00ean, 1994 formation) with no causal chain between them. The Th\u1eddi S\u01a1 Kh\u1edfi myth is atmospheric but generates no present-day faction conflict or character motivation. We don't know why the break happened, why 1994, or why these six students.",
     "fix": "Add one concrete historical event between L\u1ea7n G\u00e3y and 1994 that created present tensions\u2014perhaps a previous V\u00f2ng that ended disastrously, or an official attempt to study/control R\u1eeda that B\u00e0 L\u1ee5a witnessed. This would give the \u1ee6y Ban's secrecy historical motivation and link the 1994 event to a pattern rather than pure randomness.",
-    "note": "The decorative myth is beautiful but plot-irrelevant. The history that matters (1994 formation, Minh's erasure) is well-documented; what's missing is the connective tissue that makes it feel inevitable rather than arbitrary."
+    "note": "The decorative myth is beautiful but plot-irrelevant. The history that matters (1994 formation, Cảnh's erasure) is well-documented; what's missing is the connective tissue that makes it feel inevitable rather than arbitrary."
   },
   "geography_and_culture": {
     "score": 9,
@@ -25,32 +25,32 @@
   },
   "iceberg_depth": {
     "score": 7,
-    "gap": "The phrase 'Kh\u00f4ng ai bi\u1ebft' appears as explanation for three major mysteries (why the break, why this group, why H\u1eb1ng is immune). Some of these read as genuine depth (the reader shouldn't know yet); others read as the author not having decided. The outline reveals Minh's full plan, so the author clearly knows *that* answer\u2014but the underlying 'why this six?' remains genuinely handwaved.",
+    "gap": "The phrase 'Kh\u00f4ng ai bi\u1ebft' appears as explanation for three major mysteries (why the break, why this group, why H\u1eb1ng is immune). Some of these read as genuine depth (the reader shouldn't know yet); others read as the author not having decided. The outline reveals Cảnh's full plan, so the author clearly knows *that* answer\u2014but the underlying 'why this six?' remains genuinely handwaved.",
     "fix": "Decide internally (not necessarily on-page) why these six and not others. Document it in the canon even if it's never stated in the novel. The author needs to know; the reader doesn't. A one-line note ('common factor: all six were within 50m of the river at the moment of a once-in-12-years atmospheric convergence') would suffice.",
     "note": "The implied depth is otherwise strong: the sound-in-rain phenomenon, mirror lag, memory-scent connection, and Hoa h\u1eadu lan's blooming all suggest a world deeper than what's explained. The problem is concentrated in origin questions."
   },
   "character_depth": {
     "score": 8,
-    "gap": "Phong's wound/want/need/lie chain is abbreviated to the point of stubbiness. His 'l\u1ea1c c\u1ea3m' (emotional numbness) is compelling but sketched. For a character whose acceptance contrasts Kh\u00e1nh's rage, Phong needs a causal chain as strong as the others. His lie ('R\u1eeda is normal') should logically follow from a wound, but what wound? The numbness IS the wound.",
-    "fix": "Give Phong a concrete pre-1994 experience that pre-disposed him to emotional shutdown\u2014perhaps a parent who coped with trauma through denial, teaching Phong that acceptance equals survival. His lie should be 'numbness is peace' and his need should be 'feeling pain is proof you're alive.' One paragraph would fix this.",
-    "note": "Linh, Tu\u1ea5n, Minh, and H\u1eb1ng have exemplary chains. Linh's lie ('love needs memory to be real') follows causally from her wound (knowing she loved but not feeling it). Minh's lie ('control is love') follows from his wound (being forgotten by everyone he loved). The causal logic is strong."
+    "gap": "Duy's wound/want/need/lie chain is abbreviated to the point of stubbiness. His 'l\u1ea1c c\u1ea3m' (emotional numbness) is compelling but sketched. For a character whose acceptance contrasts Kh\u00e1nh's rage, Duy needs a causal chain as strong as the others. His lie ('R\u1eeda is normal') should logically follow from a wound, but what wound? The numbness IS the wound.",
+    "fix": "Give Duy a concrete pre-1994 experience that pre-disposed him to emotional shutdown\u2014perhaps a parent who coped with trauma through denial, teaching Duy that acceptance equals survival. His lie should be 'numbness is peace' and his need should be 'feeling pain is proof you're alive.' One paragraph would fix this.",
+    "note": "Linh, Tu\u1ea5n, Cảnh, and H\u1eb1ng have exemplary chains. Linh's lie ('love needs memory to be real') follows causally from her wound (knowing she loved but not feeling it). Cảnh's lie ('control is love') follows from his wound (being forgotten by everyone he loved). The causal logic is strong."
   },
   "character_distinctiveness": {
     "score": 8,
-    "gap": "Kh\u00e1nh and Minh share a metaphor domain (pressure/flow) that could cause voice confusion in dialogue-heavy scenes. Kh\u00e1nh speaks in 'short, hammering' sentences; Minh speaks in 'technical but gentle' sentences about water systems. When both discuss rain, differentiation relies solely on content rather than syntax.",
-    "fix": "Shift Kh\u00e1nh's metaphor domain away from water entirely\u2014perhaps to metal/tools ('\u0111\u1eadp', 'm\u00e0i', 'r\u1ec9' in the sense of rust, not leakage). Kh\u00e1nh thinks in terms of breaking and fixing; Minh thinks in terms of channeling and containing. This would eliminate overlap.",
-    "note": "Otherwise excellent. Removing dialogue tags, Linh's half-finished sentences and H\u1eb1ng's date-stamped specificity are immediately identifiable. Tu\u1ea5n's nostalgic preambles ('H\u1ed3i \u0111\u00f3 m\u00ecnh...') and Phong's deflection-through-humor are distinct. The voice profiles are actionable."
+    "gap": "Kh\u00e1nh and Cảnh share a metaphor domain (pressure/flow) that could cause voice confusion in dialogue-heavy scenes. Kh\u00e1nh speaks in 'short, hammering' sentences; Cảnh speaks in 'technical but gentle' sentences about water systems. When both discuss rain, differentiation relies solely on content rather than syntax.",
+    "fix": "Shift Kh\u00e1nh's metaphor domain away from water entirely\u2014perhaps to metal/tools ('\u0111\u1eadp', 'm\u00e0i', 'r\u1ec9' in the sense of rust, not leakage). Kh\u00e1nh thinks in terms of breaking and fixing; Cảnh thinks in terms of channeling and containing. This would eliminate overlap.",
+    "note": "Otherwise excellent. Removing dialogue tags, Linh's half-finished sentences and H\u1eb1ng's date-stamped specificity are immediately identifiable. Tu\u1ea5n's nostalgic preambles ('H\u1ed3i \u0111\u00f3 m\u00ecnh...') and Duy's deflection-through-humor are distinct. The voice profiles are actionable."
   },
   "character_secrets": {
     "score": 8,
-    "gap": "C\u00f4 B\u00edch's secret (the flagged file on Minh) is specific and plot-driving, but it pays off only in background\u2014she never acts on it in the outline. Her investigation thread (thread 17) resolves with 'not the enemy' rather than with B\u00edch confronting Minh or the group. Her secret doesn't change trajectory; it creates a red herring that disperses.",
-    "fix": "Give B\u00edch one scene where her knowledge forces a choice\u2014perhaps Kh\u00e1nh comes to her for help in Ch 20 and B\u00edch must decide whether to share the flagged file, knowing it will expose Minh. This would convert her passive knowledge into active secret-keeping with consequences.",
-    "note": "Linh's secret (trying to stop loving Tu\u1ea5n) directly opposes Tu\u1ea5n's arc and would devastate him if revealed. Tu\u1ea5n's shifting affection would reframe the Linh-Tu\u1ea5n-H\u1eb1ng triangle. H\u1eb1ng's love for Linh motivates her fear of R\u1eeda. Minh's surveillance explains the m\u01b0a pattern. These are strong."
+    "gap": "C\u00f4 B\u00edch's secret (the flagged file on Cảnh) is specific and plot-driving, but it pays off only in background\u2014she never acts on it in the outline. Her investigation thread (thread 17) resolves with 'not the enemy' rather than with B\u00edch confronting Cảnh or the group. Her secret doesn't change trajectory; it creates a red herring that disperses.",
+    "fix": "Give B\u00edch one scene where her knowledge forces a choice\u2014perhaps Kh\u00e1nh comes to her for help in Ch 20 and B\u00edch must decide whether to share the flagged file, knowing it will expose Cảnh. This would convert her passive knowledge into active secret-keeping with consequences.",
+    "note": "Linh's secret (trying to stop loving Tu\u1ea5n) directly opposes Tu\u1ea5n's arc and would devastate him if revealed. Tu\u1ea5n's shifting affection would reframe the Linh-Tu\u1ea5n-H\u1eb1ng triangle. H\u1eb1ng's love for Linh motivates her fear of R\u1eeda. Cảnh's surveillance explains the m\u01b0a pattern. These are strong."
   },
   "outline_completeness": {
     "score": 9,
-    "gap": "The climax's emotional logic is clear but the physical staging is thin. Ch 22-23 describe a conversation in Minh's house, but the outline doesn't specify how Linh physically stops the rain-call or what Minh must *do* to cease. Does Minh speak a word? Release Minh's hand? The action blocking is missing.",
-    "fix": "Add 1-2 sentences to Ch 23 specifying the physical mechanism of cessation: 'Minh opens his palm\u2014the gesture he uses to pull rain\u2014and Linh presses her hand flat over his, closing it. The rain slows.' This gives the director (or writer) concrete blocking.",
+    "gap": "The climax's emotional logic is clear but the physical staging is thin. Ch 22-23 describe a conversation in Cảnh's house, but the outline doesn't specify how Linh physically stops the rain-call or what Cảnh must *do* to cease. Does Cảnh speak a word? Release Cảnh's hand? The action blocking is missing.",
+    "fix": "Add 1-2 sentences to Ch 23 specifying the physical mechanism of cessation: 'Cảnh opens his palm\u2014the gesture he uses to pull rain\u2014and Linh presses her hand flat over his, closing it. The rain slows.' This gives the director (or writer) concrete blocking.",
     "note": "Otherwise exceptionally complete. Every chapter has POV, location, Save the Cat beat, emotional arc, try-fail cycle, and plant/harvest notes. The MICE quotient is correct (Milieu\u2192Inquiry\u2192Event\u2192Character opening, reversed closing). Act breaks hit target percentages."
   },
   "foreshadowing_balance": {
@@ -74,7 +74,7 @@
   "canon_coverage": {
     "score": 9,
     "gap": "The canon does not log the partial R\u1eeda exception (Ch 23) or the memory-insertion mechanic (Ch 22), because these appear only in the outline. If a writer introduced these in drafting, the canon would flag them as contradictions rather than planned reveals.",
-    "fix": "Add a 'Confirmed Exceptions' section to the canon: 'Partial R\u1eeda: Possible when rain-call is interrupted mid-activation (Ch 23). Memory insertion: Minh's theory, unconfirmed (Ch 22).' This prevents a writer from treating them as errors.",
+    "fix": "Add a 'Confirmed Exceptions' section to the canon: 'Partial R\u1eeda: Possible when rain-call is interrupted mid-activation (Ch 23). Memory insertion: Cảnh's theory, unconfirmed (Ch 22).' This prevents a writer from treating them as errors.",
     "note": "Coverage is otherwise exhaustive: dates, ages, locations, relationship states, faction positions, and cultural customs are all sourced and cross-referenced. The canon document alone would catch most drafting errors."
   },
   "slop_in_planning_docs": {
@@ -87,7 +87,7 @@
   },
   "contradictions_found": [
     "Partial R\u1eeda (Ch 23) vs. Rule 3 ('thay \u0111\u1ed5i lu\u00f4n l\u00e0 chuy\u1ec3n gi\u1edbi ho\u00e0n to\u00e0n') and Rule 4 ('m\u1ed9t n\u0103m d\u01b0\u01a1ng l\u1ecbch tr\u00f2n')\u2014Linh's change is incomplete and takes only a fragment of memory, not a full year",
-    "Memory-insertion mechanic (Ch 22, Minh's plan to fill emptied minds) absent from world bible's hard rules\u2014introduced only at climax without prior establishment",
+    "Memory-insertion mechanic (Ch 22, Cảnh's plan to fill emptied minds) absent from world bible's hard rules\u2014introduced only at climax without prior establishment",
     "H\u1eb1ng's non-R\u1eeda status after 6 years vs. world bible statement 'trung b\u00ecnh, trong m\u1ed9t n\u0103m, c\u1ea3 n\u0103m ng\u01b0\u1eddi \u0111\u1ec1u b\u1ecb R\u1eeda \u00edt nh\u1ea5t m\u1ed9t l\u1ea7n'\u2014acknowledged as mystery but not reconciled with the stated rule",
     "Minor: Tu\u1ea5n's R\u1eeda count in world bible says 'hai l\u1ea7n R\u1eeda sau ch\u1ec9 l\u1ea5y n\u0103m 1995 v\u00e0 1997' but characters.md says his last R\u1eeda took memories of H\u1eb1ng, not Linh\u2014implies a fourth R\u1eeda not accounted for in the 'three times' count, or the count needs updating"
   ],
@@ -96,7 +96,7 @@
   "weakest_dimension": "internal_consistency",
   "top_3_improvements": [
     "Resolve the climax contradictions: Either foreshadow partial R\u1eeda and memory insertion as rare exceptions (add to world bible with conditions), or revise Ch 22-23 to work within established hard rules. This is the single highest-leverage fix because it affects the ending and forces no other changes.",
-    "Deepen Phong's wound/want/need/lie chain to match the other characters. Currently he's a thematic counterweight without causal depth. One paragraph linking his emotional numbness to a pre-1994 experience would bring him to parity.",
+    "Deepen Duy's wound/want/need/lie chain to match the other characters. Currently he's a thematic counterweight without causal depth. One paragraph linking his emotional numbness to a pre-1994 experience would bring him to parity.",
     "Add one causal historical event between L\u1ea7n G\u00e3y and 1994 that explains why the \u1ee6y Ban fears V\u00f2ngs and why B\u00e0 L\u1ee5a tracks them. This would transform decorative history into plot-driving tension and give the political faction clearer motivation."
   ]
 }

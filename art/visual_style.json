@@ -1,18 +1,11 @@
 {
-  "art_style": "Muted ink-wash realism blending Vietnamese folk woodcut aesthetics with spectral, dissolving edges, where figures and landscapes appear half-remembered and slowly fading into blank space.",
-  "color_palette": [
-    "Faded Indigo",
-    "Salt-stained Ivory",
-    "Damp Sandstone",
-    "Ghostly Kelp Green",
-    "Rusted Iron",
-    "Twilight Charcoal"
-  ],
-  "texture": "Coarse, damp mulberry paper showing faint salt crystallization and water damage at the margins.",
-  "mood": "Melancholic, quiet, and impermanent, capturing the visual weight of slow erosion and things left untended.",
-  "reference_artists": "Takahashi Maho, Tran Nguyen, Pham Huy Thong",
-  "cover_concept": "A weathered wooden boat half-buried in pale, shifting sand, its hull facing a vast, empty sea under a colorless sky, with a single figure standing far in the distance, their edges blurring into the fog.",
-  "ornament_concept": "Small, minimalist silhouettes of coastal flora bending in unseen winds, gradually dissolving into scattered dots or bare, skeletal lines.",
-  "scene_break_concept": "A single, faint horizontal brushstroke of uneven thickness, resembling a tide line left on a shore after the water has receded.",
-  "map_concept": "A delicate, incomplete ink chart of a shrinking coastline drawn on water-stained parchment, featuring subtle, dashed-line boundaries that physically fade into the blank ocean."
+  "art_style": "Watercolor and ink wash blending photorealistic Vietnamese urban landscapes with surreal anatomical distortions, where human figures dissolve into rain and architectural details bleed like wet ink on textured paper.",
+  "color_palette": "indigo downpour, concrete grey, oxidized bronze, faded lotus pink, warm sepia, muted teal, bone white",
+  "texture": "Wet paper grain with deliberate water damage, resembling rain-soaked notebook pages left on a caf\u00e9 table",
+  "mood": "Melancholic permanence \u2014 the visual weight of things slowly dissolving while remaining achingly present",
+  "reference_artists": "Ph\u1ea1m Huy Th\u00f4ng, Dinh Q. L\u00ea, Tr\u1ea7n L\u01b0\u01a1ng",
+  "cover_concept": "Six empty chairs at a wet caf\u00e9 table seen through a rain-streaked window, with one chair's silhouette slightly more faded than the others, and ghostly water reflections on the glass showing figures that don't match the empty scene",
+  "ornament_concept": "Small rain droplets containing fragmented silhouettes \u2014 half-formed faces, partial hands reaching, the outline of a chair \u2014 rendered in single-line ink strokes that trail off like unfinished memories",
+  "scene_break_concept": "A thin horizontal line of three unevenly spaced raindrops, the middle one slightly larger, bleeding faintly downward",
+  "map_concept": "A hand-drawn map of Hu\u1ebf where streets and landmarks shift slightly between faded and sharp focus, with the Perfume River rendered as a visible vein pulsing through the city, and constant rain indicated by vertical strokes that obscure the edges into white nothing"
 }

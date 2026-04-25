@@ -1,10 +1,10 @@
 # Codebase Map
 
-Generated: 2026-04-23T16:55:01Z | Files: 84 | Described: 0/84
-<!-- gsd:codebase-meta {"generatedAt":"2026-04-23T16:55:01Z","fingerprint":"b097401c3160784af0f1ea46e9485384f3081034","fileCount":84,"truncated":false} -->
+Generated: 2026-04-24T06:03:07Z | Files: 204 | Described: 0/204
+<!-- gsd:codebase-meta {"generatedAt":"2026-04-24T06:03:07Z","fingerprint":"aecbe1c38eb785e9a9acfda5d53704b7e1038f8e","fileCount":204,"truncated":false} -->
 
 ### (root)/
-- *(61 files: 38 .py, 14 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
+- *(62 files: 38 .py, 15 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
 
 ### art/
 - `art/picks.json`
@@ -18,18 +18,35 @@ Generated: 2026-04-23T16:55:01Z | Files: 84 | Described: 0/84
 - `art/variants/map_directions.json`
 - `art/variants/ornament_directions.json`
 
+### briefs/
+- `briefs/ch04_panel.md`
+- `briefs/ch09_panel.md`
+- `briefs/ch13_panel.md`
+- `briefs/ch16_panel.md`
+- `briefs/ch20_panel.md`
+
 ### chapters/
-- `chapters/.gitkeep`
+- *(25 files: 24 .md, 1 (no ext))*
+
+### edit_logs/
+- `edit_logs/ch04_cuts.json`
+- `edit_logs/ch09_cuts.json`
+- `edit_logs/ch13_cuts.json`
+- `edit_logs/ch16_cuts.json`
+- `edit_logs/ch20_cuts.json`
+- `edit_logs/reader_panel.json`
 
 ### eval_logs/
-- `eval_logs/20260423_163756_foundation.json`
-- `eval_logs/20260423_165320_foundation.json`
+- *(62 files: 62 .json)*
 
 ### landing/
 - `landing/index.html`
 
 ### scripts/
 - `scripts/verify_vi_pipeline.sh`
+
+### summaries/
+- *(24 files: 24 .md)*
 
 ### tts/
 - `tts/part1.md`

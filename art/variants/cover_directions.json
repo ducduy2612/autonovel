@@ -1,34 +1,34 @@
 [
   {
     "num": 1,
-    "direction": "typographic",
-    "concept": "The novel's title and a scattering of poetic fragments are formed from actively dissolving Vietnamese brush calligraphy, sweeping across the cover like fading memories.",
-    "medium": "Digital ink-wash collage",
+    "direction": "abstract",
+    "concept": "A topographical map of a circulatory system bleeding into the grid of a city street map.",
+    "medium": "Collage and digital photomontage",
     "file": "cover_01.png",
-    "size": 447050
+    "size": 391932
   },
   {
     "num": 2,
-    "direction": "macabre",
-    "concept": "A close-up of an intricately carved wooden spirit mask slowly being consumed by luminous, ghostly kelp green barnacles and damp sandstone erosion.",
-    "medium": "Traditional woodcut print",
+    "direction": "figurative",
+    "concept": "A close-up of a single dissolving hand dissolving into a torrential downpour while gripping an oxidized bronze caf\u00e9 chair.",
+    "medium": "Photorealistic watercolor and ink wash",
     "file": "cover_02.png",
-    "size": 863096
+    "size": 359209
   },
   {
     "num": 3,
-    "direction": "atmospheric",
-    "concept": "A vast aerial view of a flooded, labyrinthine rice terrace reflecting an empty sky, completely devoid of human presence.",
-    "medium": "Oil painting",
+    "direction": "typographic",
+    "concept": "The book's title constructed from dissolving architectural blueprints and rain-streaked calligraphy.",
+    "medium": "Mixed media linocut and typography",
     "file": "cover_03.png",
-    "size": 582366
+    "size": 334866
   },
   {
     "num": 4,
-    "direction": "abstract",
-    "concept": "A minimalist, topographical cross-section of a dense jungle floor, where the root systems of an ancient banyan tree are rendered as hollow, bleeding silhouettes.",
-    "medium": "Ink wash and pure abstract",
+    "direction": "atmospheric",
+    "concept": "A surreal Vietnamese alleyway where the wet asphalt reflects an impossible, cloudless sky and the buildings lean inward like tired ghosts.",
+    "medium": "Traditional oil painting",
     "file": "cover_04.png",
-    "size": 582040
+    "size": 356793
   }
 ]
