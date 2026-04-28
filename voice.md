@@ -56,3 +56,42 @@ After writing any passage, ask:
 - Would a reader think "AI wrote this"? If yes, rewrite.
 
 ---
+
+## Part 2: Voice Identity (novel-specific)
+
+### Tone
+Khắc khoải và y học — như một người khám nghiệm tử thi miêu tả vết thương mà không cần nói "đau đớn." Càng miêu tả chi tiết, càng thấy nặng. Nỗi kinh hoàng không đến từ lời nói, mà từ khoảng trống giữa các dữ kiện — những gì bị bỏ sót, những nước đi không có mặt.
+
+### Sentence Rhythm
+Câu phân tích ngắn, rời rạc, như nét bút dặm từng chấm: "Nước sáu mươi chín. Tốt tiến một. Nước bảy mươi. Pháo đổi." Câu tĩnh lặng dài hơn, dồn sức nặng vào cuối — vòng qua cảm nhận rồi mới chốt lại bằng một vật chất: mùi nhang, hơi mực, tiếng gõ đá. Khi phát hiện lỗi, câu đứt gãy — không phải để tạo kịch tính, mà vì chính suy nghĩ cũng bị đứt.
+
+### Vocabulary Wells
+- **Giải phẫu/thiệt thể**: rạch, mổ, vết thương, khâu lại, nội tạng thiếu, sờ nắn, tái hiện — dùng để nói về ván cờ đã chơi
+- **Đá/khắc**: bàn cờ đá, mặt đá mòn, khắc nét, vụn đá, sức nặng của viên — ngầm nhắc nhở tính vĩnh viễn của bản án
+- **Mực/chữ ghi**: mực Tàu ngả vàng, nét chữ biến dạng, lem, khô, giấy mục — ngôn ngữ của hồ sơ, thứ có thể sai nhưng không thể thay đổi
+
+### Body Before Emotion
+1. **Bấn loạn** hiện thành cái run ở ngón cái bị cắt — thứ không còn đó nhưng vẫn co giật, như cố gắng nắm một quân cờ đã trôi.
+2. **Kinh hoàng** đến qua hơi thở nông, dừng giữa chừng, rồi người ngồi im hoàn toàn — không phải vì bình tĩnh, mà vì cơ thể quên cách tiếp tục.
+3. **Tuyệt vọng** là hai bả vai trũng xuống, cổ gập vào ngực, như đang mang thứ nặng hơn sức gánh — rồi anh không nói gì, chỉ lật lại trang giấy.
+
+### Dialogue Register
+Người An Pháp nói như đặt quân cờ: mỗi câu là một nước đi, có chủ đích, có dò xét. Không ai nói thẳng — ý thật nằm ở khoảng trống giữa hai câu, hoặc ở từ được chọn thay vì từ bị bỏ. Kỳ thủ nói với nhau thì càng nén càng sâu, vì thói quen đọc đối thủ.
+
+*«Ván đó, nước thứ bốn mươi ba.» Đặng không ngẩng lên. «Ai ghi?»*
+*«Người ghi đương nhiên.» Giọng người kia phẳng, không lên xuống. «Còn ai vào đây.»*
+*«Người ghi viết sai một nét.»*
+
+*«Đồng ý cũng là một nước đi.»*
+*«Nước đi không đặt quân xuống bàn thì không tính.»*
+*«Ông đã bao giờ thấy ai bỏ cuộc mà không đặt quân chưa?»*
+
+### What This Voice Does NOT Do
+- **Không tuyên bố cảm xúc**: Không có "anh sợ hãi," "cô buồn," "hắn tức giận." Cảm xúc chỉ đến qua cơ thể và hành động nhỏ.
+- **Không giải thích thế giới qua đối thoại**: Không ai nói "như ông biết đấy, ở An Pháp chúng ta…" — thế giới hiện qua việc người ta sống trong nó.
+- **Không có khoảnh khắc "aha!" hào hứng**: Phát hiện ra lỗi trong ván cờ không tạo hưng phấn — nó tạo ra sự im lặng nặng hơn.
+- **Không dùng phép so sánh hiện đại**: Không "như máy tính," không "như camera," không ẩn dụ công nghệ.
+- **Không miêu tả trực tiếp nỗi đau của nạn nhân**: Hệ thống Luật Cờ tước đi tính người của bị cáo — giọng văn tôn trọng điều đó bằng cách cũng không cho bị cáo giọng nói, chỉ còn lại dấu vết trên bàn cờ.
+
+### Exemplar Passage
+Đặng nhìn nước đi thứ bảy mươi hai. Bốn ngón tay trái đặt lên mặt giấy, như giữ nó không trôi. Mực đã ngả vàng, nét người ghi vẫn rõ — "H37, Tốt tiến hai." Hắn đọc lại từ nước sáu mươi chín. Không phải lỗi ghi. Lỗi ở chỗ không có gì. Nước sáu mươi chín, Tốt tiến một. Nước bảy mươi, Pháo đổi Mã. Nước bảy mốt, Xe rút. Rồi bảy hai — Tốt tiến hai. Cùng một tốt. Cùng một cột. Hắn nín thở. Giữa sáu mươi chín và bảy mốt thiếu một nước — nước mà không có tốt nào có thể tiến hai ô nếu nước đó không xảy ra. Như một thi thể thiếu ruột mà người khám nghiệm vẫn ký giấy bình thường. Ngón cái phải co giật. Tay phải run — thứ run của người buông rời vật nặng mà cơ đã quen cầm quá lâu. Hắn nhắm mắt. Mùi nhang trầm trong phòng lưu trú bỗng đặc lại, như đất trước khi sạt lở.
