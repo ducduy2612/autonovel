@@ -131,7 +131,10 @@ def _call_streaming(
         json=payload,
         timeout=effective_timeout,
     ) as resp:
-        resp.raise_for_status()
+        if resp.status_code >= 400:
+            body = resp.read()
+            _log(f"  [writer] API error {resp.status_code}: {body.decode(errors='replace')}")
+            resp.raise_for_status()
 
         for line in resp.iter_lines():
             if not line.startswith("data: "):
@@ -213,6 +216,8 @@ def _call_non_streaming(
         json=payload,
         timeout=effective_timeout,
     )
+    if resp.status_code >= 400:
+        _log(f"  [writer] API error {resp.status_code}: {resp.text}")
     resp.raise_for_status()
 
     elapsed = int(time.monotonic() - started)
@@ -242,6 +247,7 @@ def call_writer(
     timeout: int | None = None,
     use_beta: bool = False,  # kept for signature compat, ignored
     model: str | None = None,
+    stream: bool = False,
 ) -> str:
     """Call the writer model and return the text response.
 
@@ -257,11 +263,15 @@ def call_writer(
                       ``config.API_TIMEOUT`` when ``None``.
         use_beta:     Ignored (kept for backward compatibility).
         model:        Override model name.  Falls back to WRITER_MODEL.
+        stream:       Force streaming with progress logs to stderr, even when
+                      thinking is off.  Useful for long-running requests where
+                      the caller wants to see activity.
 
     Returns:
         The text content of the model's response.
     """
     thinking_on = is_thinking_enabled()
+    use_streaming = thinking_on or stream
 
     # Resolve timeout: explicit arg > config default
     effective_timeout = timeout if timeout is not None else API_TIMEOUT
@@ -271,11 +281,11 @@ def call_writer(
 
     model_label = model or WRITER_MODEL
 
-    if thinking_on:
+    if use_streaming:
         # Streaming: logs progress to stderr so callers can see activity
         payload = _build_payload(
             prompt, system, max_tokens, temperature, model,
-            thinking_on=True, stream=True,
+            thinking_on=thinking_on, stream=True,
         )
         return _call_streaming(payload, effective_timeout, model_label)
     else:

@@ -29,7 +29,8 @@ _SYSTEM = (
 
 def call_writer(prompt, max_tokens=4000):
     return _call_api(prompt, system=_SYSTEM, max_tokens=max_tokens,
-                     temperature=1.0, timeout=None, use_beta=True)
+                     temperature=1.0, timeout=None, use_beta=True,
+                     stream=True)
 
 
 GENERATE_PROMPT = """Generate {count} fantasy novel seed concepts. Each should be

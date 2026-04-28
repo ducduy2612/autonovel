@@ -1,13 +1,13 @@
- 1. NHỮNG NGƯỜI TÌNH CỦA MƯA
+BÀN CỜ AN PHÁP
 
-**HOOK:** *Mỗi lần trời đổ mưa, một người trong nhóm bạn cũ chuyển giới — và mỗi lần như thế, họ mất đi một năm ký ức về người mình từng yêu.*
+HOOK: Một tù nhân bị kết án tử vì thua một ván cờ — nhưng thám tử phát hiện nước đi quyết định chưa từng được chơi trong ván đó.
 
-**HOW IT DIFFERS:** Sự chuyển giới không phải biến cố một lần mà là *chu kỳ* — lặp đi lặp lại, không thể đoán trước, rút cạn dần những gì họ nhớ về nhau. Tình cảm không nảy sinh *sau* khi đổi giới tính mà bùng lên trong chính khoảnh khắc nhận ra mình đang quên.
+HOW IT DIFFERS: Thay vì tìm manh mối vật lý, thám tử phải "đọc lại" một ván cờ đã chơi xong như một bác sĩ pháp y đọc tử thi. Hai thiên tài không xuất hiện trực tiếp trước nhau cho đến chương cuối — họ đối đầu qua những nước cờ đã qua, như hai tướng cờ giao chiến qua thư từ.
 
-**WORLD:** Huế, những năm 2000 cuối. Mùi nhang trầm từ các lăng tẩm lẫn vào mùi đất ẩm. Những quán cà phê hẹp dọc đường Bến Nghé, nơi nhóm bạn năm người từng ngồi hàng đêm — trước khi mưa đến. Thành phố lúc nào cũng như sắp mưa, bầu trời màu chì, sông Hương đục ngầu. Ở đây, người ta nói rằng mưa không phải nước — mưa là *thời gian rơi xuống*. Những giọt nước trên cửa sổ chính là những giây phút của ai đó đang bị cuốn đi.
+WORLD: Thành bang An Pháp nằm trong thung lũng, cô lập hoàn toàn với thế giới bên ngoài. Trong 400 năm, họ phát triển một hệ thống pháp luật duy nhất: Luật Cờ. Mọi tranh chấp — từ tranh con gà đến tội giết người — được giải quyết trên bàn cờ 64 ô, nơi mỗi ô tương ứng với một điều luật. "Luật sư" là kỳ thủ. "Thẩm phán" là người ghi chép. "Bản án" là kết quả ván cờ. Hội trường Tư pháp chứa 200 bàn cờ đá, tiếng quân cờ gõ xuống nghe như mưa đá. Không khí ngập mùi nhang trầm và mực Tàu. Mọi người học cờ từ năm ba tuổi. Không biết chơi cờ nghĩa là không biết pháp luật — nghĩa là không tồn tại.
 
-**MAGIC/COST:** Cơ chế gọi là *Rửa* — khi mưa đổ, một người trong nhóm chuyển giới hoàn toàn: cơ thể, giọng nói, cách da tiếp xúc với không khí. Nhưng mỗi lần Rửa, một đoạn ký ức về người họ có tình cảm sâu nhất sẽ tan biến — không đau đớn, chỉ im lặng như một chiếc răng rụng. Linh, người chuyển lần đầu, thức dậy với ngực phẳng và bàn tay thô ráp — rồi nhận ra mình không còn nhớ đêm đầu tiên hôn Tuấn. Tuấn thì quên mất cái tên mình từng gọi Linh lúc ngủ say.
+CƠ CHẾ ĐẶC BIỆT / GIÁ: Luật Cờ — một hệ thống đủ phức tạp để mã hóa mọi tình huống pháp lý con người có thể tưởng tượng. Giá: công lý phụ thuộc hoàn toàn vào kỹ năng cá nhân. Một người có tội thực sự có thể thoát nếu thuê được kỳ thủ giỏi hơn. Một người vô tội có thể chết nếu không đủ tiền thuê người chơi thay.
 
-**TENSION:** Cá nhân: Ai cũng sợ mưa rơi — nhưng ai cũng *muốn* rơi vào người mình yêu khi cơ thể đã khác. Vũ trụ: Có một người thứ sáu — người mà cả nhóm đã quên từ lâu — đang *gọi* mưa về, cố tình, vì đó là cách duy nhất để giữ nhóm bạn không tan rã: buộc họ phải liên tục trở thành người mới, liên tục yêu lại từ đầu.
+TENSION: Cá nhân: Đặng, một cựu kỳ thủ bị cụt ngón cái (không thể chơi cờ đỉnh cao nữa), trở thành "Người đọc ván" — chuyên gia phân tích ván cờ đã chơi để tìm lỗi. Anh phải chứng minh ván cờ kết án tử hình một người đàn ông có vấn đề. Đối thủ vô hình: Hồ, Nhà Vô Địch chưa từng thua, người đã chơi ván cờ đó. Vũ trụ: Nếu Đặng chứng minh được ván cờ đó bị thao túng, toàn bộ hệ thống An Pháp sẽ nghi ngờ MỌI bản án trong 400 năm — và 400 năm đó có hàng chục ngàn bản án tử hình.
 
-**THEME:** *Tình yêu có tồn tại khi vật mang nó liên tục thay đổi — hay tình yêu chính là sự thay đổi đó?*
+THEME: Một hệ thống logic hoàn hảo có thể sinh ra công lý không? Hay nó chỉ sinh ra ảo giác công lý — thứ nguy hiểm hơn cả bất công rõ ràng?
