@@ -1,5 +1,0 @@
-Tại quán bà Tâm, Linh đưa ra một sự thật chấn động: người gọi mưa chính là Cảnh – người bạn thứ sáu đã bị cả nhóm lãng quên suốt sáu năm qua. Lịch bổ sung một chi tiết bi thương: Cảnh đang tự hủy linh hồn mình. Mỗi lần gọi mưa để kích hoạt quá trình "Rửa" nhằm níu giữ mọi người bên nhau, cậu lại đánh mất đi một phần cảm xúc. Giờ đây, Cảnh vẫn nhớ mọi thứ nhưng không còn khả năng cảm nhận. 
-
-Bách rơi vào trạng thái giận dữ và bất lực. Duy gỡ bỏ lớp vỏ bọc sáo rỗng thường ngày để thừa nhận sự mệt mỏi của mình. Trong khi đó, Tuấn nhận ra cách mình từng cố ép Linh nhớ lại ký ức cũng là một sự chiếm hữu giống hệt Cảnh, sau đó anh chính thức buông bỏ Linh. Quyết định được đưa ra: Linh sẽ đến Hương Thủy gặp Cảnh, không phải để đấu tranh hay ngăn cản, mà để lắng nghe. Lịch – người duy nhất chưa từng bị Rửa – nài nỉ đi cùng Linh để ghi chép lại sự thật, dù vô cùng sợ hãi việc có thể đánh mất ký ức. 
-
-Khép lại chương, bóng dáng tàn tạ của Cảnh lướt qua màn sương sông Hương rồi biến mất. Linh và Lịch nắm tay nhau chuẩn bị lên đường vào sáng mai, mang theo câu hỏi day dứt về ranh giới mỏng manh giữa sự hy sinh và sự giam cầm mang tên tình yêu.

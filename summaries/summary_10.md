@@ -1,5 +1,0 @@
-Ba ngày vắng mặt, Bách bất ngờ trở về quán bà Tâm trong hình hài nam. Đêm trước, Linh đã nếm mùi sợ hãi tột độ khi hoa quỳnh trên ban công bung nở giữa đêm mưa tầm tã, ám chỉ kiếp "Rửa" lại giáng xuống. Quả thực, Bách đã bị Rửa: ngoại hình thay đổi và đánh mất ký ức về một người quan trọng cùng những manh mối điều tra. Bách chỉ còn nhớ một mùi hương kỳ lạ quấn quanh "người thứ sáu" — hương dạ lan quyện khói trầm chưa cháy hết, đúng như mùi Linh đã ngửi thấy đêm昨.
-
-Sự kiện này đánh mạnh vào tâm lý nhóm. Cảm giác bất lực và tội lỗi bóp nghẹt Linh khi chứng kiến đôi mắt đỏ ngầu, bàn tay run rẩy và khoảng trống ký ức của bạn. Linh осозна ra một sự thật trần trụi: thế lực bí ẩn giám sát họ đang chủ động nhắm vào những ai rời khỏi "vòng tròn" an toàn hoặc đào quá sâu vào sự thật. 
-
-Chương khép lại trong bầu không khí quạnh hiu, ngột ngạt của buổi sáng sau mưa. Mặc dù nắng đã hửng, mùi hoa dạ lan vẫn vương vít như một lời nguyền. Cầm tờ giấy ghi manh mối đã ẩm, Linh thầm biết rằng thế lực kia vẫn đang ẩn mình bên kia sông, chờ đợi để Rửa trôi ký ức của người tiếp theo.

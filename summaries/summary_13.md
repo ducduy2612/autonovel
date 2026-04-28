@@ -1,5 +1,0 @@
-Tại quán bà Tâm, nhóm bạn rơi vào bế tắc trước quyết định có nên tiếp tục truy tìm "người thứ sáu" – kẻ bí ẩn gọi những cơn mưa tước đoạt ký ức của họ (Mưa Rửa). Bách vô cùng bức xúc, quyết định một mình về Hương Thủy để lục soát. Trái ngược lại, Tuấn kiệt sức, chọn cách buông bỏ, chỉ mong giữ lấy hiện tại để được ở bên nhau. Duy tỏ ra thờ ơ, coi việc bị Rửa là điều tất yếu. 
-
-Lịch mang đến một phát hiện quan trọng: chính việc nhóm điều tra đã kích thích kẻ gọi mưa phản ứng, khiến tần suất Mưa Rửa tăng đột biến. Tình thế càng thêm căng thẳng khi Ủy Ban – tổ chức quản lý những người như họ – bất ngờ cử người đến theo dõi và ghi chép. Linh đứng giữa hai lựa chọn: hành động như Bách hay chấp nhận như Tuấn.
-
-Chập tối, Tuấn mang cơm cho Linh, cố gắng kể lại một kỷ niệm năm 1996 mà cô đã vĩnh viễn bị Rửa, khiến cả hai chùng lòng. Đêm xuống, giằng xé giữa sự tiến thoái lưỡng nan, Linh đứng một mình bên cửa sổ, để những giọt mưa thường rớt trên da. Cô nhận ra dòng chảy ký ức không thể đảo ngược, nhưng nỗi sợ hãi khi đứng im lại lớn hơn sự sợ sệt. Dẫu biết nguy hiểm, Linh thầm quyết định ngày mai sẽ bước đi tìm người thứ sáu.

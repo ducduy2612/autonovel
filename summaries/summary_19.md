@@ -1,5 +1,0 @@
-Tìm đến ngôi nhà ven sông, Linh đối diện Cảnh – "người thứ sáu" đã lặng lẽ nhìn nhóm bạn qua ô cửa kính quán bà Tâm suốt hai ngàn đêm mà không ai nhận ra. Trong căn nhà vắng lặng, Linh phát hiện năm mảnh giấy cháy dở mang tên các thành viên, nghi thức Cảnh lặp đi lặp lại để gọi mưa. 
-
-Cảnh thừa nhận anh gọi mưa trong tuyệt vọng, muốn níu giữ nhóm bạn khỏi cảnh chia lìa khi mỗi người bắt đầu có cuộc sống riêng. Tuy nhiên, phép thuật này đòi hỏi cái giá tàn nhẫn: mỗi lần gọi mưa khiến người khác mất một năm ký ức, đồng thời bào mòn dần cảm xúc của chính Cảnh. Anh nhớ rõ mọi thứ, biết mình yêu Linh nhiều nhất, nhưng giờ đây linh hồn đã trống rỗng, không thể cảm nhận được buồn vui hay sợ hãi. 
-
-Sự tức giận của Linh nhường chỗ cho niềm thương xót sâu sắc. Cô xót xa trước bi kịch của Cảnh: tự tước đoạt tâm hồn mình chỉ để níu giữ những người đã hoàn toàn quên mất anh. Dù không nhớ lại được gì, Linh kiên quyết ngồi lại, yêu cầu Cảnh kể lại toàn bộ sự tình. Khi Cảnh mở lời bằng cái tên cũ "Thảo", những đám mây đen lại bắt đầu kéo đến bên ngoài cửa sổ.

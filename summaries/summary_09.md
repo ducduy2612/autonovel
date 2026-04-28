@@ -1,5 +1,0 @@
-Bách đến quán báo cho Linh biết Ủy Ban đang giữ hồ sơ mật về các "Vòng", rồi quyết định đột nhập vào trụ sở ban đêm. Tại phòng hồ sơ, anh phát hiện sự thật chấn động về Vòng 7: nhóm từng có một "người thứ sáu" nhưng đã bị xóa khỏi ký ức của tất cả thành viên. Bách bị cô Bích—người giữ hồ sơ—bắt quả tang. Thay vì triệt phá, cô tỏ ra đồng cảm (do bản thân cũng mất em gái vì Rửa) và chủ động để Bách chép lại tài liệu. 
-
-Sáng hôm sau, Bách đưa thông tin cho Linh. Cả hai đối mặt với một manh mối rõ nét nhưng đầy hiểm họa: người thứ sáu là nam, làm thợ nước ở vùng trũng Hương Thủy, và có khả năng anh ta đang "gọi mưa" về thành phố. Linh liên hệ manh mối này với những lời kể của bà Lụa, bất giác cảm thấy chua xót tột cùng cho một người bạn từng tồn tại nhưng đã bị chính nhóm lãng quên. 
-
-Chương khép lại khi Linh cất tờ giấy ghi ba chi tiết then chốt—thợ sửa ống nước, Hương Thủy, người ngồi bên sông—vào túi. Ngoài hiên, mây đen ùn kéo về, báo hiệu một cơn bão sự thật sắp đổ ập xuống.
