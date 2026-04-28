@@ -154,8 +154,8 @@ def _call_streaming(
 
             delta = choices[0].get("delta", {})
 
-            # Thinking / reasoning tokens
-            rc = delta.get("reasoning_content")
+            # Thinking / reasoning tokens (proxy uses "reasoning", native API uses "reasoning_content")
+            rc = delta.get("reasoning_content") or delta.get("reasoning")
             if rc:
                 full_reasoning += rc
                 thinking_chunks += 1
@@ -232,7 +232,7 @@ def _call_non_streaming(
     # If content is empty but reasoning exists, the model used all tokens
     # on thinking — return reasoning as fallback so caller gets something.
     if not content:
-        reasoning = msg.get("reasoning_content", "")
+        reasoning = msg.get("reasoning_content", "") or msg.get("reasoning", "")
         if reasoning:
             return reasoning
 

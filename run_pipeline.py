@@ -256,16 +256,17 @@ def run_tool(cmd: str, timeout: int | None = None, check: bool = False,
     stderr is streamed to the parent's stderr in real-time so LLM
     progress logging from call_writer() is visible during thinking mode.
 
-    Timeout defaults to SUBPROCESS_TIMEOUT * thinking scale factor,
-    so LLM-heavy subprocesses get enough room when thinking mode is on.
+    Timeout is always multiplied by the thinking scale factor (3x when
+    thinking is on), so LLM-heavy subprocesses get enough room.
 
     extra_env: optional dict of env vars to override for this subprocess
     only (e.g. {"AUTONOVEL_THINKING": "off"}).
     """
     import threading
 
-    effective_timeout = (timeout if timeout is not None
-                         else SUBPROCESS_TIMEOUT * _THINKING_TIMEOUT_SCALE)
+    # Always apply thinking scale factor — inner LLM calls need the room
+    raw_timeout = timeout if timeout is not None else SUBPROCESS_TIMEOUT
+    effective_timeout = raw_timeout * _THINKING_TIMEOUT_SCALE
     step(f"RUN: {cmd}")
     env = None
     if extra_env:
@@ -327,7 +328,7 @@ def run_tool(cmd: str, timeout: int | None = None, check: bool = False,
             cmd, returncode=-1, stdout="", stderr=str(exc))
 
 
-def uv_run(script: str, timeout: int = 600,
+def uv_run(script: str, timeout: int = 1200,
            extra_env: dict[str, str] | None = None) -> subprocess.CompletedProcess:
     """Shorthand for 'uv run python <script>' from project root."""
     return run_tool(f"uv run python {script}", timeout=timeout,
@@ -641,7 +642,7 @@ noticing something wrong. This is the benchmark passage.]
 # PHASE 1 — FOUNDATION
 # ---------------------------------------------------------------------------
 
-def run_foundation(state: dict) -> dict:
+def run_foundation(state: dict, from_step: str | None = None) -> dict:
     """
     Build planning documents (world, characters, outline, voice, canon).
     Iteration 1: generate from scratch. Iterations 2+: refine weakest.
@@ -661,107 +662,127 @@ def run_foundation(state: dict) -> dict:
         if i == 1 or (best_score == 0 and i <= 2):
             # First iteration (or second if first scored 0): generate from scratch
 
+            # --from-step: skip completed foundation steps
+            _skip_to = from_step  # only used on iteration 1
+
             # Generate voice.md Part 2 FIRST — other scripts consume it
-            voice_path = BASE_DIR / "voice.md"
-            voice_text = voice_path.read_text() if voice_path.exists() else ""
-            needs_part2 = True
-            if "Part 2" in voice_text:
-                lines = voice_text.split('\n')
-                part2_start = next(
-                    (i for i, l in enumerate(lines) if 'Part 2' in l),
-                    None,
-                )
-                if part2_start is not None:
-                    part2 = '\n'.join(lines[part2_start:])
-                    stripped = re.sub(
-                        r'<!--.*?-->', '', part2, flags=re.DOTALL
-                    ).strip()
-                    if len(stripped) >= 500:
-                        needs_part2 = False
+            if _skip_to:
+                step(f"--from-step={from_step}: skipping voice, world, characters, MYSTERY")
+            else:
+                voice_path = BASE_DIR / "voice.md"
+                voice_text = voice_path.read_text() if voice_path.exists() else ""
+                needs_part2 = True
+                if "Part 2" in voice_text:
+                    lines = voice_text.split('\n')
+                    part2_start = next(
+                        (i for i, l in enumerate(lines) if 'Part 2' in l),
+                        None,
+                    )
+                    if part2_start is not None:
+                        part2 = '\n'.join(lines[part2_start:])
+                        stripped = re.sub(
+                            r'<!--.*?-->', '', part2, flags=re.DOTALL
+                        ).strip()
+                        if len(stripped) >= 500:
+                            needs_part2 = False
 
-            if needs_part2:
-                step("Generating voice identity (voice.md Part 2)...")
-                r = _generate_voice_part2()
-                if r:
-                    if "Part 2" in voice_text:
-                        lines = voice_text.split('\n')
-                        part2_start = next(
-                            (i for i, l in enumerate(lines) if 'Part 2' in l),
-                            None,
-                        )
-                        if part2_start is not None:
-                            new_voice = (
-                                '\n'.join(lines[:part2_start]) + '\n\n' + r
+                if needs_part2:
+                    step("Generating voice identity (voice.md Part 2)...")
+                    r = _generate_voice_part2()
+                    if r:
+                        if "Part 2" in voice_text:
+                            lines = voice_text.split('\n')
+                            part2_start = next(
+                                (i for i, l in enumerate(lines) if 'Part 2' in l),
+                                None,
                             )
+                            if part2_start is not None:
+                                new_voice = (
+                                    '\n'.join(lines[:part2_start]) + '\n\n' + r
+                                )
+                            else:
+                                new_voice = voice_text + '\n\n' + r
                         else:
-                            new_voice = voice_text + '\n\n' + r
+                            new_voice = voice_text.rstrip() + '\n\n' + r
+                        voice_path.write_text(new_voice)
+                        step(f"Updated voice.md Part 2 ({len(r)} chars)")
                     else:
-                        new_voice = voice_text.rstrip() + '\n\n' + r
-                    voice_path.write_text(new_voice)
-                    step(f"Updated voice.md Part 2 ({len(r)} chars)")
+                        step("WARNING: voice Part 2 generation failed — "
+                             "downstream scripts will run with incomplete voice identity")
+
+                step("Generating world bible...")
+                r = uv_run("gen_world.py", timeout=SUBPROCESS_TIMEOUT)
+                if r.returncode == 0 and r.stdout.strip():
+                    path = BASE_DIR / "world.md"
+                    path.write_text(r.stdout)
+                    step(f"Saved {path.name} ({len(r.stdout)} chars)")
                 else:
-                    step("WARNING: voice Part 2 generation failed — "
-                         "downstream scripts will run with incomplete voice identity")
+                    step("WARNING: world bible generation failed or empty")
 
-            step("Generating world bible...")
-            r = uv_run("gen_world.py", timeout=SUBPROCESS_TIMEOUT)
-            if r.returncode == 0 and r.stdout.strip():
-                path = BASE_DIR / "world.md"
-                path.write_text(r.stdout)
-                step(f"Saved {path.name} ({len(r.stdout)} chars)")
+                step("Generating characters...")
+                r = uv_run("gen_characters.py", timeout=SUBPROCESS_TIMEOUT)
+                if r.returncode == 0 and r.stdout.strip():
+                    path = BASE_DIR / "characters.md"
+                    path.write_text(r.stdout)
+                    step(f"Saved {path.name} ({len(r.stdout)} chars)")
+                else:
+                    step("WARNING: characters generation failed or empty")
+
+                # Generate MYSTERY.md BEFORE outline — gen_outline.py reads it
+                mystery_path = BASE_DIR / "MYSTERY.md"
+                mystery_text = mystery_path.read_text() if mystery_path.exists() else ""
+                if "<!--" in mystery_text or len(mystery_text.strip()) < 100:
+                    step("Generating central mystery (MYSTERY.md)...")
+                    r = _generate_mystery()
+                    if r:
+                        mystery_path.write_text(r)
+                        step(f"Saved MYSTERY.md ({len(r)} chars)")
+
+            # Outline part 1
+            if _skip_to and _skip_to not in ("outline",):
+                step(f"--from-step={from_step}: skipping outline part 1")
+                outline_ok = (BASE_DIR / "outline.md").exists()
             else:
-                step("WARNING: world bible generation failed or empty")
-
-            step("Generating characters...")
-            r = uv_run("gen_characters.py", timeout=SUBPROCESS_TIMEOUT)
-            if r.returncode == 0 and r.stdout.strip():
-                path = BASE_DIR / "characters.md"
-                path.write_text(r.stdout)
-                step(f"Saved {path.name} ({len(r.stdout)} chars)")
-            else:
-                step("WARNING: characters generation failed or empty")
-
-            # Generate MYSTERY.md BEFORE outline — gen_outline.py reads it
-            mystery_path = BASE_DIR / "MYSTERY.md"
-            mystery_text = mystery_path.read_text() if mystery_path.exists() else ""
-            if "<!--" in mystery_text or len(mystery_text.strip()) < 100:
-                step("Generating central mystery (MYSTERY.md)...")
-                r = _generate_mystery()
-                if r:
-                    mystery_path.write_text(r)
-                    step(f"Saved MYSTERY.md ({len(r)} chars)")
-
-            step("Generating outline (part 1)...")
-            r = uv_run("gen_outline.py", timeout=SUBPROCESS_TIMEOUT)
-            outline_ok = False
-            if r.returncode == 0 and r.stdout.strip():
-                path = BASE_DIR / "outline.md"
-                path.write_text(r.stdout)
-                Path("/tmp/outline_output.md").write_text(r.stdout)
-                step(f"Saved {path.name} ({len(r.stdout)} chars)")
-                outline_ok = True
-            else:
-                step("WARNING: outline part 1 generation failed or empty")
-
-            if outline_ok:
-                step("Generating outline (part 2 — foreshadowing)...")
-                r = uv_run("gen_outline_part2.py", timeout=SUBPROCESS_TIMEOUT)
+                _skip_to = None  # no more skipping
+                step("Generating outline (part 1)...")
+                r = uv_run("gen_outline.py", timeout=SUBPROCESS_TIMEOUT)
+                outline_ok = False
                 if r.returncode == 0 and r.stdout.strip():
                     path = BASE_DIR / "outline.md"
-                    existing = path.read_text() if path.exists() else ""
-                    path.write_text(existing + "\n\n" + r.stdout)
-                    step(f"Appended to {path.name} (+{len(r.stdout)} chars)")
+                    path.write_text(r.stdout)
+                    Path("/tmp/outline_output.md").write_text(r.stdout)
+                    step(f"Saved {path.name} ({len(r.stdout)} chars)")
+                    outline_ok = True
                 else:
-                    step("WARNING: outline part 2 generation failed or empty")
+                    step("WARNING: outline part 1 generation failed or empty")
 
-            step("Generating canon...")
-            r = uv_run("gen_canon.py", timeout=SUBPROCESS_TIMEOUT)
-            if r.returncode == 0 and r.stdout.strip():
-                path = BASE_DIR / "canon.md"
-                path.write_text(r.stdout)
-                step(f"Saved {path.name} ({len(r.stdout)} chars)")
+            # Outline part 2
+            if outline_ok:
+                if from_step and from_step in ("outline2", "canon", "eval"):
+                    step(f"--from-step={from_step}: skipping outline part 2")
+                else:
+                    step("Generating outline (part 2 — foreshadowing)...")
+                    r = uv_run("gen_outline_part2.py", timeout=SUBPROCESS_TIMEOUT)
+                    if r.returncode == 0 and r.stdout.strip():
+                        path = BASE_DIR / "outline.md"
+                        existing = path.read_text() if path.exists() else ""
+                        path.write_text(existing + "\n\n" + r.stdout)
+                        step(f"Appended to {path.name} (+{len(r.stdout)} chars)")
+                    else:
+                        step("WARNING: outline part 2 generation failed or empty")
+
+            # Canon
+            if from_step and from_step in ("canon", "eval"):
+                step(f"--from-step={from_step}: skipping canon")
             else:
-                step("WARNING: canon generation failed or empty")
+                step("Generating canon...")
+                r = uv_run("gen_canon.py", timeout=SUBPROCESS_TIMEOUT)
+                if r.returncode == 0 and r.stdout.strip():
+                    path = BASE_DIR / "canon.md"
+                    path.write_text(r.stdout)
+                    step(f"Saved {path.name} ({len(r.stdout)} chars)")
+                else:
+                    step("WARNING: canon generation failed or empty")
 
         else:
             # Iterations 2+: refine the weakest dimension instead of regenerating
@@ -1497,7 +1518,7 @@ def run_pipeline(args):
     for phase in phases:
         try:
             if phase == "foundation":
-                state = run_foundation(state)
+                state = run_foundation(state, from_step=getattr(args, 'from_step', None))
             elif phase == "drafting":
                 state = run_drafting(state)
             elif phase == "revision":
@@ -1550,6 +1571,10 @@ Examples:
     parser.add_argument(
         "--phase", choices=PHASE_ORDER,
         help="Run only a specific phase")
+    parser.add_argument(
+        "--from-step",
+        help="Skip to a specific foundation step (outline, outline2, canon, eval). "
+             "Earlier steps must already have their output files.")
     parser.add_argument(
         "--max-cycles", type=int, default=None,
         help=f"Maximum revision cycles (default: {MAX_REVISION_CYCLES})")

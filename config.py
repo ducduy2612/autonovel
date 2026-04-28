@@ -18,7 +18,7 @@ from dotenv import load_dotenv
 # Bootstrap: load .env once at import time
 # ---------------------------------------------------------------------------
 BASE_DIR: Path = Path(__file__).resolve().parent
-load_dotenv(BASE_DIR / ".env")
+load_dotenv(BASE_DIR / ".env", override=True)
 
 # ---------------------------------------------------------------------------
 # API credentials
@@ -49,7 +49,7 @@ ZAI_CODING_BASE: str = os.environ.get(
 # ---------------------------------------------------------------------------
 # Timeouts (seconds)
 # ---------------------------------------------------------------------------
-API_TIMEOUT: int = int(os.environ.get("AUTONOVEL_API_TIMEOUT", "600"))
+API_TIMEOUT: int = int(os.environ.get("AUTONOVEL_API_TIMEOUT", "900"))
 """Default timeout for a single LLM API call (httpx request)."""
 
 SUBPROCESS_TIMEOUT: int = int(os.environ.get("AUTONOVEL_SUBPROCESS_TIMEOUT", "600"))
