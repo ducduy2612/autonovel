@@ -1,5 +1,5 @@
 CHƯƠNG 8: SỔ GHI CHÉP CỦA LỊCH — 4 Trang Manga
-Upload 4 ảnh theo đúng thứ tự sau:
+Upload 3 ảnh theo đúng thứ tự sau:
 
 linh_nu_sheet — LINH (nữ, tóc bob cằm, áo tối, váy ngắn nữ sinh, tất dài — xem QUẦN ÁO)
 

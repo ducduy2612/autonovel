@@ -1,7 +1,7 @@
 # Codebase Map
 
-Generated: 2026-05-03T01:13:15Z | Files: 209 | Described: 0/209
-<!-- gsd:codebase-meta {"generatedAt":"2026-05-03T01:13:15Z","fingerprint":"1b73d72caa58674f62733f5a7dc84a80f37212d2","fileCount":209,"truncated":false} -->
+Generated: 2026-05-03T14:46:54Z | Files: 220 | Described: 0/220
+<!-- gsd:codebase-meta {"generatedAt":"2026-05-03T14:46:54Z","fingerprint":"b5b74fc609f9072733fc7fa0789408494e10d884","fileCount":220,"truncated":false} -->
 
 ### (root)/
 - *(62 files: 38 .py, 15 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
@@ -45,6 +45,20 @@ Generated: 2026-05-03T01:13:15Z | Files: 209 | Described: 0/209
 ### landing/
 - `landing/index.html`
 
+### manga/
+- `manga/CHARACTER_SHEETS.md`
+- `manga/README.md`
+
+### manga/prompts/
+- `manga/prompts/ch01_prompts.md`
+- `manga/prompts/ch02_prompts.md`
+- `manga/prompts/ch03_prompts.md`
+- `manga/prompts/ch04_prompts.md`
+- `manga/prompts/ch05_prompts.md`
+- `manga/prompts/ch06_prompts.md`
+- `manga/prompts/ch07_prompts.md`
+- `manga/prompts/ch08_prompts.md`
+
 ### scripts/
 - `scripts/verify_vi_pipeline.sh`
 
@@ -58,6 +72,7 @@ Generated: 2026-05-03T01:13:15Z | Files: 209 | Described: 0/209
 - `typeset/epub_front_matter.md`
 - `typeset/epub_metadata.yaml`
 - `typeset/epub_style.css`
+- `typeset/manga_part1.tex`
 - `typeset/novel_metadata.yaml`
 - `typeset/novel.tex`
 - `typeset/novel.tex.in`

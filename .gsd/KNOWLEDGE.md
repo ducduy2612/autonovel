@@ -3,6 +3,25 @@
 <!-- Append-only. Add entries that would save future agents from repeating investigation.
      Do NOT add obvious observations. -->
 
+## ⛔ HARD RULE: INCREMENTAL FILE WRITES
+
+**This has caused repeated LLM timeouts and task failures. Violating this rule wastes entire task executions.**
+
+When a task description says to write a file incrementally, in sections, or piece-by-piece — **DO IT EXACTLY AS SPECIFIED.** Do NOT substitute a single `write` call because it seems convenient.
+
+**The pattern:**
+1. Use `write` for the FIRST section only (creates the file, writes header/overview).
+2. Use `bash` with `cat >> file << 'EOF'` to APPEND each subsequent section.
+3. Never `write` the entire file in one call when it's expected to be large (100+ lines).
+
+**Why:** Large file writes (200-600+ lines) hit LLM output token limits mid-generation. The output truncates silently, producing broken/incomplete files. The incremental approach keeps each write under the token limit and allows verification between sections.
+
+**Applies to:** Manga prompt files, any generated content files, any file where the task plan specifies a chunked/incremental/section-by-section write pattern. This is not manga-specific — it applies to ANY large file generation.
+
+**If a task plan says "write incrementally" or "append each section" — that is not a suggestion. It is a requirement.** The task plan knows the file size better than you do.
+
+---
+
 ## evaluate.py
 
 - **slop_score() language gating**: Uses a local `is_en = (get_language() == "en")` boolean at the top of the function. All English-specific pattern lists (TIER1_BANNED, TIER2_SUSPICIOUS, etc.) are gated behind this check. When adding a new language, just extend the conditional — no structural changes needed.
@@ -31,3 +50,8 @@
 
 - **contains_vietnamese() helper in test_s05_e2e.py**: Detects Vietnamese-specific diacritical characters (ă, â, đ, ê, ô, ơ, ư). Used in integration tests to verify Vietnamese output. These characters are unique to Vietnamese and don't appear in other Latin-script languages.
 - **Vietnamese seed concept (seed_vi.txt)**: Uses a fragrance-magic theme in Trường Sơn mountains setting with Vietnamese cultural elements. ~723 words of natural Vietnamese prose.
+
+## Manga prompts
+
+- **Character sheet references**: Manga prompt files reference `manga/CHARACTER_SHEETS.md` for visual consistency across chapters.
+- **Prompt file structure**: Each chapter's prompts file follows a standard layout: overview → character refs → QUẦN ÁO → phong cách chung → sợi đỏ → per-trang prompts. See existing `manga/prompts/ch0X_prompts.md` files for the pattern.

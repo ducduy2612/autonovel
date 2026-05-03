@@ -49,3 +49,5 @@ See `.gsd/REQUIREMENTS.md` for the explicit capability contract, requirement sta
   - ✅ S03: Evaluation adapted for Vietnamese (slop_score gating + prompt cross-checks)
   - ✅ S04: Export and metadata language support (epub lang field, LaTeX babel, state.json language)
   - ✅ S05: End-to-end Vietnamese pipeline verification (43 integration tests, seed_vi.txt, live verification script)
+
+- [ ] M002: Manga Prompts Ch09–Ch24 — Complete manga prompt set for chapters 9–24
