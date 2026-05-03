@@ -91,3 +91,10 @@
 {"id":"5ec9bad9-629e-4f95-8107-27efe7a426b9","ts":"2026-05-03T07:47:27.846Z","severity":"warning","message":"Safety: 3 unexpected file change(s) outside task plan","source":"notify","read":false}
 {"id":"9f79a10b-4571-4048-a789-697207f88924","ts":"2026-05-03T07:47:29.048Z","severity":"info","message":"Verification gate: FAILED — pytest","source":"notify","read":false}
 {"id":"f926e2fb-4698-45a2-920d-272ace65b183","ts":"2026-05-03T07:47:29.048Z","severity":"warning","message":"Verification failed (pytest) — auto-fix attempt 1/2","source":"notify","read":false}
+{"id":"95bee7cc-0bf8-4d77-b843-d497e7f20bf4","ts":"2026-05-03T07:59:57.823Z","severity":"info","message":"Committed: feat: Generated ch15_prompts.md with 3 trang manga prompts for love tri…","source":"notify","read":false}
+{"id":"ab48a437-686e-49d4-98c7-520bb609d9f8","ts":"2026-05-03T07:59:57.830Z","severity":"warning","message":"[safety] file-change: manga/prompts/ch12_prompts.md — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"472e7ed7-76eb-495e-b74b-0b29639ace6e","ts":"2026-05-03T07:59:57.830Z","severity":"warning","message":"[safety] file-change: manga/prompts/ch13_prompts.md — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"2209fda4-d7c9-4a27-9ac1-d887ae22066b","ts":"2026-05-03T07:59:57.830Z","severity":"warning","message":"[safety] file-change: results.tsv — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"3ff948f5-e775-4803-81fb-d879817a51aa","ts":"2026-05-03T07:59:57.830Z","severity":"warning","message":"Safety: 3 unexpected file change(s) outside task plan","source":"notify","read":false}
+{"id":"b8949450-0d3f-4249-8e78-04983a4e5b89","ts":"2026-05-03T07:59:58.952Z","severity":"info","message":"Verification gate: FAILED — pytest","source":"notify","read":false}
+{"id":"043e23eb-7206-4e5a-af5d-8c53e87648ff","ts":"2026-05-03T07:59:58.952Z","severity":"warning","message":"Verification failed (pytest) — auto-fix attempt 1/2","source":"notify","read":false}
