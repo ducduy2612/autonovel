@@ -149,6 +149,9 @@ def generate_latex_header(lang: str | None = None) -> str:
         "%% Language: " + lang,
     ]
 
+    if lang == "vi":
+        lines.append("\\usepackage[vietnamese]{babel}")
+
     return "\n".join(lines) + "\n\n"
 
 

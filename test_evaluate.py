@@ -58,6 +58,11 @@ _EXPECTED_KEYS = {
     "transition_opener_ratio",
     "slop_penalty",
     "language",
+    "vi_english_leaks",
+    "vi_translation_calques",
+    "vi_fiction_ai_tells",
+    "vi_telling_violations",
+    "vi_structural_ai_tics",
 }
 
 
@@ -125,17 +130,24 @@ class TestSlopScore:
     # -- 5. Penalty is agnostic-only for vi ---------------------------------
 
     def test_penalty_agnostic_only_for_vi(self, monkeypatch):
-        """When vi, penalty only reflects em-dash density and sentence-length CV."""
+        """When vi with English text, EN-specific tier/fiction/telling penalties are skipped.
+        Only agnostic stats + VI-specific patterns apply."""
         result = _slop(_SAMPLE_EN, "vi")
         penalty = result["slop_penalty"]
-        # Reconstruct the expected penalty from agnostic stats only
-        expected = 0.0
+        # English-specific patterns should be skipped
+        assert result["tier1_hits"] == []
+        assert result["tier2_hits"] == []
+        assert result["tier3_hits"] == []
+        # Penalty should NOT include EN-specific tier penalties
+        # Reconstruct agnostic + vi-specific contributions
+        agnostic = 0.0
         if result["em_dash_density"] > 15:
-            expected += min((result["em_dash_density"] - 15) * 0.3, 1.0)
+            agnostic += min((result["em_dash_density"] - 15) * 0.3, 1.0)
         if result["sentence_length_cv"] < 0.3:
-            expected += 1.0
-        expected = round(min(expected, 10.0), 2)
-        assert penalty == expected
+            agnostic += 1.0
+        agnostic = round(min(agnostic, 10.0), 2)
+        # Penalty >= agnostic (may include VI-specific pattern matches)
+        assert penalty >= agnostic
 
     # -- 6. em_dash_density computed regardless of language -----------------
 
