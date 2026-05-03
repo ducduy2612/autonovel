@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exported_at": "2026-05-03T16:35:27.207Z",
+  "exported_at": "2026-05-03T16:54:35.101Z",
   "milestones": [
     {
       "id": "M001",
@@ -217,14 +217,14 @@
       "milestone_id": "M002",
       "id": "S03",
       "title": "S03",
-      "status": "pending",
+      "status": "complete",
       "risk": "high",
       "depends": [],
       "demo": "ch17_prompts.md through ch20_prompts.md exist. Ch17: Tuấn Rửa (key gender change). Ch18: Linh bờ sông, Lịch chạm tay. Ch19: Linh confronts Cảnh, mảnh giấy cháy dở. Ch20: nhóm reveals truth to everyone.",
       "created_at": "2026-05-03T01:44:33.679Z",
-      "completed_at": null,
-      "full_summary_md": "",
-      "full_uat_md": "",
+      "completed_at": "2026-05-03T16:39:15.413Z",
+      "full_summary_md": "---\nid: S03\nparent: M002\nmilestone: M002\nprovides:\n  - [\"ch17–ch20 manga prompt files with full panel descriptions, color palettes, dialogue, and thread tracking\", \"Consistent post-Rửa Tuấn (nữ) characterization for S04 and beyond\", \"Cảnh's house setting and flat affect characterization established for S04 continuation\"]\nrequires:\n  []\naffects:\n  []\nkey_files:\n  - [\"manga/prompts/ch17_prompts.md\", \"manga/prompts/ch18_prompts.md\", \"manga/prompts/ch19_prompts.md\", \"manga/prompts/ch20_prompts.md\"]\nkey_decisions:\n  - [\"Tuấn rendered as NỮ in ch17–ch20 prompts (post-Rửa body change) — chapter text clearly describes female body markers and CHARACTER_SHEETS.md confirms TUẤN NỮ (Ch17+)\", \"Cảnh rendered emotionally flat throughout ch19 — emptiness communicated through absence of affect rather than presence of sadness, with single controlled exception (eye flicker when name called)\", \"Ch18 uses minimal dialogue (4 bubbles total) — warmth communicated through CAPTION repetition and sensory detail rather than speech\", \"New color palette XÁM MÂY introduced for Cảnh's power manifestation in ch19\"]\npatterns_established:\n  - [\"Incremental write pattern for manga prompts: write header first, append each trang separately to avoid LLM output truncation\", \"Character gender tracking across chapter boundaries via CHARACTER_SHEETS.md — especially important for Rửa transformation chapters\", \"Emotional palette calibration: match trang count to emotional density (quiet chapter = 3 trang, dense group chapter = 5 trang)\"]\nobservability_surfaces:\n  - none\ndrill_down_paths:\n  - [\".gsd/milestones/M002/slices/S03/tasks/T01-SUMMARY.md\", \".gsd/milestones/M002/slices/S03/tasks/T02-SUMMARY.md\", \".gsd/milestones/M002/slices/S03/tasks/T03-SUMMARY.md\", \".gsd/milestones/M002/slices/S03/tasks/T04-SUMMARY.md\"]\nduration: \"\"\nverification_result: passed\ncompleted_at: 2026-05-03T16:39:15.414Z\nblocker_discovered: false\n---\n\n# S03: Confrontation Arc: Ch17–Ch20\n\n**Generated manga prompt files for ch17–ch20 (17 trang, 203 panels) covering the confrontation arc: Tuấn's post-Rửa state, Linh-Lịch quiet intimacy at riverside, Cảnh's riverside house confession, and the group truth reveal.**\n\n## What Happened\n\n## What Happened\n\nGenerated four manga prompt files for chapters 17–20, the confrontation arc of the novel. Each file was written incrementally (header first, then trang-by-trang appends) following the established ch08+ format with layout diagrams, color palettes, panel descriptions, dialogue bubbles/whispers/captions, character sheet references, outfit descriptions, and sợi đỏ thread tracking.\n\n### Ch17: Rửa Cuối Cùng (5 trang, 635 lines)\nKey chapter where Tuấn gets Rửa'd and transforms from nam to nữ. The task plan noted \"Tuấn remains nam\" but the source chapter text clearly describes female body markers (smaller shoulders, shorter hair, softer jaw, higher voice), confirmed by CHARACTER_SHEETS.md showing \"TUẤN — NỮ (Ch17+)\". Rendered as nữ throughout. Emotional arc: dạ lan smell → Tuấn post-Rửa void → Lịch's silent grief → Linh's mirror revelation of Cảnh → \"người gieo gió\" → mắt lấp lánh.\n\n### Ch18: Đêm Không Mưa (3 trang, 285 lines)\nQuietest chapter — only 2 characters (Linh, Lịch), no rain, minimal dialogue (4 bubbles total). Warmth communicated through CAPTION repetition of 'Ấm' and sensory detail. Key moment: Lịch places hand on Linh's hand at riverside. Color palette: ĐÊM TRONG, ĐÁ XÁM, ĐỤC SÔNG, TRẮNG SAO, ẤM DA. Sợi đỏ: sông chảy hoài (3/3), tay lạnh→tay ấm (3/3).\n\n### Ch19: Ngôi Nhà Ven Sông (4 trang, 411 lines)\nFirst real dialogue with Cảnh. Cảnh rendered emotionally flat throughout — no facial expression changes, emptiness communicated through absence of affect. Single exception: eye flicker in T3P6 when Linh calls Cảnh's name. Key visual: 5 burned paper scraps with names. Color: new XÁM MÂY palette for final panel — clouds gather when Cảnh speaks old name \"Thảo\".\n\n### Ch20: Sự Thật Vỡ (5 trang, 545 lines)\nDense group chapter with 6 characters + Bà Tâm. Each character gets a distinct emotional reaction to the truth reveal: Bách furious, Duy drops facade, Tuấn realizes possessiveness and lets go, Lịch begs to come. Final image: Linh and Lịch hands intertwined walking toward Cảnh's silhouette through mist.\n\n## Key Decisions\n- Tuấn rendered as NỮ in ch17–ch20 (post-Rửa body change per source text, overriding task plan note)\n- Cảnh rendered with flat affect throughout ch19 — emptiness shown through absence of expression\n- Ch18 uses minimal dialogue (4 bubbles), heavy on internal CAPTION for quiet mood\n- New XÁM MÂY color introduced for Cảnh's power manifestation in ch19\n\n## Patterns Established\n- Incremental write pattern consistently used across all 4 tasks (1 write + N appends)\n- Character gender tracking across chapter boundaries via CHARACTER_SHEETS.md\n- Emotional palette calibration: ch18 quietest (3 trang, 2 chars), ch20 densest (5 trang, 7 chars)\n\n## Verification\n\nSlice verification performed:\n\n1. **File existence**: All 4 prompt files confirmed present:\n   - manga/prompts/ch17_prompts.md (635 lines, 5 trang, 70 panels)\n   - manga/prompts/ch18_prompts.md (285 lines, 3 trang, 33 panels)\n   - manga/prompts/ch19_prompts.md (411 lines, 4 trang, 45 panels)\n   - manga/prompts/ch20_prompts.md (545 lines, 5 trang, 55 panels)\n\n2. **Trang counts match plan**: ch17=5 ✅, ch18=3 ✅, ch19=4 ✅, ch20=5 ✅\n\n3. **Format compliance**: All files follow established format with layout diagrams, pixel specs (1024x1536), color palettes, panel descriptions, BUBBLE/WHISPER/CAPTION dialogue, QUẦN ÁO sections, sợi đỏ tracking, and page transitions.\n\n4. **Test suite**: 86/86 non-API tests pass. 10 failures are pre-existing LLM API 404s (zenmux.ai endpoint) unrelated to this slice's static file outputs.\n\n5. **Character gender accuracy**: Tuấn rendered as NỮ in ch17+ per CHARACTER_SHEETS.md and source text. All other characters match their canonical genders.\n\n## Requirements Advanced\n\nNone.\n\n## Requirements Validated\n\nNone.\n\n## New Requirements Surfaced\n\nNone.\n\n## Requirements Invalidated or Re-scoped\n\nNone.\n\n## Deviations\n\nTask plan T01 specified \"Tuấn remains nam\" but source chapter text and CHARACTER_SHEETS.md both confirm Tuấn transforms to nữ post-Rửa in ch17. Rendered as nữ per source material rather than following the incorrect plan note.\n\n## Known Limitations\n\nNone.\n\n## Follow-ups\n\nNone — S04 (Ch21–Ch24) can proceed as planned.\n\n## Files Created/Modified\n\n- `manga/prompts/ch17_prompts.md` — 5-trang manga prompts for ch17: Tuấn post-Rửa nữ, Lịch's silent grief, Linh's mirror revelation of Cảnh\n- `manga/prompts/ch18_prompts.md` — 3-trang manga prompts for ch18: Linh alone at riverside, Lịch's hand-touch, decision to find Cảnh\n- `manga/prompts/ch19_prompts.md` — 4-trang manga prompts for ch19: Cảnh's riverside house, burned papers, flat confession, compassion shift\n- `manga/prompts/ch20_prompts.md` — 5-trang manga prompts for ch20: group truth reveal, each character's reaction, Tuấn lets go, Linh-Lịch depart\n",
+      "full_uat_md": "# S03: Confrontation Arc: Ch17–Ch20 — UAT\n\n**Milestone:** M002\n**Written:** 2026-05-03T16:39:15.414Z\n\n# UAT: Confrontation Arc Ch17–Ch20 Manga Prompts\n\n## Preconditions\n- Working directory: `/home/converter/code/autonovel`\n- Files exist: `manga/prompts/ch17_prompts.md` through `manga/prompts/ch20_prompts.md`\n- Reference: `manga/CHARACTER_SHEETS.md` available for character consistency checks\n\n## Test Cases\n\n### TC1: File Existence and Basic Structure\n**Steps:**\n1. Verify each file exists: ch17, ch18, ch19, ch20\n2. Verify each file starts with a chapter title header\n3. Verify each file contains QUẦN ÁO (outfit) section\n4. Verify each file contains \"sợi đỏ\" thread tracking section\n5. Verify each file references CHARACTER_SHEETS.md\n\n**Expected:** All 4 files exist with complete structural sections.\n\n### TC2: Trang Counts Match Specifications\n**Steps:**\n1. Count `TRANG [0-9]` headers in ch17 → expect 5\n2. Count `TRANG [0-9]` headers in ch18 → expect 3\n3. Count `TRANG [0-9]` headers in ch19 → expect 4\n4. Count `TRANG [0-9]` headers in ch20 → expect 5\n\n**Expected:** Total of 17 trang across 4 files, matching plan.\n\n### TC3: Panel Completeness per Trang\n**Steps:**\n1. For each file, verify every trang has at least 4 PANEL entries\n2. Verify each panel has a description line\n3. Verify pixel specifications present (1024x1536)\n\n**Expected:** All 17 trang have complete panel descriptions with layout specs.\n\n### TC4: Tuấn Gender Consistency (Ch17+)\n**Steps:**\n1. Search ch17 for \"Tuấn\" character references\n2. Verify Tuấn described with female markers (nữ, NỮ) after Rửa scene\n3. Verify this is consistent across ch18, ch19, ch20 where Tuấn appears\n\n**Expected:** Tuấn consistently rendered as NỮ in all post-ch17 prompt files.\n\n### TC5: Ch18 Quiet Mood — Minimal Dialogue\n**Steps:**\n1. Count BUBBLE entries in ch18 → expect ≤ 6\n2. Count CAPTION entries in ch18 → expect significantly more than bubbles\n3. Verify hand-touch theme appears across multiple panels\n4. Verify only Linh(nữ) and Lịch(nữ) appear as speaking characters\n\n**Expected:** Ch18 has sparse dialogue, heavy internal narration, two-person focus.\n\n### TC6: Ch19 Cảnh Flat Affect\n**Steps:**\n1. Search ch19 for Cảnh's emotional descriptions\n2. Verify Cảnh described with flat/empty language (phẳng, tĩnh, không cảm)\n3. Verify single exception: eye flicker moment when name called\n4. Verify burned papers (mảnh giấy cháy) appear as visual element\n\n**Expected:** Cảnh shows no emotion except one brief eye flicker.\n\n### TC7: Ch20 Group Scene Density\n**Steps:**\n1. Verify all 6 characters present: Linh, Bách, Duy, Tuấn, Lịch, Cảnh (silhouette)\n2. Verify Bà Tâm appears\n3. Verify each named character has at least one distinct reaction\n4. Verify final panel shows Linh and Lịch together\n\n**Expected:** All characters accounted for with individual emotional beats.\n\n### TC8: Color Palette Continuity\n**Steps:**\n1. Verify each file defines a color palette section\n2. Verify ch18 has 'ẤM DA' warmth color\n3. Verify ch19 has 'XÁM MÂY' cloud color\n4. Verify palette terms are consistent with earlier chapters (dạ lan tones, quỳnh tones)\n\n**Expected:** Each file has unique palette entries reflecting its chapter mood.\n\n### TC9: Vietnamese Text Integrity\n**Steps:**\n1. Verify all panel descriptions, dialogue, and captions are in Vietnamese\n2. Verify Vietnamese diacritical marks render correctly (ă, â, đ, ê, ô, ơ, ư)\n3. Verify no English-only text in dialogue bubbles or captions\n\n**Expected:** All creative content in Vietnamese, technical labels (PANEL, TRANG, BUBBLE) in English as per format convention.\n\n### TC10: Sợi Đỏ (Thread) Tracking\n**Steps:**\n1. Verify each file has sợi đỏ section listing recurring motifs\n2. Verify thread counts are tracked per trang (e.g., \"3/3 trang\")\n3. Verify cross-chapter threads are consistent (dạ lan, nhẫn bạc, gương)\n\n**Expected:** Thread motifs tracked consistently within and across files.\n\n## Edge Cases Verified\n- Tuấn gender change handled correctly despite task plan error (\"Tuấn remains nam\")\n- Ch18 achieves quiet mood with only 2 characters and minimal dialogue\n- Ch19 Cảnh flat affect sustained across all 4 trang with one controlled exception\n- Ch20 balances 7 characters with distinct reactions in 5 trang without overcrowding\n",
       "goal": "Generate manga prompts for ch17–ch20, the confrontation arc with Tuấn's Rửa and the full reveal of Cảnh.",
       "success_criteria": "4 prompt files exist. Tuấn's Rửa state correctly handled. Cảnh reveal captured in ch19-20.",
       "proof_level": "contract",
@@ -236,12 +236,10 @@
     {
       "milestone_id": "M002",
       "id": "S04",
-      "title": "Resolution Arc: Ch21–Ch24",
+      "title": "S04",
       "status": "pending",
       "risk": "medium",
-      "depends": [
-        "S03"
-      ],
+      "depends": [],
       "demo": "ch21_prompts.md through ch24_prompts.md exist. Ch21: Linh returns to Cảnh's house, deep dialogue. Ch22: Cảnh reveals plan, mưa lớn nhất. Ch23: Linh triggers Rửa, stops it, Cảnh cries. Ch24: ba tháng sau, trời trong, Cảnh enters quán.",
       "created_at": "2026-05-03T01:44:33.679Z",
       "completed_at": null,
@@ -1118,19 +1116,21 @@
       "milestone_id": "M002",
       "slice_id": "S04",
       "id": "T01",
-      "title": "Ch21: Đối Thoại — manga prompts (incremental)",
-      "status": "pending",
-      "one_liner": "",
-      "narrative": "",
-      "verification_result": "",
+      "title": "Generated ch21_prompts.md with 4 trang of manga prompts for the Linh-Cảnh dialogue chapter, covering the foggy arrival, burned papers confession, Cảnh's fear of solitude, and the shoulder-grasp resolution.",
+      "status": "complete",
+      "one_liner": "Generated ch21_prompts.md with 4 trang of manga prompts for the Linh-Cảnh dialogue chapter, covering the foggy arrival, burned papers confession, Cảnh's fear of solitude, and the shoulder-grasp resolution.",
+      "narrative": "Read ch_21.md and summary_21.md, then studied the established prompt format from ch20_prompts.md to ensure consistency in structure (character sheets, QUẦN ÁO descriptions, PHONG CÁCH CHUNG, LIỆT SỐC CHUYỂN TRANG, SỢI ĐỎ motifs, per-trang layout diagrams with panel descriptions).\n\nBuilt ch21_prompts.md incrementally in 4 trang writes, each as a separate append operation to avoid write-size limits:\n\n**TRANG 1** (6 panels): Linh walks along foggy riverbank → Cảnh's house appears from mist → Cảnh sitting on step → Linh calls \"Cảnh\" → inside the house — 5 burned paper scraps with names → KEY: close-up of LINH's name burned least, Cảnh's finger touching the edge.\n\n**TRANG 2** (6 panels): Linh confronts — \"you called rain to keep us together\" → Cảnh: \"if rain stops, group falls apart\" → \"is taking memories still love?\" → Cảnh confesses losing ability to feel, dying slowly → Linh: \"five empty vessels holding each other\" → KEY: \"you're the first person to talk to me in six years — the first to remember I exist.\"\n\n**TRANG 3** (6 panels): Linh asks \"what do you want most?\" → KEY: Cảnh: \"I want to sit at the table. Just sit. Just have a place\" — belonging → Linh listens, understands → burned paper with Linh's name — love in wrong way but still love → Linh: \"you're killing love to keep the group\" → Cảnh breaks: \"I'm scared of sitting alone\" — Linh grabs Cảnh's shoulder.\n\n**TRANG 4** (6 panels): \"You already belong\" — Cảnh trembles → \"Your way is killing you and us\" → Cảnh lets go: \"scared of sitting alone more than death\" → KEY: Two people — hands intertwined — Cảnh's head tilts, wanting to lean but not daring — 6 years alone forgot how → Linh: no answer yet but has the right question → clouds from the west — waiting — patient.\n\nRecurring motifs woven across 3+ trang: five burned papers, leaking water pipe (tong tong), Cảnh's wet-but-dry eyes. Color palette: SƯƠNG SÁNG, NÂU NHÀ, ĐEN CHÁY, XÁM MẮT, XANH SÔNG transitioning through the chapter.\n\nFixed a duplication issue where TRANG 3 was partially written via bash heredoc (truncated) then fully rewritten via Python script. Removed the broken partial copy. Also fixed a Unicode case error in TRANG 4 header (\"CHƯaA\" → \"CHƯA\").",
+      "verification_result": "File exists at manga/prompts/ch21_prompts.md (52KB, 439 lines). Contains 4 trang (TRANG 1-4), each with 6 panels (24 total). Verified key content: burned papers detail (7 mentions), Cảnh-Linh confrontation/confession present, Rửa references (4), belonging/thuộc về theme (17 mentions), \"sợ ngồi một mình\" fear (13 mentions), hand-holding/tay đan motif (12 mentions). No duplicate trang. Format matches ch20_prompts.md structure with character sheets, outfit descriptions, art style, page transitions, and recurring motifs.",
       "duration": "",
-      "completed_at": null,
+      "completed_at": "2026-05-03T16:54:35.083Z",
       "blocker_discovered": false,
-      "deviations": "",
-      "known_issues": "",
-      "key_files": [],
+      "deviations": "Used Python script for TRANG 3 and TRANG 4 appends instead of bash heredoc due to special character escaping issues with Vietnamese diacritics in printf/heredoc. Removed one truncated duplicate TRANG 3 that resulted from the initial bash append failure. Fixed a Unicode case error in TRANG 4 header.",
+      "known_issues": "None.",
+      "key_files": [
+        "manga/prompts/ch21_prompts.md"
+      ],
       "key_decisions": [],
-      "full_summary_md": "",
+      "full_summary_md": "---\nid: T01\nparent: S04\nmilestone: M002\nkey_files:\n  - manga/prompts/ch21_prompts.md\nkey_decisions:\n  - (none)\nduration: \nverification_result: passed\ncompleted_at: 2026-05-03T16:54:35.083Z\nblocker_discovered: false\n---\n\n# T01: Generated ch21_prompts.md with 4 trang of manga prompts for the Linh-Cảnh dialogue chapter, covering the foggy arrival, burned papers confession, Cảnh's fear of solitude, and the shoulder-grasp resolution.\n\n**Generated ch21_prompts.md with 4 trang of manga prompts for the Linh-Cảnh dialogue chapter, covering the foggy arrival, burned papers confession, Cảnh's fear of solitude, and the shoulder-grasp resolution.**\n\n## What Happened\n\nRead ch_21.md and summary_21.md, then studied the established prompt format from ch20_prompts.md to ensure consistency in structure (character sheets, QUẦN ÁO descriptions, PHONG CÁCH CHUNG, LIỆT SỐC CHUYỂN TRANG, SỢI ĐỎ motifs, per-trang layout diagrams with panel descriptions).\n\nBuilt ch21_prompts.md incrementally in 4 trang writes, each as a separate append operation to avoid write-size limits:\n\n**TRANG 1** (6 panels): Linh walks along foggy riverbank → Cảnh's house appears from mist → Cảnh sitting on step → Linh calls \"Cảnh\" → inside the house — 5 burned paper scraps with names → KEY: close-up of LINH's name burned least, Cảnh's finger touching the edge.\n\n**TRANG 2** (6 panels): Linh confronts — \"you called rain to keep us together\" → Cảnh: \"if rain stops, group falls apart\" → \"is taking memories still love?\" → Cảnh confesses losing ability to feel, dying slowly → Linh: \"five empty vessels holding each other\" → KEY: \"you're the first person to talk to me in six years — the first to remember I exist.\"\n\n**TRANG 3** (6 panels): Linh asks \"what do you want most?\" → KEY: Cảnh: \"I want to sit at the table. Just sit. Just have a place\" — belonging → Linh listens, understands → burned paper with Linh's name — love in wrong way but still love → Linh: \"you're killing love to keep the group\" → Cảnh breaks: \"I'm scared of sitting alone\" — Linh grabs Cảnh's shoulder.\n\n**TRANG 4** (6 panels): \"You already belong\" — Cảnh trembles → \"Your way is killing you and us\" → Cảnh lets go: \"scared of sitting alone more than death\" → KEY: Two people — hands intertwined — Cảnh's head tilts, wanting to lean but not daring — 6 years alone forgot how → Linh: no answer yet but has the right question → clouds from the west — waiting — patient.\n\nRecurring motifs woven across 3+ trang: five burned papers, leaking water pipe (tong tong), Cảnh's wet-but-dry eyes. Color palette: SƯƠNG SÁNG, NÂU NHÀ, ĐEN CHÁY, XÁM MẮT, XANH SÔNG transitioning through the chapter.\n\nFixed a duplication issue where TRANG 3 was partially written via bash heredoc (truncated) then fully rewritten via Python script. Removed the broken partial copy. Also fixed a Unicode case error in TRANG 4 header (\"CHƯaA\" → \"CHƯA\").\n\n## Verification\n\nFile exists at manga/prompts/ch21_prompts.md (52KB, 439 lines). Contains 4 trang (TRANG 1-4), each with 6 panels (24 total). Verified key content: burned papers detail (7 mentions), Cảnh-Linh confrontation/confession present, Rửa references (4), belonging/thuộc về theme (17 mentions), \"sợ ngồi một mình\" fear (13 mentions), hand-holding/tay đan motif (12 mentions). No duplicate trang. Format matches ch20_prompts.md structure with character sheets, outfit descriptions, art style, page transitions, and recurring motifs.\n\n## Verification Evidence\n\n| # | Command | Exit Code | Verdict | Duration |\n|---|---------|-----------|---------|----------|\n| 1 | `grep -c '^TRANG [0-9]:' manga/prompts/ch21_prompts.md` | 0 | ✅ pass — 4 trang found | 500ms |\n| 2 | `grep -c '^PANEL [0-9]' manga/prompts/ch21_prompts.md` | 0 | ✅ pass — 24 panels (6 per trang) | 500ms |\n| 3 | `grep -c 'cháy ít nhất\\|cháy nhẹ nhất' manga/prompts/ch21_prompts.md` | 0 | ✅ pass — 7 burned paper references | 500ms |\n| 4 | `grep -c 'sợ ngồi một mình\\|SỢ NGỒI MỘT MÌNH' manga/prompts/ch21_prompts.md` | 0 | ✅ pass — 13 Cảnh fear references | 500ms |\n| 5 | `wc -c manga/prompts/ch21_prompts.md` | 0 | ✅ pass — 52328 bytes, substantial content | 500ms |\n\n## Deviations\n\nUsed Python script for TRANG 3 and TRANG 4 appends instead of bash heredoc due to special character escaping issues with Vietnamese diacritics in printf/heredoc. Removed one truncated duplicate TRANG 3 that resulted from the initial bash append failure. Fixed a Unicode case error in TRANG 4 header.\n\n## Known Issues\n\nNone.\n\n## Files Created/Modified\n\n- `manga/prompts/ch21_prompts.md`\n",
       "description": "Read ch21 full text. Write manga prompts INCREMENTALLY:\n\n**Step 1 — Header:** Write file header to ch21_prompts.md: chapter title, character sheets (Linh nữ, Cảnh nam), outfit specs, color palette (morning fog, burned papers), cross-page threads (fog approach, burned papers, Cảnh confession, shoulder grab).\n\n**Step 2 — Trang 1:** Append trang 1 (Linh returns to Cảnh's house in morning fog). Layout + panels.\n\n**Step 3 — Trang 2:** Append trang 2 (5 burned paper scraps on table — Linh's name burned least). Layout + panels.\n\n**Step 4 — Trang 3:** Append trang 3 (Cảnh admits calling rain to Rửa everyone, making them empty vessels). Layout + panels.\n\n**Step 5 — Trang 4:** Append trang 4 (Linh grabs Cảnh's shoulder: 'You belong to the group.' Finding new answer). Layout + panels.\n\nEach step: read current file → extend with new trang. No single write exceeds ~150 lines. Settings: Cảnh's house, bờ sông. 4 trang.",
       "estimate": "35min",
       "files": [
@@ -1557,6 +1557,61 @@
       "verdict": "✅ pass — old name present",
       "duration_ms": 200,
       "created_at": "2026-05-03T14:58:14.954Z"
+    },
+    {
+      "id": 21,
+      "task_id": "T01",
+      "slice_id": "S04",
+      "milestone_id": "M002",
+      "command": "grep -c '^TRANG [0-9]:' manga/prompts/ch21_prompts.md",
+      "exit_code": 0,
+      "verdict": "✅ pass — 4 trang found",
+      "duration_ms": 500,
+      "created_at": "2026-05-03T16:54:35.084Z"
+    },
+    {
+      "id": 22,
+      "task_id": "T01",
+      "slice_id": "S04",
+      "milestone_id": "M002",
+      "command": "grep -c '^PANEL [0-9]' manga/prompts/ch21_prompts.md",
+      "exit_code": 0,
+      "verdict": "✅ pass — 24 panels (6 per trang)",
+      "duration_ms": 500,
+      "created_at": "2026-05-03T16:54:35.084Z"
+    },
+    {
+      "id": 23,
+      "task_id": "T01",
+      "slice_id": "S04",
+      "milestone_id": "M002",
+      "command": "grep -c 'cháy ít nhất\\|cháy nhẹ nhất' manga/prompts/ch21_prompts.md",
+      "exit_code": 0,
+      "verdict": "✅ pass — 7 burned paper references",
+      "duration_ms": 500,
+      "created_at": "2026-05-03T16:54:35.084Z"
+    },
+    {
+      "id": 24,
+      "task_id": "T01",
+      "slice_id": "S04",
+      "milestone_id": "M002",
+      "command": "grep -c 'sợ ngồi một mình\\|SỢ NGỒI MỘT MÌNH' manga/prompts/ch21_prompts.md",
+      "exit_code": 0,
+      "verdict": "✅ pass — 13 Cảnh fear references",
+      "duration_ms": 500,
+      "created_at": "2026-05-03T16:54:35.084Z"
+    },
+    {
+      "id": 25,
+      "task_id": "T01",
+      "slice_id": "S04",
+      "milestone_id": "M002",
+      "command": "wc -c manga/prompts/ch21_prompts.md",
+      "exit_code": 0,
+      "verdict": "✅ pass — 52328 bytes, substantial content",
+      "duration_ms": 500,
+      "created_at": "2026-05-03T16:54:35.084Z"
     }
   ]
 }

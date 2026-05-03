@@ -83,3 +83,9 @@
 {"id":"61872c08-e223-4b41-9b8e-0cd008e3402e","ts":"2026-05-03T16:32:09.583Z","severity":"info","message":"Dynamic routing: enabled — simple tasks may use cheaper models (ceiling: custom-openai/glm-5.1)","source":"notify","read":false}
 {"id":"682e3df4-4517-4c86-a00a-40dce2716826","ts":"2026-05-03T16:32:09.584Z","severity":"info","message":"Pre-flight: 2 milestones queued. All have full context.","source":"notify","read":false}
 {"id":"e4b1c6c0-eb55-4708-be03-3b4508bc5e48","ts":"2026-05-03T16:32:09.647Z","severity":"info","message":"Pre-dispatch: pre-dispatch: created gsd snapshot after 93m of uncommitted changes","source":"notify","read":false}
+{"id":"5a67b80f-83c1-458e-9b88-2a67cee51c45","ts":"2026-05-03T16:35:30.363Z","severity":"info","message":"Committed: feat: Generated ch20 manga prompts (5 trang) covering group revelation…","source":"notify","read":false}
+{"id":"d0f696d2-b1a2-4410-9401-c265aa84a68e","ts":"2026-05-03T16:35:30.369Z","severity":"warning","message":"[safety] file-change: manga/prompts/ch19_prompts.md — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"ffb0fe52-d5be-4ca4-a125-a7bd5553a0d8","ts":"2026-05-03T16:35:30.369Z","severity":"warning","message":"[safety] file-change: results.tsv — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"13656b52-9034-4516-b09a-68cf9e2590df","ts":"2026-05-03T16:35:30.369Z","severity":"warning","message":"Safety: 2 unexpected file change(s) outside task plan","source":"notify","read":false}
+{"id":"61bc8651-75eb-4cbd-b00c-fb7de38213ff","ts":"2026-05-03T16:36:02.240Z","severity":"info","message":"Verification gate: FAILED — pytest","source":"notify","read":false}
+{"id":"19883b3a-b644-4fa5-8a60-16f35c7accd1","ts":"2026-05-03T16:36:02.240Z","severity":"warning","message":"Verification failed (pytest) — auto-fix attempt 1/2","source":"notify","read":false}

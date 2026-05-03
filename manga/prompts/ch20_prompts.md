@@ -19,7 +19,7 @@ Hướng dẫn map ảnh: Ảnh tham chiếu dùng cho face, body type, hairstyl
 
 QUẦN ÁO: Ch20 diễn ra chiều muộn vào tối — mỗi nhân vật mặc ONE outfit xuyên chương:
 
-LINH (NỮ): Áo lụa đen buộc nơ trước ngực — hai vạt kéo chéo buộc loosely ở giữa — vai trần — xương quai xanh sắc góc cạnh — quần palazzo rộng đen — cạp chun cao nhấn eo thon hóp — chân giày bata thấp — tóc bob cằm — mệt — mắt thâm quầng vì sáng đến Hương Thủy — nhưng chắc — quyết đoán — vai trần mịn — lụa dính sương mỏng — da nổi gai nhẹ khi bước vào quán — ngồi xuống — tay cầm ly cà phê — run nhẹ ở đầu ngón — ting ting ting — chạm thành ly. Gợi cảm thanh lịch ngay trong lúc nặng lòng — eo hóp — bụng thoáng hiện nơi vạt buộc hở — đẹp buồn — mệt mà vẫn sắc — vẫn nhìn — vẫn quyết.
+LINH (NỮ): Áo lụa đen buộc nơ trước ngực — hai vạt kéo chéo buộc loosely ở giữa — vải lụa trượt theo đường cong tự nhiên — ngực đầy nâng nhẹ — vai trần — xương quai xanh sắc góc cạnh — quần palazzo rộng đen — cạp chun cao nhấn eo thon hóp — chân giày bata thấp — tóc bob cằm — mệt — mắt thâm quầng vì sáng đến Hương Thủy — nhưng chắc — quyết đoán — vai trần mịn — lụa dính sương mỏng — đường cong thân thể in hờ dưới vải ẩm — da nổi gai nhẹ khi bước vào quán — ngồi xuống — tay cầm ly cà phê — run nhẹ ở đầu ngón — ting ting ting — chạm thành ly — đùi trần lộ dưới ống palazzo xòe khi ngồi — bụng thoáng hiện nơi vạt buộc hở — eo hóp tôn — gợi cảm thanh lịch ngay trong lúc nặng lòng — mệt mà vẫn sắc — vẫn nhìn — vẫn quyết — gợi cảm bốc lửa ngay giữa lúc nhóm tan vỡ — sexy thanh cao — đẹp buồn — gợi cảm tan vỡ — lụa ẩm dính da — đường cong ngực eo hông lộ rõ — gợi cảm rũ rượi trong sương chiều.
 
 BÁCH (NAM): Áo khoác cắt nam tính — sơ mi bên trong — tóc cắt ngắn sát gáy — mắt nâu sâu — quầng thâm — dữ — luôn nhìn thẳng — tay nắm lại hoặc đập bàn — gầy — mệt — gò má hõm. Ch20: Bách là người giận dữ nhất — đập bàn — ly rung — cà phê sóng sánh — ghế kéo lê sàn rít chói tai — nhưng cuối cùng vai rủ — đi về — biết dừng không dễ như nói — giọng cứng nhưng nói "mình chỉ sợ."
 
@@ -98,7 +98,7 @@ CAPTION (italic, nhỏ): "Sáu năm. Ai để ly đó. Bao giờ. Không ai hỏ
 ─────────────────────────────────────
 
 PANEL 2 — LINH BƯỚC VÀO — VAI ƯỚT SƯƠNG
-Góc máy: Medium shot — Linh bước qua bậc thềm — vai ướt sương — lụa đen mỏng dính vào da — xương quai xanh sắc — eo hóp — tóc bob cằm rối — mắt thâm quầng vì sáng đến Hương Thủy — mệt — nhưng chắc — nắm quai túi — bước vào không gian quen — bước vào để nói điều không ai muốn nghe — da nổi gai nhẹ khi sương chạm vai trần — chân giày bata trên sàn gạch quen — quán này — sàn này — bàn này — chỗ ngồi này — biết thuộc ai chưa.
+Góc máy: Medium shot — Linh bước qua bậc thềm — vai ướt sương — lụa đen mỏng dính vào da — xương quai xanh sắc — eo hóp — ngực đầy nâng nhẹ dưới vạt buộc — tóc bob cằm rối — mắt thâm quầng vì sáng đến Hương Thủy — mệt — nhưng chắc — nắm quai túi — bước vào không gian quen — bước vào để nói điều không ai muốn nghe — da nổi gai nhẹ khi sương chạm vai trần — đường cong thân thể in hờ dưới lụa ẩm — gợi cảm bốc lửa giữa sương chiều — chân giày bata trên sàn gạch quen — quán này — sàn này — bàn này — chỗ ngồi này — biết thuộc ai chưa.
 
 CAPTION (italic): "Linh bước qua bậc thềm. Vai ướt sương."
 
@@ -118,7 +118,7 @@ CAPTION (italic, nhỏ nhất): "Sáu năm. Mỗi đêm. Bà Tâm biết. Từ b
 ─────────────────────────────────────
 
 PANEL 4 — LINH NGỒI XUỐNG — "MÌNH TÌM RA RỒI"
-Góc máy: Medium-wide shot — Linh ngồi xuống — ghế gỗ — mỏng đệm — bàn gỗ mòn — năm người nhìn — Bách ngẩng từ ghế góc — Duy buông chân xuống — Lịch ngừng viết — bút dừng trên trang — Tuấn vẫn ngồi xa — vẫn xoay nhẫn — mắt không nhìn ai — Linh ngồi — tay đặt trên bàn — giọng phẳng — phải phẳng — vì nếu không phẳng thì không nói được — "mình tìm ra rồi" — bốn chữ — nặng — đập xuống bàn êm — không rung ly — nhưng rung người.
+Góc máy: Medium-wide shot — Linh ngồi xuống — ghế gỗ — mỏng đệm — bàn gỗ mòn — năm người nhìn — lụa đen buộc nơ — vai trần — eo hóp — đùi trần lộ dưới ống palazzo xòe — bụng thoáng hiện — đường cong thân thể in hờ dưới lụa ẩm — gợi cảm thanh đạm giữa nhóm — Bách ngẩng từ ghế góc — Duy buông chân xuống — Lịch ngừng viết — bút dừng trên trang — Tuấn vẫn ngồi xa — vẫn xoay nhẫn — mắt không nhìn ai — Linh ngồi — tay đặt trên bàn — giọng phẳng — phải phẳng — vì nếu không phẳng thì không nói được — "mình tìm ra rồi" — bốn chữ — nặng — đập xuống bàn êm — không rung ly — nhưng rung người.
 
 BUBBLE (Linh, phẳng — chắc): "Mình tìm ra rồi."
 
@@ -200,7 +200,7 @@ CAPTION (italic, nhỏ): "Mùi dạ lan ba lần đậm hơn. Ba lần Cảnh r�
 ─────────────────────────────────────
 
 PANEL 3 — LINH KỂ — RỬA → QUÊN → ĐỔI TÊN → GỌI MƯA → MẤT CẢM
-Góc máy: Medium shot — Linh ngồi — bàn giữa — kể — giọng phẳng — phải phẳng — "Cảnh kể mình nghe. Rửa lần đầu cùng nhóm. Rồi bị quên. Ba tháng sau không ai nhớ. Đổi tên. Sống một mình. Tìm ra cách gọi mưa. Kéo mưa từ nơi khác về Huế. Gọi để giữ nhóm. Nhưng mỗi lần gọi, mất thêm cảm xúc. Đang đến mức không còn biết yêu là gì." — Linh kể — mắt nhìn xuống bàn — tay cầm ly — không uống — chỉ cầm — ấm — nóng rát — nhưng cầm — vì cần gì đó để giữ — lời nói nặng quá — cần vật nhẹ — ly — cà phê — nóng — nhưng không uống — chỉ giữ — trong khi kể — quanh bàn năm người nghe — im — chỉ tiếng nước tong tong ngoài hiên — vòi chưa sửa — chảy hoài.
+Góc máy: Medium shot — Linh ngồi — bàn giữa — kể — giọng phẳng — phải phẳng — lụa đen buộc nơ — vai trần — eo hóp — đùi trần — gợi cảm thanh lịch giữa nhóm — "Cảnh kể mình nghe. Rửa lần đầu cùng nhóm. Rồi bị quên. Ba tháng sau không ai nhớ. Đổi tên. Sống một mình. Tìm ra cách gọi mưa. Kéo mưa từ nơi khác về Huế. Gọi để giữ nhóm. Nhưng mỗi lần gọi, mất thêm cảm xúc. Đang đến mức không còn biết yêu là gì." — Linh kể — mắt nhìn xuống bàn — tay cầm ly — không uống — chỉ cầm — ấm — nóng rát — nhưng cầm — vì cần gì đó để giữ — lời nói nặng quá — cần vật nhẹ — ly — cà phê — nóng — nhưng không uống — chỉ giữ — trong khi kể — quanh bàn năm người nghe — im — chỉ tiếng nước tong tong ngoài hiên — vòi chưa sửa — chảy hoài.
 
 BUBBLE (Linh, phẳng — kể): "Rửa lần đầu cùng nhóm. Rồi bị quên. Ba tháng sau không ai nhớ."
 
@@ -301,7 +301,7 @@ CAPTION (italic, nhỏ): "Câu hỏi treo. Không ai trả lời.")
 ─────────────────────────────────────
 
 PANEL 3 — LINH — "CHO NÊN MÌNH SẼ GẶP LẠI CẢNH"
-Góc máy: Medium shot — Linh ngồi — nhìn ghế trống — ly nước đầy — suy nghĩ — rồi nói — chắc — "cho nên mình sẽ gặp lại Cảnh" — cả nhóm nhìn — "một mình. Không để đối đầu. Để nói chuyện" — mắt Linh chắc — nhưng tay — tay cầm ly — run nhẹ — chỉ run ở đầu ngón — chạm thành ly — ting ting ting — ai nghe thấy — ai không — không biết — nhưng tay run — mệt — bốn lần Rửa — mất năm — mất người — mất ký ức — mà vẫn đi — vì Cảnh đang chết — linh hồn đang chết — không thể ngồi đây chờ — Linh nhìn Bách — Bách mở miệng cãi — không ra tiếng — vì biết.
+Góc máy: Medium shot — Linh ngồi — nhìn ghế trống — ly nước đầy — suy nghĩ — rồi nói — chắc — lụa đen buộc nơ — vai trần — eo hóp — đường cong thân thể in hờ dưới lụa ẩm — gợi cảm quyết đoán — "cho nên mình sẽ gặp lại Cảnh" — cả nhóm nhìn — "một mình. Không để đối đầu. Để nói chuyện" — mắt Linh chắc — nhưng tay — tay cầm ly — run nhẹ — chỉ run ở đầu ngón — chạm thành ly — ting ting ting — ai nghe thấy — ai không — không biết — nhưng tay run — mệt — bốn lần Rửa — mất năm — mất người — mất ký ức — mà vẫn đi — vì Cảnh đang chết — linh hồn đang chết — không thể ngồi đây chờ — Linh nhìn Bách — Bách mở miệng cãi — không ra tiếng — vì biết.
 
 BUBBLE (Linh, chắc): "Cho nên mình sẽ gặp lại Cảnh. Một mình. Không để đối đầu. Để nói chuyện."
 
@@ -424,7 +424,7 @@ CAPTION (italic, nhỏ): "Người luôn giữ giờ run. Run vì sợ. Sợ R�
 ─────────────────────────────────────
 
 PANEL 5 — "THÌ MÌNH NHỚ THAY" — MỈM CƯỜI BUỒN — "NÓI LẠI"
-Góc máy: Medium close-up — Linh nắm tay Lịch chặt hơn — hai tay đan — trên bàn — Linh nhìn Lịch — "thì mình nhớ thay" — hai chữ — nhẹ — nhưng mở — mở cho Lịch — cho người sợ quên — cho người ghi sáu năm — mình nhớ thay — mình sẽ ghi thay — mình sẽ giữ thay — Lịch nhìn Linh — lâu — lâu — rồi mỉm cười — nhỏ — buồn — "hồi sáng mình nói câu đó rồi" — Linh: "thì nói lại" — hai chữ — nói lại — đơn giản — không cần mới — không cần sáng tạo — chỉ cần đúng — đúng lúc — đúng người — đúng nắm tay — Lịch cười — cười buồn — cười nhỏ — nhưng cười — giữa sợ — giữa mệt — giữa quán vắng sương dày — hai tay đan — ấm — hai người — ba người đã đi — chỉ còn hai — nhưng hai — đủ — đủ cho đêm nay.
+Góc máy: Medium close-up — Linh nắm tay Lịch chặt hơn — hai tay đan — trên bàn — Linh nhìn Lịch — áo lụa đen buộc nơ — vai trần ướt sương — eo hóp — gợi cảm dịu dàng giữa quán vắng — "thì mình nhớ thay" — hai chữ — nhẹ — nhưng mở — mở cho Lịch — cho người sợ quên — cho người ghi sáu năm — mình nhớ thay — mình sẽ ghi thay — mình sẽ giữ thay — Lịch nhìn Linh — lâu — lâu — rồi mỉm cười — nhỏ — buồn — "hồi sáng mình nói câu đó rồi" — Linh: "thì nói lại" — hai chữ — nói lại — đơn giản — không cần mới — không cần sáng tạo — chỉ cần đúng — đúng lúc — đúng người — đúng nắm tay — Lịch cười — cười buồn — cười nhỏ — nhưng cười — giữa sợ — giữa mệt — giữa quán vắng sương dày — hai tay đan — ấm — hai người — ba người đã đi — chỉ còn hai — nhưng hai — đủ — đủ cho đêm nay.
 
 BUBBLE (Linh, chắc — thương): "Thì mình nhớ thay."
 
@@ -437,7 +437,7 @@ CAPTION (italic): "Đơn giản. Không cần mới. Không cần sáng tạo. C
 ─────────────────────────────────────
 
 PANEL 6 — HAI NGƯỜI NGỒI IM — TAY ĐAN — QUÁN VẮNG — GHẾ TRỐNG KHÔNG CÒN VÔ NGHĨA
-Góc máy: Wide shot — quán vắng dần — Bà Tâm tắt đèn góc xa — để lại ánh vàng duy nhất trên bàn nhóm — hai người ngồi — tay đan — trên bàn gỗ mòn — ly cà phê nguội — sổ da đen đóng — ghế đầu bàn trống — nhưng không còn trống vô nghĩa — ly nước đầy — nhưng không còn ly nước vô danh — Bà Tâm biết — biết ai — biết tại sao — rót mỗi đêm — Cảnh ngồi mỗi đêm — nhóm không biết — giờ biết — ghế trống giờ có tên — ly nước giờ có người — chưa ai ngồi — nhưng không còn trống vô nghĩa — hai người ngồi im — tay đan — đèn vàng — quán vắng — sương ngoài cửa — tiếng nước tong tong — đều — kiên nhẫn — chờ — sông vẫn chảy — mưa chưa rơi — nhưng mây kéo từ phía tây — chậm — đều — kiên nhẫn — như thể ai đang gọi — nhẹ lắm — xa lắm.
+Góc máy: Wide shot — quán vắng dần — Bà Tâm tắt đèn góc xa — để lại ánh vàng duy nhất trên bàn nhóm — hai người ngồi — tay đan — Linh lụa đen buộc nơ — vai trần — eo hóp — đùi trần — gợi cảm thanh đạm trong ánh vàng cũ — trên bàn gỗ mòn — ly cà phê nguội — sổ da đen đóng — ghế đầu bàn trống — nhưng không còn trống vô nghĩa — ly nước đầy — nhưng không còn ly nước vô danh — Bà Tâm biết — biết ai — biết tại sao — rót mỗi đêm — Cảnh ngồi mỗi đêm — nhóm không biết — giờ biết — ghế trống giờ có tên — ly nước giờ có người — chưa ai ngồi — nhưng không còn trống vô nghĩa — hai người ngồi im — tay đan — đèn vàng — quán vắng — sương ngoài cửa — tiếng nước tong tong — đều — kiên nhẫn — chờ — sông vẫn chảy — mưa chưa rơi — nhưng mây kéo từ phía tây — chậm — đều — kiên nhẫn — như thể ai đang gọi — nhẹ lắm — xa lắm.
 
 CAPTION (italic): "Hai người ngồi im. Tay đan. Quán vắng. Đèn vàng."
 
@@ -486,7 +486,7 @@ CAPTION (italic, nhỏ): "Người ghi chép không nói đúng sai. Chỉ nói 
 ─────────────────────────────────────
 
 PANEL 2 — HAI NGƯỜI BƯỚC RA BẬC THỀM — TAY ĐAN — SƯƠNG ƯỚT VAI
-Góc máy: Medium-wide shot — hai người đứng — tay đan — bước ra bậc thềm — chân giày trên đá ướt — sương từ sông bốc lên — ướt vai — ướt tóc — ướt lụa — Linh lụa đen mỏng dính vào da — vai trần ướt sương — xương quai xanh — Lịch blouse kín — tóc buộc chặt — kính trễ mũi — sổ da đen kẹp dưới nách — tay trái đan trong tay phải Linh — hai người bước — chậm — không vội — không cần vội — sáng mai đi — đêm nay đứng — bước ra bến — sương — sông — mây — chưa đi mà đã trên đường — tay đan — ấm giữa lạnh — sống giữa tro — bước — mỗi bước nhỏ — mỗi bước chắc — hai người — một hướng — Hương Thủy — Cảnh — nghe — không nói — nghe.
+Góc máy: Medium-wide shot — hai người đứng — tay đan — bước ra bậc thềm — chân giày trên đá ướt — sương từ sông bốc lên — ướt vai — ướt tóc — ướt lụa — Linh lụa đen mỏng dính vào da — vai trần ướt sương — xương quai xanh — eo hóp — ngực đầy nâng nhẹ dưới vạt buộc — đường cong thân thể in rõ dưới lụa ẩm — đùi trần lộ dưới ống palazzo — gợi cảm bốc lửa giữa sương sông — sexy thanh cao trong đêm — Lịch blouse kín — tóc buộc chặt — kính trễ mũi — sổ da đen kẹp dưới nách — tay trái đan trong tay phải Linh — hai người bước — chậm — không vội — không cần vội — sáng mai đi — đêm nay đứng — bước ra bến — sương — sông — mây — chưa đi mà đã trên đường — tay đan — ấm giữa lạnh — sống giữa tro — bước — mỗi bước nhỏ — mỗi bước chắc — hai người — một hướng — Hương Thủy — Cảnh — nghe — không nói — nghe.
 
 CAPTION (italic): "Hai người bước ra bậc thềm. Tay vẫn đan."
 
@@ -532,7 +532,7 @@ CAPTION (italic, nhỏ nhất): "Đêm nay cũng vậy. Mai cũng vậy. Cho đ�
 ─────────────────────────────────────
 
 PANEL 6 — FINAL — HAI NGƯỜI DỌC BẾN — TAY ĐAN — MÂY KÉO ĐẾN — MƯA CHƯA RƠI
-Góc máy: Wide shot — bến sông Hương — chiều muộn — sương — hai người đi dọc bến — Linh và Lịch — tay đan — tay trong tay — nhỏ — giữa sương — giữa sông — giữa mây — bóng dài trên đá ướt — sương ướt vai — bước chậm — không ngoái lại — quán phía sau — tối dần — đèn tắt — chỉ còn Bà Tâm — ghế trống — ly nước — và xa — XA LẮM — trên — TRÊN — mây kéo từ phía tây — XÁM — CHẬM — ĐỀU — KIÊN NHẪN — như thể ai đang gọi — nhẹ lắm — xa lắm — mây không vội — mây không sợ — mây chỉ đến — mưa chưa rơi — nhưng mây đến — vì ai đó còn gọi — vì thói quen — vì quen — vì từng — mây không biết người gọi đã rỗng — mây chỉ biết gọi là đến — sông chảy — mây kéo — hai người đi — tay đan — nhỏ — giữa tất cả — Linh — Lịch — sáng mai — Hương Thủy — Cảnh — nghe — không nói — nghe — mưa chưa rơi — mây đã đến — sương vẫn dày — tay vẫn đan — hai người — một hướng — bước — chậm — như mưa chưa rơi.
+Góc máy: Wide shot — bến sông Hương — chiều muộn — sương — hai người đi dọc bến — Linh và Lịch — tay đan — tay trong tay — nhỏ — giữa sương — giữa sông — giữa mây — bóng dài trên đá ướt — Linh lụa đen mỏng ướt sương — dính sát da — vai trần — eo hóp — đường cong thân thể lộ rõ — gợi cảm bốc lửa giữa sương sông — đùi trần ướt — sexy thanh cao trong đêm — sương ướt vai — bước chậm — không ngoái lại — quán phía sau — tối dần — đèn tắt — chỉ còn Bà Tâm — ghế trống — ly nước — và xa — XA LẮM — trên — TRÊN — mây kéo từ phía tây — XÁM — CHẬM — ĐỀU — KIÊN NHẪN — như thể ai đang gọi — nhẹ lắm — xa lắm — mây không vội — mây không sợ — mây chỉ đến — mưa chưa rơi — nhưng mây đến — vì ai đó còn gọi — vì thói quen — vì quen — vì từng — mây không biết người gọi đã rỗng — mây chỉ biết gọi là đến — sông chảy — mây kéo — hai người đi — tay đan — nhỏ — giữa tất cả — Linh — Lịch — sáng mai — Hương Thủy — Cảnh — nghe — không nói — nghe — mưa chưa rơi — mây đã đến — sương vẫn dày — tay vẫn đan — hai người — một hướng — bước — chậm — như mưa chưa rơi.
 
 CAPTION (italic, giữa trang): "Hai người đi dọc bến. Sương ướt vai. Tay trong tay. Chậm. Như mưa chưa rơi."
 
