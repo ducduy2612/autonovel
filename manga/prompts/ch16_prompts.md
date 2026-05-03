@@ -7,7 +7,7 @@ canh_nam_sheet — CẢNH (nam, thấp bé, áo sơ mi trắng xám bạc màu, 
 
 linh_nu_sheet — LINH (nữ, tóc bob cằm, áo lụa buộc nơ, quần palazzo rộng — xem QUẦN ÁO)
 
-ba_ta_sheet — BÀ TÂM (bà già, 62, tóc thưa bạc búi lỏng, áo bà ba bạc màu, khăn lau bàn — xem QUẦN ÁO)
+ba_tam_sheet — BÀ TÂM (bà già, 62, tóc thưa bạc búi lỏng, áo bà ba bạc màu, khăn lau bàn — xem QUẦN ÁO)
 
 Hướng dẫn map ảnh: Ảnh tham chiếu dùng cho face, body type, hairstyle — KHÔNG copy 100% outfit từ sheet. Ch16 có bốn nhân vật chính: Bách(nam), Cảnh(nam — XUẤT HIỆN ĐẦU TIÊN), Linh(nữ), Bà Tâm(bà già). Không gian chuyển từ bình minh bờ sông Hương Thủy (Bách một mình → gặp Cảnh) → sương mù (Cảnh biến mất) → chiều quán bà Tâm (Bách kể Linh) → mưa đổ (hai người nhìn sông). Thời gian: 5h sáng → sáng → chiều → mưa đến. Trời: sương đặc → nắng yếu → mây kéo → mưa. Ch16 là chương gặp gỡ đầu tiên với Cảnh — người bị Rửa khỏi nhóm — ngồi bờ sông chờ được nhận ra. Bí ẩn — nặng — hai chữ "Nhóm mình" đâm vào ngực. Nội tâm sâu — nhiều im lặng — thoại ngắn — caption nặng — mùi dạ lan xuyên suốt.
 
