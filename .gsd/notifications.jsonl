@@ -107,3 +107,7 @@
 {"id":"7c33f70b-e3ee-4141-8396-89546f71cfb0","ts":"2026-05-03T08:32:12.044Z","severity":"info","message":"Auto-mode paused (Escape). Type to interact, or /gsd auto to resume.","source":"notify","read":false}
 {"id":"cbbe9392-5268-40ab-bbc7-58e0fbe99854","ts":"2026-05-03T09:45:16.066Z","severity":"info","message":"Entered worktree for M002 at /home/converter/code/autonovel/.gsd/worktrees/M002","source":"notify","read":false}
 {"id":"fccd6f44-ae43-4481-b201-10908caf8fb0","ts":"2026-05-03T09:45:16.066Z","severity":"info","message":"Auto-mode resumed.","source":"notify","read":false}
+{"id":"1e1852fb-94e6-4a5d-b64f-4f4e896a6f05","ts":"2026-05-03T09:45:16.921Z","severity":"info","message":"Resume: applied 4 fix(es) to state.","source":"notify","read":false}
+{"id":"ac28e509-e544-43dc-967f-5ae1f38a2e0c","ts":"2026-05-03T10:31:40.408Z","severity":"warning","message":"Timeout recovery: steering execute-task M002/S03/T01 to finish durable output (attempt 1, session 1/1).","source":"notify","read":false}
+{"id":"dc875858-9df0-4332-a96c-2e7cb264f5f1","ts":"2026-05-03T10:32:11.477Z","severity":"warning","message":"Session creation timed out for execute-task M002/S03/T01. Pausing auto-mode (recoverable).","source":"notify","read":false}
+{"id":"9ab3a672-db69-45cc-a7ae-9d86460bb4ca","ts":"2026-05-03T10:32:11.770Z","severity":"info","message":"Auto-mode paused (Escape). Type to interact, or /gsd auto to resume.","source":"notify","read":false}

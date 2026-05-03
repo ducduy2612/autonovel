@@ -1,7 +1,7 @@
 CHƯƠNG 14: NGƯỜI BIẾT MƯA — 4 Trang Manga
 Upload 4 ảnh theo đúng thứ tự sau:
 
-linh_nu_sheet — LINH (nữ, tóc bob cằm, áo mưa ba mũ trùm đầu → sơ mi bạc màu tay dài, quần dài ống lọt — xem QUẦN ÁO)
+linh_nu_sheet — LINH (nữ, tóc bob cằm, áo khoác mỏng trong suốt, váy xếp ly ngắn — xem QUẦN ÁO)
 
 ba_lua_sheet — BÀ LỤA (bà già, tóc bạc buộc thấp tết cẩn thận, áo nâu ống tay dài — xem QUẦN ÁO)
 
@@ -9,7 +9,7 @@ Hướng dẫn map ảnh: Ảnh tham chiếu dùng cho face, body type, hairstyl
 
 QUẦN ÁO: Ch14 có hai nửa — đầu chương mưa (đường đi), giữa chương trong nhà (trà), cuối chương ngoài trời (bờ sông). Linh mặc ONE outfit xuyên chương:
 
-LINH (NỮ): Áo mưa ba mũ trùm đầu — đi xe máy đường ven sông sáng sớm. Trong nhà Bà Lụa: cởi áo mưa, bên trong áo sơ mi bạc màu tay dài, cài hờ hai nút trên. Quần dài ống lọt — ướt đế — dép lẹp. Tóc bob cằm — ẩm — dán trán. Ngón tay thô ráp, móng cắn ngắn — tay thợ may. Mắt sưng vì thiếu ngủ — quầng thâm — nhưng hôm nay khác: kiên quyết — đi một mình. Da vàng nhạt. Lúc ngồi uống trà: tay cầm ly — ngón tay trắng bệch vì siết — lạnh — ấm dần. Lúc đi bờ sông: ướt — dép trơn — cát bùn bám gót. Cuối chương: đứng trước cổng thợ nước — tay ả trần — không cầm gì — chỉ nhìn.
+LINH (NỮ): Áo khoác mỏng trong suốt (sheer raincoat) — vải nylon mờ lộ silhouette bên trong — đi xe máy đường ven sông sáng sớm. Bên trong: áo lót đen đơn giản — đường cong ngực và eo hõi qua lớp khoác mờ ảo. Váy xếp ly ngắn đen — nếp gấp rủ mềm theo từng bước, ống váy bay lên khi gió sông thổi, lộ đùi trần. Chân trần dép lẹp — bờ sông trơn. Tóc bob cằm — ẩm — dán trán. Ngón tay thô ráp, móng cắn ngắn — tay thợ may. Mắt sưng vì thiếu ngủ — quầng thâm — nhưng hôm nay khác: kiên quyết — đi một mình. Da vàng nhạt. Lúc ngồi uống trà: cởi áo khoác — vai trần, áo lót đen, xương quai xanh sắc — tay cầm ly — ngón tay trắng bệch vì siết — lạnh — ấm dần. Lúc đi bờ sông: váy bay — đùi ướt — dép trơn — cát bùn bám gót — sexy trong ẩm ướt. Cuối chương: đứng trước cổng thợ nước — tay không cầm gì — váy dính sát hông vì ướt — chỉ nhìn.
 
 BÀ LỤA: Áo nâu, ống tay dài xỏ qua cổ tay gầy — tay chai — vết tích nghề nghiệp. Tóc bạc buộc thấp, tết lại cẩn thận hơn lần trước. Dép lê — tiếng lết trong nhà. Mắt nâu đậm, khói khói — như mắt người hay nhìn lửa. Da nhăn — nhưng không yếu — sống một mình — cọc nhà sơn lại — mái đổi ngói — tự lo. Vuốt mép ly bằng ngón cái — thói quen — hai lần — rồi tay nằm yên — ngửa lên — "Xem tay tôi." Lúc kể 1978: không tiếc — không giận — chỉ xác nhận — nói 'khác' như người nói về chiếc áo cũ đã vứt. Lúc nói về người gọi mưa: giọng chậm — chọn từng chữ — quay mặt ra cửa sổ — lưng về phía Linh.
 
@@ -64,7 +64,7 @@ Tông màu trang 1: XÁM SÁNG MƯA mở đầu — trời chưa sáng hẳn —
 ─────────────────────────────────────
 
 PANEL 1 — LINH ĐI MỘT MÌNH — HƯƠNG THỦY SÁNG
-Góc máy: Wide establishing shot — đường ven sông Hương Thủy — Linh trên xe máy — áo mưa ba mũ trùm đầu — tay nắm ghi-đông lạnh cứng. Trời xám — mây thấp từ đỉnh Bạch Mã kéo về — ép sát nóc nhà — như trần phòng giáng xuống. Nước ngập lối đi hai bên đường — phản chiếu bóng trời xám nghiêng ngả. Nhà cọc nghiêng — cột gõ đẽo lại nhiều lần — gỗ mới xen gỗ cũ. Mùi bùn non — ẩm — ngai ngái — lọt qua khe áo mưa.
+Góc máy: Wide establishing shot — đường ven sông Hương Thủy — Linh trên xe máy — áo khoác mỏng trong suốt, váy xếp ly ngắn — gió bay váy — đùi trần lộ dưới ống xếp ly — tay nắm ghi-đông lạnh cứng. Trời xám — mây thấp từ đỉnh Bạch Mã kéo về — ép sát nóc nhà — như trần phòng giáng xuống. Nước ngập lối đi hai bên đường — phản chiếu bóng trời xám nghiêng ngả. Nhà cọc nghiêng — cột gõ đẽo lại nhiều lần — gỗ mới xen gỗ cũ. Mùi bùn non — ẩm — ngai ngái — lọt qua lớp khoác mờ.
 
 CAPTION (góc trên, italic): "Sáng. Trời chưa hẳn sáng — xám. Mây thấp phủ kín từ đỉnh Bạch Mã kéo về, ép sát nóc nhà."
 
@@ -87,7 +87,7 @@ BUBBLE (Bà Lụa, viền nét đơn, ngắn — không mời — chỉ xác nh�
 ─────────────────────────────────────
 
 PANEL 4 — BÊN TRONG — BÀ LỤA RÓT TRÀ — IM LẶNG
-Góc máy: Medium-wide shot bên trong nhà — tối — đèn không bật — chỉ ánh sáng lọt khe cửa sổ nhìn ra sông. Bàn gỗ thấp giữa phòng — ấm trà đất — khói bốc lẹt đẹt — mùi trà xanh quyện mùi trầm từ bát nhang góc bàn. Bà Lụa ngồi — không mời — chỉ ngồi — rót hai ly trà — đẩy một ly qua phía Linh. Linh ngồi đối diện — cầm ly — hai người — một bàn — một khoảng im lặng đặc quánh — chỉ tiếng sông Hương Thủy chảy ì ầm ngoài kia — nước đục — cuộn phù sa — va vào cọc nhà — lổn nhổn.
+Góc máy: Medium-wide shot bên trong nhà — tối — đèn không bật — chỉ ánh sáng lọt khe cửa sổ nhìn ra sông. Bàn gỗ thấp giữa phòng — ấm trà đất — khói bốc lẹt đẹt — mùi trà xanh quyện mùi trầm từ bát nhang góc bàn. Bà Lụa ngồi — không mời — chỉ ngồi — rót hai ly trà — đẩy một ly qua phía Linh. Linh ngồi đối diện — áo khoác đã cởi — chỉ áo lót đen ôm ngực, vai trần, xương quai xanh sắc nổi bật — cầm ly — hai người — một bàn — một khoảng im lặng đặc quánh — chỉ tiếng sông Hương Thủy chảy ì ầm ngoài kia — nước đục — cuộn phù sa — va vào cọc nhà — lổn nhổn.
 
 CAPTION (italic): "Họ ngồi. Không nói."
 
@@ -96,7 +96,7 @@ CAPTION nhỏ (góc, italic): "Bên ngoài, sông Hương Thủy chảy ì ầm.
 ─────────────────────────────────────
 
 PANEL 5 — HAI NGƯỜI UỐNG TRÀ — IM LẶNG
-Góc máy: Medium shot hai người — Bà Lụa nâng ly — uống — đặt xuống — vuốt mép ly bằng ngón cái — thói quen — hai lần — rồi bàn tay nằm yên — ngửa lên. Linh ngồi đối diện — cầm ly — chưa uống — nhìn tay Bà Lụa. Gió đổi chiều — từ đông sang bắc — mang hơi ẩm đặc quánh — như vắt nước từ khăn ướt. Trầm cuộn nghiêng — hướng đông bắc — về phía sông.
+Góc máy: Medium shot hai người — Bà Lụa nâng ly — uống — đặt xuống — vuốt mép ly bằng ngón cái — thói quen — hai lần — rồi bàn tay nằm yên — ngửa lên. Linh ngồi đối diện — áo lót đen, vai trần lộ trong ánh trà mờ — cầm ly — chưa uống — nhìn tay Bà Lụa. Gió đổi chiều — từ đông sang bắc — mang hơi ẩm đặc quánh — như vắt nước từ khăn ướt. Trầm cuộn nghiêng — hướng đông bắc — về phía sông.
 
 CAPTION (italic): "Trà xanh, chưa đặc, hơi đắng ở đầu lưỡi. Uống. Nếm được vị mưa — lần đầu Linh hiểu câu nói đó. Vị mưa. Vị nước ngấm qua lá, qua đất, qua không khí đang nặng dần."
 
@@ -258,7 +258,7 @@ Tông màu trang 3: Nâu gỗ trong nhà nhạt dần khi mưa tạnh — XÁM T
 ─────────────────────────────────────
 
 PANEL 1 — NÊN LÀM GÌ? — VIỆC ĐÓ CỦA BẠN
-Góc máy: Medium shot — Linh ngồi bệt trên gạch lạnh — chân tê — hai tay nắm nhau — trắng — đầu gối yếu — nhìn lên Bà Lụa. Bà Lụa vẫn đứng ở cửa sổ — lưng quay — nhìn ra sông — không quay lại — giọng không đổi — nhẹ — nhưng dứt khoát — như người đóng cửa — không đập — chỉ khép. Mưa ngoài hiên vẫn rơi — lộp độp — róc rách — nhưng nhẹ hơn — mỏng hơn — mỏi hơn.
+Góc máy: Medium shot — Linh ngồi bệt trên gạch lạnh — váy xếp ly trượt lên đùi — chân tê — hai tay nắm nhau — trắng — đầu gối yếu — nhìn lên Bà Lụa. Bà Lụa vẫn đứng ở cửa sổ — lưng quay — nhìn ra sông — không quay lại — giọng không đổi — nhẹ — nhưng dứt khoát — như người đóng cửa — không đập — chỉ khép. Mưa ngoài hiên vẫn rơi — lộp độp — róc rách — nhưng nhẹ hơn — mỏng hơn — mỏi hơn.
 
 BUBBLE (Linh, viền chấm chấm — thì thầm — yếu): "Nếu mình gặp người đó — mình nên làm gì?"
 
@@ -289,7 +289,7 @@ CAPTION (italic, nhỏ — Bà Lụa nhìn Linh): "Nhưng tôi không biết mì
 ─────────────────────────────────────
 
 PANEL 4 — MƯA TẠNH — LINH ĐI DỌC BỜ SÔNG
-Góc máy: Wide shot — mưa tạnh — nhỏ dần — còn lại giọt lẻ tẻ rớt từ mái hiên. Linh đứng dậy — chân tê — cảm ơn — Bà Lụa gật — không tiễn — "Cẩn thận. Đường trơn." Linh bước ra — không quay về thành phố — đi dọc bờ sông. Bờ sông Hương Thủy — khác bờ thành phố — không quán cà phê — không xe đẩy nước mía — chỉ nhà cọc — bến thuyền nhỏ — rêu xanh đen bám đá — rêu đang mọc lại sau mưa — từng mảng nhỏ li ti nhô lên từ mặt đá ướt. Mùi dạ lan — nồng hơn lúc nãy — ngọt lợ — quyện trầm chưa cháy hết — dẫn đường — như sợi chỉ đỏ xuyên sương.
+Góc máy: Wide shot — mưa tạnh — nhỏ dần — còn lại giọt lẻ tẻ rớt từ mái hiên. Linh đứng dậy — mặc lại áo khoác trong suốt — chân tê — cảm ơn — Bà Lụa gật — không tiễn — "Cẩn thận. Đường trơn." Linh bước ra — váy xếp ly bay trong gió sông — đùi trần ướt — không quay về thành phố — đi dọc bờ sông. Bờ sông Hương Thủy — khác bờ thành phố — không quán cà phê — không xe đẩy nước mía — chỉ nhà cọc — bến thuyền nhỏ — rêu xanh đen bám đá — rêu đang mọc lại sau mưa — từng mảng nhỏ li ti nhô lên từ mặt đá ẩm. Mùi dạ lan — nồng hơn lúc nãy — ngọt lợ — quyện trầm chưa cháy hết — dẫn đường — như sợi chỉ đỏ xuyên sương.
 
 CAPTION (italic): "Không rủ Bách. Không báo Lịch. Đi một mình. Giờ cũng một mình. Nhưng khác. Lần trước không biết đi đâu. Lần này — mùi dẫn."
 
@@ -298,7 +298,7 @@ CAPTION (italic, nhỏ): "Dạ lan. Mùi từng theo Linh ba lần — đêm 3/9
 ─────────────────────────────────────
 
 PANEL 5 — BỜ SÔNG — NHÀ CỌC — RÊU XANH ĐEN
-Góc máy: Medium shot — Linh đi dọc bờ sông — một chân một chân — dép ướt — đế trơn — cát lấm bùn bám gót. Nhà đầu tiên — cửa sổ mở — đèn vàng — tiếng radio phát nhạc Trịnh. Nhà thứ hai — đóng kín — mùi cơm nấu từ ống khói sau nhà. Nhà thứ ba — trống — không ai — cỏ mọc cao quanh cọc. Mỗi bước — mùi dạ lan đặc thêm — nồng thêm — ngọt lợ thêm — như đi về phía nguồn — như đi về phía người đang chờ — hoặc không chờ — chỉ ở đó.
+Góc máy: Medium shot — Linh đi dọc bờ sông — váy xếp ly ướt dính sát hông, eo thon hóp in rõ — một chân một chân — dép ướt — đế trơn — cát lấm bùn bám gót. Nhà đầu tiên — cửa sổ mở — đèn vàng — tiếng radio phát nhạc Trịnh. Nhà thứ hai — đóng kín — mùi cơm nấu từ ống khói sau nhà. Nhà thứ ba — trống — không ai — cỏ mọc cao quanh cọc. Mỗi bước — mùi dạ lan đặc thêm — nồng thêm — ngọt lợ thêm — như đi về phía nguồn — như đi về phía người đang chờ — hoặc không chờ — chỉ ở đó.
 
 CAPTION (italic): "Nhà đầu tiên. Cửa sổ mở, đèn vàng, tiếng radio phát nhạc Trịnh. Nhà thứ hai. Đóng kín. Mùi cơm. Nhà thứ ba. Trống. Cỏ mọc cao quanh cọc."
 
@@ -368,7 +368,7 @@ CAPTION (italic, nhỏ hơn — hỏi): "Ly của ai? Để cho ai?"
 ─────────────────────────────────────
 
 PANEL 2 — LINH NGỒI BỆT THỀM — NHÌN CỬA
-Góc máy: Medium shot — Linh ngồi bệt xuống bậc thềm — bụi ướt bám quần — nước mưa đọng trên mái tôn rỉ xuống vai — không tránh — để — lạnh — nhưng không di chuyển. Nhìn cửa — cửa gỗ cũ — sơn xanh bạc màu — khe hở lộ tối bên trong — không có khóa — chỉ chốt trong — nhà nhỏ — hai phòng, có thể ba — sạch — trật tự — nhưng cũ — mọi thứ cũ. Ống đồng nằm đúng chỗ. Bơm nước để đúng góc. Người sống ở đây sống một mình — ngăn nắp — trật tự — nhưng một mình.
+Góc máy: Medium shot — Linh ngồi bệt xuống bậc thềm — váy ướt dính đùi — bụi ẩm bám quần — nước mưa đọng trên mái tôn rỉ xuống vai trần — không tránh — để — lạnh — nhưng không di chuyển. Nhìn cửa — cửa gỗ cũ — sơn xanh bạc màu — khe hở lộ tối bên trong — không có khóa — chỉ chốt trong — nhà nhỏ — hai phòng, có thể ba — sạch — trật tự — nhưng cũ — mọi thứ cũ. Ống đồng nằm đúng chỗ. Bơm nước để đúng góc. Người sống ở đây sống một mình — ngăn nắp — trật tự — nhưng một mình.
 
 CAPTION (italic): "Người sống ở đây. Sống một mình. Sửa ống nước. Bơm nước. Rồi ngồi bên sông, đêm khuya, nước ngập chân, kéo mưa về."
 
@@ -388,7 +388,7 @@ CAPTION (italic, nhỏ hơn — cắt — gió đổi chiều — mùi cuộn ng
 ─────────────────────────────────────
 
 PANEL 4 — LINH ĐỨNG DẬY — CHƯA GỠ — CHƯA SẴN SÀNG
-Góc máy: Medium shot — Linh đứng dậy — chân rã rời — mệt — nhưng đứng — nhìn cửa — mặt tiền nhà thợ nước — gần — cách một bậc thềm — cách một ly nước — cách một cánh cửa gỗ — nhưng chưa bước — chưa đưa tay — chưa gõ. Chưa sẵn sàng. Nhưng đã biết nơi. Tay Linh đưa lên ngực — lạnh — đá vẫn nằm đó — nhưng đá đang mòn — chậm — như nước rỉa — như mưa ăn bục ngói — để lộ thứ gì bên dưới — chưa biết gọi là gì — chưa muốn gọi.
+Góc máy: Medium shot — Linh đứng dậy — chân rã rời — váy xếp ly ướt ôm sát hông cong — mệt — nhưng đứng — nhìn cửa — mặt tiền nhà thợ nước — gần — cách một bậc thềm — cách một ly nước — cách một cánh cửa gỗ — nhưng chưa bước — chưa đưa tay — chưa gõ. Chưa sẵn sàng. Nhưng đã biết nơi. Tay Linh đưa lên ngực — lạnh — đá vẫn nằm đó — nhưng đá đang mòn — chậm — như nước rỉa — như mưa ăn bục ngói — để lộ thứ gì bên dưới — chưa biết gọi là gì — chưa muốn gọi.
 
 CAPTION (italic — giọng nội tâm — kiên nhẫn): "Chưa mở. Chưa gõ. Chưa sẵn sàng. Nhưng đã biết nơi."
 

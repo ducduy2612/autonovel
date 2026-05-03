@@ -5,7 +5,7 @@ bach_nam_sheet — BÁCH (nam, tóc cắt sát gáy quân đội, mắt nâu sâ
 
 canh_nam_sheet — CẢNH (nam, thấp bé, áo sơ mi trắng xám bạc màu, quần xanh sờn, dép tổ ong, tay chai sần to disproportion, mắt nhìn lâu — khát — xem QUẦN ÁO)
 
-linh_nu_sheet — LINH (nữ, tóc bob cằm, sơ mi bạc màu tay dài, quần dài ống lọt — xem QUẦN ÁO)
+linh_nu_sheet — LINH (nữ, tóc bob cằm, áo lụa buộc nơ, quần palazzo rộng — xem QUẦN ÁO)
 
 ba_ta_sheet — BÀ TÂM (bà già, 62, tóc thưa bạc búi lỏng, áo bà ba bạc màu, khăn lau bàn — xem QUẦN ÁO)
 
@@ -17,7 +17,7 @@ BÁCH (NAM): Áo khoác cắt nam tính cũ, sơ mi xám bên trong, quần dài
 
 CẢNH (NAM — XUẤT HIỆN ĐẦU TIÊN): Áo sơ mi trắng xám bạc màu, quần xanh sờn đầu gối, dép tổ ong. Tóc cắt gọn. Khuôn mặt nam nhưng nét mềm — cằm ít góc — giới tính hơi mơ hồ. Mắt nhìn lâu hơn mức bình thường — khát — như người giữa sa mạc nhìn ly nước. Tay chai sần — bàn tay to hơn proportion cơ thể gầy — tay thợ — tay nghế nước. Lúc ngồi bờ sông: hai tay thả xuống nước — ngón tay chạm mặt sông — vuốt nhẹ đều — như người vuốt da ai đang ngủ. Lúc đứng dậy: đầu gối hơi run — người ngồi lâu — chân tê — lưng cong nhẹ — vai rủ. Mùi dạ lan + trầm — mạnh — mạnh hơn bất cứ đâu — như tắm trong mùi đó — như là một phần của mùi đó. Da vàng nhạt.
 
-LINH (NỮ): Áo sơ mi bạc màu tay dài, cài hờ hai nút trên. Quần dài ống lọt. Tóc bob cằm — chưa chải. Mắt sẫm — sắc — mắt người vừa ráp xong mảnh ghép. Lúc nghe Bách kể: nhấp nước mía gốc — chậm — gật như đã biết — như đã ngửi. Lúc nói "Người đó biết nhóm mình": giọng nhỏ — tay run nhẹ — đậy ly — cẩn thận. Lúc đứng cạnh Bách nhìn sông: mắt ươn — chưa khóc — nhưng ươn — gió lạnh — mưa sắp đến. Da vàng nhạt.
+LINH (NỮ): Áo lụa đen buộc nơ trước ngực — hai vạt kéo chéo buộc loosely ở giữa, vải lụa trượt theo đường cong tự nhiên — ngực đầy nâng nhẹ, eo hóp lộ nơi vạt buộc chưa kín, da bụng thoáng hiện — vai trần, lưng trần nơi vạt áo không che hết. Quần palazzo rộng đen — cạp chun cao, ống rộng rủ lướt từ hông xuống mắt cá — khi ngồi ống rộng xòe, khi đứng lụa bay — chân dài ẩn hiện dưới ống rộng. Chân trần dưới bàn quán — giày để ngoài. Tóc bob cằm — chưa chải. Mắt sẫm — sắc — mắt người vừa ráp xong mảnh ghép. Lúc nghe Bách kể: nhấp nước mía gốc — chậm — gật như đã biết — như đã ngửi — lụa trượt theo nhịp cầm ly — vai trần hơi nghiêng. Lúc nói "Người đó biết nhóm mình": giọng nhỏ — tay run nhẹ — đậy ly — cẩn thận — vạt áo buộc lỏng rung theo. Lúc đứng cạnh Bách nhìn sông: mắt ươn — chưa khóc — nhưng ươn — gió lạnh — mưa sắp đến — lụa dán vào da, đường cong lộ rõ dưới vải mỏng ướt. Da vàng nhạt — vai trần mịn — xương quai xanh sắc — gợi cảm thanh lịch ngay cả lúc nặng lòng.
 
 BÀ TÂM: Áo bà ba truyền thống bạc màu. Tóc thưa bạc búi lỏng. Tay nhăn nheo, chai sần. Ch16: Bà Tâm ở quầy quán — lau ly — không nhìn sang — nhưng tay dừng một nhịp khi nghe "nhóm mình" — bà nghe — bà biết gì đó — nhưng không nói. Hiền nhưng mệt — mắt nhìn thấu — không phán xét.
 
@@ -287,7 +287,7 @@ Tông màu trang 3: Panel 1: NÂU QUÁN — quán bà Tâm chiều — ánh vàn
 ─────────────────────────────────────
 
 PANEL 1 — QUÁN BÀ TÂM CHIỀU — BÁCH BẮT ĐẦU KỂ
-Góc máy: Wide shot — quán bà Tâm — chiều — ánh nắng vàng yếu xiên qua cửa sổ hé — gỗ cũ — ly trên kệ — bình thường — ấm — nhưng hôm nay nặng hơn. Bách ngồi đối diện Linh — hai tay đan — mắt thẳng — giọng cứng — cần kể — không phải muốn — cần — cá lọt lưới — trơn — trượt — mất vào nước. Linh ngồi uống nước mía gốc — nóng — hơi bốc nghi ngút. Bà Tâm ở quầy — lau ly — không nhìn sang — nhưng nghe.
+Góc máy: Wide shot — quán bà Tâm — chiều — ánh nắng vàng yếu xiên qua cửa sổ hé — gỗ cũ — ly trên kệ — bình thường — ấm — nhưng hôm nay nặng hơn. Bách ngồi đối diện Linh — hai tay đan — mắt thẳng — giọng cứng — cần kể — không phải muốn — cần — cá lọt lưới — trơn — trượt — mất vào nước. Linh ngồi uống nước mía gốc — áo lụa đen buộc nơ trước ngực, vai trần, quần palazzo rộng — nóng — hơi bốc nghi ngút. Bà Tâm ở quầy — lau ly — không nhìn sang — nhưng nghe.
 
 CAPTION (italic): "Quán bà Tâm. Chiều. Bách kể cho Linh. Không phải muốn. Cần."
 
@@ -296,7 +296,7 @@ CAPTION (italic, nhỏ): "Cá lọt lưới — trơn, trượt, mất vào nư�
 ─────────────────────────────────────
 
 PANEL 2 — BÁCH KỂ — THẤP MỎNG TAY CHAI — MÙI
-Góc máy: Medium shot — Bách kể — giọng cứng — chọn chữ — "Thấp. Mỏng. Tay chai. Ngồi bờ sông, chạm mặt nước." — Linh nhấp nước mía — chậm — rồi hỏi — "Mùi?" — như đã biết — như đã ngửi — "Dạ lan. Trầm. Mạnh ở đó. Mạnh hơn bất cứ đâu." — Linh gật — nhẹ — như người vừa khớp mảnh ghép — không ngạc nhiên — chỉ xác nhận.
+Góc máy: Medium shot — Bách kể — giọng cứng — chọn chữ — "Thấp. Mỏng. Tay chai. Ngồi bờ sông, chạm mặt nước." — Linh nhấp nước mía — áo lụa trượt theo nhịp cầm ly — vai trần hơi nghiêng — chậm — rồi hỏi — "Mùi?" — như đã biết — như đã ngửi — "Dạ lan. Trầm. Mạnh ở đó. Mạnh hơn bất cứ đâu." — Linh gật — nhẹ — như người vừa khớp mảnh ghép — không ngạc nhiên — chỉ xác nhận.
 
 BUBBLE (Bách, viền nét đơn, cứng — mô tả): "Thấp. Mỏng. Tay chai. Ngồi bờ sông, chạm mặt nước."
 
@@ -337,7 +337,7 @@ CAPTION (italic, nhỏ): "Bà Tâm vẫn lau ly, nhưng tay dừng một nhịp.
 ─────────────────────────────────────
 
 PANEL 5 — LINH NHÌN RA SÔNG — RÁP MẢNH GHÉP — "KHÔNG NHẦM"
-Góc máy: Medium shot — Linh nhìn ra sông — cửa sổ mở hé — gió mang mùi đất ẩm — mắt Linh lúc này khác — không bối rối — không vô cảm — SẮC — sắc như người vừa ráp xong mảnh ghép — "Không nhầm. Người đó biết nhóm mình." — giọng nhỏ — nhưng chắc — "Người đó gọi NHÓM MÌNH, Bách. Người ngoài không gọi vậy. Người lạ không hỏi 'nhóm mình dạo này thế nào' như thể từng thuộc về."
+Góc máy: Medium shot — Linh nhìn ra sông — cửa sổ mở hé — gió mang mùi đất ẩm — gió thổi lụa bay — vai trần, xương quai xanh, vạt áo buộc lỏng — mắt Linh lúc này khác — không bối rối — không vô cảm — SẮC — sắc như người vừa ráp xong mảnh ghép — "Không nhầm. Người đó biết nhóm mình." — giọng nhỏ — nhưng chắc — "Người đó gọi NHÓM MÌNH, Bách. Người ngoài không gọi vậy. Người lạ không hỏi 'nhóm mình dạo này thế nào' như thể từng thuộc về."
 
 BUBBLE (Linh, viền nét đơn, nhỏ — sắc — ráp ghép): "Không nhầm. Người đó biết nhóm mình."
 
@@ -359,7 +359,7 @@ CAPTION (italic, nhỏ): "Thế giới ngoài vẫn chạy, vẫn sống. Nhưng
 ─────────────────────────────────────
 
 PANEL 7 — "NGƯỜI ĐÓ KHÔNG PHẢI QUÁI VẬT" — MÂY KÉO — MƯA SẮP
-Góc máy: Medium-wide shot — Linh nói cuối cùng — giọng không tuyên ngôn — không kết án — sự thật — "Người đó không phải quái vật. Người đó quen mình. Thuộc nhóm. Rồi bị quên. Giờ ngồi bờ sông, gọi mưa, chờ ai đó nhận ra." — mắt ươn — chưa khóc — nhưng ươn — Bách nhìn Linh — nhớ khoảnh khắc ngồi cạnh người lạ — "Mình ngồi cạnh người đó. Nói chuyện. Không nhận ra. Không nhớ mặt. Không nhớ tên. Chỉ biết mắt người đó nhìn mình như khát. Như mong mình nhận ra gì." — giọng nghẹn — ngoài cửa sổ — mây kéo đến từ phía tây — qua Bạch Mã — đen đặc — gió lạnh — mưa sắp đến.
+Góc máy: Medium-wide shot — Linh nói cuối cùng — giọng không tuyên ngôn — không kết án — sự thật — "Người đó không phải quái vật. Người đó quen mình. Thuộc nhóm. Rồi bị quên. Giờ ngồi bờ sông, gọi mưa, chờ ai đó nhận ra." — mắt ươn — chưa khóc — nhưng ươn — lụa đen buộc nơ, vai trần, bụng thoáng lộ — Bách nhìn Linh — nhớ khoảnh khắc ngồi cạnh người lạ — "Mình ngồi cạnh người đó. Nói chuyện. Không nhận ra. Không nhớ mặt. Không nhớ tên. Chỉ biết mắt người đó nhìn mình như khát. Như mong mình nhận ra gì." — giọng nghẹn — ngoài cửa sổ — mây kéo đến từ phía tây — qua Bạch Mã — đen đặc — gió lạnh — mưa sắp đến.
 
 BUBBLE (Linh, viền nét đơn, tĩnh — sự thật — không tuyên ngôn): "Người đó không phải quái vật. Người đó quen mình. Thuộc nhóm. Rồi bị quên. Giờ ngồi bờ sông, gọi mưa, chờ ai đó nhận ra."
 
@@ -414,7 +414,7 @@ Tông màu trang 4: TRANG NÀY CHỦ ĐẠO BỞI MƯA — XÁM MƯA → XÁM Đ
 ─────────────────────────────────────
 
 PANEL 1 — "MƯA RỒI" — HAI CHỮ — ĐỨNG CẠNH NHAU
-Góc máy: Medium-wide shot — Linh đứng — đến bên Bách — hai người đứng cạnh nhau — nhìn ra sông qua cửa sổ quán — gió lạnh — mây kéo đến từ phía tây — qua Bạch Mã — đen đặc — mưa sắp đến — Linh nói — hai chữ — "Mưa rồi." — Bách nghe — không phải chỉ thời tiết — nghe: mình lại phải đối diện — mình lại phải tìm — gật đầu — không nói — im — hai người — một cửa sổ — nhìn ra sông — chờ giọt đầu tiên.
+Góc máy: Medium-wide shot — Linh đứng — áo lụa, quần palazzo, vai trần — đến bên Bách — hai người đứng cạnh nhau — nhìn ra sông qua cửa sổ quán — gió lạnh — mây kéo đến từ phía tây — qua Bạch Mã — đen đặc — mưa sắp đến — Linh nói — hai chữ — "Mưa rồi." — Bách nghe — không phải chỉ thời tiết — nghe: mình lại phải đối diện — mình lại phải tìm — gật đầu — không nói — im — hai người — một cửa sổ — nhìn ra sông — chờ giọt đầu tiên.
 
 BUBBLE (Linh, viền nét đơn, nhỏ — hai chữ): "Mưa rồi."
 

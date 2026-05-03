@@ -1,7 +1,7 @@
 CHƯƠNG 15: HAI CÁI CHẠM — 3 Trang Manga
 Upload 3 ảnh theo đúng thứ tự sau:
 
-linh_nu_sheet — LINH (nữ, tóc bob cằm, sơ mi bạc màu tay dài, quần dài ống lọt — xem QUẦN ÁO)
+linh_nu_sheet — LINH (nữ, tóc bob cằm, áo len hở vai, quần lụa ống rộng — xem QUẦN ÁO)
 
 tuan_nam_sheet — TUẤN (nam, tóc dài buộc nửa đầu, nhẫn bạc ngón áp út — xem QUẦN ÁO)
 
@@ -11,7 +11,7 @@ Hướng dẫn map ảnh: Ảnh tham chiếu dùng cho face, body type, hairstyl
 
 QUẦN ÁO: Ch15 trải dài một ngày. Mỗi nhân vật mặc ONE outfit xuyên chương:
 
-LINH (NỮ): Áo sơ mi bạc màu tay dài, cài hờ hai nút trên. Quần dài ống lọt. Tóc bob cằm — chưa chải — chỉ luồn qua mũi kim. Ngón tay thô ráp, móng cắn ngắn — tay thợ may. Mắt sưng vì thiếu ngủ — nhưng hôm nay khác: quan sát — tĩnh — nhận ra. Da vàng nhạt. Lúc ngồi may: tay quen việc — mũi kim xuyên đều — đầu đi nơi khác. Lúc nhìn Tuấn đưa ly cho Lịch: mắt theo tay Tuấn — không bỏ sót — cách anh cầm ly — cách anh nhớ — ngón chạm ngón. Lúc gập quần với Lịch: tay gần tay — không rụt — giữ nguyên — ấm. Cuối chương: nằm giường phòng trọ — tay úp trên bụng — ngón đút kẽ ngón — mô phỏng cái nắm chiều nay — lòng bàn tay vẫn ấm.
+LINH (NỮ): Áo len mỏng off-shoulder xám nhạt — cổ rớt hờ lộ cả hai vai trần, xương quai xanh sắc góc cạnh, vải len mỏng ôm nhẹ theo đường cong ngực — không áo lót bên trong, nút áo in hờ hững dưới len. Quần lụa ống rộng đen — cạp cao buộc dây, thắt lưng nhấn eo thon hóp, ống rộng rủ lướt qua hông — mỗi bước lụa bay, tôn chân dài. Chân trần trong xưởng — dép để ngoài. Tóc bob cằm — chưa chải — chỉ luồn qua mũi kim. Ngón tay thô ráp, móng cắn ngắn — tay thợ may. Mắt sưng vì thiếu ngủ — nhưng hôm nay khác: quan sát — tĩnh — nhận ra. Da vàng nhạt — vai trần mịn màng dưới ánh sáng xưởng. Lúc ngồi may: lưng hơi cong, len trượt thêm một bên vai, ống quần lụa gập lên — mũi kim xuyên đều — đầu đi nơi khác. Lúc nhìn Tuấn đưa ly cho Lịch: mắt theo tay Tuấn — không bỏ sót — cách anh cầm ly — cách anh nhớ — ngón chạm ngón — vai trần căng nhẹ. Lúc gập quần với Lịch: tay gần tay — không rụt — giữ nguyên — ấm — eo thon hóp khi cúi, lụa trượt lộ xương hông. Cuối chương: nằm giường phòng trọ — cởi quần, chỉ len off-shoulder — vai trần — đùi trần — tay úp trên bụng — ngón đút kẽ ngón — mô phỏng cái nắm chiều nay — lòng bàn tay vẫn ấm.
 
 TUẤN (NAM): Áo sơ mi trắng cũ hơi rộng, ống tay xắn lên. Quần dài. Tóc dài buộc nửa đầu — vài sợi lơi ra — mồ hôi trán. Nhẫn bạc ngón áp út — xoay khi suy nghĩ. Hôm nay Tuấn ngồi xa Linh — không ngồi cạnh — khoảng cách mọc tự nhiên. Lúc đưa ly nước mía cho Lịch: đưa tận tay — ngón chạm ngón — lướt qua — mới buông. Lúc đưa ly cho Linh: đặt xuống bàn — "Nóng." — rồi quay về kim. Lúc thú nhận: mắt đỏ — không khóc — thức trắng đêm — lưng cong — vai rũ — giọng run ở chữ "yêu." Không cố tình xa Linh — chỉ đang bị cuốn đi hướng khác.
 
