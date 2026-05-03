@@ -1,7 +1,7 @@
 CHƯƠNG 22: TRẬN MƯA LỚN NHẤT - 4 Trang Manga
 Upload 2 ảnh theo đúng thứ tự sau:
 
-linh_nu_sheet - LINH (nữ, tóc bob cằm, áo lụa buộc nơ, quần palazzo rộng - xem QUẦN ÁO)
+linh_nu_sheet - LINH (nữ, tóc bob cằm, croptop len mỏng xám ướt đẫm, quần ống rộng đen — alluring hoang dại giữa bão — xem QUẦN ÁO)
 
 canh_nam_sheet - CẢNH (nam, thấp, mỏng, áo sơ mi trắng xám bạc, vai rủ, mắt ướt mà khô - xem QUẦN ÁO)
 
@@ -9,7 +9,7 @@ Hướng dẫn map ảnh: Ảnh tham chiếu dùng cho face, body type, hairstyl
 
 QUẦN ÁO: Ch22 diễn ra nối tiếp ch21 (cùng ngày) - mỗi nhân vật mặc ONE outfit xuyên chương:
 
-LINH (NỮ): Áo lụa đen buộc nơ trước ngực - hai vạt kéo chéo buộc loosely ở giữa - vải lụa trượt theo đường cong tự nhiên - ngực đầy nâng nhẹ - vai trần - xương quai xanh sắc góc cạnh - quần palazzo rộng đen - cạp chun cao nhấn eo thon hóp - chân giày canvas ngấm nước mưa đêm qua - tóc bob cằm - mệt - mắt thâm quầng vì bốn lần Rửa - nhưng chắc - quyết đoán - lúc nắm tay Cảnh: lụa ẩm mưa dính da - đường cong thân thể in hờ dưới vải - da nổi gai lạnh - vai trần ướt mưa - nước mắt nóng hổi chảy rát trên má - tay bóp chặt tay Cảnh - ngón run rẩy cắm vào da thịt lạnh ngắt - gợi cảm trong cơn bão - mạnh - tuyệt vọng - sexy trong đau đớn.
+LINH (NỮ): Croptop len mỏng xám — ướt đẫm mưa — bám sát — silhoutette sắc — eo trần lộ — bụng phẳng — xương hông sắc — vai trần — xương quai xanh góc cạnh — không áo khoác — quần ống rộng đen — cạp thấp — ướt dính — chân giày canvas ngấm nước — tóc bob cằm dính vào má — mệt — mắt thâm quầng vì bốn lần Rửa — nhưng chắc — quyết đoán — lúc nắm tay Cảnh: len ướt tôn dáng — silhoutette sắc nét — da nổi gai lạnh — vai trần ướt mưa — nước mắt nóng hổi chảy rát trên má — tay bóp chặt tay Cảnh — ngón run rẩy cắm vào da thịt lạnh ngắt — alluring giữa bão — mạnh — tuyệt vọng — quyến rũ kiểu hoang dại — sexy trong cơn bão — đẹp dữ dội — len ướt mưa — phom body — đường cong tự nhiên lộ — alluring — quyến rũ — giữa sống chết — gợi cảm kiểu chiến binh — mệt mà vẫn mạnh — vẫn nắm — vẫn không buông.
 
 CẢNH (NAM): Áo sơ mi trắng xám bạc màu - rách nhẹ ở cổ tay - không có áo khoác - quần dài cũ - trần dưới sơ mi mỏng - xương vai nhô - gầy - mỏng - tóc cắt ngắn nhưng chưa cắt lâu - rối nhẹ - cằm ít góc cạnh - tay chai - chai của nghề sửa ống nước - chai của vuốt mặt nước mỗi đêm - CH22: mắt Cảnh đổi - từ phẳng lặng sang HOẢNG LOẠN khi Linh nắm tay - Adam's apple thấp - cổ mỏng - vai rủ - da thịt LẠNH NGẮT như xác ướp dưới nước sông khi gọi mưa lớn nhất - mồ hôi lấm tấm trên trán - trượt xuống má gầy guộc - ướt đẫm mưa - sơ mi dính vào xương sườn - gầy hơn bao giờ hết - mùi dạ lan khét lẹt xộc ngập - ngón tay trắng bệch - cứng đơ - giãy giụa rồi dừng - mắt đỏ hoe - đau đớn tột cùng.
 
@@ -89,7 +89,7 @@ CAPTION (italic, nhỏ): "Bằng mùi dạ lan. Bằng nước mắt chưa rơi.
 ─────────────────────────────────────
 
 PANEL 3 - LINH NGHE - LẠNH TỪ GÓT CHÂN LÊN
-Góc máy: Close-up Linh - nghe - mắt chắc nhưng lạnh - LẠNH - lạnh từ dưới gót chân lên - qua mắt cá - qua ống chân - lên lưng - lên cổ - gió từ khe cửa thổi qua sàn - mang hơi đất ẩm - mùi sình non quyện nhang trầm ám khói từ góc bàn thờ - Linh HÍT MỘT HƠI - không khí ĐẶC QUÁNH - nghẹt thở - dính vào thành họng - mái tóc bob cằm rối nhẹ - xương quai xanh sắc góc cạnh - vai trần nổi gai lạnh - lụa đen buộc nơ ẩm dính da - Linh nhìn Cảnh - mái tóc bạc màu - bờ vai gầy gò - CHỢT HIỂU - mái chèo trượt tay - rơi xuống vực sâu thẳm.
+Góc máy: Close-up Linh - nghe - mắt chắc nhưng lạnh - LẠNH - lạnh từ dưới gót chân lên - qua mắt cá - qua ống chân - lên lưng - lên cổ - gió từ khe cửa thổi qua sàn - mang hơi đất ẩm - mùi sình non quyện nhang trầm ám khói từ góc bàn thờ - Linh HÍT MỘT HƠI - không khí ĐẶC QUÁNH - nghẹt thở - dính vào thành họng - mái tóc bob cằm rối nhẹ - xương quai xanh sắc góc cạnh - vai trần nổi gai lạnh - croptop len xám ướt bám sát - silhoutette sắc - Linh nhìn Cảnh - mái tóc bạc màu - bờ vai gầy gò - CHỢT HIỂU - mái chèo trượt tay - rơi xuống vực sâu thẳm.
 
 CAPTION (italic, lớn): "Lạnh. Lạnh từ dưới gót chân lên."
 
@@ -276,7 +276,7 @@ CAPTION (italic, nhỏ): "Tiếng nhỏ. Như ai gõ cửa. Hỏi thăm. Rồi m
 ─────────────────────────────────────
 
 PANEL 2 - MƯA RÀO - NẶNG - ĐẶC - BẦU TRỜI ĐẬP VỠ SÀN
-Góc máy: Wide shot từ trong nhà nhìn ra - MƯA nặng - MƯA đặc - mưa mang theo cả BẦU TRỲI xuống ĐẬP VỠ sàn nhà - tiếng LÁCH CÁCH trên mái tôn - ồn ào - dồn dập - như trống trận - như tim đập gấp - GIÓ CUỐN NƯỚC MƯA tạt qua cửa sổ - ướt lạnh VAI LINH - lụa đen ướt dính da - xương quai xanh ướt - tóc bob dính vào má - năm mảnh giấy trên bàn RUN RUN - gió lùa - mảnh giấy cuối - tên LINH - giật nhẹ - sắp trôi - sắp hết - nước bắt đầu ngập dưới gầm bàn - dòng chảy CUỘN TRÀO - cuốn theo bụi bặm - rêu rụng - tro giấy.
+Góc máy: Wide shot từ trong nhà nhìn ra - MƯA nặng - MƯA đặc - mưa mang theo cả BẦU TRỲI xuống ĐẬP VỠ sàn nhà - tiếng LÁCH CÁCH trên mái tôn - ồn ào - dồn dập - như trống trận - như tim đập gấp - GIÓ CUỐN NƯỚC MƯA tạt qua cửa sổ - ướt lạnh VAI LINH - croptop len xám ướt bám sát - xương quai xanh ướt - tóc bob dính vào má - năm mảnh giấy trên bàn RUN RUN - gió lùa - mảnh giấy cuối - tên LINH - giật nhẹ - sắp trôi - sắp hết - nước bắt đầu ngập dưới gầm bàn - dòng chảy CUỘN TRÀO - cuốn theo bụi bặm - rêu rụng - tro giấy.
 
 CAPTION (italic, lớn): "Mưa nặng. Mưa đặc. Mang theo cả bầu trời xuống đập vỡ sàn nhà."
 
@@ -287,7 +287,7 @@ CAPTION (italic, nhỏ): "Năm mảnh giấy trên bàn run run. Mảnh cuối -
 ─────────────────────────────────────
 
 PANEL 3 - KEY PANEL - LINH LAO TỚI - NẮM TAY LẠNH NGẮT
-Góc máy: Medium close-up - Linh LAO TỚI - nắm chặt lấy tay Cảnh - LẠNH - DA THỊT CẢNH LẠNH NGẮT như xác ướp dưới nước sông - bàn tay CHAI SẠN - các KHỚP XƯƠNG GỒ LÊN - CỨNG ĐƠ - Linh KHÔNG BUÔNG - BÓP THẬT CHẶT - ngón tay Linh RUN RẪY - cắm vào da thịt Cảnh - muốn CẤY SỰ ẤM ÁP qua lớp da đang dần biến thành BĂNG GIÁ - tay Linh ấm - tay Cảnh lạnh - hai nhiệt độ gặp nhau - NƯỚC MẮT NÓNG HỔI chảy RÁT trên má Linh - mưa ướt đẫm cả hai - lụa Linh dính - sơ mi Cảnh dính - hai người ướt sũng - nhưng tay không buông - tay bóp - tay run - tay cấy ấm vào lạnh - tuyệt vọng - mạnh - đẹp trong bão.
+Góc máy: Medium close-up - Linh LAO TỚI - nắm chặt lấy tay Cảnh - LẠNH - DA THỊT CẢNH LẠNH NGẮT như xác ướp dưới nước sông - bàn tay CHAI SẠN - các KHỚP XƯƠNG GỒ LÊN - CỨNG ĐƠ - Linh KHÔNG BUÔNG - BÓP THẬT CHẶT - ngón tay Linh RUN RẪY - cắm vào da thịt Cảnh - muốn CẤY SỰ ẤM ÁP qua lớp da đang dần biến thành BĂNG GIÁ - tay Linh ấm - tay Cảnh lạnh - hai nhiệt độ gặp nhau - NƯỚC MẮT NÓNG HỔI chảy RÁT trên má Linh - mưa ướt đẫm cả hai - croptop len Linh bám sát - sơ mi Cảnh dính - hai người ướt sũng - nhưng tay không buông - tay bóp - tay run - tay cấy ấm vào lạnh - tuyệt vọng - mạnh - đẹp trong bão.
 
 CAPTION (italic, lớn): "Lạnh."
 
@@ -298,7 +298,7 @@ CAPTION (italic, nhỏ): "Linh không buông. Bóp thật chặt. Ngón run rẩ
 ─────────────────────────────────────
 
 PANEL 4 - "VẬY NGỒI - KHÔNG CẦN GỌI MƯA - KHÔNG CẦN RỖNG RUỘT AI"
-Góc máy: Medium shot - hai người - Linh đứng - Cảnh ngồi - tay đan - mưa đổ - Linh DỢM GIỌNG - nước mắt NÓNG HỔI chảy RÁT trên má - "Cậu muốn ngồi chung bàn" - giọng run nhưng chắc - "Vậy ngồi" - Cảnh GIẬT TAY - muốn rút - Linh GIỮ CHẶT HƠN - ngón cắm sâu hơn - "Không cần gọi mưa. Không cần rỗng ruột ai. Không cần biến bọn mình thành búp bê đất nặn" - MƯA ƯỚT ĐẪM hai người - lụa Linh dính da - đường cong thân thể in hờ - sơ mi Cảnh dính xương sườn - gầy - mỏng - nước chảy từ tóc xuống mặt - từ mặt xuống cổ - từ cổ xuống ngực - hai người giữa bão - một kéo - một giãy - nhưng tay không rời.
+Góc máy: Medium shot - hai người - Linh đứng - Cảnh ngồi - tay đan - mưa đổ - Linh DỢM GIỌNG - nước mắt NÓNG HỔI chảy RÁT trên má - "Cậu muốn ngồi chung bàn" - giọng run nhưng chắc - "Vậy ngồi" - Cảnh GIẬT TAY - muốn rút - Linh GIỮ CHẶT HƠN - ngón cắm sâu hơn - "Không cần gọi mưa. Không cần rỗng ruột ai. Không cần biến bọn mình thành búp bê đất nặn" - MƯA ƯỚT ĐẪM hai người - croptop len Linh bám sát da - silhoutette sắc qua len ướt - sơ mi Cảnh dính xương sườn - gầy - mỏng - nước chảy từ tóc xuống mặt - từ mặt xuống cổ - từ cổ xuống ngực - hai người giữa bão - một kéo - một giãy - nhưng tay không rời.
 
 BUBBLE (Linh, run - chắc - nước mắt): "Cậu muốn ngồi chung bàn. Vậy ngồi."
 
@@ -395,7 +395,7 @@ CAPTION (italic, nhỏ nhất): "Nhưng đau. Đau vì vẫn còn đủ để đ
 ─────────────────────────────────────
 
 PANEL 4 - KEY PANEL - HAI NGƯỜI GIỮA BÃO - TAY ĐAN - ẤM GIỮA LẠNH
-Góc máy: Medium-wide shot - hai người giữa BÃO - mưa ĐỔ XỐI XẢ - nước ngập gầm bàn - nhà ven sông - một ĐỨNG một NGỒI - tay Cảnh trong tay Linh - TAY ĐAN - Linh đứng cạnh Cảnh - lụa đen ướt dính da - đường cong thân thể in hờ dưới vải mưa - nước mắt nóng hổi hòa mưa lạnh trên má - xương quai xanh sắc ướt sũng - tóc bob dính mặt - nhưng TAY KHÔNG BUÔNG - Cảnh ngồi - sơ mi trắng xám bạc ướt dính xương sườn - gầy hơn bao giờ hết - mắt đỏ hoe - nhưng nắm - ngón lạnh - chai - nắm tay Linh - không giãy - không rút - chỉ nắm - hai bóng giữa bão - ẤM GIỮA LẠNH - SỐNG GIỮA CHẾT - không có đáp án - chưa biết Cảnh có nghe - chưa biết mưa có ngừng - nhưng TAY NẮM - TAY KHÔNG BUÔNG - TAY THUỘC VỀ - ngoài kia sông dâng - bão - bão - bão - nhưng trong nhà - hai người - tay đan - kiên nhẫn - đều - đều - đều.
+Góc máy: Medium-wide shot - hai người giữa BÃO - mưa ĐỔ XỐI XẢ - nước ngập gầm bàn - nhà ven sông - một ĐỨNG một NGỒI - tay Cảnh trong tay Linh - TAY ĐAN - Linh đứng cạnh Cảnh - croptop len xám ướt bám sát - silhoutette sắc qua len ướt dưới vải mưa - nước mắt nóng hổi hòa mưa lạnh trên má - xương quai xanh sắc ướt sũng - tóc bob dính mặt - nhưng TAY KHÔNG BUÔNG - Cảnh ngồi - sơ mi trắng xám bạc ướt dính xương sườn - gầy hơn bao giờ hết - mắt đỏ hoe - nhưng nắm - ngón lạnh - chai - nắm tay Linh - không giãy - không rút - chỉ nắm - hai bóng giữa bão - ẤM GIỮA LẠNH - SỐNG GIỮA CHẾT - không có đáp án - chưa biết Cảnh có nghe - chưa biết mưa có ngừng - nhưng TAY NẮM - TAY KHÔNG BUÔNG - TAY THUỘC VỀ - ngoài kia sông dâng - bão - bão - bão - nhưng trong nhà - hai người - tay đan - kiên nhẫn - đều - đều - đều.
 
 CAPTION (italic, lớn): "Hai người giữa bão. Tay đan. Ấm giữa lạnh. Sống giữa chết."
 

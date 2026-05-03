@@ -1,7 +1,7 @@
 CHƯƠNG 21: ĐỐI THOẠI - 4 Trang Manga
 Upload 2 ảnh theo đúng thứ tự sau:
 
-linh_nu_sheet - LINH (nữ, tóc bob cằm, áo lụa buộc nơ, quần palazzo rộng - xem QUẦN ÁO)
+linh_nu_sheet - LINH (nữ, tóc bob cằm, sơ mi lụa trắng mở không cúc mặc ngoài bralette ren đen, quần ống rộng cạp thấp — alluring táo bạo — xem QUẦN ÁO)
 
 canh_nam_sheet - CẢNH (nam, thấp, mỏng, áo sơ mi trắng xám bạc, vai rủ, mắt ướt mà khô - xem QUẦN ÁO)
 
@@ -9,7 +9,7 @@ Hướng dẫn map ảnh: Ảnh tham chiếu dùng cho face, body type, hairstyl
 
 QUẦN ÁO: Ch21 diễn ra sáng sớm - mỗi nhân vật mặc ONE outfit xuyên chương:
 
-LINH (NỮ): Áo lụa đen buộc nơ trước ngực - hai vạt kéo chéo buộc loosely ở giữa - vải lụa trượt theo đường cong tự nhiên - ngực đầy nâng nhẹ - vai trần - xương quai xanh sắc góc cạnh - quần palazzo rộng đen - cạp chun cao nhấn eo thon hóp - chân giày canvas ngấm nước mưa đêm qua - tóc bob cằm - mệt - mắt thâm quầng vì bốn lần Rửa - nhưng chắc - quyết đoán - bước men bờ sông trong sương - lụa ẩm dính da - đường cong thân thể in hờ dưới vải - da nổi gai lạnh - vai trần ướt sương - giày canvas ngấm nước - lạnh rân ran từ gan bàn chân - gợi cảm thanh lịch giữa sương sớm - mệt mà vẫn sắc - vẫn nhìn - vẫn quyết - lụa ẩm dính da - eo hóp - đùi trần lộ dưới ống palazzo xòe khi ngồi - bụng thoáng hiện nơi vạt buộc hở - gợi cảm buồn - đẹp mỏng - sexy thanh cao giữa cô đơn.
+LINH (NỮ): Sơ mi lụa trắng — mỏng — không cài cúc — mở phanh — mặc ngoài bralette ren đen — ren hiện qua lụa trắng — họa tiết hoa lace tinh tế — xương quai xanh sắc góc cạnh — vai trần — eo thon — bụng phẳng thoáng hiện — quần ống rộng đen — cạp thấp — hông lộ nhẹ — chân giày canvas ngấm nước mưa đêm qua — tóc bob cằm — mệt — mắt thâm quầng vì bốn lần Rửa — nhưng chắc — quyết đoán — bước men bờ sông trong sương — lụa trắng bay nhẹ — ren đen lộ — alluring — quyến rũ — tương phản trắng đen — sexy kiểu pháp — elegant mà táo bạo — lụa ẩm dính — bralette in hờ qua vải — da sáng — mịn — nổi gai lạnh — chân canvas ngấm nước — lạnh rân ran từ gan bàn chân — gợi cảm kiểu minhstar — mệt mà vẫn sáng — vẫn alluring — đẹp buồn — quyến rũ giữa cô đơn — tương phản — trắng ngoài — đen trong — lụa mỏng — ren tinh — silhoutette sắc.
 
 CẢNH (NAM): Áo sơ mi trắng xám bạc màu - rách nhẹ ở cổ tay - không có áo khoác - quần dài cũ - trần dưới sơ mi mỏng - xương vai nhô - gầy - mỏng - tóc cắt ngắn nhưng chưa cắt lâu - rối nhẹ - cằm ít góc cạnh - tay chai - chai của nghề sửa ống nước - chai của vuốt mặt nước mỗi đêm - mắt ướt mà khô - trống - rỗng - vẫn có sự chú tâm nhưng nhiệt đã tắt - Adam's apple thấp - cổ mỏng - vai rủ - dáng người ngồi bậc thềm - lưng dựa trụ cổng - tay buông thõng - như người đã ngồi đây quá lâu một mình - mùi dạ lan quyện trầm - mùi của người đã sống ở đây quá lâu cô độc - lạnh da - ngón tay trắng bệch ở đốt - run nhẹ khi chạm - chạm rồi rụt - chạm rồi rụt - sáu năm.
 
@@ -63,7 +63,7 @@ Tông màu trang 1: SƯƠNG SÁNG mở - bờ sông - đất ướt - sương d�
 ─────────────────────────────────────
 
 PANEL 1 - BỜ SÔNG HƯƠNG - SÁNG SỚM - SƯƠNG CHƯA TAN - LINH ĐI
-Góc máy: Wide establishing shot - bờ sông Hương - sáng sớm - sương chưa tan hẳn - trắng xám mờ - không gian chưa tỉnh - sông đục chảy êm - hai bên bờ cỏ ướt - cây thấp - đất bùn - Linh đi men theo bờ - dáng nhỏ trong sương - áo lụa đen buộc nơ - quần palazzo rộng - giày canvas ngấm nước mưa đêm qua - lạnh rân ran từ dưới gan bàn chân - tóc bob cằm rối nhẹ - vai trần ướt sương - mệt - mắt thâm quầng - nhưng bước đều - kiên nhẫn - đến - để nói - để hỏi - sương mờ - xa - không thấy cuối bờ - nhưng Linh bước - đất ướt dưới chân - từng bước - từng bước - đến.
+Góc máy: Wide establishing shot - bờ sông Hương - sáng sớm - sương chưa tan hẳn - trắng xám mờ - không gian chưa tỉnh - sông đục chảy êm - hai bên bờ cỏ ướt - cây thấp - đất bùn - Linh đi men theo bờ - dáng nhỏ trong sương - sơ mi lụa trắng mở không cúc - bralette ren đen bên trong - quần ống rộng cạp thấp - giày canvas ngấm nước mưa đêm qua - lạnh rân ran từ dưới gan bàn chân - tóc bob cằm rối nhẹ - vai trần ướt sương - lụa trắng bay nhẹ trong sương - ren đen lộ hờ - alluring - mệt - mắt thâm quầng - nhưng bước đều - kiên nhẫn - đến - để nói - để hỏi - sương mờ - xa - không thấy cuối bờ - nhưng Linh bước - đất ướt dưới chân - từng bước - từng bước - đến.
 
 CAPTION (italic, lớn): "Sáng. Sương chưa tan hẳn."
 
@@ -94,7 +94,7 @@ CAPTION (italic, nhỏ): "Mắt mở nhưng chưa thấy. Đang nhìn đâu đó
 ─────────────────────────────────────
 
 PANEL 4 - LINH DỪNG - "CẢNH" - GIẬT MÌNH
-Góc máy: Medium shot - Linh dừng cách cổng ba bước - giày canvas trên gạch vỡ - sương bay quanh - lụa đen ướt sương - vai trần - xương quai xanh sắc - mệt - nhưng chắc - thở - rồi nói - "Cảnh" - chỉ gọi tên - người ngồi bậc thềm GIẬT MÌNH - như người tỉnh từ giấc ngủ ngồi - mắt Cảnh tìm Linh - từ chân lên - rồi mặt - dừng ở mắt Linh - Cảnh đứng - chậm - tay vịn trụ cổng rồi buông - gọi lại - "Linh" - chỉ tên - chào hỏi đã vượt qua hai người từ lâu.
+Góc máy: Medium shot - Linh dừng cách cổng ba bước - giày canvas trên gạch vỡ - sương bay quanh - sơ mi lụa trắng mở - bralette ren đen lộ - vai trần - xương quai xanh sắc - mệt - nhưng chắc - alluring trong sương sớm - thở - rồi nói - "Cảnh" - chỉ gọi tên - người ngồi bậc thềm GIẬT MÌNH - như người tỉnh từ giấc ngủ ngồi - mắt Cảnh tìm Linh - từ chân lên - rồi mặt - dừng ở mắt Linh - Cảnh đứng - chậm - tay vịn trụ cổng rồi buông - gọi lại - "Linh" - chỉ tên - chào hỏi đã vượt qua hai người từ lâu.
 
 BUBBLE (Linh, chắc - gọi tên): "Cảnh."
 

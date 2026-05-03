@@ -95,3 +95,9 @@
 {"id":"6969ef26-6c44-485f-98c1-0b5603a8e054","ts":"2026-05-03T16:54:40.195Z","severity":"warning","message":"Safety: 2 unexpected file change(s) outside task plan","source":"notify","read":false}
 {"id":"15a1e104-5a53-4940-b495-69b999a4f1e7","ts":"2026-05-03T16:55:19.597Z","severity":"info","message":"Verification gate: FAILED — pytest","source":"notify","read":false}
 {"id":"234b1ffc-0f76-4f00-8ab1-7c7ac32fdd48","ts":"2026-05-03T16:55:19.598Z","severity":"warning","message":"Verification failed (pytest) — auto-fix attempt 1/2","source":"notify","read":false}
+{"id":"f17e4776-6bab-449c-a715-36013296ef4c","ts":"2026-05-03T17:04:16.869Z","severity":"info","message":"Committed: feat: Generated ch22_prompts.md with 4 trang of manga prompts for the c…","source":"notify","read":false}
+{"id":"e51c270d-abad-4041-a939-5146eabda5d2","ts":"2026-05-03T17:04:16.873Z","severity":"warning","message":"[safety] file-change: manga/prompts/ch20_prompts.md — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"130a1e9f-547f-4065-a601-43b87f809fb7","ts":"2026-05-03T17:04:16.873Z","severity":"warning","message":"[safety] file-change: results.tsv — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"d3b58021-e21f-4994-9cec-3245d1cd92b9","ts":"2026-05-03T17:04:16.873Z","severity":"warning","message":"Safety: 2 unexpected file change(s) outside task plan","source":"notify","read":false}
+{"id":"8c83bdac-9b7a-4746-a272-898dff886135","ts":"2026-05-03T17:04:55.915Z","severity":"info","message":"Verification gate: FAILED — pytest","source":"notify","read":false}
+{"id":"dccefc72-f76a-46af-88d4-18ffd5ee1a8b","ts":"2026-05-03T17:04:55.916Z","severity":"warning","message":"Verification failed (pytest) — auto-fix attempt 1/2","source":"notify","read":false}
