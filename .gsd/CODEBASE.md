@@ -1,7 +1,7 @@
 # Codebase Map
 
-Generated: 2026-05-03T16:39:28Z | Files: 234 | Described: 0/234
-<!-- gsd:codebase-meta {"generatedAt":"2026-05-03T16:39:28Z","fingerprint":"fbc61ebf732971bd434aa117f3a61e5f8cc16163","fileCount":234,"truncated":false} -->
+Generated: 2026-05-03T16:57:14Z | Files: 235 | Described: 0/235
+<!-- gsd:codebase-meta {"generatedAt":"2026-05-03T16:57:14Z","fingerprint":"35891b5cfb0971f24606d744decc671db89ba20d","fileCount":235,"truncated":false} -->
 
 ### (root)/
 - *(63 files: 39 .py, 15 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
@@ -51,26 +51,7 @@ Generated: 2026-05-03T16:39:28Z | Files: 234 | Described: 0/234
 - `manga/README.md`
 
 ### manga/prompts/
-- `manga/prompts/ch01_prompts.md`
-- `manga/prompts/ch02_prompts.md`
-- `manga/prompts/ch03_prompts.md`
-- `manga/prompts/ch04_prompts.md`
-- `manga/prompts/ch05_prompts.md`
-- `manga/prompts/ch06_prompts.md`
-- `manga/prompts/ch07_prompts.md`
-- `manga/prompts/ch08_prompts.md`
-- `manga/prompts/ch09_prompts.md`
-- `manga/prompts/ch10_prompts.md`
-- `manga/prompts/ch11_prompts.md`
-- `manga/prompts/ch12_prompts.md`
-- `manga/prompts/ch13_prompts.md`
-- `manga/prompts/ch14_prompts.md`
-- `manga/prompts/ch15_prompts.md`
-- `manga/prompts/ch16_prompts.md`
-- `manga/prompts/ch17_prompts.md`
-- `manga/prompts/ch18_prompts.md`
-- `manga/prompts/ch19_prompts.md`
-- `manga/prompts/ch20_prompts.md`
+- *(21 files: 21 .md)*
 
 ### scripts/
 - `scripts/verify_vi_pipeline.sh`

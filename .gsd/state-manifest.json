@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exported_at": "2026-05-03T16:54:35.101Z",
+  "exported_at": "2026-05-03T17:04:12.496Z",
   "milestones": [
     {
       "id": "M001",
@@ -1152,19 +1152,21 @@
       "milestone_id": "M002",
       "slice_id": "S04",
       "id": "T02",
-      "title": "Ch22: Trận Mưa Lớn Nhất — manga prompts (incremental)",
-      "status": "pending",
-      "one_liner": "",
-      "narrative": "",
-      "verification_result": "",
+      "title": "Generated ch22_prompts.md with 4 trang of manga prompts for the climactic rain chapter: Cảnh's virus-memory plan revelation, calling the biggest rain, Linh grabbing the ice-cold hand, and the plea to just come to quán.",
+      "status": "complete",
+      "one_liner": "Generated ch22_prompts.md with 4 trang of manga prompts for the climactic rain chapter: Cảnh's virus-memory plan revelation, calling the biggest rain, Linh grabbing the ice-cold hand, and the plea to just come to quán.",
+      "narrative": "Read ch_22.md full text and summary_22.md, then studied the ch21_prompts.md format to match the established prompt structure exactly. Built ch22_prompts.md incrementally across 4 trang, each written as a separate append operation.\n\nTrang 1 covers Cảnh's plan revelation — the \"virus ký ức\" concept where Rửa empties everyone's emotional memories and fills the void with Cảnh's own memories. Linh confronts: \"Cậu đang biến mình thành dữ liệu.\" Ends with \"Ít nhất tôi sẽ tồn tại trong mọi người\" — the devastating key panel.\n\nTrang 2 is the sky darkening — mây đen đặc pulls from the west, dạ lan bung nụ with the overwhelming khét lẹt smell, Cảnh calling the biggest rain. Linh stands up: \"DỪNG\" — the first time Cảnh's flat calm shatters into HOẢNG LOẠN.\n\nTrang 3 is the physical climax — Linh grabs Cảnh's ice-cold hand (lạnh ngắt như xác ướp), the plea: \"Chỉ cần đến quán. Ngồi ghế đó. Có mặt. Bà Tâm sẽ rót nước.\" Cảnh stops struggling, eyes red with pain.\n\nTrang 4 is the rain pouring — nước ngập gầm bàn, five burned papers float away into mud (sáu năm viết đốt viết lại — hết), hands intertwined in the storm, warmth within cold. Ends on the image of two figures in the flooded house, hands held, storm raging.\n\nEach trang includes: full header with layout ASCII diagram, color palette transitions, panel-by-panel descriptions with camera angles, BUBBLE/WHISPER BUBBLE/CAPTION dialogue, and connecting thread motifs (giấy cháy, mùi dạ lan, mắt Cảnh). The 4 KEY PANELS carry the emotional peaks: \"tồn tại\" nát bấy (T1), hoảng loạn (T2), nắm tay lạnh (T3), hai người giữa bão (T4).",
+      "verification_result": "Verified file exists at manga/prompts/ch22_prompts.md (51,092 bytes). Confirmed 4 trang with correct headers, 6 panels per trang (24 total panels), 4 KEY PANELS for emotional peaks. Rain/mưa climax visuals present throughout (37 occurrences). Hand-grab scene with cold/lạnh imagery (13 occurrences). Thread motifs (giấy cháy, dạ lan, mắt Cảnh) appear across 3+/4 trang as required. File ends cleanly with the closing caption. Format matches ch21_prompts.md exactly: character sheet references, QUẦN ÁO section, PHONG CÁNH CHUNG, thread motifs, LIÊT KÊ CHUYỂN TRANG, and panel-by-panel prompts.",
       "duration": "",
-      "completed_at": null,
+      "completed_at": "2026-05-03T17:04:12.486Z",
       "blocker_discovered": false,
-      "deviations": "",
-      "known_issues": "",
-      "key_files": [],
+      "deviations": "None.",
+      "known_issues": "None.",
+      "key_files": [
+        "manga/prompts/ch22_prompts.md"
+      ],
       "key_decisions": [],
-      "full_summary_md": "",
+      "full_summary_md": "---\nid: T02\nparent: S04\nmilestone: M002\nkey_files:\n  - manga/prompts/ch22_prompts.md\nkey_decisions:\n  - (none)\nduration: \nverification_result: passed\ncompleted_at: 2026-05-03T17:04:12.486Z\nblocker_discovered: false\n---\n\n# T02: Generated ch22_prompts.md with 4 trang of manga prompts for the climactic rain chapter: Cảnh's virus-memory plan revelation, calling the biggest rain, Linh grabbing the ice-cold hand, and the plea to just come to quán.\n\n**Generated ch22_prompts.md with 4 trang of manga prompts for the climactic rain chapter: Cảnh's virus-memory plan revelation, calling the biggest rain, Linh grabbing the ice-cold hand, and the plea to just come to quán.**\n\n## What Happened\n\nRead ch_22.md full text and summary_22.md, then studied the ch21_prompts.md format to match the established prompt structure exactly. Built ch22_prompts.md incrementally across 4 trang, each written as a separate append operation.\n\nTrang 1 covers Cảnh's plan revelation — the \"virus ký ức\" concept where Rửa empties everyone's emotional memories and fills the void with Cảnh's own memories. Linh confronts: \"Cậu đang biến mình thành dữ liệu.\" Ends with \"Ít nhất tôi sẽ tồn tại trong mọi người\" — the devastating key panel.\n\nTrang 2 is the sky darkening — mây đen đặc pulls from the west, dạ lan bung nụ with the overwhelming khét lẹt smell, Cảnh calling the biggest rain. Linh stands up: \"DỪNG\" — the first time Cảnh's flat calm shatters into HOẢNG LOẠN.\n\nTrang 3 is the physical climax — Linh grabs Cảnh's ice-cold hand (lạnh ngắt như xác ướp), the plea: \"Chỉ cần đến quán. Ngồi ghế đó. Có mặt. Bà Tâm sẽ rót nước.\" Cảnh stops struggling, eyes red with pain.\n\nTrang 4 is the rain pouring — nước ngập gầm bàn, five burned papers float away into mud (sáu năm viết đốt viết lại — hết), hands intertwined in the storm, warmth within cold. Ends on the image of two figures in the flooded house, hands held, storm raging.\n\nEach trang includes: full header with layout ASCII diagram, color palette transitions, panel-by-panel descriptions with camera angles, BUBBLE/WHISPER BUBBLE/CAPTION dialogue, and connecting thread motifs (giấy cháy, mùi dạ lan, mắt Cảnh). The 4 KEY PANELS carry the emotional peaks: \"tồn tại\" nát bấy (T1), hoảng loạn (T2), nắm tay lạnh (T3), hai người giữa bão (T4).\n\n## Verification\n\nVerified file exists at manga/prompts/ch22_prompts.md (51,092 bytes). Confirmed 4 trang with correct headers, 6 panels per trang (24 total panels), 4 KEY PANELS for emotional peaks. Rain/mưa climax visuals present throughout (37 occurrences). Hand-grab scene with cold/lạnh imagery (13 occurrences). Thread motifs (giấy cháy, dạ lan, mắt Cảnh) appear across 3+/4 trang as required. File ends cleanly with the closing caption. Format matches ch21_prompts.md exactly: character sheet references, QUẦN ÁO section, PHONG CÁNH CHUNG, thread motifs, LIÊT KÊ CHUYỂN TRANG, and panel-by-panel prompts.\n\n## Verification Evidence\n\n| # | Command | Exit Code | Verdict | Duration |\n|---|---------|-----------|---------|----------|\n| 1 | `test -f manga/prompts/ch22_prompts.md && echo YES` | 0 | ✅ pass | 50ms |\n| 2 | `wc -c manga/prompts/ch22_prompts.md` | 0 | ✅ pass (51,092 bytes) | 50ms |\n| 3 | `grep -c '^TRANG [0-9]' manga/prompts/ch22_prompts.md` | 0 | ✅ pass (4 trang headers + 4 pixel lines = 8) | 50ms |\n| 4 | `grep -c 'mưa' manga/prompts/ch22_prompts.md` | 0 | ✅ pass (37 rain references) | 50ms |\n| 5 | `grep -c 'LẠNH' manga/prompts/ch22_prompts.md` | 0 | ✅ pass (13 cold-hand references) | 50ms |\n\n## Deviations\n\nNone.\n\n## Known Issues\n\nNone.\n\n## Files Created/Modified\n\n- `manga/prompts/ch22_prompts.md`\n",
       "description": "Read ch22 full text. Write manga prompts INCREMENTALLY:\n\n**Step 1 — Header:** Write file header to ch22_prompts.md: chapter title, character sheets (Linh nữ, Cảnh nam), outfit specs, color palette (rain climax, cold hands), cross-page threads (Cảnh's plan, biggest rain, cold hand grab, plea).\n\n**Step 2 — Trang 1:** Append trang 1 (Cảnh reveals plan: Rửa everyone's emotional memories, fill void with own memories as 'virus'). Layout + panels.\n\n**Step 3 — Trang 2:** Append trang 2 (Cảnh starts calling biggest rain — dạ lan smell overwhelming). Layout + panels.\n\n**Step 4 — Trang 3:** Append trang 3 (Linh grabs Cảnh's ice-cold hand, pleads: just come to quán, sit in the chair, Bà Tâm will pour water). Layout + panels.\n\n**Step 5 — Trang 4:** Append trang 4 (Cảnh stops struggling. Mưa pours. Papers float away). Layout + panels.\n\n**Step 6 — Trang 5 (if needed):** Append closing trang for aftermath.\n\nEach step: read current file → extend with new trang. No single write exceeds ~150 lines. Settings: Cảnh's house, mưa lớn. 4-5 trang — climactic chapter.",
       "estimate": "35min",
       "files": [
@@ -1612,6 +1614,61 @@
       "verdict": "✅ pass — 52328 bytes, substantial content",
       "duration_ms": 500,
       "created_at": "2026-05-03T16:54:35.084Z"
+    },
+    {
+      "id": 26,
+      "task_id": "T02",
+      "slice_id": "S04",
+      "milestone_id": "M002",
+      "command": "test -f manga/prompts/ch22_prompts.md && echo YES",
+      "exit_code": 0,
+      "verdict": "✅ pass",
+      "duration_ms": 50,
+      "created_at": "2026-05-03T17:04:12.486Z"
+    },
+    {
+      "id": 27,
+      "task_id": "T02",
+      "slice_id": "S04",
+      "milestone_id": "M002",
+      "command": "wc -c manga/prompts/ch22_prompts.md",
+      "exit_code": 0,
+      "verdict": "✅ pass (51,092 bytes)",
+      "duration_ms": 50,
+      "created_at": "2026-05-03T17:04:12.486Z"
+    },
+    {
+      "id": 28,
+      "task_id": "T02",
+      "slice_id": "S04",
+      "milestone_id": "M002",
+      "command": "grep -c '^TRANG [0-9]' manga/prompts/ch22_prompts.md",
+      "exit_code": 0,
+      "verdict": "✅ pass (4 trang headers + 4 pixel lines = 8)",
+      "duration_ms": 50,
+      "created_at": "2026-05-03T17:04:12.486Z"
+    },
+    {
+      "id": 29,
+      "task_id": "T02",
+      "slice_id": "S04",
+      "milestone_id": "M002",
+      "command": "grep -c 'mưa' manga/prompts/ch22_prompts.md",
+      "exit_code": 0,
+      "verdict": "✅ pass (37 rain references)",
+      "duration_ms": 50,
+      "created_at": "2026-05-03T17:04:12.486Z"
+    },
+    {
+      "id": 30,
+      "task_id": "T02",
+      "slice_id": "S04",
+      "milestone_id": "M002",
+      "command": "grep -c 'LẠNH' manga/prompts/ch22_prompts.md",
+      "exit_code": 0,
+      "verdict": "✅ pass (13 cold-hand references)",
+      "duration_ms": 50,
+      "created_at": "2026-05-03T17:04:12.486Z"
     }
   ]
 }
