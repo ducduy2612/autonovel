@@ -49,3 +49,13 @@
 {"id":"65181b9e-9528-431d-90db-ff44a8bd8c03","ts":"2026-05-03T01:59:25.725Z","severity":"info","message":"Committed: chore: Created ch09_prompts.md — 4 trang manga prompts for \"Kẻ Đột Nhập…","source":"notify","read":false}
 {"id":"470deec7-da73-4013-bab3-6a672091ed37","ts":"2026-05-03T01:59:27.000Z","severity":"info","message":"Verification gate: FAILED — pytest","source":"notify","read":false}
 {"id":"4264f1f4-3f4c-4147-aecc-afce021e4e5a","ts":"2026-05-03T01:59:27.001Z","severity":"warning","message":"Verification failed (pytest) — auto-fix attempt 1/2","source":"notify","read":false}
+{"id":"9c2683b9-be13-4fd2-8249-04dc1a3a16ff","ts":"2026-05-03T02:05:47.383Z","severity":"info","message":"Committed: chore: auto-commit after execute-task","source":"notify","read":false}
+{"id":"1f7bd027-c713-4c00-8434-61f1f1def361","ts":"2026-05-03T02:05:47.388Z","severity":"warning","message":"[safety] file-change: results.tsv — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"d41d9a2c-1d31-47a4-8981-04974608fcb4","ts":"2026-05-03T02:05:47.389Z","severity":"warning","message":"Safety: 1 unexpected file change(s) outside task plan","source":"notify","read":false}
+{"id":"9ebfe6d3-faab-48af-b42a-2a6998e6e443","ts":"2026-05-03T02:05:47.389Z","severity":"warning","message":"Artifact missing for execute-task M002/S01/T02 — retrying (attempt 1)","source":"notify","read":false}
+{"id":"51d26388-1e18-4b9f-a14b-a3cb17bcad87","ts":"2026-05-03T02:36:18.260Z","severity":"warning","message":"Timeout recovery: steering execute-task M002/S01/T02 to finish durable output (attempt 1, session 1/1).","source":"notify","read":false}
+{"id":"9b4d3d7e-4a24-41d2-b93a-a845817410f0","ts":"2026-05-03T02:36:48.568Z","severity":"warning","message":"Session creation timed out for execute-task M002/S01/T02. Pausing auto-mode (recoverable).","source":"notify","read":false}
+{"id":"2615113b-937f-4171-a110-9432343f9425","ts":"2026-05-03T02:36:48.870Z","severity":"info","message":"Auto-mode paused (Escape). Type to interact, or /gsd auto to resume.","source":"notify","read":false}
+{"id":"880633ab-871a-45be-a1e4-10fa5ec4781a","ts":"2026-05-03T04:32:03.567Z","severity":"info","message":"Entered worktree for M002 at /home/converter/code/autonovel/.gsd/worktrees/M002","source":"notify","read":false}
+{"id":"bf84c130-05aa-4062-bc7e-9870fc988a4e","ts":"2026-05-03T04:32:03.567Z","severity":"info","message":"Auto-mode resumed.","source":"notify","read":false}
+{"id":"dc0d97f5-9687-4a2e-9f18-10b5b4421080","ts":"2026-05-03T04:32:04.402Z","severity":"info","message":"Resume: applied 5 fix(es) to state.","source":"notify","read":false}
