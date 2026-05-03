@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exported_at": "2026-05-03T14:38:51.787Z",
+  "exported_at": "2026-05-03T14:58:14.967Z",
   "milestones": [
     {
       "id": "M001",
@@ -1038,19 +1038,25 @@
       "milestone_id": "M002",
       "slice_id": "S03",
       "id": "T03",
-      "title": "Ch19: Ngôi Nhà Ven Sông — manga prompts (incremental)",
-      "status": "pending",
-      "one_liner": "",
-      "narrative": "",
-      "verification_result": "",
+      "title": "Generated ch19 manga prompts (4 trang) covering Cảnh's riverside house interior, five burned paper scraps, Cảnh's flat confession of calling rain, Linh's shift from anger to compassion, and clouds gathering when Cảnh speaks his old name \"Thảo\"",
+      "status": "complete",
+      "one_liner": "Generated ch19 manga prompts (4 trang) covering Cảnh's riverside house interior, five burned paper scraps, Cảnh's flat confession of calling rain, Linh's shift from anger to compassion, and clouds gathering when Cảnh speaks his old name \"Thảo\"",
+      "narrative": "Generated ch19 manga prompts (4 trang, 24 panels) for the first real dialogue chapter with Cảnh. Read ch19 full text and summary to extract key scenes. Built the file incrementally trang-by-trang as required:\n\n**Trang 1** — Linh arrives at Cảnh's riverside house (sương, dạ lan, gạch vỡ mọc rêu), finds Cảnh kneeling under a leaking water pipe fixing copper tubing, Cảnh looks up with thirsty eyes (khát rồi tắt — like a candle in wind), they enter the house where five burned paper scraps with names are arranged like an altar without incense.\n\n**Trang 2** — Cảnh confesses \"Tôi gọi mưa\" in a flat voice like a plumber quoting prices. Close-ups of burned papers: \"Tuấn\" charred mid-word (\"Tu—\"), \"Duy\" barely singed (newest). Cảnh says \"Tôi sợ\" but his body shows no fear — hands don't shake, voice doesn't waver, face doesn't change — pain so habitual the body forgot what pain looks like. Linh's anger dissolves into exhaustion and compassion.\n\n**Trang 3** — Linh examines Cảnh closely: flat affect, no emotion markers, like a photo on old paper where the image remains but color has washed away. Cảnh: \"I look and know I should feel. But I don't.\" Linh says \"Cậu đang tự rỗng\" at the window. Linh shifts to compassion: \"Tôi thương. Cậu bị nhóm quên.\" When Linh calls Cảnh by name for the first time, Cảnh's eyes flicker — something still remains, like a ripple on still water — then gone.\n\n**Trang 4** — \"Tôi thương cậu nhiều nhất\" spoken flat like a train schedule but containing six years. Linh feels the hollow ache of being loved by someone she can't remember. Two cups of green tea — Cảnh still buys the kind Lịch drinks, habit without feeling. Linh decides to listen. Cảnh begins: \"Mười sáu tuổi, hồi đó tôi tên Thảo...\" — and outside, clouds gather from the west, slowly, evenly, as if someone is calling, very softly, from far away, and the rain hears.\n\nKey design decisions: Cảnh rendered as emotionally flat throughout — no facial expressions change, no body language shifts — the manga communicates his emptiness through what's absent rather than what's present. The eye flicker in panel 6 trang 3 is the single exception. Color palette introduces XÁM MÂY (grey clouds) for the final panel.",
+      "verification_result": "Verified file exists at manga/prompts/ch19_prompts.md (54,102 bytes, 411 lines). Contains 4 trang with 24 panels (6 per trang). Confirmed presence of: burned papers visuals (11 references), Cảnh's house setting (11 references), all five character names on paper scraps (Linh, Tuấn, Lịch, Bách, Duy), Cảnh's flat confession, Linh's anger-to-compassion shift, the name \"Thảo\", and cloud gathering ending. Characters: Linh(nữ) and Cảnh(nam) as specified. All layout diagrams use portrait 1024x1536 format consistent with ch17/ch18.",
       "duration": "",
-      "completed_at": null,
+      "completed_at": "2026-05-03T14:58:14.953Z",
       "blocker_discovered": false,
-      "deviations": "",
-      "known_issues": "",
-      "key_files": [],
-      "key_decisions": [],
-      "full_summary_md": "",
+      "deviations": "None.",
+      "known_issues": "None.",
+      "key_files": [
+        "manga/prompts/ch19_prompts.md"
+      ],
+      "key_decisions": [
+        "Cảnh rendered emotionally flat throughout all 4 trang — no facial expression changes, no body language shifts — emptiness communicated through absence of affect rather than presence of sadness",
+        "Single exception: eye flicker in trang 3 panel 6 when Linh calls Cảnh's name — mờ nhạt lung linh like water surface disturbed — then gone — establishes something still remains",
+        "New color palette entry XÁM MÂY (grey clouds) for final panel — clouds gather when Cảnh speaks old name — power still works even without emotion"
+      ],
+      "full_summary_md": "---\nid: T03\nparent: S03\nmilestone: M002\nkey_files:\n  - manga/prompts/ch19_prompts.md\nkey_decisions:\n  - Cảnh rendered emotionally flat throughout all 4 trang — no facial expression changes, no body language shifts — emptiness communicated through absence of affect rather than presence of sadness\n  - Single exception: eye flicker in trang 3 panel 6 when Linh calls Cảnh's name — mờ nhạt lung linh like water surface disturbed — then gone — establishes something still remains\n  - New color palette entry XÁM MÂY (grey clouds) for final panel — clouds gather when Cảnh speaks old name — power still works even without emotion\nduration: \nverification_result: passed\ncompleted_at: 2026-05-03T14:58:14.953Z\nblocker_discovered: false\n---\n\n# T03: Generated ch19 manga prompts (4 trang) covering Cảnh's riverside house interior, five burned paper scraps, Cảnh's flat confession of calling rain, Linh's shift from anger to compassion, and clouds gathering when Cảnh speaks his old name \"Thảo\"\n\n**Generated ch19 manga prompts (4 trang) covering Cảnh's riverside house interior, five burned paper scraps, Cảnh's flat confession of calling rain, Linh's shift from anger to compassion, and clouds gathering when Cảnh speaks his old name \"Thảo\"**\n\n## What Happened\n\nGenerated ch19 manga prompts (4 trang, 24 panels) for the first real dialogue chapter with Cảnh. Read ch19 full text and summary to extract key scenes. Built the file incrementally trang-by-trang as required:\n\n**Trang 1** — Linh arrives at Cảnh's riverside house (sương, dạ lan, gạch vỡ mọc rêu), finds Cảnh kneeling under a leaking water pipe fixing copper tubing, Cảnh looks up with thirsty eyes (khát rồi tắt — like a candle in wind), they enter the house where five burned paper scraps with names are arranged like an altar without incense.\n\n**Trang 2** — Cảnh confesses \"Tôi gọi mưa\" in a flat voice like a plumber quoting prices. Close-ups of burned papers: \"Tuấn\" charred mid-word (\"Tu—\"), \"Duy\" barely singed (newest). Cảnh says \"Tôi sợ\" but his body shows no fear — hands don't shake, voice doesn't waver, face doesn't change — pain so habitual the body forgot what pain looks like. Linh's anger dissolves into exhaustion and compassion.\n\n**Trang 3** — Linh examines Cảnh closely: flat affect, no emotion markers, like a photo on old paper where the image remains but color has washed away. Cảnh: \"I look and know I should feel. But I don't.\" Linh says \"Cậu đang tự rỗng\" at the window. Linh shifts to compassion: \"Tôi thương. Cậu bị nhóm quên.\" When Linh calls Cảnh by name for the first time, Cảnh's eyes flicker — something still remains, like a ripple on still water — then gone.\n\n**Trang 4** — \"Tôi thương cậu nhiều nhất\" spoken flat like a train schedule but containing six years. Linh feels the hollow ache of being loved by someone she can't remember. Two cups of green tea — Cảnh still buys the kind Lịch drinks, habit without feeling. Linh decides to listen. Cảnh begins: \"Mười sáu tuổi, hồi đó tôi tên Thảo...\" — and outside, clouds gather from the west, slowly, evenly, as if someone is calling, very softly, from far away, and the rain hears.\n\nKey design decisions: Cảnh rendered as emotionally flat throughout — no facial expressions change, no body language shifts — the manga communicates his emptiness through what's absent rather than what's present. The eye flicker in panel 6 trang 3 is the single exception. Color palette introduces XÁM MÂY (grey clouds) for the final panel.\n\n## Verification\n\nVerified file exists at manga/prompts/ch19_prompts.md (54,102 bytes, 411 lines). Contains 4 trang with 24 panels (6 per trang). Confirmed presence of: burned papers visuals (11 references), Cảnh's house setting (11 references), all five character names on paper scraps (Linh, Tuấn, Lịch, Bách, Duy), Cảnh's flat confession, Linh's anger-to-compassion shift, the name \"Thảo\", and cloud gathering ending. Characters: Linh(nữ) and Cảnh(nam) as specified. All layout diagrams use portrait 1024x1536 format consistent with ch17/ch18.\n\n## Verification Evidence\n\n| # | Command | Exit Code | Verdict | Duration |\n|---|---------|-----------|---------|----------|\n| 1 | `ls -la manga/prompts/ch19_prompts.md` | 0 | ✅ pass | 500ms |\n| 2 | `grep -c '^TRANG [0-9]' manga/prompts/ch19_prompts.md` | 0 | ✅ pass — 4 trang found | 200ms |\n| 3 | `grep -c '^PANEL' manga/prompts/ch19_prompts.md` | 0 | ✅ pass — 24 panels found | 200ms |\n| 4 | `grep -c 'mảnh giấy cháy' manga/prompts/ch19_prompts.md` | 0 | ✅ pass — burned papers present | 200ms |\n| 5 | `grep -c 'Thảo' manga/prompts/ch19_prompts.md` | 0 | ✅ pass — old name present | 200ms |\n\n## Deviations\n\nNone.\n\n## Known Issues\n\nNone.\n\n## Files Created/Modified\n\n- `manga/prompts/ch19_prompts.md`\n",
       "description": "Read ch19 full text. Write manga prompts INCREMENTALLY:\n\n**Step 1 — Header:** Write file header to ch19_prompts.md: chapter title, character sheets (Linh nữ, Cảnh nam), outfit specs, color palette (Cảnh's house interior, burned papers), cross-page threads (burned paper scraps, compassion shift, old name 'Thảo').\n\n**Step 2 — Trang 1:** Append trang 1 (Linh finds Cảnh's riverside house). Layout + panels.\n\n**Step 3 — Trang 2:** Append trang 2 (Discovers 5 burned paper scraps with names). Layout + panels.\n\n**Step 4 — Trang 3:** Append trang 3 (Cảnh admits calling rain, paying price of losing emotions). Layout + panels.\n\n**Step 5 — Trang 4:** Append trang 4 (Linh shifts anger → compassion. Old name 'Thảo', clouds gather). Layout + panels.\n\nEach step: read current file → extend with new trang. No single write exceeds ~150 lines. Settings: Cảnh's house ven sông. 4 trang — first real dialogue with Cảnh.",
       "estimate": "35min",
       "files": [
@@ -1311,6 +1317,18 @@
       "revisable": "Yes",
       "made_by": "human",
       "superseded_by": null
+    },
+    {
+      "seq": 7,
+      "id": "D007",
+      "when_context": "",
+      "scope": "execution",
+      "decision": "Large file generation must use incremental writes to avoid LLM timeout",
+      "choice": "Hard rule in KNOWLEDGE.md: write first section with `write`, append subsequent sections with `cat >> file << 'EOF'`. Never single-shot write files over ~100 lines. Task plan instructions on write patterns are mandatory, not suggestions.",
+      "rationale": "Repeated task failures from LLM output token truncation when writing large files (200-600+ lines) in a single write call. The truncation is silent — produces broken/incomplete files that then need manual cleanup. Task plans explicitly specify incremental writes but the agent ignores them. Making this a top-level hard rule in KNOWLEDGE.md ensures it's injected into every session's system context.",
+      "revisable": "Yes",
+      "made_by": "human",
+      "superseded_by": null
     }
   ],
   "verification_evidence": [
@@ -1478,6 +1496,61 @@
       "verdict": "✅ pass (285 lines)",
       "duration_ms": 150,
       "created_at": "2026-05-03T14:38:51.767Z"
+    },
+    {
+      "id": 16,
+      "task_id": "T03",
+      "slice_id": "S03",
+      "milestone_id": "M002",
+      "command": "ls -la manga/prompts/ch19_prompts.md",
+      "exit_code": 0,
+      "verdict": "✅ pass",
+      "duration_ms": 500,
+      "created_at": "2026-05-03T14:58:14.954Z"
+    },
+    {
+      "id": 17,
+      "task_id": "T03",
+      "slice_id": "S03",
+      "milestone_id": "M002",
+      "command": "grep -c '^TRANG [0-9]' manga/prompts/ch19_prompts.md",
+      "exit_code": 0,
+      "verdict": "✅ pass — 4 trang found",
+      "duration_ms": 200,
+      "created_at": "2026-05-03T14:58:14.954Z"
+    },
+    {
+      "id": 18,
+      "task_id": "T03",
+      "slice_id": "S03",
+      "milestone_id": "M002",
+      "command": "grep -c '^PANEL' manga/prompts/ch19_prompts.md",
+      "exit_code": 0,
+      "verdict": "✅ pass — 24 panels found",
+      "duration_ms": 200,
+      "created_at": "2026-05-03T14:58:14.954Z"
+    },
+    {
+      "id": 19,
+      "task_id": "T03",
+      "slice_id": "S03",
+      "milestone_id": "M002",
+      "command": "grep -c 'mảnh giấy cháy' manga/prompts/ch19_prompts.md",
+      "exit_code": 0,
+      "verdict": "✅ pass — burned papers present",
+      "duration_ms": 200,
+      "created_at": "2026-05-03T14:58:14.954Z"
+    },
+    {
+      "id": 20,
+      "task_id": "T03",
+      "slice_id": "S03",
+      "milestone_id": "M002",
+      "command": "grep -c 'Thảo' manga/prompts/ch19_prompts.md",
+      "exit_code": 0,
+      "verdict": "✅ pass — old name present",
+      "duration_ms": 200,
+      "created_at": "2026-05-03T14:58:14.954Z"
     }
   ]
 }

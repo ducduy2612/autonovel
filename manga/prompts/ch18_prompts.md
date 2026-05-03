@@ -9,7 +9,7 @@ Hướng dẫn map ảnh: Ảnh tham chiếu dùng cho face, body type, hairstyl
 
 QUẦN ÁO: Ch18 diễn ra trong một đêm — mỗi nhân vật mặc ONE outfit xuyên chương:
 
-LINH (NỮ): Áo lụa đen buộc nơ trước ngực — hai vạt kéo chéo buộc loosely ở giữa, vải lụa trượt theo đường cong tự nhiên — ngực đầy nâng nhẹ, eo hóp lộ nơi vạt buộc chưa kín — vai trần, lưng trần nơi vạt áo không che hết. Quần palazzo rộng đen — cạp chun cao, ống rộng rủ. Chân trần — giày để ngoài bậc thềm quán — lụa ẩm từ sương sông — dán vào da nơi vạt áo che — lạnh. Tóc bob cằm — rối — chưa chải — vài sối dính trán. Mắt sẫm — trống — mắt người đang rút tình cảm ra như rút chỉ. Lúc ngồi bờ sông: đùi trần dưới ống palazzo xòe — da chạm đá lạnh — tê liệt — không còn cảm giác. Lúc tay Lịch chạm: mắt sting — hạt cản — không khóc — quên khóc kiểu gì. Lúc ngồi bậc thềm: lưng tựa cột quán — chân duỗi — cạnh ly nước không ai uống — lụa dính sương — mỏng — da lộ. Da vàng nhạt — xương quai xanh sắc — vai trần mịn.
+LINH (NỮ): Áo lụa đen buộc nơ trước ngực — hai vạt kéo chéo buộc loosely ở giữa, vải lụa trượt theo đường cong tự nhiên — ngực đầy nâng nhẹ, eo hóp lộ nơi vạt buộc chưa kín — da bụng mịn thoáng hiện — vai trần, lưng trần nơi vạt áo không che hết — xương quai xanh sắc góc cạnh. Quần palazzo rộng đen — cạp chun cao nhấn eo thon hóp, ống rộng rủ lướt từ hông xuống mắt cá — khi ngồi ống rộng xòe lộ đùi trần, khi đứng lụa bay tôn chân dài. Chân trần — giày để ngoài bậc thềm quán — lụa ẩm từ sương sông — dán vào da nơi vạt áo che — đường cong thân thể in hờ dưới vải mỏng ướt — lạnh. Tóc bob cằm — rối — chưa chải — vài sối dính trán. Mắt sẫm — trống — mắt người đang rút tình cảm ra như rút chỉ. Lúc ngồi bờ sông: đùi trần dưới ống palazzo xòe — da chạm đá lạnh — tê liệt — không còn cảm giác — eo hóp khi cúi — lụa trượt lộ xương hông — gợi cảm buồn trên đá lạnh. Lúc tay Lịch chạm: mắt sting — hạt cản — không khóc — quên khóc kiểu gì — vai trần run nhẹ — ngực phẳng hơn mỗi ngày — nhưng vẫn đẹp — vẫn gợi cảm thanh lịch. Lúc ngồi bậc thềm: lưng tựa cột quán — chân duỗi — cạnh ly nước không ai uống — lụa dính sương — mỏng — da lộ — bụng thoáng hiện — gợi cảm thanh đạm dưới đèn vàng yếu. Da vàng nhạt — xương quai xanh sắc — vai trần mịn — gợi cảm bốc lửa ngay trong đêm tĩnh lặng.
 
 LỊCH (NỮ): Áo blouse kín đắc, quần dài. Tóc đen buộc chặt búi thấp. Kính cận trễ mũi. Sổ tay đen bìa da cũ — NOT in hand this chapter — Lịch đến không mang sổ — chỉ mang tay. Quần áo ẩm từ sương — gió thổi tóc bay nhẹ. Lúc ngồi cạnh Linh: khoảng cách vừa đủ một cánh tay — rồi thu hẹp — chạm. Tay Lịch ấm — da mịn hơn tay Linh — chai ở gốc ngón trỏ — chai người cầm bút. Ngón tay nhẹ nhàng — không nắm — không siết — chỉ đặt — để đó. Lúc đứng dậy đi: phủi quần — cử chỉ quen — bước chân chậm đều đếm bước. Hai chữ "Cẩn thận" rồi quay đi. Da vàng nhạt — mắt kính phản chiếu sao — hai vệt sáng nhỏ.
 
@@ -61,7 +61,7 @@ Tông màu trang 1: ĐÊM TRANG mở đầu — đen thẳm — sao nhiều — 
 ─────────────────────────────────────
 
 PANEL 1 — BỜ SÔNG ĐÊM — LINH MỘT MÌNH — TRỜI TRONG
-Góc máy: Wide establishing shot — bờ sông Hương — đêm — trời trong — lần đầu tiên sau nhiều tuần không mây đen từ Bạch Mã — sao nhiều — nhiều sao quá — bầu trời mở ra đen thẳm — phản chi yếu trên mặt sông phẳng im. Linh ngồi trên đá — một mình — silhouette nhỏ — hẹp — giữa trời rộng và nước đục — đùi trần dưới ống palazzo — chân duỗi thẳng — không cử động — như một phần của đá. Quán bà Tâm xa xa — đèn vàng lờ mờ — không thuộc về khung hình này — chỉ ánh yếu ở góc xa. Không dạ lan. Không mưa. Chỉ sao và sông và một người ngồi.
+Góc máy: Wide establishing shot — bờ sông Hương — đêm — trời trong — lần đầu tiên sau nhiều tuần không mây đen từ Bạch Mã — sao nhiều — nhiều sao quá — bầu trời mở ra đen thẳm — phản chi yếu trên mặt sông phẳng im. Linh ngồi trên đá — một mình — silhouette nhỏ — hẹp — giữa trời rộng và nước đục — đùi trần dưới ống palazzo — chân duỗi thẳng — không cử động — như một phần của đá — eo hóp — vai trần — lụa đen dính sương — đường cong thân thể in hờ trong bóng đêm — gợi cảm tĩnh lặng. Quán bà Tâm xa xa — đèn vàng lờ mờ — không thuộc về khung hình này — chỉ ánh yếu ở góc xa. Không dạ lan. Không mưa. Chỉ sao và sông và một người ngồi — đẹp — buồn — gợi cảm bốc lửa ngay trong cô đơn.
 
 CAPTION (góc trên, italic): "Trời trong. Lần đầu tiên sau nhiều tuần, không có mây đen kéo từ phía Bạch Mã."
 
@@ -70,9 +70,9 @@ CAPTION (italic, nhỏ — dưới đá): "Sao nhiều quá. Linh quên mất Hu
 ─────────────────────────────────────
 
 PANEL 2 — LINH NGỒI — TÊ LIỆT — CỤNG ĐẦU GỐI
-Góc máy: Medium shot — Linh ngồi trên đá — chân duỗi thẳng ra trước — đùi trần dưới ống palazzo xòe — da chạm đá lạnh — mông tê liệt — không còn cảm giác hai chân. Lưng cong — cụng đầu vào đầu gối — trán ép vào xương đầu gối — cứng — đau nhói. Tóc bob rối rơi xuống che mặt — vai trần run nhẹ — không phải lạnh — hay lạnh — không phân biệt. Áo lụa ẩm từ sương — dán vào da — mỏng — đường cong lộ dưới vải. Tay buông hai bên — bàn tay thô ráp mở — ngón hơi co — chai ở đầu ngón — rỗng.
+Góc máy: Medium shot — Linh ngồi trên đá — chân duỗi thẳng ra trước — đùi trần dưới ống palazzo xòe — da chạm đá lạnh — mông tê liệt — không còn cảm giác hai chân — eo hóp khi cúi — lụa trượt lộ xương hông — gợi cảm buồn trên đá lạnh. Lưng cong — cụng đầu vào đầu gối — trán ép vào xương đầu gối — cứng — đau nhói. Tóc bob rối rơi xuống che mặt — vai trần run nhẹ — xương quai xanh sắc nổi bật trong đêm — không phải lạnh — hay lạnh — không phân biệt. Áo lụa ẩm từ sương — dán vào da — mỏng — đường cong ngực eo hông lộ rõ dưới vải mỏng ướt — bụng thoáng hiện nơi vạt buộc hở — gợi cảm rũ rượi trong ẩm ướt đêm sương. Tay buông hai bên — bàn tay thô ráp mở — ngón hơi co — chai ở đầu ngón — rỗng.
 
-CAPTION (góc trái, italic): "Đá bờ sông lạnh. Lạnh xuyên quần, xuyên da, vào tủy xương. Linh ngồi đó đã lâu — không biết bao lâu."
+CAPTION (góc trái, italic): "Đá bờ sông lạnh. Lạnh xuyên lụa, xuyên da, vào tủy xương. Linh ngồi đó đã lâu — không biết bao lâu."
 
 CAPTION (italic, nhỏ): "Đau thì tốt. Đau nghĩa là còn cảm giác."
 
@@ -241,7 +241,7 @@ CAPTION (italic, nhỏ): "Bước chân khuất dần trong bóng tối. Giọng
 ─────────────────────────────────────
 
 PANEL 3 — KEY PANEL — NHẬN RA — TÌNH YÊU KHÔNG CẦN KÝ ỨC
-Góc máy: Close-up Linh's face — đứng một mình bờ sông — mắt mở — sting — nhưng rõ — sáng — nhận ra điều gì đó — từ từ rồi đột ngột rồi rõ ràng không thể chối — như nhận ra trời sáng — mắt không khóc — nhưng sáng — phản chi sao — phản chi sông — phản chi hơi ấm vừa rời — nhưng còn — da đã ghi — xương đã nhớ — không cần ký ức — không cần sổ — không cần ai kể lại — chỉ cần biết — biết là đủ. Gio nhẹ thổi — tóc bob bay — vai trần lạnh — nhưng trong — trống nhưng rõ — khác trống trang 1 — trống đã hiểu.
+Góc máy: Close-up Linh's face — đứng một mình bờ sông — mắt mở — sting — nhưng rõ — sáng — nhận ra điều gì đó — từ từ rồi đột ngột rồi rõ ràng không thể chối — như nhận ra trời sáng — mắt không khóc — nhưng sáng — phản chi sao — phản chi sông — phản chi hơi ấm vừa rời — nhưng còn — da đã ghi — xương đã nhớ — không cần ký ức — không cần sổ — không cần ai kể lại — chỉ cần biết — biết là đủ. Gio nhẹ thổi — tóc bob bay — vai trần lạnh — lụa bay theo gió — đường cong thân thể lộ — eo hóp — bụng thoáng hiện — gợi cảm bốc lửa giữa đêm trong — nhưng trong — trống nhưng rõ — khác trống trang 1 — trống đã hiểu.
 
 CAPTION (italic, lớn): "Tình yêu không cần ký ức."
 
@@ -252,7 +252,7 @@ CAPTION (italic, nhỏ): "Biết tình yêu là quyết định lặp lại, kh�
 ─────────────────────────────────────
 
 PANEL 4 — BƯỚC VỀ QUÁN — TAY TRONG TÚI — LẠNH
-Góc máy: Medium shot — Linh quay lưng lại sông — bước về phía quán bà Tâm — bước chậm — đá dưới chân trơn — ẩm — phủ rêu mỏng — đi cẩn thận — không vội. Tay nhét túi quần — ngón chạm nhau — cọ xát — tìm hơi ấm — không thấy — hơi ấm chỉ ở tay Lịch — tay Lịch đã rời — nhưng — và đây là điều vừa nhận ra — không cần tay Lịch ở đó để biết nó ấm — biết rồi — da đã ghi — xương đã nhớ — khác với ký ức Rửa cướp đi — loại ghi nhớ này nằm sâu hơn — dưới da — dưới thịt — nơi nước không chạm tới. Quán bà Tâm gần hơn — đèn vàng — cửa sổ sáng — ấm.
+Góc máy: Medium shot — Linh quay lưng lại sông — bước về phía quán bà Tâm — bước chậm — đá dưới chân trơn — ẩm — phủ rêu mỏng — đi cẩn thận — không vội — lụa bay theo bước — đùi trần ẩn hiện dưới ống rộng — eo thon hóp — vai trần — gợi cảm nhẹ nhàng trong đêm tĩnh. Tay nhét túi quần — ngón chạm nhau — cọ xát — tìm hơi ấm — không thấy — hơi ấm chỉ ở tay Lịch — tay Lịch đã rời — nhưng — và đây là điều vừa nhận ra — không cần tay Lịch ở đó để biết nó ấm — biết rồi — da đã ghi — xương đã nhớ — khác với ký ức Rửa cướp đi — loại ghi nhớ này nằm sâu hơn — dưới da — dưới thịt — nơi nước không chạm tới. Quán bà Tâm gần hơn — đèn vàng — cửa sổ sáng — ấm — đường cong thân thể Linh in hờ dưới lụa mỏng — gợi cảm bốc lửa giữa đêm và đèn.
 
 CAPTION (italic): "Linh nhét tay vào túi quần. Lạnh. Ngón tay chạm nhau, cọ xát, tìm hơi ấm. Không thấy."
 
@@ -261,7 +261,7 @@ CAPTION (italic, nhỏ): "Nhưng — không cần tay Lịch ở đó để bi�
 ─────────────────────────────────────
 
 PANEL 5 — BẬC THỀM QUÁN BÀ TÂM — LY NƯỚC — NGỒI
-Góc máy: Medium-wide shot — bậc thềm quán bà Tâm — Linh ngồi xuống — không vào — chưa vào — cạnh ly nước ngoài bậc thềm — ly đầy — không ai uống — hơi bốc yếu — đèn vàng qua cửa sổ — bên trong bóng bà Tâm di chuyển chậm — lau bàn — xếp ghế — dọn ly — không nhìn ra — nhưng biết ai ngồi ngoài. Linh lưng tựa cột — chân duỗi — áo lụa dính sương — mỏng — nhìn sông lần cuối đêm nay — nước vẫn chảy — sông không dừng — nhưng Linh nghe tiếng chảy rõ hơn — rõ vì không mưa — rõ vì đầu trống vừa đủ — rõ vì biết mai sẽ đi.
+Góc máy: Medium-wide shot — bậc thềm quán bà Tâm — Linh ngồi xuống — không vào — chưa vào — cạnh ly nước ngoài bậc thềm — ly đầy — không ai uống — hơi bốc yếu — đèn vàng qua cửa sổ — bên trong bóng bà Tâm di chuyển chậm — lau bàn — xếp ghế — dọn ly — không nhìn ra — nhưng biết ai ngồi ngoài. Linh lưng tựa cột — chân duỗi — đùi trần lộ dưới palazzo — eo hóp — bụng thoáng hiện — áo lụa dính sương — mỏng — da lộ — vai trần — xương quai xanh — gợi cảm thanh đạm dưới đèn vàng yếu — nhìn sông lần cuối đêm nay — nước vẫn chảy — sông không dừng — nhưng Linh nghe tiếng chảy rõ hơn — rõ vì không mưa — rõ vì đầu trống vừa đủ — rõ vì biết mai sẽ đi — gợi cảm bốc lửa ngay lúc nặng lòng.
 
 CAPTION (italic): "Linh ngồi xuống bậc thềm. Không vào. Chưa vào. Ngồi cạnh ly nước, nhìn sông lần cuối đêm nay."
 
@@ -270,7 +270,7 @@ CAPTION (italic, nhỏ): "Nước vẫn chảy. Sông không dừng bao giờ. N
 ─────────────────────────────────────
 
 PANEL 6 — FINAL — CHỜ SÁNG — MAI — HƯƠNG THỦY — CẢNH
-Góc máy: Wide shot — bậc thềm quán bà Tâm — Linh ngồi nhỏ — một mình — cạnh ly nước đầy — đèn vàng — quán — bờ sông xa — sao — trời vẫn trong — không mưa — yên — chờ. Không gian mở ra — quán là điểm ấm duy nhất — Linh ngồi giữa ấm và lạnh — giữa đèn và đêm — giữa hôm nay và mai — giữa buông và giữ — chờ sáng — chờ can đảm — chờ bước. Quánstable — ly nước stable — sao stable — mọi thứ chờ — cùng chờ.
+Góc máy: Wide shot — bậc thềm quán bà Tâm — Linh ngồi nhỏ — một mình — cạnh ly nước đầy — đèn vàng — quán — bờ sông xa — sao — trời vẫn trong — không mưa — yên — chờ — đùi trần — eo hóp — vai trần — lụa dính sương — mỏng — đường cong thân thể in hờ dưới đèn vàng — gợi cảm thanh đạm — đẹp buồn — gợi cảm ngay lúc nặng lòng nhất. Không gian mở ra — quán là điểm ấm duy nhất — Linh ngồi giữa ấm và lạnh — giữa đèn và đêm — giữa hôm nay và mai — giữa buông và giữ — chờ sáng — chờ can đảm — chờ bước. Quán stable — ly nước stable — sao stable — mọi thứ chờ — cùng chờ.
 
 CAPTION (italic, giữa trang): "Mai. Mai Linh sẽ đi Hương Thủy."
 

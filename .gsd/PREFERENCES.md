@@ -2,7 +2,7 @@
 version: 1
 mode: solo
 git:
-  isolation: worktree
+  isolation: none
   main_branch: master
   auto_push: true
 verification_commands:

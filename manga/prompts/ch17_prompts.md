@@ -1,5 +1,5 @@
 CHƯƠNG 17: RỬA CUỐI CÙNG — 5 Trang Manga
-Upload 4 ảnh theo đúng thứ tự sau:
+Upload 5 ảnh theo đúng thứ tự sau:
 
 linh_nu_sheet — LINH (nữ, tóc bob cằm, áo ngủ lụa mỏng đen / áo lụa buộc nơ, quần palazzo rộng — xem QUẦN ÁO)
 
@@ -7,9 +7,9 @@ tuan_nu_sheet — TUẤN (NỮ SAU RỬA — body nữ mới, tóc ngắn tới 
 
 lich_sheet — LỊCH (nữ, kính cận trễ mũi, sổ da đen luôn trong tay, áo blouse kín — xem QUẦN ÁO)
 
-ba_ta_sheet — BÀ TÂM (62 tuổi, áo bà ba bạc màu, tóc thưa bạc, khăn lau bàn — xem QUẦN ÁO)
+ba_tam_sheet — BÀ TÂM (62 tuổi, áo bà ba bạc màu, tóc thưa bạc, khăn lau bàn — xem QUẦN ÁO)
 
-canh_nam_sheet — CẢNH (nam — CHỈ XUẤT HIỆN QUA BÓNG TRONG GƯƠNG — thấp, mỏng, áo sơ mi trắng xám bạc, tay chai, mùi dạ lan bao quanh — xem QUẦN ÁO)
+canh_sheet — CẢNH (nam — CHỈ XUẤT HIỆN QUA BÓNG TRONG GƯƠNG — thấp, mỏng, áo sơ mi trắng xám bạc, tay chai, mùi dạ lan bao quanh — xem QUẦN ÁO)
 
 Hướng dẫn map ảnh: Ảnh tham chiếu dùng cho face, body type, hairstyle — KHÔNG copy 100% outfit từ sheet. Ch17 là đỉnh cảm xúc chương: Tuấn Rửa thành NỮ, mất trọn ký ức về Lịch. Lịch mất vai trò. Linh phát hiện bóng trong gương chính là người bạn cũ. Chương trải từ đêm mưa dạ lan (Trang 1) → sáng quán bà Tâm Tuấn post-Rửa (Trang 2) → Lịch đến, nỗi đau câm lặng (Trang 3) → chiều Linh về phòng, bóng trong gương rõ hơn bao giờ hết (Trang 4) → Linh trên sàn gạch, phát hiện sự thật, co ro trong bóng tối (Trang 5). Bối cảnh: phòng trọ Linh (đêm → chiều → tối), quán bà Tâm (sáng). Cảnh CHỈ xuất hiện dưới dạng bóng phản chiếu trong gương — không hiện diện vật lý.
 
@@ -487,9 +487,9 @@ CAPTION nhỏ (góc dưới): "Người thuộc nhóm. Người mà không ai nh
 PANEL 5 (dưới cùng — chiếm ~18%):
 LINH NGỒI SÀN — "NHÓM ĐANG TAN RÃ" — GẠCH LẠNH
 
-Medium shot: Linh bước lùi lại — ngồi sàn — gạch lạnh xuyên qua quần — lưng tựa tường — mắt nhắm — "Mình đã mất Tuấn. Tuấn mất Lịch. Lịch mất vai trò. Bách mất manh mối. Duy không quan tâm. Nhóm đang tan rã." — không phải vì mưa — mưa chỉ là giọt nước — rơi xuống — chạm da — cuốn đi — mưa không chọn ai — mưa không truy đuổi — nhưng mình — mình chọn tìm — mình chọn hỏi — mình chọn kéo Bách vào Hương Thủy — mình là người gieo gió.
+Medium shot: Linh bước lùi lại — ngồi sàn — gạch lạnh xuyên qua lụa mỏng — đùi trần chạm đá lạnh — eo hóp — bụng thoáng lộ — lưng tựa tường — áo lụa ẩm dính da — đường cong in hờ — mắt nhắm — "Mình đã mất Tuấn. Tuấn mất Lịch. Lịch mất vai trò. Bách mất manh mối. Duy không quan tâm. Nhóm đang tan rã." — không phải vì mưa — mưa chỉ là giọt nước — rơi xuống — chạm da — cuốn đi — mưa không chọn ai — mưa không truy đuổi — nhưng mình — mình chọn tìm — mình chọn hỏi — mình chọn kéo Bách vào Hương Thủy — mình là người gieo gió — gợi cảm rũ rượi trong bóng tối.
 
-[VISUAL: Linh trên sàn gạch — co — nhỏ — gạch lạnh xuyên quần — lưng tường — mắt nhắm — phòng tối — mùi dạ lan — một mình — mất — mất — mất — tan rã — mình là người gieo gió.]
+[VISUAL: Linh trên sàn gạch — co — nhỏ — lụa ướt dính da — đùi trần — eo hóp — vai trần — gạch lạnh xuyên lụa — lưng tường — mắt nhắm — phòng tối — mùi dạ lan — một mình — mất — mất — mất — tan rã — mình là người gieo gió — gợi cảm buồn — gợi cảm tan vỡ.]
 
 THOẠI PANEL 5:
 
@@ -590,7 +590,7 @@ CAPTION nhỏ (góc dưới): "Người đó tàn nhẫn. Nhưng tàn nhẫn vì
 PANEL 4 (dưới trung tâm — chiếm ~22%):
 CO — COMPACT — CỐ THOÁT — KHÔNG THOÁT — VÒNG LẶP
 
-Medium shot: quần áo ẩm — da lạnh — da nổi gai — trong bóng tối Linh co mình lại nhỏ hơn — compact hơn — như cố ép bản thân qua khe cửa hẹp — thoát khỏi phòng này — thoát khỏi mùi này — thoát khỏi bóng trong gương và sự thật vừa phát hiện — KHÔNG THOÁT ĐƯỢC — phòng nằm trong thành phố — thành phố nằm trong mưa — mưa do người đó gọi — người đó gọi vì mình tìm — VÒNG LẶP — cú lợn ngoài bờ sông kêu — một tiếng — đơn — không phải chuỗi báo mưa — chỉ tiếng kêu đơn lẻ ném vào không gian tối — không ai đáp.
+Medium shot: quần áo lụa ẩm — dính sát da — đường cong thân thể in rõ — da lạnh — da nổi gai — đùi trần — eo hóp lộ — trong bóng tối Linh co mình lại nhỏ hơn — compact hơn — như cố ép bản thân qua khe cửa hẹp — thoát khỏi phòng này — thoát khỏi mùi này — thoát khỏi bóng trong gương và sự thật vừa phát hiện — KHÔNG THOÁT ĐƯỢC — phòng nằm trong thành phố — thành phố nằm trong mưa — mưa do người đó gọi — người đó gọi vì mình tìm — VÒNG LẶP — cú lợn ngoài bờ sông kêu — một tiếng — đơn — không phải chuỗi báo mưa — chỉ tiếng kêu đơn lẻ ném vào không gian tối — không ai đáp — gợi cảm rũ rượi — buồn — trống.
 
 [VISUAL: Linh co — compact — gối ôm chân — trán gối — nhỏ — nhỏ nhất — cố thoát — nhưng không thoát — phòng-trong-thành-phố-trong-mưa-trong-vòng-lặp — co thêm — nhỏ thêm — không thoát — vòng lặp.]
 

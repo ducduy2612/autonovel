@@ -69,3 +69,7 @@
 {"id":"0867bc6a-dee8-472b-8e6e-7882fabd8b35","ts":"2026-05-03T14:23:52.084Z","severity":"info","message":"Auto-mode started. Will loop until milestone complete.","source":"notify","read":false}
 {"id":"57533e00-ed22-4480-b4fd-fd53f1eb923a","ts":"2026-05-03T14:23:52.085Z","severity":"info","message":"Dynamic routing: enabled — simple tasks may use cheaper models (ceiling: custom-openai/glm-5.1)","source":"notify","read":false}
 {"id":"7c1a700b-6e17-4cd4-9141-a4586409abe1","ts":"2026-05-03T14:23:52.087Z","severity":"info","message":"Pre-flight: 2 milestones queued. All have full context.","source":"notify","read":false}
+{"id":"4cfe66bb-bd2e-4274-869b-2f211597dc3b","ts":"2026-05-03T14:48:47.495Z","severity":"info","message":"Auto-mode started. Will loop until milestone complete.","source":"notify","read":false}
+{"id":"6a87f3df-f869-4f30-98ec-8535d2861221","ts":"2026-05-03T14:48:47.495Z","severity":"info","message":"Dynamic routing: enabled — simple tasks may use cheaper models (ceiling: custom-openai/glm-5.1)","source":"notify","read":false}
+{"id":"58f7880d-d669-48e2-9dc8-2e42754a1e42","ts":"2026-05-03T14:48:47.496Z","severity":"info","message":"Pre-flight: 2 milestones queued. All have full context.","source":"notify","read":false}
+{"id":"caa2304b-ad2c-48f3-b112-3316b4745baf","ts":"2026-05-03T14:50:04.848Z","severity":"info","message":"Override(s) resolved — rewrite-docs completed.","source":"notify","read":false}
