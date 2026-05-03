@@ -1,7 +1,7 @@
 # Codebase Map
 
-Generated: 2026-05-03T05:41:50Z | Files: 223 | Described: 0/223
-<!-- gsd:codebase-meta {"generatedAt":"2026-05-03T05:41:50Z","fingerprint":"c4a946cf968b2f34f6bdedc9e7e98f3bf85b8056","fileCount":223,"truncated":false} -->
+Generated: 2026-05-03T08:23:00Z | Files: 228 | Described: 0/228
+<!-- gsd:codebase-meta {"generatedAt":"2026-05-03T08:23:00Z","fingerprint":"362d7f293e7d97a19f002a46712c45b5133e6807","fileCount":228,"truncated":false} -->
 
 ### (root)/
 - *(62 files: 38 .py, 15 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
@@ -59,8 +59,13 @@ Generated: 2026-05-03T05:41:50Z | Files: 223 | Described: 0/223
 - `manga/prompts/ch07_prompts.md`
 - `manga/prompts/ch08_prompts.md`
 - `manga/prompts/ch09_prompts.md`
+- `manga/prompts/ch10_prompts.md`
 - `manga/prompts/ch11_prompts.md`
 - `manga/prompts/ch12_prompts.md`
+- `manga/prompts/ch13_prompts.md`
+- `manga/prompts/ch14_prompts.md`
+- `manga/prompts/ch15_prompts.md`
+- `manga/prompts/ch16_prompts.md`
 
 ### scripts/
 - `scripts/verify_vi_pipeline.sh`

@@ -24,6 +24,9 @@ in that language. Vietnamese (`vi`) is fully supported alongside English (`en`).
   - Evaluation adapted: English regex gated behind language check, language-agnostic stats preserved, LLM judge evaluates Vietnamese directly
   - Export adapted: epub metadata `lang` field, LaTeX `\usepackage[vietnamese]{babel}`, state.json language field
   - 96 automated tests covering all language behaviors with zero regressions
+- **Manga prompt generation in progress (M002)**: Generating manga prompt files for ch09–ch24 in Vietnamese
+  - ch09–ch12 complete (S01)
+  - ch13–ch16 complete (S02): search arc — Bách goes to Hương Thủy, Linh meets Bà Lụa, love triangle shifts, Bách encounters Cảnh
 - `run_pipeline.py` orchestrates the full pipeline with state management
 
 ## Architecture / Key Patterns
@@ -52,6 +55,6 @@ See `.gsd/REQUIREMENTS.md` for the explicit capability contract, requirement sta
 
 - [ ] M002: Manga Prompts Ch09–Ch24 — Complete manga prompt set for chapters 9–24
   - ✅ S01: Investigation Arc Ch09–Ch12 — 4 prompt files (ch09–ch12) generated with correct format, genders, Vietnamese text, 3-5 trang each
-  - ⬜ S02: Search Arc Ch13–Ch16
+  - ✅ S02: Search Arc Ch13–Ch16 — 4 prompt files (ch13–ch16) generated. Group argument, Bà Lụa/Rửa revelation, love shift, Bách-Cảnh encounter
   - ⬜ S03: Confrontation Arc Ch17–Ch20
   - ⬜ S04: Resolution Arc Ch21–Ch24

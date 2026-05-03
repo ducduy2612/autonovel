@@ -31,3 +31,15 @@
 
 - **contains_vietnamese() helper in test_s05_e2e.py**: Detects Vietnamese-specific diacritical characters (ă, â, đ, ê, ô, ơ, ư). Used in integration tests to verify Vietnamese output. These characters are unique to Vietnamese and don't appear in other Latin-script languages.
 - **Vietnamese seed concept (seed_vi.txt)**: Uses a fragrance-magic theme in Trường Sơn mountains setting with Vietnamese cultural elements. ~723 words of natural Vietnamese prose.
+
+## test_s05_e2e.py
+
+- **Mock uv_run must accept **kwargs**: run_pipeline.py passes `extra_env` to uv_run. Mocks that only accept `(script, timeout=600)` will raise TypeError. Always use `def mock_uv_run(script, timeout=600, **kwargs)` in tests.
+- **Foundation phase has 6 uv_run calls per iteration**: gen_world, gen_characters, gen_outline, gen_outline_part2, gen_canon, evaluate. `_generate_voice_part2()` and `_generate_mystery()` use `call_writer` directly (not uv_run) and return None when API_KEY is not set.
+- **API response format is OpenAI-compatible**: writer.py sends `{"messages": [{"role": "system", "content": ...}]}` and expects `{"choices": [{"message": {"content": ...}}]}` in response. Tests must mock both the request format and response format accordingly.
+
+## Manga prompt format
+
+- **Trang headers have two-line format**: `TRANG N: TITLE` followed by `TRANG 1024x1536 pixels, portrait.` on next line. When grepping for trang count, use `grep '^TRANG [0-9]'` and divide by 2, or match more specifically on `TRANG [0-9]*:` (title lines only).
+- **Incremental writes required**: Each trang must be written as a separate append operation due to LLM backend write limits. Never write the entire file in one operation.
+- **Vietnamese content throughout**: All panel descriptions, captions, thought bubbles, and narrative notes are in Vietnamese. Character names and key terms stay in Vietnamese.

@@ -98,3 +98,12 @@
 {"id":"3ff948f5-e775-4803-81fb-d879817a51aa","ts":"2026-05-03T07:59:57.830Z","severity":"warning","message":"Safety: 3 unexpected file change(s) outside task plan","source":"notify","read":false}
 {"id":"b8949450-0d3f-4249-8e78-04983a4e5b89","ts":"2026-05-03T07:59:58.952Z","severity":"info","message":"Verification gate: FAILED — pytest","source":"notify","read":false}
 {"id":"043e23eb-7206-4e5a-af5d-8c53e87648ff","ts":"2026-05-03T07:59:58.952Z","severity":"warning","message":"Verification failed (pytest) — auto-fix attempt 1/2","source":"notify","read":false}
+{"id":"0cca8c61-7753-4b60-a55e-e32a14727472","ts":"2026-05-03T08:09:03.402Z","severity":"info","message":"Committed: feat: Generated ch16_prompts.md with 4 trang manga prompts for Bách-Cản…","source":"notify","read":false}
+{"id":"c03fb006-3b54-4f7e-8e0a-2f1ff694b11f","ts":"2026-05-03T08:09:03.409Z","severity":"warning","message":"[safety] file-change: results.tsv — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"aaab977d-256b-4b4e-a078-c20a958053c9","ts":"2026-05-03T08:09:03.409Z","severity":"warning","message":"Safety: 1 unexpected file change(s) outside task plan","source":"notify","read":false}
+{"id":"5dd38641-378e-454f-917d-88b81b83b4a5","ts":"2026-05-03T08:09:04.571Z","severity":"info","message":"Verification gate: FAILED — pytest","source":"notify","read":false}
+{"id":"9b109409-3b62-4b49-a477-db4d1d87dfb7","ts":"2026-05-03T08:09:04.571Z","severity":"warning","message":"Verification failed (pytest) — auto-fix attempt 1/2","source":"notify","read":false}
+{"id":"648b89e5-4e0d-4ca3-a6ab-4b8f3b4aa4af","ts":"2026-05-03T08:32:11.735Z","severity":"warning","message":"Auto-mode paused due to provider error: Request timed out.","source":"notify","read":false}
+{"id":"7c33f70b-e3ee-4141-8396-89546f71cfb0","ts":"2026-05-03T08:32:12.044Z","severity":"info","message":"Auto-mode paused (Escape). Type to interact, or /gsd auto to resume.","source":"notify","read":false}
+{"id":"cbbe9392-5268-40ab-bbc7-58e0fbe99854","ts":"2026-05-03T09:45:16.066Z","severity":"info","message":"Entered worktree for M002 at /home/converter/code/autonovel/.gsd/worktrees/M002","source":"notify","read":false}
+{"id":"fccd6f44-ae43-4481-b201-10908caf8fb0","ts":"2026-05-03T09:45:16.066Z","severity":"info","message":"Auto-mode resumed.","source":"notify","read":false}

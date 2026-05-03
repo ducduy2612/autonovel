@@ -114,7 +114,6 @@ class TestPipelineFileWriting:
             self._fake_completed_process("# Outline"),
             self._fake_completed_process("# Foreshadowing"),
             self._fake_completed_process("# Canon"),
-            self._fake_completed_process(""),
             self._fake_completed_process("overall_score: 8.0\nlore_score: 7.5"),
         ])
         monkeypatch.setattr(rp, "uv_run", lambda *a, **kw: next(calls))
@@ -144,7 +143,6 @@ class TestPipelineFileWriting:
             self._fake_completed_process(part1),  # gen_outline.py
             self._fake_completed_process(part2),  # gen_outline_part2.py
             self._fake_completed_process("# Canon"),
-            self._fake_completed_process(""),
             self._fake_completed_process("overall_score: 8.0\nlore_score: 7.5"),
         ])
         monkeypatch.setattr(rp, "uv_run", lambda *a, **kw: next(calls))
@@ -177,7 +175,6 @@ class TestPipelineFileWriting:
             self._fake_completed_process("# Outline"),
             self._fake_completed_process("# Foreshadowing"),
             self._fake_completed_process(fake_canon),
-            self._fake_completed_process(""),
             self._fake_completed_process("overall_score: 8.0\nlore_score: 7.5"),
         ])
         monkeypatch.setattr(rp, "uv_run", lambda *a, **kw: next(calls))
@@ -194,7 +191,7 @@ class TestPipelineFileWriting:
         assert fake_canon in canon_file.read_text()
 
     def test_voice_fingerprint_no_planning_doc_write(self, tmp_path, monkeypatch):
-        """voice_fingerprint.py is called but doesn't write any planning doc file."""
+        """voice_fingerprint.py is not called during foundation phase."""
         monkeypatch.setenv("AUTONOVEL_LANGUAGE", "en")
         import run_pipeline as rp
         importlib.reload(rp)
@@ -205,7 +202,6 @@ class TestPipelineFileWriting:
             self._fake_completed_process("# Outline"),
             self._fake_completed_process("# Foreshadowing"),
             self._fake_completed_process("# Canon"),
-            self._fake_completed_process("voice_fingerprint output"),
             self._fake_completed_process("overall_score: 8.0\nlore_score: 7.5"),
         ])
         monkeypatch.setattr(rp, "uv_run", lambda *a, **kw: next(calls))
@@ -237,7 +233,6 @@ class TestPipelineFileWriting:
             self._fake_completed_process("# Outline"),
             self._fake_completed_process("# Foreshadowing"),
             self._fake_completed_process("# Canon"),
-            self._fake_completed_process(""),
             self._fake_completed_process("overall_score: 8.0\nlore_score: 7.5"),
         ])
         monkeypatch.setattr(rp, "uv_run", lambda *a, **kw: next(calls))
@@ -267,7 +262,6 @@ class TestPipelineFileWriting:
             self._fake_completed_process("# Outline"),
             self._fake_completed_process("# Foreshadowing"),
             self._fake_completed_process("# Canon"),
-            self._fake_completed_process(""),
             self._fake_completed_process("overall_score: 8.0\nlore_score: 7.5"),
         ])
         monkeypatch.setattr(rp, "uv_run", lambda *a, **kw: next(calls))
@@ -305,12 +299,12 @@ class TestLanguageInstructionWiring:
 
     @staticmethod
     def _mock_api_response(text: str = "Generated content here."):
-        """Return a mock httpx.Response that looks like a successful Anthropic call."""
+        """Return a mock httpx.Response that looks like a successful API call."""
         mock_resp = MagicMock()
         mock_resp.status_code = 200
         mock_resp.raise_for_status = MagicMock()
         mock_resp.json.return_value = {
-            "content": [{"text": text}],
+            "choices": [{"message": {"content": text}}],
         }
         return mock_resp
 
@@ -347,6 +341,11 @@ class TestLanguageInstructionWiring:
             importlib.reload(mod)
             mod.call_writer("test prompt")
 
+        # System prompt is in messages[0].content (role=system)
+        messages = captured_payload.get("messages", [])
+        for msg in messages:
+            if msg.get("role") == "system":
+                return msg.get("content", "")
         return captured_payload.get("system", "")
 
     # -- gen_world.py system prompt --
@@ -683,7 +682,7 @@ class TestEndToEndVietnameseFoundationChain:
         }
         call_count = [0]
 
-        def mock_uv_run(script, timeout=600):
+        def mock_uv_run(script, timeout=600, **kwargs):
             # Extract script name from the command "uv run python <script>"
             script_name = script.strip().split()[-1] if " " in script else script
             stdout = script_outputs.get(script_name, "")
@@ -779,7 +778,7 @@ class TestEndToEndVietnameseFoundationChain:
             "voice_fingerprint.py": "",
         }
 
-        def mock_uv_run(script, timeout=600):
+        def mock_uv_run(script, timeout=600, **kwargs):
             script_name = script.strip().split()[-1] if " " in script else script
             if "evaluate.py" in script:
                 return self._fake_completed_process(
@@ -835,7 +834,6 @@ class TestScriptExecutionLogging:
             self._fake_completed_process("# Outline"),
             self._fake_completed_process("# Foreshadowing"),
             self._fake_completed_process("# Canon"),
-            self._fake_completed_process(""),
             self._fake_completed_process("overall_score: 8.0\nlore_score: 7.5"),
         ])
         monkeypatch.setattr(rp, "uv_run", lambda *a, **kw: next(calls))
@@ -877,7 +875,6 @@ class TestScriptExecutionLogging:
             self._fake_completed_process("# Outline"),
             self._fake_completed_process("# Foreshadowing"),
             self._fake_completed_process("# Canon"),
-            self._fake_completed_process(""),
             self._fake_completed_process("overall_score: 8.0\nlore_score: 7.5"),
         ])
         monkeypatch.setattr(rp, "uv_run", lambda *a, **kw: next(calls))
