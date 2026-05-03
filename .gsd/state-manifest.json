@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exported_at": "2026-05-03T17:14:09.128Z",
+  "exported_at": "2026-05-03T17:23:36.935Z",
   "milestones": [
     {
       "id": "M001",
@@ -1224,19 +1224,21 @@
       "milestone_id": "M002",
       "slice_id": "S04",
       "id": "T04",
-      "title": "Ch24: Trời Trong — manga prompts (incremental)",
-      "status": "pending",
-      "one_liner": "",
-      "narrative": "",
-      "verification_result": "",
+      "title": "Generated ch24_prompts.md with 4 trang of manga prompts for the Trời Trong epilogue chapter: people arriving, Duy's departure announcement, Cảnh entering quán for the first time in 2000 nights to sit in the empty chair, Bà Tâm placing the glass, group dispersing, and Linh walking alone toward xưởng may in sunshine.",
+      "status": "complete",
+      "one_liner": "Generated ch24_prompts.md with 4 trang of manga prompts for the Trời Trong epilogue chapter: people arriving, Duy's departure announcement, Cảnh entering quán for the first time in 2000 nights to sit in the empty chair, Bà Tâm placing the glass, group dispersing, and Linh walking alone toward xưởng may in sunshine.",
+      "narrative": "Read ch_24.md (full chapter text) and summary_24.md to capture all narrative beats for the epilogue chapter. Built ch24_prompts.md incrementally in 4 trang writes, following the established format from ch21-23:\n\n**Trang 1 — Sáng Trong, Người Đến Từng Người:** Establishing shot of quán bà Tâm under clear sky with sông Hương đáy sỏi lộ. Lịch arrives first (sổ da not opened), Bà Tâm places drinks (cà phê + trà đá, thói quen), Tuấn arrives with kẹp tóc (small change), Bách arrives and MỈM CƯỜI for the first time while counting heads.\n\n**Trang 2 — Duy Thông Báo Chuyển Đi:** Duy arrives late, steps slow, announces move to Đà Nẵng. Group reacts in silence. Lịch opens sổ for the first time to write. Bách says \"Thì về thăm\" — harsh voice but not angry. Duy: \"Người mới thì mới. Chưa sâu. Chưa đủ để sợ.\"\n\n**Trang 3 — Cảnh Bước Vào Quán (KEY):** The pivotal scene — empty chair at head of table, six years empty. Cảnh stops at door, looks in, WALKS TO THE CHAIR, pulls it out, SITS DOWN. Bà Tâm brings a glass of water — places it before Cảnh. \"Uống đi.\" Giọng không đổi. Cảnh drinks, corner of lip slightly curved. Tuấn asks \"Bạn hả?\", Linh: \"Ừ. Bạn.\" Six people at the table, silence warm and dense.\n\n**Trang 4 — Nhóm Tan, Cảnh Cảm Ơn, Linh Đi Trong Nắng:** Group disperses one by one. Duy leaves (crying real), Bách waves without looking back, Lịch touches Linh's shoulder, walks with Tuấn side by side. Cảnh says \"Cảm ơn\" — two words, small, hoarse — then leaves, turns back \"Linh\", eyes wet, \"Không có gì. Thôi.\" Bà Tâm keeps Cảnh's half-finished glass on the shelf. Linh touches chest — nhẹ — walks toward xưởng may in sunshine. Final caption: \"Chưa phải mãi mãi. Nhưng chưa là đủ.\"\n\nColor palette: VÀNG NẮNG (warm Huế sunshine), XANH TRỜI (clear sky), NÂU GỖ QUÁN (warm wood), XANH SÔNG (clear river), TRẮNG ÁO CẢNH. Red threads: ghế trống → ghế có người, nắng/trời trong xuyên chương, nhẹ (thay vì trống). All characters described with consistent post-Rửa appearances.",
+      "verification_result": "Verified file exists at manga/prompts/ch24_prompts.md (452 lines, 4 trang, 25 panels across 7+6+7+7 layout). Key content checks: Cảnh enters quán and sits in chair (29 references), Bà Tâm places glass (18 references), warm/nắng palette (44 references), trời trong throughout (13 references), ghế trống → ghế có người motif (19 references). Epilogue tone confirmed: warm palette (VÀNG NẮNG + XANH TRỜI dominant), resolution arc complete, final caption present.",
       "duration": "",
-      "completed_at": null,
+      "completed_at": "2026-05-03T17:23:36.925Z",
       "blocker_discovered": false,
-      "deviations": "",
-      "known_issues": "",
-      "key_files": [],
+      "deviations": "None.",
+      "known_issues": "None.",
+      "key_files": [
+        "manga/prompts/ch24_prompts.md"
+      ],
       "key_decisions": [],
-      "full_summary_md": "",
+      "full_summary_md": "---\nid: T04\nparent: S04\nmilestone: M002\nkey_files:\n  - manga/prompts/ch24_prompts.md\nkey_decisions:\n  - (none)\nduration: \nverification_result: passed\ncompleted_at: 2026-05-03T17:23:36.925Z\nblocker_discovered: false\n---\n\n# T04: Generated ch24_prompts.md with 4 trang of manga prompts for the Trời Trong epilogue chapter: people arriving, Duy's departure announcement, Cảnh entering quán for the first time in 2000 nights to sit in the empty chair, Bà Tâm placing the glass, group dispersing, and Linh walking alone toward xưởng may in sunshine.\n\n**Generated ch24_prompts.md with 4 trang of manga prompts for the Trời Trong epilogue chapter: people arriving, Duy's departure announcement, Cảnh entering quán for the first time in 2000 nights to sit in the empty chair, Bà Tâm placing the glass, group dispersing, and Linh walking alone toward xưởng may in sunshine.**\n\n## What Happened\n\nRead ch_24.md (full chapter text) and summary_24.md to capture all narrative beats for the epilogue chapter. Built ch24_prompts.md incrementally in 4 trang writes, following the established format from ch21-23:\n\n**Trang 1 — Sáng Trong, Người Đến Từng Người:** Establishing shot of quán bà Tâm under clear sky with sông Hương đáy sỏi lộ. Lịch arrives first (sổ da not opened), Bà Tâm places drinks (cà phê + trà đá, thói quen), Tuấn arrives with kẹp tóc (small change), Bách arrives and MỈM CƯỜI for the first time while counting heads.\n\n**Trang 2 — Duy Thông Báo Chuyển Đi:** Duy arrives late, steps slow, announces move to Đà Nẵng. Group reacts in silence. Lịch opens sổ for the first time to write. Bách says \"Thì về thăm\" — harsh voice but not angry. Duy: \"Người mới thì mới. Chưa sâu. Chưa đủ để sợ.\"\n\n**Trang 3 — Cảnh Bước Vào Quán (KEY):** The pivotal scene — empty chair at head of table, six years empty. Cảnh stops at door, looks in, WALKS TO THE CHAIR, pulls it out, SITS DOWN. Bà Tâm brings a glass of water — places it before Cảnh. \"Uống đi.\" Giọng không đổi. Cảnh drinks, corner of lip slightly curved. Tuấn asks \"Bạn hả?\", Linh: \"Ừ. Bạn.\" Six people at the table, silence warm and dense.\n\n**Trang 4 — Nhóm Tan, Cảnh Cảm Ơn, Linh Đi Trong Nắng:** Group disperses one by one. Duy leaves (crying real), Bách waves without looking back, Lịch touches Linh's shoulder, walks with Tuấn side by side. Cảnh says \"Cảm ơn\" — two words, small, hoarse — then leaves, turns back \"Linh\", eyes wet, \"Không có gì. Thôi.\" Bà Tâm keeps Cảnh's half-finished glass on the shelf. Linh touches chest — nhẹ — walks toward xưởng may in sunshine. Final caption: \"Chưa phải mãi mãi. Nhưng chưa là đủ.\"\n\nColor palette: VÀNG NẮNG (warm Huế sunshine), XANH TRỜI (clear sky), NÂU GỖ QUÁN (warm wood), XANH SÔNG (clear river), TRẮNG ÁO CẢNH. Red threads: ghế trống → ghế có người, nắng/trời trong xuyên chương, nhẹ (thay vì trống). All characters described with consistent post-Rửa appearances.\n\n## Verification\n\nVerified file exists at manga/prompts/ch24_prompts.md (452 lines, 4 trang, 25 panels across 7+6+7+7 layout). Key content checks: Cảnh enters quán and sits in chair (29 references), Bà Tâm places glass (18 references), warm/nắng palette (44 references), trời trong throughout (13 references), ghế trống → ghế có người motif (19 references). Epilogue tone confirmed: warm palette (VÀNG NẮNG + XANH TRỜI dominant), resolution arc complete, final caption present.\n\n## Verification Evidence\n\n| # | Command | Exit Code | Verdict | Duration |\n|---|---------|-----------|---------|----------|\n| 1 | `test -f manga/prompts/ch24_prompts.md && echo EXISTS` | 0 | ✅ pass | 100ms |\n| 2 | `grep -c 'TRANG [0-9]' manga/prompts/ch24_prompts.md` | 0 | ✅ pass (4 trang found) | 100ms |\n| 3 | `wc -l manga/prompts/ch24_prompts.md` | 0 | ✅ pass (452 lines) | 100ms |\n| 4 | `grep -c 'Cảnh' manga/prompts/ch24_prompts.md` | 0 | ✅ pass (29 refs - Cảnh enters quán) | 100ms |\n| 5 | `grep -c 'Bà Tâm' manga/prompts/ch24_prompts.md` | 0 | ✅ pass (18 refs - glass scene) | 100ms |\n| 6 | `grep -c 'nắng\\|NẮNG\\|VÀNG' manga/prompts/ch24_prompts.md` | 0 | ✅ pass (44 refs - warm palette) | 100ms |\n\n## Deviations\n\nNone.\n\n## Known Issues\n\nNone.\n\n## Files Created/Modified\n\n- `manga/prompts/ch24_prompts.md`\n",
       "description": "Read ch24 full text. Write manga prompts INCREMENTALLY:\n\n**Step 1 — Header:** Write file header to ch24_prompts.md: chapter title, character sheets (Linh nữ, Lịch nữ, Tuấn nam, Bách nam, Duy nữ, Cảnh nam, Bà Tâm), outfit specs, color palette (clear sky, warm sunshine, epilogue), cross-page threads (three months later, Cảnh enters quán, glass, goodbyes).\n\n**Step 2 — Trang 1:** Append trang 1 (Three months later. Clear sky. Linh at usual table). Layout + panels.\n\n**Step 3 — Trang 2:** Append trang 2 (Five people gather — each arrives. Duy announces leaving for Đà Nẵng). Layout + panels.\n\n**Step 4 — Trang 3:** Append trang 3 (Cảnh — who sat outside 2000 nights — enters quán for first time, sits in the empty chair. Bà Tâm places glass). Layout + panels.\n\n**Step 5 — Trang 4:** Append trang 4 (Group disperses slowly. Linh walks toward xưởng may in sunshine). Layout + panels.\n\nEach step: read current file → extend with new trang. No single write exceeds ~150 lines. Settings: quán bà Tâm, đường phố Huế sáng. 4 trang — epilogue, warm tone, resolution.",
       "estimate": "35min",
       "files": [
@@ -1726,6 +1728,72 @@
       "verdict": "✅ pass — 16 occurrences, rain stops depicted",
       "duration_ms": 500,
       "created_at": "2026-05-03T17:14:09.117Z"
+    },
+    {
+      "id": 36,
+      "task_id": "T04",
+      "slice_id": "S04",
+      "milestone_id": "M002",
+      "command": "test -f manga/prompts/ch24_prompts.md && echo EXISTS",
+      "exit_code": 0,
+      "verdict": "✅ pass",
+      "duration_ms": 100,
+      "created_at": "2026-05-03T17:23:36.925Z"
+    },
+    {
+      "id": 37,
+      "task_id": "T04",
+      "slice_id": "S04",
+      "milestone_id": "M002",
+      "command": "grep -c 'TRANG [0-9]' manga/prompts/ch24_prompts.md",
+      "exit_code": 0,
+      "verdict": "✅ pass (4 trang found)",
+      "duration_ms": 100,
+      "created_at": "2026-05-03T17:23:36.925Z"
+    },
+    {
+      "id": 38,
+      "task_id": "T04",
+      "slice_id": "S04",
+      "milestone_id": "M002",
+      "command": "wc -l manga/prompts/ch24_prompts.md",
+      "exit_code": 0,
+      "verdict": "✅ pass (452 lines)",
+      "duration_ms": 100,
+      "created_at": "2026-05-03T17:23:36.925Z"
+    },
+    {
+      "id": 39,
+      "task_id": "T04",
+      "slice_id": "S04",
+      "milestone_id": "M002",
+      "command": "grep -c 'Cảnh' manga/prompts/ch24_prompts.md",
+      "exit_code": 0,
+      "verdict": "✅ pass (29 refs - Cảnh enters quán)",
+      "duration_ms": 100,
+      "created_at": "2026-05-03T17:23:36.925Z"
+    },
+    {
+      "id": 40,
+      "task_id": "T04",
+      "slice_id": "S04",
+      "milestone_id": "M002",
+      "command": "grep -c 'Bà Tâm' manga/prompts/ch24_prompts.md",
+      "exit_code": 0,
+      "verdict": "✅ pass (18 refs - glass scene)",
+      "duration_ms": 100,
+      "created_at": "2026-05-03T17:23:36.925Z"
+    },
+    {
+      "id": 41,
+      "task_id": "T04",
+      "slice_id": "S04",
+      "milestone_id": "M002",
+      "command": "grep -c 'nắng\\|NẮNG\\|VÀNG' manga/prompts/ch24_prompts.md",
+      "exit_code": 0,
+      "verdict": "✅ pass (44 refs - warm palette)",
+      "duration_ms": 100,
+      "created_at": "2026-05-03T17:23:36.925Z"
     }
   ]
 }

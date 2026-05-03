@@ -1,7 +1,7 @@
 CHƯƠNG 23: LỰA CHỌN - 5 Trang Manga
 Upload 2 ảnh theo đúng thứ tự sau:
 
-linh_nu_sheet - LINH (nữ, tóc bob cằm, áo lụa buộc nơ, quần palazzo rộng - xem QUẦN ÁO)
+linh_nu_sheet - LINH (nữ, tóc bob cằm, body suit cổ trụ đen ôm sát, quần ống rộng lụa — alluring kiểu minimal power — xem QUẦN ÁO)
 
 canh_nam_sheet - CẢNH (nam, thấp, mỏng, áo sơ mi trắng xám bạc, vai rủ, mắt ướt mà khô - xem QUẦN ÁO)
 
@@ -9,7 +9,7 @@ Hướng dẫn map ảnh: Ảnh tham chiếu dùng cho face, body type, hairstyl
 
 QUẦN ÁO: Ch23 diễn ra nối tiếp ch22 (cùng ngày, cùng phút) - mỗi nhân vật mặc ONE outfit xuyên chương:
 
-LINH (NỮ): Áo lụa đen buộc nơ trước ngực - hai vạt kéo chéo buộc loosely ở giữa - vải lụa trượt theo đường cong tự nhiên - ngực đầy nâng nhẹ - vai trần - xương quai xanh sắc góc cạnh - quần palazzo rộng đen - cạp chun cao nhấn eo thon hóp - chân giày canvas ngấm nước mưa đêm qua - tóc bob cằm - mệt - mắt thâm quầng vì bốn lần Rửa - nhưng chắc - quyết đoán - CH23: lụa ẨM MƯA dính da - đường cong thân thể in hờ dưới vải - da nổi gai lạnh rồi NÓNG - đang Rửa - da đổi kết cấu giữa chừng - tay vẫn nữ - ngón thon - nhưng mịn hơn một chút ở mu bàn tay - thô hơn một chút ở gốc ngón - cơ thể CHUYỂN nhưng DỪNG GIỮA CHẰNG - như dòng nước đổi hướng rồi tắc lại - mỏi - mỏi như chạy bộ cả đêm - đầu gối đau - nhưng đứng - nhưng đi - bước chậm dọc bờ sông bình minh - guốc mòn gót lội vũng - nước bắn mắt cá - lạnh - gợi cảm thanh lịch giữa bình minh sau bão - mỏng - mảnh - như bức tranh bị tước một lớp màu - nhưng còn - còn nguyên - còn nữ.
+LINH (NỮ): Rửa nửa chừng thay đổi cả trang phục — croptop len xám ướt biến thành body suit cổ trụ đen — one-piece — dáng ôm sát — từ cổ cao xuống hông — vải co giãn — silhouette sắc — tôn từng đường cong tự nhiên — không lưng hở — nhưng bám sát — xương quai xanh sắc góc cạnh trên cổ trụ — vai thon — eo sắc — bụng phẳng — quần ống rộng lụa đen — cạp thấp — chân giày canvas ngấm nước — tóc bob cằm — mệt — mắt thâm quầng vì bốn lần Rửa — nhưng chắc — quyết đoán — CH23: body suit khô — khác hẳn len ướt — minimal — alluring — sexy kiểu power — quyến rũ vì đơn giản — silhoutette sắc nét — như thể Rửa lấy đi lớp ướt và để lại thứ gọn gàng hơn — mảnh hơn — nhưng sắc hơn — mỏi — mỏi như chạy bộ cả đêm — đầu gối đau — nhưng đứng — nhưng đi — bước chậm dọc bờ sông bình minh — guốc mòn gót lội vũng — nước bắn mắt cá — lạnh — alluring kiểu minimalist — mỏng — mảnh — như bức tranh bị tước một lớp màu — nhưng còn — còn nguyên — còn nữ.
 
 CẢNH (NAM): Áo sơ mi trắng xám bạc màu - rách nhẹ ở cổ tay - không có áo khoác - quần dài cũ - trần dưới sơ mi mỏng - xương vai nhô - gầy - mỏng - tóc cắt ngắn nhưng chưa cắt lâu - rối nhẹ - cằm ít góc cạnh - tay chai - chai của nghề sửa ống nước - chai của vuốt mặt nước mỗi đêm - CH23: mắt Cảnh KHÔNG CÒN phẳng lặng - ĐỎ HOE - ƯỚT - NƯỚC MẮT CHẢY - lần đầu tiên sau sáu năm - da chai ướt đẫm nước mắt - mặt sưng - mũi đỏ - vai rung nhẹ - khóc không phát ra tiếng - rồi BUÔNG TAY - lần đầu tiên buông - ngón tay trượt khỏi tay Linh - chậm - như cần một lúc lâu để rời - rớt xuống - bất lực - rồi đứng - đôi chân run - tựa bàn - vai rủ - lưng còng - nhưng bước - đi ra cửa - đi về phía quán - dép tổ ong lội bì bõm qua vũng nước - dáng người nhỏ dần - nhưng ĐI - lần đầu tiên đi về phía người khác sau sáu năm.
 
@@ -197,7 +197,7 @@ CAPTION (italic, nhỏ): "Giọng người đã quen nói một mình."
 ─────────────────────────────────────
 
 PANEL 4 - KEY: "MẤT THẬT CÒN HƠN GIỮ GIẢ" - LINH NHÌN THẲNG
-Góc máy: Medium shot Linh - đứng - lụa ẩm dính da - đường cong thân thể in hờ dưới vải - vai trần ướt - nhưng mắt KHÔNG run - mắt nhìn thẳng vào mắt Cảnh - không né - không tránh - "Mất thật còn hơn giữ giả" - sáu chữ - GIỌNG KHÔNG VỠ NỮA - chắc - mạnh - từ somewhere sâu hơn Rửa - sâu hơn sợ - chỗ đó chưa bị cuốn - da Linh vẫn ngứa - sắp Rửa - nhưng NÓI - NÓI HẾT - gió tạt mưa vào cửa sổ - lách cách mái tôn - nước róc rách gầm bàn - sông Hương dâng - nhưng Linh nói - rõ - chắc - chọn.
+Góc máy: Medium shot Linh - đứng - body suit đen ôm sát - silhouette sắc - vai thon - nhưng mắt KHÔNG run - mắt nhìn thẳng vào mắt Cảnh - không né - không tránh - "Mất thật còn hơn giữ giả" - sáu chữ - GIỌNG KHÔNG VỠ NỮA - chắc - mạnh - từ somewhere sâu hơn Rửa - sâu hơn sợ - chỗ đó chưa bị cuốn - da Linh vẫn ngứa - sắp Rửa - nhưng NÓI - NÓI HẾT - gió tạt mưa vào cửa sổ - lách cách mái tôn - nước róc rách gầm bàn - sông Hương dâng - nhưng Linh nói - rõ - chắc - chọn.
 
 BUBBLE (Linh, CHẮC - không vỡ): "Mất thật còn hơn giữ giả."
 
@@ -376,7 +376,7 @@ CAPTION (italic, nhỏ nhất): "Như dòng nước đổi hướng rồi tắc 
 ─────────────────────────────────────
 
 PANEL 2 - LINH SỜ MẶT - XƯƠNG HÀM VẪN QUEN - BÌNH THƯỜNG
-Góc máy: Close-up Linh sờ mặt - ngón tay chạm xương hàm - VẪN QUEN - sờ khóe mắt - KHÔNG ĐỔI - sờ cổ tay - mạch đập - BÌNH THƯỜNG - cơ thể ổn định - nữ - vẫn nữ - ngực vẫn đầy - eo vẫn hóp - đùi vẫn trần dưới ống palazzo - nhưng MẢNH HƠN - như thiếu một lớp - mỏng hơn - nhẹ hơn - mỏi - toàn thân mỏi như chạy bộ cả đêm.
+Góc máy: Close-up Linh sờ mặt - ngón tay chạm xương hàm - VẪN QUEN - sờ khóe mắt - KHÔNG ĐỔI - sờ cổ tay - mạch đập - BÌNH THƯỜNG - cơ thể ổn định - nữ - vẫn nữ - body suit vẫn ôm - silhoutette vẫn sắc - eo vẫn thon - nhưng MẢNH HƠN - như thiếu một lớp - mỏng hơn - nhẹ hơn - mỏi - toàn thân mỏi như chạy bộ cả đêm.
 
 CAPTION (italic): "Linh sờ mặt. Xương hàm vẫn quen."
 
@@ -463,7 +463,7 @@ LAYOUT (từ trên xuống dưới):
 └─────────────────────────┘
 ```
 
-Tông màu trang 5: VÀNG BÌNH MINH + XANH SÔNG - trang kết - sáng nhất chương - bình minh sau bão - nắng Huế sau mưa - nắng ướt - nắng không ấm - nhưng SÁNG - lần đầu tiên trong bao nhiêu tuần - XANH SÔNG: nước rút - bùn non - rêu xanh bám đá - sông Hương chảy êm - đục nhưng TRONG HƠN hôm qua một chút - bờ sông VẮNG - chỉ Linh - một mình - nhưng KHÁC một mình - một mình vì CHỌN - vì đi - vì còn - Linh: lụa đen ẩm - dính da - đường cong in hờ - nhưng ĐI - bước chậm - guốc mòn gót - mỏi - nhưng nhẹ - mảnh hơn - như bức tranh tước lớp màu - nhưng còn - còn nguyên - còn nữ - còn nhớ - còn đi. Tông chuyển: VÀNG + NÂU NHÀ Cảnh đi → VÀNG + XANH SÔNG nhìn theo → XANH SÔNG bờ sông vắng → XANH SÔNG + VÀNG Linh đi → VÀNG nắng sông → VÀNG + XANH SÔNG kết - đi tiếp.
+Tông màu trang 5: VÀNG BÌNH MINH + XANH SÔNG - trang kết - sáng nhất chương - bình minh sau bão - nắng Huế sau mưa - nắng ướt - nắng không ấm - nhưng SÁNG - lần đầu tiên trong bao nhiêu tuần - XANH SÔNG: nước rút - bùn non - rêu xanh bám đá - sông Hương chảy êm - đục nhưng TRONG HƠN hôm qua một chút - bờ sông VẮNG - chỉ Linh - một mình - nhưng KHÁC một mình - một mình vì CHỌN - vì đi - vì còn - Linh: body suit đen ôm - silhouette sắc - nhưng ĐI - bước chậm - guốc mòn gót - mỏi - nhưng nhẹ - mảnh hơn - như bức tranh tước lớp màu - nhưng còn - còn nguyên - còn nữ - còn nhớ - còn đi. Tông chuyển: VÀNG + NÂU NHÀ Cảnh đi → VÀNG + XANH SÔNG nhìn theo → XANH SÔNG bờ sông vắng → XANH SÔNG + VÀNG Linh đi → VÀNG nắng sông → VÀNG + XANH SÔNG kết - đi tiếp.
 
 ─────────────────────────────────────
 
@@ -483,7 +483,7 @@ CAPTION (italic, nhỏ nhất): "Về phía chiếc ghế không ai nhớ tại 
 ─────────────────────────────────────
 
 PANEL 2 - LINH ĐỨNG TRONG CỬA - NHÌN THEO - BÓNG CẢNH KHUẤT
-Góc máy: Wide shot từ trong nhà nhìn ra - Linh đứng trong khung cửa - NỮ - lụa đen ẩm - tóc bob cằm ướt - nhìn theo Cảnh - bóng Cảnh nhỏ dần - nhỏ dần - khuất sau RẰNG TRE - mùi dạ lan NHẠT HƠN - tan đi - trôi theo nước mưa xuống sông - hết sáu năm mùi dạ lan - chỉ còn mùi đất ẩm - mùi bình minh - mùi mới - Linh sờ ngực - PHẲNG - vẫn nữ - tim đập - bình thường - có gì mất - một khoảnh khắc - cố vớt - như cố nhặt cát ướt - trượt qua ngón tay - không nhớ mất gì - chỉ biết mất.
+Góc máy: Wide shot từ trong nhà nhìn ra - Linh đứng trong khung cửa - NỮ - body suit đen ôm - tóc bob cằm ướt - nhìn theo Cảnh - bóng Cảnh nhỏ dần - nhỏ dần - khuất sau RẰNG TRE - mùi dạ lan NHẠT HƠN - tan đi - trôi theo nước mưa xuống sông - hết sáu năm mùi dạ lan - chỉ còn mùi đất ẩm - mùi bình minh - mùi mới - Linh sờ ngực - PHẲNG - vẫn nữ - tim đập - bình thường - có gì mất - một khoảnh khắc - cố vớt - như cố nhặt cát ướt - trượt qua ngón tay - không nhớ mất gì - chỉ biết mất.
 
 CAPTION (italic): "Linh đứng trong cửa. Nhìn theo cho đến khi bóng Cảnh khuất sau rặng tre."
 
@@ -505,7 +505,7 @@ CAPTION (italic, nhỏ): "Sông Hương chảy êm. Đục. Nhưng trong hơn h�
 ─────────────────────────────────────
 
 PANEL 4 - LINH ĐI BỜ SÔNG - BƯỚC CHẬM - GUỐC MÒN GÓT - MỎI NHƯNG NHẸ
-Góc máy: Full body shot Linh từ phía sau - đi dọc bờ sông - lụa đen ẩm dính da - đường cong thân thể in hờ dưới vải - eo hóp - vai trần ướt - tóc bob cằm dán vào gáy - guốc mòn gót lội qua vũng - nước BẮN lên mắt cá - LẠNH - bước CHẬM - mỏi - toàn thân mỏi như chạy bộ cả đêm - Rửa một nửa mệt hơn Rửa trọn - cơ thể không biết mình là gì - nhưng ĐI - chân bước - đều đều - về phía thành phố - sông Hương bên cạnh - chảy - kiên nhẫn - không quan tâm ai thuộc về ai - chỉ chảy.
+Góc máy: Full body shot Linh từ phía sau - đi dọc bờ sông - body suit đen ôm - silhouette sắc - eo thon - vai thon - tóc bob cằm dán vào gáy - guốc mòn gót lội qua vũng - nước BẮN lên mắt cá - LẠNH - bước CHẬM - mỏi - toàn thân mỏi như chạy bộ cả đêm - Rửa một nửa mệt hơn Rửa trọn - cơ thể không biết mình là gì - nhưng ĐI - chân bước - đều đều - về phía thành phố - sông Hương bên cạnh - chảy - kiên nhẫn - không quan tâm ai thuộc về ai - chỉ chảy.
 
 CAPTION (italic): "Linh đi theo bờ sông. Về thành phố. Về quán. Về chỗ ngồi quen."
 
@@ -529,7 +529,7 @@ CAPTION (italic, nhỏ nhất): "Lần đầu tiên trong bao nhiêu tuần."
 ─────────────────────────────────────
 
 PANEL 6 - KEY: LINH THỞ - CHỌN - ĐI TIẾP - BỜ SÔNG DÀI THẲM
-Góc máy: Wide shot từ xa - Linh đi trên bờ sông - một bóng nhỏ - lụa đen trên nền xanh sông và vàng nắng - xa dần - nhỏ dần - nhưng ĐI - sông Hương chảy bên cạnh - êm - kiên nhẫn - Linh thở - dài - chậm - năm người bạn - một người bị quên - một nhóm đang tan - CHẬM - ĐAU - nhưng THẬT - Linh CHỌN - đi tiếp - bước cuối cùng trên bờ sông - bóng nhỏ giữa bình minh - mỏi - mảnh - mất mảnh ký ức nhỏ - nhưng còn - còn nhớ Tuấn - còn nhớ Lịch - còn nhớ bà Tâm - còn nhớ quán - còn nhớ sông Hương - và sẽ nhớ Cảnh - từ bây giờ - không từ trước - từ bây giờ - đi tiếp.
+Góc máy: Wide shot từ xa - Linh đi trên bờ sông - một bóng nhỏ - body suit đen trên nền xanh sông và vàng nắng - xa dần - nhỏ dần - nhưng ĐI - sông Hương chảy bên cạnh - êm - kiên nhẫn - Linh thở - dài - chậm - năm người bạn - một người bị quên - một nhóm đang tan - CHẬM - ĐAU - nhưng THẬT - Linh CHỌN - đi tiếp - bước cuối cùng trên bờ sông - bóng nhỏ giữa bình minh - mỏi - mảnh - mất mảnh ký ức nhỏ - nhưng còn - còn nhớ Tuấn - còn nhớ Lịch - còn nhớ bà Tâm - còn nhớ quán - còn nhớ sông Hương - và sẽ nhớ Cảnh - từ bây giờ - không từ trước - từ bây giờ - đi tiếp.
 
 CAPTION (italic): "Linh thở."
 

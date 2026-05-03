@@ -101,3 +101,11 @@
 {"id":"d3b58021-e21f-4994-9cec-3245d1cd92b9","ts":"2026-05-03T17:04:16.873Z","severity":"warning","message":"Safety: 2 unexpected file change(s) outside task plan","source":"notify","read":false}
 {"id":"8c83bdac-9b7a-4746-a272-898dff886135","ts":"2026-05-03T17:04:55.915Z","severity":"info","message":"Verification gate: FAILED — pytest","source":"notify","read":false}
 {"id":"dccefc72-f76a-46af-88d4-18ffd5ee1a8b","ts":"2026-05-03T17:04:55.916Z","severity":"warning","message":"Verification failed (pytest) — auto-fix attempt 1/2","source":"notify","read":false}
+{"id":"5264c674-2d06-4519-a1e2-92fb49b890bf","ts":"2026-05-03T17:14:13.043Z","severity":"info","message":"Committed: feat: Generated ch23_prompts.md with 5 trang of manga prompts for the c…","source":"notify","read":false}
+{"id":"092538df-62f3-450a-8cbc-0f604936df26","ts":"2026-05-03T17:14:13.047Z","severity":"warning","message":"[safety] file-change: manga/prompts/ch20_prompts.md — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"de742f9f-4979-432a-9ac0-ea7f3b4e1216","ts":"2026-05-03T17:14:13.047Z","severity":"warning","message":"[safety] file-change: manga/prompts/ch21_prompts.md — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"7077aaa9-476a-4b2f-a7b6-0f065dde4647","ts":"2026-05-03T17:14:13.047Z","severity":"warning","message":"[safety] file-change: manga/prompts/ch22_prompts.md — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"aaed7523-094a-4a2c-b12b-8e8a2f33f7d9","ts":"2026-05-03T17:14:13.047Z","severity":"warning","message":"[safety] file-change: results.tsv — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"6e09689f-824a-4db5-9914-4a6662804cd9","ts":"2026-05-03T17:14:13.047Z","severity":"warning","message":"Safety: 4 unexpected file change(s) outside task plan","source":"notify","read":false}
+{"id":"f569e064-e9cb-49ac-b868-322c04621efc","ts":"2026-05-03T17:14:45.127Z","severity":"info","message":"Verification gate: FAILED — pytest","source":"notify","read":false}
+{"id":"9343f16a-366b-4964-b714-18482831cfd3","ts":"2026-05-03T17:14:45.127Z","severity":"warning","message":"Verification failed (pytest) — auto-fix attempt 1/2","source":"notify","read":false}

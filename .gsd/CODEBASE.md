@@ -1,7 +1,7 @@
 # Codebase Map
 
-Generated: 2026-05-03T17:05:05Z | Files: 236 | Described: 0/236
-<!-- gsd:codebase-meta {"generatedAt":"2026-05-03T17:05:05Z","fingerprint":"e596b8e447a499d5adc48cd823adc9bc12ac4451","fileCount":236,"truncated":false} -->
+Generated: 2026-05-03T17:14:58Z | Files: 237 | Described: 0/237
+<!-- gsd:codebase-meta {"generatedAt":"2026-05-03T17:14:58Z","fingerprint":"f91605e09ce66398ebce6c92f466536160a6273f","fileCount":237,"truncated":false} -->
 
 ### (root)/
 - *(63 files: 39 .py, 15 .md, 2 (no ext), 2 .json, 2 .txt, 1 .example, 1 .toml, 1 .tsv)*
@@ -51,7 +51,7 @@ Generated: 2026-05-03T17:05:05Z | Files: 236 | Described: 0/236
 - `manga/README.md`
 
 ### manga/prompts/
-- *(22 files: 22 .md)*
+- *(23 files: 23 .md)*
 
 ### scripts/
 - `scripts/verify_vi_pipeline.sh`
