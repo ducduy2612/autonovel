@@ -51,3 +51,7 @@ See `.gsd/REQUIREMENTS.md` for the explicit capability contract, requirement sta
   - ✅ S05: End-to-end Vietnamese pipeline verification (43 integration tests, seed_vi.txt, live verification script)
 
 - [ ] M002: Manga Prompts Ch09–Ch24 — Complete manga prompt set for chapters 9–24
+  - ✅ S01: Investigation Arc Ch09–Ch12 — 4 prompt files (ch09–ch12) generated with correct format, genders, Vietnamese text, 3-5 trang each
+  - ⬜ S02: Search Arc Ch13–Ch16
+  - ⬜ S03: Confrontation Arc Ch17–Ch20
+  - ⬜ S04: Resolution Arc Ch21–Ch24

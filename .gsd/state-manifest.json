@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exported_at": "2026-05-03T04:55:46.503Z",
+  "exported_at": "2026-05-03T05:49:32.922Z",
   "milestones": [
     {
       "id": "M001",
@@ -177,14 +177,14 @@
       "milestone_id": "M002",
       "id": "S01",
       "title": "S01",
-      "status": "pending",
+      "status": "complete",
       "risk": "medium",
       "depends": [],
       "demo": "ch09_prompts.md through ch12_prompts.md exist with correct format, genders, and Vietnamese text. Ch09: Bách đột nhập phòng hồ sơ + Cô Bích. Ch10: Bách bị Rửa, hoa quỳnh nở đêm mưa. Ch11: Linh bờ sông 3h sáng, Lịch thú tình. Ch12: Nhóm tụ họp, ghế trống, người thứ sáu.",
       "created_at": "2026-05-03T01:44:33.679Z",
-      "completed_at": null,
-      "full_summary_md": "",
-      "full_uat_md": "",
+      "completed_at": "2026-05-03T05:05:29.147Z",
+      "full_summary_md": "---\nid: S01\nparent: M002\nmilestone: M002\nprovides:\n  - (none)\nrequires:\n  []\naffects:\n  []\nkey_files:\n  - [\"manga/prompts/ch09_prompts.md\", \"manga/prompts/ch10_prompts.md\", \"manga/prompts/ch11_prompts.md\", \"manga/prompts/ch12_prompts.md\"]\nkey_decisions:\n  - [\"Ch10 file recreated by closer agent — executor T02 marked complete but file was never written to disk\", \"Each file follows locked format: header → QUẦN ÁO → PHONG CÁCH CHUNG → Sợi đỏ → trang-by-trang with layout + panels + dialogue + QUAN TRỌNG\", \"Quỳnh bloom→wilt used as chapter-spanning visual motif in ch10 (bloom T1, tremble T2, wilt T4)\", \"Dạ lan + trầm scent thread established as cross-chapter motif connecting ch09–ch12\"]\npatterns_established:\n  - [\"Manga prompt file format: CHƯƠNG header with character sheet refs → QUẦN ÁO per-character outfits → PHONG CÁCH CHUNG with named color palette → SỢI ĐỎ thematic threads → LIỆT SỌC CHUYỂN TRANG transitions → TRANG-by-TRANG with ASCII layout + panel descriptions + dialogue/captions + QUAN TRỌNG summary\", \"Character gender notation: Name(gender) in parenthetical — e.g., Bách(nam), Linh(nữ) — consistent across all files\", \"Scent visualization: dạ lan + trầm rendered as invisible-but-present through character reactions and caption descriptions rather than literal visual elements\", \"Post-Rửa visual shorthand: trembling hands (tay run), red-rimmed eyes (mắt đỏ rìa), new body same eyes (mắt không đổi)\"]\nobservability_surfaces:\n  - none\ndrill_down_paths:\n  []\nduration: \"\"\nverification_result: passed\ncompleted_at: 2026-05-03T05:05:29.148Z\nblocker_discovered: false\n---\n\n# S01: Investigation Arc: Ch09–Ch12\n\n**Generated 4 manga prompt files (ch09–ch12) following ch08 format with correct character genders, Vietnamese text, outfit specs, color palettes, and 3-5 trang per chapter covering the investigation arc.**\n\n## What Happened\n\n## What Happened\n\nGenerated manga prompt files for chapters 9–12, the investigation arc where the group discovers the 6th person. All 4 files follow the format established in ch08_prompts.md exactly.\n\n### Ch09: Kẻ Đột Nhập (4 trang, 20 panels)\nBách(nam) breaks into the archive room, discovers the 6th person file with red ink, encounters Cô Bích who shares her own sister's Rửa story. Four scenes: dark archive → Cô Bích empathy → warm glass departure → riverbank & quán. Red ink visual shock isolated to Trang 1 Panel 3. Four thematic threads: red ink, warm water glass, touch, rain.\n\n### Ch10: Rửa Lần Nữa (4 trang, 20 panels) — RECREATED\nBách gets Rửa'd after going to Hương Thủy alone. Hoa quỳnh blooms in midnight rain as omen. Two-part structure: night rain (T1-T2) where Linh lies awake sensing the Rửa, then morning after (T3-T4) where Bách returns in a new male body with red-rimmed eyes. Primary motif: hoa quỳnh (bloom → tremble → wilt across 3/4 trang). Scent thread (dạ lan + trầm) connects all 4 trang. **File was initially missing (executor reported completion but file wasn't written); recreated by closer agent from chapter text + ch09 format reference.**\n\n### Ch11: Bờ Sông Ba Giờ Sáng (3 trang, 15 panels)\nIntimate, quiet chapter. Linh(nữ) alone at riverside 3am, finds mystery glass of water. Lịch(nữ) arrives, confesses fear of losing Linh's memories. Quieter palette than ch09/ch10: no red accents, no rain, no group — only black river and yellow lamplight. Ly nước as primary visual motif spanning all 3 trang.\n\n### Ch12: Người Thứ Sáu (4 trang, 20 panels)\nGroup gathers at quán — five people, six glasses, empty chair. Bách reveals dạ lan scent connection to 6th person. Tuấn devastated. Linh sees figure across river. Dạ lan scent rendered as hallucination overlay (white petals, incense smoke). Tuấn's silver ring as recurring visual anchor. Strong group scene with multiple emotional reveals.\n\n## Key Pattern Established\nEach prompt file follows a consistent structure: CHƯƠNG header → character sheet references → QUẦN ÁO (outfit specs) → PHONG CÁCH CHUNG (palette + style) → SỢI ĐỎ (thematic threads) → TRANG-by-TRANG with layout diagrams, panel descriptions, dialogue/captions, QUAN TRỌNG summaries. This format is now locked for ch13–ch24.\n\n## Verification\n\nAll 4 prompt files verified:\n- ch09_prompts.md: 39,964 bytes, 4 trang, 20 panels (5×4), 44 Vietnamese dialogue/caption entries ✓\n- ch10_prompts.md: 37,041 bytes, 4 trang, 20 panels (5×4), 43 Vietnamese dialogue/caption entries ✓ (recreated after initial file was missing)\n- ch11_prompts.md: 33,843 bytes, 3 trang, 15 panels (5×3), 40 Vietnamese dialogue/caption entries ✓\n- ch12_prompts.md: 49,245 bytes, 4 trang, 20 panels (5×4), 52 Vietnamese dialogue/caption entries ✓\n\nEach file has: character header with sheet references, QUẦN ÁO section, PHONG CÁCH CHUNG with palette, Sợi đỏ thematic threads, correct character genders (Bách=nam, Linh=nữ, Lịch=nữ, Tuấn=nam), Vietnamese text throughout.\n\nPre-existing pytest failures (24/96) from M001 Vietnamese language tests are unrelated — this slice produces static markdown files with no code changes.\n\n## Requirements Advanced\n\nNone.\n\n## Requirements Validated\n\nNone.\n\n## New Requirements Surfaced\n\nNone.\n\n## Requirements Invalidated or Re-scoped\n\nNone.\n\n## Deviations\n\nNone.\n\n## Known Limitations\n\n[\"24 pre-existing pytest failures from M001 (test_evaluate.py, test_s04_export.py, test_s05_e2e.py) — unrelated to this slice, no code changes made\", \"Ch10 was recreated by closer agent from chapter text and format reference — not generated by the original T02 executor. Content may differ slightly from what T02 summary describes but covers same scenes and follows same format.\"]\n\n## Follow-ups\n\nNone.\n\n## Files Created/Modified\n\n- `manga/prompts/ch09_prompts.md` — Created by T01 — 4 trang, Bách archive room discovery, Cô Bích empathy, riverbank, quán\n- `manga/prompts/ch10_prompts.md` — Recreated by closer agent (original T02 output was missing) — 4 trang, hoa quỳnh night bloom, Bách returns Rửa'd in new male body, group reaction\n- `manga/prompts/ch11_prompts.md` — Created by T03 — 3 trang, intimate chapter, Linh alone at riverside 3am, Lịch confession\n- `manga/prompts/ch12_prompts.md` — Created by T04 — 4 trang, group gathers, six glasses, empty chair, dạ lan revelation, figure across river\n",
+      "full_uat_md": "# S01: Investigation Arc: Ch09–Ch12 — UAT\n\n**Milestone:** M002\n**Written:** 2026-05-03T05:05:29.148Z\n\n# S01 UAT: Investigation Arc Ch09–Ch12 Manga Prompts\n\n## Preconditions\n- Working directory: project root\n- All 4 prompt files exist in `manga/prompts/`\n\n## Test Cases\n\n### TC1: All 4 prompt files exist\n1. Run: `ls manga/prompts/ch{09,10,11,12}_prompts.md`\n2. **Expected**: All 4 files listed with non-zero size\n\n### TC2: Correct trang count per file\n1. For each file, run: `grep -c '^TRANG [0-9]' manga/prompts/chXX_prompts.md`\n2. **Expected**: ch09=8 (4 trang × 2 header lines), ch10=8, ch11=6, ch12=8\n3. Each trang has 5 panels → total panels: ch09=20, ch10=20, ch11=15, ch12=20\n\n### TC3: Character gender accuracy\n1. Run: `grep -i 'bách.*nam\\|bách(nam)' manga/prompts/ch09_prompts.md`\n2. **Expected**: Bách referenced as male (nam) — consistent with post-Rửa body in investigation arc\n3. Run: `grep -i 'linh.*nữ\\|linh(nữ)' manga/prompts/ch11_prompts.md`\n4. **Expected**: Linh referenced as female (nữ)\n5. Run: `grep -i 'lịch.*nữ\\|lịch(nữ)' manga/prompts/ch11_prompts.md`\n6. **Expected**: Lịch referenced as female (nữ)\n\n### TC4: Vietnamese text present\n1. For each file, run: `grep -c 'BUBBLE\\|CAPTION\\|WHISPER' manga/prompts/chXX_prompts.md`\n2. **Expected**: Each file has ≥30 Vietnamese dialogue/caption/whisper entries\n3. Verify Vietnamese diacritical marks present: `grep -c '[ăâđêôơư]' manga/prompts/chXX_prompts.md`\n4. **Expected**: ≥20 matches per file (Vietnamese-specific characters)\n\n### TC5: Format consistency with ch08 reference\n1. Verify each file contains sections: QUẦN ÁO, PHONG CÁCH CHUNG, Sợi đỏ, QUAN TRỌNG\n2. Run: `grep -c 'QUẦN ÁO' manga/prompts/ch{09,10,11,12}_prompts.md`\n3. **Expected**: Each file has ≥1 QUẦN ÁO section\n4. Run: `grep -c 'PHONG CÁCH CHUNG' manga/prompts/ch{09,10,11,12}_prompts.md`\n5. **Expected**: Each file has 1 PHONG CÁCH CHUNG section\n6. Run: `grep -c 'sợi đỏ\\|Sợi đỏ' manga/prompts/ch{09,10,11,12}_prompts.md`\n7. **Expected**: Each file has 1 thematic threads section\n\n### TC6: Key visual motifs present\n1. Ch09: `grep 'mực đỏ\\|mực đỏ' manga/prompts/ch09_prompts.md` → red ink motif present\n2. Ch10: `grep -i 'quỳnh\\|hoa quỳnh' manga/prompts/ch10_prompts.md` → quỳnh bloom motif present\n3. Ch10: `grep -i 'dạ lan\\|trầm' manga/prompts/ch10_prompts.md` → scent motif present\n4. Ch11: `grep -i 'ly nước\\|ly nuoc' manga/prompts/ch11_prompts.md` → mystery glass motif present\n5. Ch12: `grep -i 'ghế trống\\|ghe trong\\|dạ lan' manga/prompts/ch12_prompts.md` → empty chair + scent motif present\n\n### TC7: Layout diagrams present\n1. For each file, verify ASCII layout diagrams exist: `grep -c '┌\\|┐\\|└\\|┘\\|│\\|─' manga/prompts/chXX_prompts.md`\n2. **Expected**: ≥4 layout diagrams per 4-trang file, ≥3 for 3-trang file\n\n### TC8: Pre-existing tests unaffected\n1. Run: `python -m pytest test_config.py -q`\n2. **Expected**: All config tests pass (26 tests)\n3. Note: 24 pre-existing failures in test_evaluate.py, test_s04_export.py, test_s05_e2e.py are from M001 and unrelated to this slice\n",
       "goal": "Generate manga prompts for ch09–ch12, the investigation arc where the group discovers the 6th person.",
       "success_criteria": "4 prompt files exist in manga/prompts/. Each has correct format, character genders, Vietnamese text, and 3-5 trang per chapter.",
       "proof_level": "contract",
@@ -196,12 +196,10 @@
     {
       "milestone_id": "M002",
       "id": "S02",
-      "title": "Search Arc: Ch13–Ch16",
+      "title": "S02",
       "status": "pending",
       "risk": "medium",
-      "depends": [
-        "S01"
-      ],
+      "depends": [],
       "demo": "ch13_prompts.md through ch16_prompts.md exist. Ch13: nhóm cãi nhau, Bách đi Hương Thủy. Ch14: Linh gặp Bà Lụa, bờ sông Hương Thủy. Ch15: Tuấn-Linh-Lịch shifting feelings. Ch16: Bách gặp Cảnh bên sông.",
       "created_at": "2026-05-03T01:44:33.679Z",
       "completed_at": null,
@@ -811,25 +809,30 @@
       "milestone_id": "M002",
       "slice_id": "S02",
       "id": "T01",
-      "title": "Ch13: Bế Tắc — manga prompts",
-      "status": "pending",
-      "one_liner": "",
-      "narrative": "",
-      "verification_result": "",
+      "title": "Generated ch13_prompts.md with 4 trang manga prompts covering group argument, Lịch's discovery, Tuấn's dinner visit, and Linh's rain-window decision",
+      "status": "complete",
+      "one_liner": "Generated ch13_prompts.md with 4 trang manga prompts covering group argument, Lịch's discovery, Tuấn's dinner visit, and Linh's rain-window decision",
+      "narrative": "Read ch_13.md full text and summary_13.md. Examined existing ch12_prompts.md format for consistency (character sheets, trang layout, panel structure, color palette, transition hooks, thread objects). Built ch13_prompts.md incrementally via 4 separate write operations (1 initial write + 3 appends):\n\n**Trang 1 (6 panels):** Morning at quán bà Tâm — group argument. Bách arrives early, furious, demands going to Hương Thủy. Linh says wait. Tuấn arrives, sits two seats away, refuses to go. Bách stands up — two factions. Captured the core tension: Bách (action) vs Tuấn (acceptance) with Linh in the middle.\n\n**Trang 2 (7 panels):** Duy arrives late, wet, indifferent. Lịch arrives last with black notebook — discovers that investigation triggers more Rửa (frequency doubled). Ủy Ban official visits quán, asks bà Tâm. Cô Bích watches from outside under xà cừ tree, taking notes. Bách storms out. Group disperses.\n\n**Trang 3 (6 panels):** Afternoon — Linh alone in phòng trọ. Mirror lag phenomenon. Tuấn knocks, brings dinner (hộp xốp from bà Tâm). Sits in old spot by window. Tells 1996 memory — \"Mình nắm tay cậu trong mưa\" — Linh cuts: \"Mình không nhớ.\" Tuấn leaves, sentence broken mid-word. Rain begins outside.\n\n**Trang 4 (5 panels):** Night — Linh can't sleep. Goes to window. Rain falling. Sông Hương black as ink. Mist on far bank. Stands in rain — tests if it's Rửa (it's not, just normal rain). Closes eyes. Decides to go find the 6th person — not because Bách is right or Tuấn is wrong, but because fear of sitting still has become greater than fear of walking.\n\nThread objects maintained across trang: ly cà phê Linh, khoảng cách hai chỗ, ghế trống/ly nước, sổ mực đỏ, Ủy Ban, mưa. Color palette transitions: VÀNG sương sáng → NÂU quán → XÁM ẨM → XANH LẠNH phòng trọ → ĐEN đêm → TRẮNG giọt mưa.",
+      "verification_result": "File exists at manga/prompts/ch13_prompts.md with 471 lines. Verified 4 trang (within 4-5 range): Trang 1 (line 65), Trang 2 (line 165), Trang 3 (line 280), Trang 4 (line 382). Each trang has correct 1024x1536 pixel spec and panel layout diagram. Total 24 panels across 4 trang. Key scenes confirmed: group argument, Lịch's discovery, Ủy Ban surveillance, Tuấn dinner/1996, Linh alone at window. File built incrementally (1 write + 3 appends, not single bulk). Character descriptions consistent with ch12 format. Thread objects tracked across 3+ trang per convention.",
       "duration": "",
-      "completed_at": null,
+      "completed_at": "2026-05-03T05:49:32.907Z",
       "blocker_discovered": false,
-      "deviations": "",
-      "known_issues": "",
-      "key_files": [],
-      "key_decisions": [],
-      "full_summary_md": "",
-      "description": "Read ch13 full text. Write manga prompts. Group argues about searching for 6th person. Bách(nam) furious, goes alone. Tuấn(nam) exhausted, wants to stop. Duy(nữ) indifferent. Lịch(nữ) discovers investigation triggers Rửa. Ủy Ban surveillance. Tuấn brings Linh(nữ) dinner, tells lost memory. Key scenes: group argument, Lịch's discovery, Tuấn evening, Linh alone at window. Characters: Linh(nữ), Bách(nam), Tuấn(nam), Lịch(nữ), Duy(nữ). Settings: quán bà Tâm, Linh's phòng trọ. 4-5 trang.",
-      "estimate": "30min",
+      "deviations": "None.",
+      "known_issues": "None.",
+      "key_files": [
+        "manga/prompts/ch13_prompts.md"
+      ],
+      "key_decisions": [
+        "Split ch13 into 4 trang (not 5) — chapter has natural 4-act structure: argument → discovery → intimacy → decision",
+        "Used Ủy Ban surveillance as a trang-2 subplot interleaved with Lịch's discovery rather than separate trang"
+      ],
+      "full_summary_md": "---\nid: T01\nparent: S02\nmilestone: M002\nkey_files:\n  - manga/prompts/ch13_prompts.md\nkey_decisions:\n  - Split ch13 into 4 trang (not 5) — chapter has natural 4-act structure: argument → discovery → intimacy → decision\n  - Used Ủy Ban surveillance as a trang-2 subplot interleaved with Lịch's discovery rather than separate trang\nduration: \nverification_result: passed\ncompleted_at: 2026-05-03T05:49:32.906Z\nblocker_discovered: false\n---\n\n# T01: Generated ch13_prompts.md with 4 trang manga prompts covering group argument, Lịch's discovery, Tuấn's dinner visit, and Linh's rain-window decision\n\n**Generated ch13_prompts.md with 4 trang manga prompts covering group argument, Lịch's discovery, Tuấn's dinner visit, and Linh's rain-window decision**\n\n## What Happened\n\nRead ch_13.md full text and summary_13.md. Examined existing ch12_prompts.md format for consistency (character sheets, trang layout, panel structure, color palette, transition hooks, thread objects). Built ch13_prompts.md incrementally via 4 separate write operations (1 initial write + 3 appends):\n\n**Trang 1 (6 panels):** Morning at quán bà Tâm — group argument. Bách arrives early, furious, demands going to Hương Thủy. Linh says wait. Tuấn arrives, sits two seats away, refuses to go. Bách stands up — two factions. Captured the core tension: Bách (action) vs Tuấn (acceptance) with Linh in the middle.\n\n**Trang 2 (7 panels):** Duy arrives late, wet, indifferent. Lịch arrives last with black notebook — discovers that investigation triggers more Rửa (frequency doubled). Ủy Ban official visits quán, asks bà Tâm. Cô Bích watches from outside under xà cừ tree, taking notes. Bách storms out. Group disperses.\n\n**Trang 3 (6 panels):** Afternoon — Linh alone in phòng trọ. Mirror lag phenomenon. Tuấn knocks, brings dinner (hộp xốp from bà Tâm). Sits in old spot by window. Tells 1996 memory — \"Mình nắm tay cậu trong mưa\" — Linh cuts: \"Mình không nhớ.\" Tuấn leaves, sentence broken mid-word. Rain begins outside.\n\n**Trang 4 (5 panels):** Night — Linh can't sleep. Goes to window. Rain falling. Sông Hương black as ink. Mist on far bank. Stands in rain — tests if it's Rửa (it's not, just normal rain). Closes eyes. Decides to go find the 6th person — not because Bách is right or Tuấn is wrong, but because fear of sitting still has become greater than fear of walking.\n\nThread objects maintained across trang: ly cà phê Linh, khoảng cách hai chỗ, ghế trống/ly nước, sổ mực đỏ, Ủy Ban, mưa. Color palette transitions: VÀNG sương sáng → NÂU quán → XÁM ẨM → XANH LẠNH phòng trọ → ĐEN đêm → TRẮNG giọt mưa.\n\n## Verification\n\nFile exists at manga/prompts/ch13_prompts.md with 471 lines. Verified 4 trang (within 4-5 range): Trang 1 (line 65), Trang 2 (line 165), Trang 3 (line 280), Trang 4 (line 382). Each trang has correct 1024x1536 pixel spec and panel layout diagram. Total 24 panels across 4 trang. Key scenes confirmed: group argument, Lịch's discovery, Ủy Ban surveillance, Tuấn dinner/1996, Linh alone at window. File built incrementally (1 write + 3 appends, not single bulk). Character descriptions consistent with ch12 format. Thread objects tracked across 3+ trang per convention.\n\n## Verification Evidence\n\n| # | Command | Exit Code | Verdict | Duration |\n|---|---------|-----------|---------|----------|\n| 1 | `test -f manga/prompts/ch13_prompts.md && echo 'EXISTS'` | 0 | ✅ pass | 50ms |\n| 2 | `grep -c '^TRANG [0-9]' manga/prompts/ch13_prompts.md` | 0 | ✅ pass (4 trang found) | 50ms |\n| 3 | `grep -c 'PANEL' manga/prompts/ch13_prompts.md` | 0 | ✅ pass (24 panels total) | 50ms |\n| 4 | `grep '1024x1536' manga/prompts/ch13_prompts.md | wc -l` | 0 | ✅ pass (4 trang with correct dimensions) | 50ms |\n\n## Deviations\n\nNone.\n\n## Known Issues\n\nNone.\n\n## Files Created/Modified\n\n- `manga/prompts/ch13_prompts.md`\n",
+      "description": "Read ch13 full text. Write manga prompts INCREMENTALLY:\n\n**Step 1 — Header:** Write file header to ch13_prompts.md: chapter title, character sheets (Linh nữ, Bách nam, Tuấn nam, Lịch nữ, Duy nữ), outfit specs, color palette, cross-page threads (Ủy Ban surveillance, Rửa triggers, group fracture).\n\n**Step 2 — Trang 1:** Append trang 1 (group argument scene at quán bà Tâm). Layout + 5 panels with Vietnamese text.\n\n**Step 3 — Trang 2:** Append trang 2 (Lịch discovers investigation triggers Rửa, Tuấn exhausted). Layout + panels.\n\n**Step 4 — Trang 3:** Append trang 3 (Tuấn brings Linh dinner, tells lost memory). Layout + panels.\n\n**Step 5 — Trang 4:** Append trang 4 (Linh alone at window, group fracture deepens). Layout + panels.\n\nEach step: read current file → extend with new trang. No single write exceeds ~150 lines. Settings: quán bà Tâm, Linh's phòng trọ.",
+      "estimate": "35min",
       "files": [
         "manga/prompts/ch13_prompts.md"
       ],
-      "verify": "File exists, 4-5 trang, group argument captured",
+      "verify": "File exists, 4 trang, group argument captured, each trang appended incrementally",
       "inputs": [
         "chapters/ch_13.md",
         "summaries/summary_13.md"
@@ -845,7 +848,7 @@
       "milestone_id": "M002",
       "slice_id": "S02",
       "id": "T02",
-      "title": "Ch14: Bà Lụa & Bờ Sông — manga prompts",
+      "title": "Ch14: Bà Lụa & Bờ Sông — manga prompts (incremental)",
       "status": "pending",
       "one_liner": "",
       "narrative": "",
@@ -858,8 +861,8 @@
       "key_files": [],
       "key_decisions": [],
       "full_summary_md": "",
-      "description": "Read ch14 full text. Write manga prompts. Linh(nữ) alone visits Bà Lụa in Hương Thủy. Bà Lụa reveals she was Rửa'd 1978 (male to female). Tells about 'người gọi mưa'. Linh follows dạ lan scent, finds thợ nước's house, sees half-drunk glass. Doesn't knock yet. Key scenes: Bà Lụa's house, Rửa revelation, dạ lan trail, thợ nước's doorstep. Characters: Linh(nữ), Bà Lụa. Settings: Hương Thủy, nhà cọc Bà Lụa, bờ sông, thợ nước's house. 4 trang.",
-      "estimate": "30min",
+      "description": "Read ch14 full text. Write manga prompts INCREMENTALLY:\n\n**Step 1 — Header:** Write file header to ch14_prompts.md: chapter title, character sheets (Linh nữ, Bà Lụa), outfit specs, color palette (Hương Thủy greens, old wood), cross-page threads (dạ lan scent, Rửa revelation).\n\n**Step 2 — Trang 1:** Append trang 1 (Linh visits Bà Lụa's house in Hương Thủy). Layout + panels.\n\n**Step 3 — Trang 2:** Append trang 2 (Bà Lụa reveals she was Rửa'd 1978, male to female). Layout + panels.\n\n**Step 4 — Trang 3:** Append trang 3 (Linh follows dạ lan scent, finds thợ nước's house, half-drunk glass). Layout + panels.\n\n**Step 5 — Trang 4:** Append trang 4 (Linh at doorstep, doesn't knock yet). Layout + panels.\n\nEach step: read current file → extend with new trang. No single write exceeds ~150 lines. Settings: Hương Thủy, nhà cọc Bà Lụa, bờ sông, thợ nước's house.",
+      "estimate": "35min",
       "files": [
         "manga/prompts/ch14_prompts.md"
       ],
@@ -879,7 +882,7 @@
       "milestone_id": "M002",
       "slice_id": "S02",
       "id": "T03",
-      "title": "Ch15: Chuyển Dịch — manga prompts",
+      "title": "Ch15: Chuyển Dịch — manga prompts (incremental)",
       "status": "pending",
       "one_liner": "",
       "narrative": "",
@@ -892,8 +895,8 @@
       "key_files": [],
       "key_decisions": [],
       "full_summary_md": "",
-      "description": "Read ch15 full text. Write manga prompts. Shifting love triangle at xưởng may. Linh(nữ) notices Tuấn(nam) gives water to Lịch(nữ) differently. Tuấn admits remembering Lịch more than Linh in 1998. Linh folds wedding clothes with Lịch, hand touch, Lịch pulls away. Linh realizes love shifting from Tuấn to Lịch. Key scenes: xưởng may morning, Tuấn's admission, folding clothes with Lịch, night alone. Characters: Linh(nữ), Tuấn(nam), Lịch(nữ). Settings: xưởng may, phòng trọ. 3 trang — intimate, quiet, emotional.",
-      "estimate": "25min",
+      "description": "Read ch15 full text. Write manga prompts INCREMENTALLY:\n\n**Step 1 — Header:** Write file header to ch15_prompts.md: chapter title, character sheets (Linh nữ, Tuấn nam, Lịch nữ), outfit specs, color palette (xưởng may warm tones), cross-page threads (love shift, hand touch).\n\n**Step 2 — Trang 1:** Append trang 1 (xưởng may morning, Tuấn gives water to Lịch differently). Layout + panels.\n\n**Step 3 — Trang 2:** Append trang 2 (Tuấn admits remembering Lịch more than Linh in 1998). Layout + panels.\n\n**Step 4 — Trang 3:** Append trang 3 (Linh folds wedding clothes with Lịch, hand touch, Lịch pulls away. Night alone — realizes love shifting). Layout + panels.\n\nEach step: read current file → extend with new trang. No single write exceeds ~150 lines. Settings: xưởng may, phòng trọ. 3 trang — intimate, quiet, emotional.",
+      "estimate": "30min",
       "files": [
         "manga/prompts/ch15_prompts.md"
       ],
@@ -913,7 +916,7 @@
       "milestone_id": "M002",
       "slice_id": "S02",
       "id": "T04",
-      "title": "Ch16: Người Bên Sông — manga prompts",
+      "title": "Ch16: Người Bên Sông — manga prompts (incremental)",
       "status": "pending",
       "one_liner": "",
       "narrative": "",
@@ -926,16 +929,15 @@
       "key_files": [],
       "key_decisions": [],
       "full_summary_md": "",
-      "description": "Read ch16 full text. Write manga prompts. Bách(nam) at dawn follows dạ lan scent to riverside, encounters gaunt man (Cảnh/nam) with calloused hands touching water. Man slips: 'Nhóm mình dạo này thế nào?' then vanishes into fog. Afternoon: Bách tells Linh(nữ) at quán. Rain comes. Key scenes: dawn riverside, Bách-Cảnh encounter, man vanishes, afternoon revelation at quán, rain. Characters: Bách(nam), Cảnh(nam-first appearance), Linh(nữ). Settings: bờ sông Hương Thủy dawn, quán bà Tâm. 4 trang — first Cảnh encounter is major.",
-      "estimate": "30min",
+      "description": "Read ch16 full text. Write manga prompts INCREMENTALLY:\n\n**Step 1 — Header:** Write file header to ch16_prompts.md: chapter title, character sheets (Bách nam, Cảnh nam-first appearance, Linh nữ), outfit specs, color palette (dawn river, fog), cross-page threads (dạ lan, Cảnh's calloused hands, first encounter).\n\n**Step 2 — Trang 1:** Append trang 1 (Bách at dawn follows dạ lan scent to riverside). Layout + panels.\n\n**Step 3 — Trang 2:** Append trang 2 (Bách encounters gaunt man Cảnh, calloused hands touching water). Layout + panels.\n\n**Step 4 — Trang 3:** Append trang 3 (Man slips 'Nhóm mình dạo này thế nào?' then vanishes into fog). Layout + panels.\n\n**Step 5 — Trang 4:** Append trang 4 (Afternoon: Bách tells Linh at quán. Rain comes). Layout + panels.\n\nEach step: read current file → extend with new trang. No single write exceeds ~150 lines. Settings: bờ sông Hương Thủy dawn, quán bà Tâm. 4 trang — first Cảnh encounter is major.",
+      "estimate": "35min",
       "files": [
         "manga/prompts/ch16_prompts.md"
       ],
       "verify": "File exists, 4 trang, Cảnh first appearance consistent with character sheet",
       "inputs": [
         "chapters/ch_16.md",
-        "summaries/summary_16.md",
-        "manga/CHARACTER_SHEETS.md"
+        "summaries/summary_16.md"
       ],
       "expected_output": [
         "manga/prompts/ch16_prompts.md"
@@ -948,7 +950,7 @@
       "milestone_id": "M002",
       "slice_id": "S03",
       "id": "T01",
-      "title": "Ch17: Rửa Cuối Cùng — manga prompts",
+      "title": "Ch17: Rửa Cuối Cùng — manga prompts (incremental)",
       "status": "pending",
       "one_liner": "",
       "narrative": "",
@@ -961,8 +963,8 @@
       "key_files": [],
       "key_decisions": [],
       "full_summary_md": "",
-      "description": "Read ch17 full text. Write manga prompts. Tuấn(nam) gets Rửa'd — loses memories of Lịch. Linh(nữ) witnesses the void in Tuấn and Lịch(nữ)'s silent pain. Linh confronts mirror, discovers bóng ma is old friend. Dạ lan smell thick. Key scenes: dạ lan smell arrives, Tuấn post-Rửa, quán scene (void), Linh's mirror revelation. Characters: Linh(nữ), Tuấn(nam), Lịch(nữ). Settings: quán bà Tâm, Linh's phòng trọ. 4-5 trang — emotional peak chapter.",
-      "estimate": "30min",
+      "description": "Read ch17 full text. Write manga prompts INCREMENTALLY:\n\n**Step 1 — Header:** Write file header to ch17_prompts.md: chapter title, character sheets (Linh nữ, Tuấn nam, Lịch nữ), outfit specs, color palette (heavy emotional tones), cross-page threads (dạ lan smell, Tuấn's Rửa, mirror revelation).\n\n**Step 2 — Trang 1:** Append trang 1 (dạ lan smell arrives, Rửa scene). Layout + panels.\n\n**Step 3 — Trang 2:** Append trang 2 (Tuấn post-Rửa — loses memories of Lịch). Layout + panels.\n\n**Step 4 — Trang 3:** Append trang 3 (quán scene — void in Tuấn, Lịch's silent pain). Layout + panels.\n\n**Step 5 — Trang 4:** Append trang 4 (Linh confronts mirror, discovers bóng ma is old friend). Layout + panels.\n\n**Step 6 — Trang 5 (if needed):** Append closing trang if chapter density requires.\n\nEach step: read current file → extend with new trang. No single write exceeds ~150 lines. Settings: quán bà Tâm, Linh's phòng trọ. 4-5 trang — emotional peak chapter.",
+      "estimate": "35min",
       "files": [
         "manga/prompts/ch17_prompts.md"
       ],
@@ -982,7 +984,7 @@
       "milestone_id": "M002",
       "slice_id": "S03",
       "id": "T02",
-      "title": "Ch18: Đêm Không Mưa — manga prompts",
+      "title": "Ch18: Đêm Không Mưa — manga prompts (incremental)",
       "status": "pending",
       "one_liner": "",
       "narrative": "",
@@ -995,8 +997,8 @@
       "key_files": [],
       "key_decisions": [],
       "full_summary_md": "",
-      "description": "Read ch18 full text. Write manga prompts. Linh(nữ) at riverside first night without rain. Withdrawing love from Tuấn like pulling thread. Lịch(nữ) arrives, places hand on Linh's hand — warmth through cold. Linh decides to find Cảnh tomorrow. Key scenes: riverside alone, Linh's internal emptying, Lịch's touch, decision, sitting at quán steps waiting for dawn. Characters: Linh(nữ), Lịch(nữ). Settings: bờ sông Hương, bậc thềm quán bà Tâm. 3 trang — quietest chapter, two people, no rain.",
-      "estimate": "25min",
+      "description": "Read ch18 full text. Write manga prompts INCREMENTALLY:\n\n**Step 1 — Header:** Write file header to ch18_prompts.md: chapter title, character sheets (Linh nữ, Lịch nữ), outfit specs, color palette (riverside night, warm hand touch), cross-page threads (withdrawing love, thread metaphor, decision).\n\n**Step 2 — Trang 1:** Append trang 1 (Linh at riverside, first night without rain). Layout + panels.\n\n**Step 3 — Trang 2:** Append trang 2 (Linh withdrawing love from Tuấn like pulling thread). Layout + panels.\n\n**Step 4 — Trang 3:** Append trang 3 (Lịch arrives, places hand on Linh's hand — warmth. Decision to find Cảnh. Sitting at quán steps waiting for dawn). Layout + panels.\n\nEach step: read current file → extend with new trang. No single write exceeds ~150 lines. Settings: bờ sông Hương, bậc thềm quán bà Tâm. 3 trang — quietest chapter, two people, no rain.",
+      "estimate": "30min",
       "files": [
         "manga/prompts/ch18_prompts.md"
       ],
@@ -1016,7 +1018,7 @@
       "milestone_id": "M002",
       "slice_id": "S03",
       "id": "T03",
-      "title": "Ch19: Ngôi Nhà Ven Sông — manga prompts",
+      "title": "Ch19: Ngôi Nhà Ven Sông — manga prompts (incremental)",
       "status": "pending",
       "one_liner": "",
       "narrative": "",
@@ -1029,8 +1031,8 @@
       "key_files": [],
       "key_decisions": [],
       "full_summary_md": "",
-      "description": "Read ch19 full text. Write manga prompts. Linh(nữ) finds Cảnh's(nam) riverside house. Discovers 5 burned paper scraps with names. Cảnh admits calling rain in desperation, paying price of losing emotions. Linh shifts from anger to compassion. When Cảnh says old name 'Thảo', clouds gather. Key scenes: Cảnh's house interior, burned papers, Cảnh's confession, Linh's anger → compassion, clouds gathering. Characters: Linh(nữ), Cảnh(nam). Settings: Cảnh's house ven sông. 4 trang — first real dialogue with Cảnh.",
-      "estimate": "30min",
+      "description": "Read ch19 full text. Write manga prompts INCREMENTALLY:\n\n**Step 1 — Header:** Write file header to ch19_prompts.md: chapter title, character sheets (Linh nữ, Cảnh nam), outfit specs, color palette (Cảnh's house interior, burned papers), cross-page threads (burned paper scraps, compassion shift, old name 'Thảo').\n\n**Step 2 — Trang 1:** Append trang 1 (Linh finds Cảnh's riverside house). Layout + panels.\n\n**Step 3 — Trang 2:** Append trang 2 (Discovers 5 burned paper scraps with names). Layout + panels.\n\n**Step 4 — Trang 3:** Append trang 3 (Cảnh admits calling rain, paying price of losing emotions). Layout + panels.\n\n**Step 5 — Trang 4:** Append trang 4 (Linh shifts anger → compassion. Old name 'Thảo', clouds gather). Layout + panels.\n\nEach step: read current file → extend with new trang. No single write exceeds ~150 lines. Settings: Cảnh's house ven sông. 4 trang — first real dialogue with Cảnh.",
+      "estimate": "35min",
       "files": [
         "manga/prompts/ch19_prompts.md"
       ],
@@ -1050,7 +1052,7 @@
       "milestone_id": "M002",
       "slice_id": "S03",
       "id": "T04",
-      "title": "Ch20: Sự Thật Vỡ — manga prompts",
+      "title": "Ch20: Sự Thật Vỡ — manga prompts (incremental)",
       "status": "pending",
       "one_liner": "",
       "narrative": "",
@@ -1063,8 +1065,8 @@
       "key_files": [],
       "key_decisions": [],
       "full_summary_md": "",
-      "description": "Read ch20 full text. Write manga prompts. Linh(nữ) reveals truth to group at quán: Cảnh is 6th person. Lịch(nữ) adds Cảnh is self-destructing. Bách(nam) furious. Duy(nữ) drops facade, admits exhaustion. Tuấn(nam) realizes he was possessive like Cảnh, lets Linh go. Decision: Linh goes to Cảnh to listen, not fight. Lịch begs to come. Key scenes: group revelation, each person's reaction, Tuấn letting go, Linh-Lịch decision. Characters: Linh(nữ), Bách(nam), Duy(nữ), Tuấn(nam), Lịch(nữ), Cảnh(nam-silhouette), Bà Tâm. Settings: quán bà Tâm. 5 trang — dense group chapter with multiple emotional beats.",
-      "estimate": "35min",
+      "description": "Read ch20 full text. Write manga prompts INCREMENTALLY:\n\n**Step 1 — Header:** Write file header to ch20_prompts.md: chapter title, character sheets (Linh nữ, Bách nam, Duy nữ, Tuấn nam, Lịch nữ, Cảnh nam-silhouette, Bà Tâm), outfit specs, color palette (quán warm, group tension), cross-page threads (group revelation, each person's reaction, letting go).\n\n**Step 2 — Trang 1:** Append trang 1 (Linh reveals truth to group: Cảnh is 6th person). Layout + panels.\n\n**Step 3 — Trang 2:** Append trang 2 (Lịch adds Cảnh is self-destructing. Bách furious. Duy drops facade). Layout + panels.\n\n**Step 4 — Trang 3:** Append trang 3 (Tuấn realizes he was possessive like Cảnh, lets Linh go). Layout + panels.\n\n**Step 5 — Trang 4:** Append trang 4 (Decision: Linh goes to Cảnh to listen, not fight. Lịch begs to come). Layout + panels.\n\n**Step 6 — Trang 5 (if needed):** Append closing trang for group dispersal.\n\nEach step: read current file → extend with new trang. No single write exceeds ~150 lines. Settings: quán bà Tâm. 5 trang — dense group chapter with multiple emotional beats.",
+      "estimate": "40min",
       "files": [
         "manga/prompts/ch20_prompts.md"
       ],
@@ -1084,7 +1086,7 @@
       "milestone_id": "M002",
       "slice_id": "S04",
       "id": "T01",
-      "title": "Ch21: Đối Thoại — manga prompts",
+      "title": "Ch21: Đối Thoại — manga prompts (incremental)",
       "status": "pending",
       "one_liner": "",
       "narrative": "",
@@ -1097,8 +1099,8 @@
       "key_files": [],
       "key_decisions": [],
       "full_summary_md": "",
-      "description": "Read ch21 full text. Write manga prompts. Linh(nữ) returns to Cảnh's(nam) house in morning fog. 5 burned paper scraps on table — Linh's name burned least. Cảnh admits calling rain to Rửa everyone, making them empty vessels. Cảnh losing ability to cry, to love. Linh grabs Cảnh's shoulder: 'You belong to the group.' Key scenes: foggy approach, burned papers close-up, Cảnh's confession, Linh's shoulder grab, finding new answer. Characters: Linh(nữ), Cảnh(nam). Settings: Cảnh's house, bờ sông. 4 trang.",
-      "estimate": "30min",
+      "description": "Read ch21 full text. Write manga prompts INCREMENTALLY:\n\n**Step 1 — Header:** Write file header to ch21_prompts.md: chapter title, character sheets (Linh nữ, Cảnh nam), outfit specs, color palette (morning fog, burned papers), cross-page threads (fog approach, burned papers, Cảnh confession, shoulder grab).\n\n**Step 2 — Trang 1:** Append trang 1 (Linh returns to Cảnh's house in morning fog). Layout + panels.\n\n**Step 3 — Trang 2:** Append trang 2 (5 burned paper scraps on table — Linh's name burned least). Layout + panels.\n\n**Step 4 — Trang 3:** Append trang 3 (Cảnh admits calling rain to Rửa everyone, making them empty vessels). Layout + panels.\n\n**Step 5 — Trang 4:** Append trang 4 (Linh grabs Cảnh's shoulder: 'You belong to the group.' Finding new answer). Layout + panels.\n\nEach step: read current file → extend with new trang. No single write exceeds ~150 lines. Settings: Cảnh's house, bờ sông. 4 trang.",
+      "estimate": "35min",
       "files": [
         "manga/prompts/ch21_prompts.md"
       ],
@@ -1118,7 +1120,7 @@
       "milestone_id": "M002",
       "slice_id": "S04",
       "id": "T02",
-      "title": "Ch22: Trận Mưa Lớn Nhất — manga prompts",
+      "title": "Ch22: Trận Mưa Lớn Nhất — manga prompts (incremental)",
       "status": "pending",
       "one_liner": "",
       "narrative": "",
@@ -1131,8 +1133,8 @@
       "key_files": [],
       "key_decisions": [],
       "full_summary_md": "",
-      "description": "Read ch22 full text. Write manga prompts. Cảnh(nam) reveals plan: Rửa everyone's emotional memories, fill void with own memories as 'virus'. Cảnh starts calling biggest rain — dạ lan smell overwhelming. Linh(nữ) grabs Cảnh's ice-cold hand, pleads: just come to quán, sit in the chair, Bà Tâm will pour water. Cảnh stops struggling. Key scenes: Cảnh's plan revelation, rain begins (biggest), Linh grabs cold hand, plea, mưa pours, papers float away. Characters: Linh(nữ), Cảnh(nam). Settings: Cảnh's house, mưa lớn. 4-5 trang — climactic chapter.",
-      "estimate": "30min",
+      "description": "Read ch22 full text. Write manga prompts INCREMENTALLY:\n\n**Step 1 — Header:** Write file header to ch22_prompts.md: chapter title, character sheets (Linh nữ, Cảnh nam), outfit specs, color palette (rain climax, cold hands), cross-page threads (Cảnh's plan, biggest rain, cold hand grab, plea).\n\n**Step 2 — Trang 1:** Append trang 1 (Cảnh reveals plan: Rửa everyone's emotional memories, fill void with own memories as 'virus'). Layout + panels.\n\n**Step 3 — Trang 2:** Append trang 2 (Cảnh starts calling biggest rain — dạ lan smell overwhelming). Layout + panels.\n\n**Step 4 — Trang 3:** Append trang 3 (Linh grabs Cảnh's ice-cold hand, pleads: just come to quán, sit in the chair, Bà Tâm will pour water). Layout + panels.\n\n**Step 5 — Trang 4:** Append trang 4 (Cảnh stops struggling. Mưa pours. Papers float away). Layout + panels.\n\n**Step 6 — Trang 5 (if needed):** Append closing trang for aftermath.\n\nEach step: read current file → extend with new trang. No single write exceeds ~150 lines. Settings: Cảnh's house, mưa lớn. 4-5 trang — climactic chapter.",
+      "estimate": "35min",
       "files": [
         "manga/prompts/ch22_prompts.md"
       ],
@@ -1152,7 +1154,7 @@
       "milestone_id": "M002",
       "slice_id": "S04",
       "id": "T03",
-      "title": "Ch23: Mưa Dứt — manga prompts",
+      "title": "Ch23: Mưa Dứt — manga prompts (incremental)",
       "status": "pending",
       "one_liner": "",
       "narrative": "",
@@ -1165,8 +1167,8 @@
       "key_files": [],
       "key_decisions": [],
       "full_summary_md": "",
-      "description": "Read ch23 full text. Write manga prompts. Linh(nữ) triggers Rửa during the rain — body starts changing. She grabs Cảnh(nam), convinces him to let go. Cảnh cries for first time in 6 years. Rain stops. Linh stays nữ (Rửa stopped mid-way), loses only small memory fragment. Cảnh decides to go to quán. Linh promises to remember Cảnh from this moment. Key scenes: Linh's body Rửa beginning, grip on Cảnh, Cảnh cries, rain stops, dawn walk along river. Characters: Linh(nữ,stays nữ), Cảnh(nam). Settings: Cảnh's house, bờ sông Hương dawn. 5 trang — climax and resolution.",
-      "estimate": "35min",
+      "description": "Read ch23 full text. Write manga prompts INCREMENTALLY:\n\n**Step 1 — Header:** Write file header to ch23_prompts.md: chapter title, character sheets (Linh nữ/stays nữ, Cảnh nam), outfit specs, color palette (Rửa transformation, dawn), cross-page threads (body changing, grip on Cảnh, first tears, rain stops).\n\n**Step 2 — Trang 1:** Append trang 1 (Linh triggers Rửa during rain — body starts changing). Layout + panels.\n\n**Step 3 — Trang 2:** Append trang 2 (Linh grabs Cảnh, convinces him to let go). Layout + panels.\n\n**Step 4 — Trang 3:** Append trang 3 (Cảnh cries for first time in 6 years. Rain stops). Layout + panels.\n\n**Step 5 — Trang 4:** Append trang 4 (Linh stays nữ (Rửa stopped mid-way), loses only small memory fragment). Layout + panels.\n\n**Step 6 — Trang 5:** Append trang 5 (Cảnh decides to go to quán. Linh promises to remember. Dawn walk along river). Layout + panels.\n\nEach step: read current file → extend with new trang. No single write exceeds ~150 lines. Settings: Cảnh's house, bờ sông Hương dawn. 5 trang — climax and resolution.",
+      "estimate": "40min",
       "files": [
         "manga/prompts/ch23_prompts.md"
       ],
@@ -1186,7 +1188,7 @@
       "milestone_id": "M002",
       "slice_id": "S04",
       "id": "T04",
-      "title": "Ch24: Trời Trong — manga prompts",
+      "title": "Ch24: Trời Trong — manga prompts (incremental)",
       "status": "pending",
       "one_liner": "",
       "narrative": "",
@@ -1199,8 +1201,8 @@
       "key_files": [],
       "key_decisions": [],
       "full_summary_md": "",
-      "description": "Read ch24 full text. Write manga prompts. Three months later. Clear sky. Linh(nữ) at usual table. Five people gather — Lịch(nữ), Tuấn(now looks different post-Rửa but likely still nam based on text), Bách(nam), Duy(nữ). Duy announces leaving for Đà Nẵng. Cảnh(nam) — who sat outside 2000 nights — enters quán for first time, sits in the empty chair. Bà Tâm places glass before Cảnh. Group disperses slowly. Linh walks toward xưởng may in sunshine. Key scenes: clear sky establishing, each person arrives, Cảnh enters (first time inside), Bà Tâm's glass, goodbyes, Linh walks alone in sun. Characters: Linh(nữ), Lịch(nữ), Tuấn(nam), Bách(nam), Duy(nữ), Cảnh(nam), Bà Tâm. Settings: quán bà Tâm, đường phố Huế sáng. 4 trang — epilogue, warm tone, resolution.",
-      "estimate": "30min",
+      "description": "Read ch24 full text. Write manga prompts INCREMENTALLY:\n\n**Step 1 — Header:** Write file header to ch24_prompts.md: chapter title, character sheets (Linh nữ, Lịch nữ, Tuấn nam, Bách nam, Duy nữ, Cảnh nam, Bà Tâm), outfit specs, color palette (clear sky, warm sunshine, epilogue), cross-page threads (three months later, Cảnh enters quán, glass, goodbyes).\n\n**Step 2 — Trang 1:** Append trang 1 (Three months later. Clear sky. Linh at usual table). Layout + panels.\n\n**Step 3 — Trang 2:** Append trang 2 (Five people gather — each arrives. Duy announces leaving for Đà Nẵng). Layout + panels.\n\n**Step 4 — Trang 3:** Append trang 3 (Cảnh — who sat outside 2000 nights — enters quán for first time, sits in the empty chair. Bà Tâm places glass). Layout + panels.\n\n**Step 5 — Trang 4:** Append trang 4 (Group disperses slowly. Linh walks toward xưởng may in sunshine). Layout + panels.\n\nEach step: read current file → extend with new trang. No single write exceeds ~150 lines. Settings: quán bà Tâm, đường phố Huế sáng. 4 trang — epilogue, warm tone, resolution.",
+      "estimate": "35min",
       "files": [
         "manga/prompts/ch24_prompts.md"
       ],
@@ -1265,7 +1267,64 @@
       "revisable": "Yes",
       "made_by": "agent",
       "superseded_by": null
+    },
+    {
+      "seq": 5,
+      "id": "D005",
+      "when_context": "",
+      "scope": "workflow",
+      "decision": "Manga prompt generation approach for LLM output limits",
+      "choice": "Incremental trang-by-trang writes: header first, then each trang as separate edit/append step",
+      "rationale": "LLM backend cannot emit 300+ lines in a single write. Each prompt file (~180-310 lines) must be built page-by-page. This keeps each write within token limits (~100-150 lines per step) while producing identical final output. Pattern: write header → append trang 1 → append trang 2 → ... → append final trang + notes.",
+      "revisable": "Yes",
+      "made_by": "human",
+      "superseded_by": null
     }
   ],
-  "verification_evidence": []
+  "verification_evidence": [
+    {
+      "id": 1,
+      "task_id": "T01",
+      "slice_id": "S02",
+      "milestone_id": "M002",
+      "command": "test -f manga/prompts/ch13_prompts.md && echo 'EXISTS'",
+      "exit_code": 0,
+      "verdict": "✅ pass",
+      "duration_ms": 50,
+      "created_at": "2026-05-03T05:49:32.907Z"
+    },
+    {
+      "id": 2,
+      "task_id": "T01",
+      "slice_id": "S02",
+      "milestone_id": "M002",
+      "command": "grep -c '^TRANG [0-9]' manga/prompts/ch13_prompts.md",
+      "exit_code": 0,
+      "verdict": "✅ pass (4 trang found)",
+      "duration_ms": 50,
+      "created_at": "2026-05-03T05:49:32.907Z"
+    },
+    {
+      "id": 3,
+      "task_id": "T01",
+      "slice_id": "S02",
+      "milestone_id": "M002",
+      "command": "grep -c 'PANEL' manga/prompts/ch13_prompts.md",
+      "exit_code": 0,
+      "verdict": "✅ pass (24 panels total)",
+      "duration_ms": 50,
+      "created_at": "2026-05-03T05:49:32.907Z"
+    },
+    {
+      "id": 4,
+      "task_id": "T01",
+      "slice_id": "S02",
+      "milestone_id": "M002",
+      "command": "grep '1024x1536' manga/prompts/ch13_prompts.md | wc -l",
+      "exit_code": 0,
+      "verdict": "✅ pass (4 trang with correct dimensions)",
+      "duration_ms": 50,
+      "created_at": "2026-05-03T05:49:32.907Z"
+    }
+  ]
 }

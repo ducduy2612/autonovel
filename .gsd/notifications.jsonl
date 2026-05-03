@@ -62,3 +62,9 @@
 {"id":"22e3eeb7-dce5-4131-9107-72b29daa7701","ts":"2026-05-03T04:38:17.062Z","severity":"info","message":"Committed: feat: Created ch11_prompts.md — 3 trang manga prompts for \"Đêm Không Ng…","source":"notify","read":false}
 {"id":"2cd15a7c-4937-4d21-8530-a4831283eb5f","ts":"2026-05-03T04:38:18.165Z","severity":"info","message":"Verification gate: FAILED — pytest","source":"notify","read":false}
 {"id":"58b042bb-ed5c-43ea-9e80-7debecf754df","ts":"2026-05-03T04:38:18.165Z","severity":"warning","message":"Verification failed (pytest) — auto-fix attempt 1/2","source":"notify","read":false}
+{"id":"24f0e844-ebc4-4155-b28c-65194b32451c","ts":"2026-05-03T04:55:50.761Z","severity":"info","message":"Committed: feat: Created ch12_prompts.md — 4 trang manga prompts for \"Người Thứ Sá…","source":"notify","read":false}
+{"id":"5f674fb9-80b8-4222-9b4c-7ecd7f50c41a","ts":"2026-05-03T04:55:50.767Z","severity":"warning","message":"[safety] file-change: results.tsv — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"7ed99360-292f-4324-a556-59bd70fae3b0","ts":"2026-05-03T04:55:50.767Z","severity":"warning","message":"Safety: 1 unexpected file change(s) outside task plan","source":"notify","read":false}
+{"id":"d1070333-a1b1-4112-b814-8098e06b2221","ts":"2026-05-03T04:55:52.054Z","severity":"info","message":"Verification gate: FAILED — pytest","source":"notify","read":false}
+{"id":"35f13456-3f81-43b3-839a-4793861c41a0","ts":"2026-05-03T04:55:52.054Z","severity":"warning","message":"Verification failed (pytest) — auto-fix attempt 1/2","source":"notify","read":false}
+{"id":"825d9f08-3a56-4a91-8c49-5c2cfaf02e96","ts":"2026-05-03T05:41:50.500Z","severity":"info","message":"Override(s) resolved — rewrite-docs completed.","source":"notify","read":false}
