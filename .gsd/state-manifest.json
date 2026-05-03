@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "exported_at": "2026-05-03T04:38:12.657Z",
+  "exported_at": "2026-05-03T04:55:46.503Z",
   "milestones": [
     {
       "id": "M001",
@@ -770,19 +770,26 @@
       "milestone_id": "M002",
       "slice_id": "S01",
       "id": "T04",
-      "title": "Ch12: Người Thứ Sáu — manga prompts",
-      "status": "pending",
-      "one_liner": "",
-      "narrative": "",
-      "verification_result": "",
+      "title": "Created ch12_prompts.md — 4 trang manga prompts for \"Người Thứ Sáu\" with six glasses/empty chair discovery, Bách's dạ lan revelation, Tuấn's despair, and Linh seeing figure across river as rain falls",
+      "status": "complete",
+      "one_liner": "Created ch12_prompts.md — 4 trang manga prompts for \"Người Thứ Sáu\" with six glasses/empty chair discovery, Bách's dạ lan revelation, Tuấn's despair, and Linh seeing figure across river as rain falls",
+      "narrative": "Created manga/prompts/ch12_prompts.md with 4 trang covering the climactic group revelation chapter. \n\nTrang 1 establishes the gathering at quán bà Tâm — Bà Tâm places six glasses (five coffee, one clear water for the empty chair), and Linh asks Bách what he remembers about the empty chair. Key motif: six glasses, empty chair, clear water glass distinct from brown coffee.\n\nTrang 2 is the revelation — Bách reveals the dạ lan scent memory (night-blooming orchid mixed with incense) as evidence of the sixth person, and Lịch cross-references twelve years of red-ink notebook entries proving every Rửa targeted whoever was starting to drift away. Key motif: dạ lan hallucination overlay, red ink notebook, systematic pattern.\n\nTrang 3 is Tuấn's devastation — learning that three years of loving Linh were deliberately stolen. Tuấn's hope shatters when Bách says \"rivers flow one way.\" Key motif: white face, silver ring still glinting, chair scraping floor.\n\nTrang 4 is Linh's compassion — seeing a figure across the river in the mist, choosing not anger but sadness for the sixth person. Rain begins. Linh touches the cold water glass, resolves to find the forgotten one. Key motif: figure in mist, rain falling, glass still full.\n\nCharacter genders correctly assigned: Linh(nữ), Bách(nam) post-Rửa new body but same red eyes, Lịch(nữ), Tuấn(nam), Bà Tâm, Duy(nữ-mentioned/absent). Visual threads (sáu ly, ghế trống, dạ lan, nhẫn bạc, mưa) woven across all 4 trang per chapter structure.",
+      "verification_result": "File exists at manga/prompts/ch12_prompts.md (542 lines). Contains 4 trang with 5 panels each. All character genders correct: Linh(nữ), Bách(nam), Lịch(nữ), Tuấn(nam), Bà Tâm, Duy(vắng/nữ). Key motifs present: ghế trống (23 mentions), dạ lan (11), ly nước (20), nhẫn bạc (24), mưa throughout. Character sheets referenced in header. Group scene format with 5 characters at one table. Vietnamese text throughout all dialogue bubbles and captions.",
       "duration": "",
-      "completed_at": null,
+      "completed_at": "2026-05-03T04:55:46.498Z",
       "blocker_discovered": false,
-      "deviations": "",
-      "known_issues": "",
-      "key_files": [],
-      "key_decisions": [],
-      "full_summary_md": "",
+      "deviations": "None.",
+      "known_issues": "None.",
+      "key_files": [
+        "manga/prompts/ch12_prompts.md"
+      ],
+      "key_decisions": [
+        "Used Bách(nam) post-Rửa per task plan — new male body but same red eyes as recognition anchor across chapters",
+        "4 trang structure matching chapter's four natural scene divisions: gathering → revelation → devastation → compassion",
+        "Dạ lan scent rendered as hallucination overlay (white petals, incense smoke) rather than literal — can't draw smell but can draw its memory",
+        "Tuấn's ring as recurring visual anchor (lấp lánh under yellow light) — the one bright object in an increasingly dark chapter"
+      ],
+      "full_summary_md": "---\nid: T04\nparent: S01\nmilestone: M002\nkey_files:\n  - manga/prompts/ch12_prompts.md\nkey_decisions:\n  - Used Bách(nam) post-Rửa per task plan — new male body but same red eyes as recognition anchor across chapters\n  - 4 trang structure matching chapter's four natural scene divisions: gathering → revelation → devastation → compassion\n  - Dạ lan scent rendered as hallucination overlay (white petals, incense smoke) rather than literal — can't draw smell but can draw its memory\n  - Tuấn's ring as recurring visual anchor (lấp lánh under yellow light) — the one bright object in an increasingly dark chapter\nduration: \nverification_result: untested\ncompleted_at: 2026-05-03T04:55:46.497Z\nblocker_discovered: false\n---\n\n# T04: Created ch12_prompts.md — 4 trang manga prompts for \"Người Thứ Sáu\" with six glasses/empty chair discovery, Bách's dạ lan revelation, Tuấn's despair, and Linh seeing figure across river as rain falls\n\n**Created ch12_prompts.md — 4 trang manga prompts for \"Người Thứ Sáu\" with six glasses/empty chair discovery, Bách's dạ lan revelation, Tuấn's despair, and Linh seeing figure across river as rain falls**\n\n## What Happened\n\nCreated manga/prompts/ch12_prompts.md with 4 trang covering the climactic group revelation chapter. \n\nTrang 1 establishes the gathering at quán bà Tâm — Bà Tâm places six glasses (five coffee, one clear water for the empty chair), and Linh asks Bách what he remembers about the empty chair. Key motif: six glasses, empty chair, clear water glass distinct from brown coffee.\n\nTrang 2 is the revelation — Bách reveals the dạ lan scent memory (night-blooming orchid mixed with incense) as evidence of the sixth person, and Lịch cross-references twelve years of red-ink notebook entries proving every Rửa targeted whoever was starting to drift away. Key motif: dạ lan hallucination overlay, red ink notebook, systematic pattern.\n\nTrang 3 is Tuấn's devastation — learning that three years of loving Linh were deliberately stolen. Tuấn's hope shatters when Bách says \"rivers flow one way.\" Key motif: white face, silver ring still glinting, chair scraping floor.\n\nTrang 4 is Linh's compassion — seeing a figure across the river in the mist, choosing not anger but sadness for the sixth person. Rain begins. Linh touches the cold water glass, resolves to find the forgotten one. Key motif: figure in mist, rain falling, glass still full.\n\nCharacter genders correctly assigned: Linh(nữ), Bách(nam) post-Rửa new body but same red eyes, Lịch(nữ), Tuấn(nam), Bà Tâm, Duy(nữ-mentioned/absent). Visual threads (sáu ly, ghế trống, dạ lan, nhẫn bạc, mưa) woven across all 4 trang per chapter structure.\n\n## Verification\n\nFile exists at manga/prompts/ch12_prompts.md (542 lines). Contains 4 trang with 5 panels each. All character genders correct: Linh(nữ), Bách(nam), Lịch(nữ), Tuấn(nam), Bà Tâm, Duy(vắng/nữ). Key motifs present: ghế trống (23 mentions), dạ lan (11), ly nước (20), nhẫn bạc (24), mưa throughout. Character sheets referenced in header. Group scene format with 5 characters at one table. Vietnamese text throughout all dialogue bubbles and captions.\n\n## Verification Evidence\n\n| # | Command | Exit Code | Verdict | Duration |\n|---|---------|-----------|---------|----------|\n| — | No verification commands discovered | — | — | — |\n\n## Deviations\n\nNone.\n\n## Known Issues\n\nNone.\n\n## Files Created/Modified\n\n- `manga/prompts/ch12_prompts.md`\n",
       "description": "Read ch12 full text. Write manga prompt file trang-by-trang. Five gather at quán — Linh(nữ), Bách(nam), Lịch(nữ), Tuấn(nam), Duy(vắng mặt/nữ). Bà Tâm places 6 glasses. Bách reveals mùi dạ lan. Tuấn devastated. Linh sees figure across river. Key scenes: six glasses, dạ lan revelation, Tuấn's despair, figure across river, rain begins. Characters: Linh(nữ), Bách(nam), Lịch(nữ), Tuấn(nam), Bà Tâm, Duy(mentioned). Settings: quán bà Tâm. 4 trang — group scene with strong reveals.",
       "estimate": "30min",
       "files": [
