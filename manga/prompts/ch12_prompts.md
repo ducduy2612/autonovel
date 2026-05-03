@@ -507,7 +507,7 @@ CAPTION nhỏ (góc dưới): "Lạnh. Lạnh kiểu người vươn tay trong �
 PANEL 5 (dưới cùng — chiếm ~15%):
 MƯA RƠI — LINH ĐỨNG CỬA SỔ — GIỌT ĐẦU TIÊN — KẾT
 
-Wide shot: Mưa rớt. Giọt đầu tiên. Trúng mép cửa sổ. Trúng mặt bàn. Trúng vai Tuấn. Trúng mu bàn tay Linh. Lạnh. Linh không chạy vào trong. Đứng. Để giọt mưa thứ hai, thứ ba, thứ tư rớt lên da. Lạnh rân ran. Da nổi gai từng mảng — cơ thể đang tự hỏi: lần này là ai? Lần này mình mất ai? Nhưng lần này — chưa Rửa. Mưa vừa bắt đầu. Mưa nhỏ. Kiên nhẫn. Bà Tâm đến kéo rèm: "Vào trong đi. Ướt." Linh không nhích. Bên ngoài, trời tối hẳn. Sông Hương biến thành dải đen. Không thấy bờ bên kia. Không thấy người. Chỉ thấy mưa. Mưa rơi. Rơi. Rơi. Ai đó đang gọi.
+Wide shot: Mưa rớt. Giọt đầu tiên. Trúng mép cửa sổ. Trúng mặt bàn. Trúng vai Tuấn. Trúng mu bàn tay Linh. Lạnh. Linh không chạy vào trong. Đứng — body đen ướt dính sát da, chân váy xẻ cao, nước chảy theo đường cong hông. Để giọt mưa thứ hai, thứ ba, thứ tư rớt lên da. Lạnh rân ran. Da nổi gai từng mảng — cơ thể đang tự hỏi: lần này là ai? Lần này mình mất ai? Nhưng lần này — chưa Rửa. Mưa vừa bắt đầu. Mưa nhỏ. Kiên nhẫn. Bà Tâm đến kéo rèm: "Vào trong đi. Ướt." Linh không nhích. Bên ngoài, trời tối hẳn. Sông Hương biến thành dải đen. Không thấy bờ bên kia. Không thấy người. Chỉ thấy mưa. Mưa rơi. Rơi. Rơi. Ai đó đang gọi.
 
 [VISUAL: Mưa — TRONG — giọt đầu tiên — trên da Linh — trên mặt bàn — trên vai Tuấn — trên ly nước — rỉ — mờ — ướt dần — kết: Linh đứng cửa sổ — mưa rớt — không nhích — sông đen — trời đen — mưa rơi — ai đó đang gọi. Panel cuối: toàn bộ chi tiết — mưa, sông, bóng tối — nhưng Linh đứng — không chạy — đứng — chờ — thương thay người đang gọi mưa.]
 

@@ -1,7 +1,7 @@
 CHƯƠNG 13: VÁCH ĐỨNG — 4 Trang Manga
 Upload 4 ảnh theo đúng thứ tự sau:
 
-linh_nu_sheet — LINH (nữ, tóc bob cằm, áo sơ mi tối, quần dài — xem QUẦN ÁO)
+linh_nu_sheet — LINH (nữ, tóc bob cằm, áo thun trắng mỏng, quần yếm ngắn — xem QUẦN ÁO)
 
 bach_nam_sheet — BÁCH (nam, tóc cắt sát gáy, mắt đỏ hoe, gầy — xem QUẦN ÁO)
 
@@ -19,7 +19,7 @@ Hướng dẫn map ảnh: Ảnh tham chiếu dùng cho face, body type, hairstyl
 
 QUẦN ÁO: Ch13 có hai bối cảnh. Mỗi nhân vật mặc ONE outfit nhất quán xuyên chương:
 
-LINH (NỮ): Áo sơ mi bạc màu tay dài, cài hờ hai nút trên. Quần dài ống lọt. Tóc bob cằm — rối, chưa chải từ sáng. Ngón tay thô ráp, móng cắn ngắn — tay thợ may. Mắt sưng vì thiếu ngủ — quầng thâm. Da vàng nhạt. Lúc ở quán: ngồi gối ôm trôn cà phê, ngón cái miết vòng tròn trên sành men — thói quen lo. Lúc ở phòng: áo sơ mi cũ, nếp nhăn, nằm giường nhìn trần nứt — mệt rã rời. Cuối chương: đứng cửa sổ, mưa tạt mu bàn tay — lạnh — da nổi gai — không chạy vào.
+LINH (NỮ): Áo thun trắng mỏng, cổ tròn rộng rớt hờ một bên vai, vải mỏng bám sát ngực — không áo lót bên trong, đường cong tự nhiên lộ rõ dưới lớp cotton mỏng, nút áo in hằn nhẹ. Quần yếm (overall) jeans ngắn cạp cao, khóa kéo hờ, ống cắt trên đùi — để lộ toàn bộ đoạn bụng phẳng trần giữa áo crop và cạp yếm, eo thon hóp, xương hông nhô nhẹ trên đường may. Da mịn vàng nhạt. Tóc bob cằm — rối, chưa chải từ sáng. Ngón tay thô ráp, móng cắn ngắn — tay thợ may. Mắt sưng vì thiếu ngủ — quầng thâm. Lúc ở quán: ngồi co chân trên ghế, yếm jeans trượt lên đùi, ôm trôn cà phê, ngón cái miết vòng tròn trên sành men — thói quen lo. Lúc ở phòng: áo thun nhăn, nằm giường nhìn trần nứt — mệt rã rời — bụng trần phẳng lên xuống theo nhịp thở. Cuối chương: đứng cửa sổ, mưa tạt mu bàn tay — lạnh — da nổi gai — áo thun ướt dán vào da — đường cong hiện rõ — không chạy vào.
 
 BÁCH (NAM): Cơ thể nam — lần thứ tư — gầy, vai hẹp. Tóc cắt ngắn phủ rủ trán. Mắt đỏ hoe — thức cả đêm hoặc khóc. Áo khoác tối mỏng, bên trong sơ mi xám nhăn. Quần dài. Tay đập bàn khi giận — không mạnh nhưng đủ làm ly nước mắm rung. Mép tai đỏ khi nổi giận. Cuối trang 2: đứng dậy đẩy ghế, bước ra hiên, lưng quay vào trong — vai gầy nâng hạ theo nhịp thở — cô đơn trong giận dữ. Rồi đi — một mình — về Hương Thủy.
 
@@ -88,7 +88,7 @@ Tông màu trang 1: VÀNG SƯƠNG SÁNG mỏng — trời chưa ráo, nước đ
 ─────────────────────────────────────
 
 PANEL 1 — WIDE SHOT: QUÁN BÀ TÂM SÁNG SỚM
-Góc máy: Wide establishing shot, hơi cao, nhìn xuống bàn dài quán bà Tâm. Sương mỏng ngoài cửa sổ — sông Hương mơ hồ. Bên trong: Bách ngồi một mình ở bàn, mắt đỏ hoe, tay đặt lên bàn — cứng. Linh ngồi đối diện, ôm trôn ly cà phê, ngón cái miết vòng tròn — thói quen lo. Quán vắng — mới sáu giờ — ánh đèn vàng yếu. Không khí ẩm — hơi nước bốc trên mặt bàn.
+Góc máy: Wide establishing shot, hơi cao, nhìn xuống bàn dài quán bà Tâm. Sương mỏng ngoài cửa sổ — sông Hương mơ hồ. Bên trong: Bách ngồi một mình ở bàn, mắt đỏ hoe, tay đặt lên bàn — cứng. Linh ngồi đối diện — áo thun trắng mỏng, quần yếm jeans ngắn, bụng trần phẳng lộ giữa ống áo và cạp yếm — ôm trôn ly cà phê, ngón cái miết vòng tròn — thói quen lo. Quán vắng — mới sáu giờ — ánh đèn vàng yếu. Không khí ẩm — hơi nước bốc trên mặt bàn.
 
 CAPTION (góc trên, italic): "Sáng hôm sau. Trời chưa ráo. Nước đọng trên mái tôn lao xao, rồi nhỏ giọt xuống hiên quán bà Tâm."
 
@@ -117,7 +117,7 @@ CAPTION (italic): "Vị máu Tanh trên đầu lưỡi. Linh biết. Mùi dạ l
 ─────────────────────────────────────
 
 PANEL 4 — TUẤN ĐẾN, NGỒI XA
-Góc máy: Medium-wide shot bàn dài. Tuấn đến — ngồi ghế cuối bàn, chỗ quen — cách Linh hai chỗ. Trước đây ngồi cạnh. Khoảng cách hai chỗ — không ai dời, không ai nói. Tuấn cầm đũa gắp bún — bình thản — tay không run. Bách xoay người nhìn — mắt sắc. Linh ở giữa, nhìn cả hai. Bà Tâm ở quầy bếp, xoong chảo leng keng.
+Góc máy: Medium-wide shot bàn dài. Tuấn đến — ngồi ghế cuối bàn, chỗ quen — cách Linh hai chỗ. Trước đây ngồi cạnh. Khoảng cách hai chỗ — không ai dời, không ai nói. Tuấn cầm đũa gắp bún — bình thản — tay không run. Bách xoay người nhìn — mắt sắc. Linh ở giữa — yếm jeans cạp cao, áo thun trắng, bụng trần — nhìn cả hai. Bà Tâm ở quầy bếp, xoong chảo leng keng.
 
 CAPTION (góc trên, italic): "Tuấn đến lúc bún bò vừa dọn ra. Trước đây anh ngồi cạnh. Trước đây — khi nào? Linh không nhớ."
 
@@ -137,7 +137,7 @@ CAPTION nhỏ (góc dưới, italic): "Bà Tâm đặt đĩa bánh bèo xuống 
 ─────────────────────────────────────
 
 PANEL 6 — BÁCH ĐỨNG BẬT DẬY — HAI PHE
-Góc máy: Wide shot bàn — Bách đứng bật dậy, ghế cọt trên sàn gạch — tiếng chói tai. Mép tai đỏ. Giọng cao hơn bình thường. Bên trái Bách — hành động. Bên phải Tuấn — ngồi yên. Linh ở giữa — nhìn cả hai. Lịch chưa đến — ghế trống. Duy chưa đến — ghế trống. Quán vắng — chỉ nhóm — chỉ tiếng ghế cọt — chỉ hơi bánh bèo bốc.
+Góc máy: Wide shot bàn — Bách đứng bật dậy, ghế cọt trên sàn gạch — tiếng chói tai. Mép tai đỏ. Giọng cao hơn bình thường. Bên trái Bách — hành động. Bên phải Tuấn — ngồi yên. Linh ở giữa — áo thun trắng mỏng, yếm jeans, bụng trần eo thon — nhìn cả hai. Lịch chưa đến — ghế trống. Duy chưa đến — ghế trống. Quán vắng — chỉ nhóm — chỉ tiếng ghế cọt — chỉ hơi bánh bèo bốc.
 
 BUBBLE (Bách, viền nét cứng, font lớn): "Cậu chấp nhận mất à? Cậu ngồi đây, chấp nhận để nước cuốn từng năm một?"
 
@@ -303,7 +303,7 @@ Tông màu trang 3: XANH LẠNH PHÒNG TRỌ dominates. Chiều muộn — trờ
 ─────────────────────────────────────
 
 PANEL 1 — LINH NẰM GIƯỜNG — GƯƠNG CHẬM
-Góc máy: Wide shot phòng trọ nhỏ — Linh nằm trên giường, hai tay đặt đùi, nhìn lên trần nhà nứt — vết nứt chạy từ góc này sang góc kia — như sông trên bản đồ. Bên phải: gương tường — phản chiếu Linh nằm — nhưng bóng trong gương trễ nửa nhịp — nâng tay trái, gương nâng tay phải — rồi đồng bộ. Chậu quỳnh trên ban công — hoa trắng tàn — rụng dưới gốc. Ánh sáng XANH XÁM — chiều muộn — ẩm — đặc.
+Góc máy: Wide shot phòng trọ nhỏ — Linh nằm trên giường, áo thun trắng nhắn mỏng dán vào da, quần yếm tháo nửa, bụng trần phẳng lộ hoàn toàn — hai tay đặt đùi, nhìn lên trần nhà nứt — vết nứt chạy từ góc này sang góc kia — như sông trên bản đồ. Bên phải: gương tường — phản chiếu Linh nằm — eo thon, xương hông nhô — nhưng bóng trong gương trễ nửa nhịp — nâng tay trái, gương nâng tay phải — rồi đồng bộ. Chậu quỳnh trên ban công — hoa trắng tàn — rụng dưới gốc. Ánh sáng XANH XÁM — chiều muộn — ẩm — đặc.
 
 CAPTION (góc trên, italic): "Chiều muộn. Trời xám. Mưa chưa rơi nhưng không khí đặc quánh, như bột năng nấu sôi, dính da."
 
@@ -314,7 +314,7 @@ CAPTION (italic, nhỏ — giọng nội tâm): "Bách muốn đi. Tuấn muốn
 ─────────────────────────────────────
 
 PANEL 2 — TIẾNG GÕ CỬA — TUẤN
-Góc máy: Medium shot — tiếng gõ cửa. Linh ngồi bật dậy — đầu choáng nhẹ — nằm quá lâu. Mở cửa. Tuấn đứng ngoài — tay cầm túi nilon — trong túi, hộp xốp — ấm. Ánh chiều XANH XÁM từ cầu thang — tay vịn ẩm, bám rêu. Tuấn nhìn xuống sàn — rồi lên — mắt mỏi — nhưng đến — mang cơm — quan tâm bằng cách im lặng.
+Góc máy: Medium shot — tiếng gõ cửa. Linh ngồi bật dậy — yếm jeans trượt xuống hông, áo thun nhăn, bụng trần — đầu choáng nhẹ — nằm quá lâu. Mở cửa. Tuấn đứng ngoài — tay cầm túi nilon — trong túi, hộp xốp — ấm. Ánh chiều XANH XÁM từ cầu thang — tay vịn ẩm, bám rêu. Tuấn nhìn xuống sàn — rồi lên — mắt mỏi — nhưng đến — mang cơm — quan tâm bằng cách im lặng.
 
 BUBBLE (Tuấn, viền nét đơn, ngắn): "Cơm. Bà Tâm gửi. Nấu nhiều."
 
@@ -325,7 +325,7 @@ BUBBLE (Tuấn, viền nét đơn): "Rồi. Mình ngồi một chút được kh
 ─────────────────────────────────────
 
 PANEL 3 — TUẤN NGỒI GHẾ CỬA SỔ
-Góc máy: Medium shot — Tuấn vào phòng — ngồi xuống ghế nhỏ bên cửa sổ — chỗ anh ngồi hồi xưa — chỗ anh ngồi trước khi khoảng cách mọc. Linh ngồi xuống giường. Hai người nhìn nhau qua khoảng không giữa — khoảng cách bằng một lớp không khí ẩm, đặc quánh. Hộp xốp trên tay Linh — ấm — mùi canh mùng tơi xào tỏi thoang thoảng. Ánh chiều qua cửa sổ — XANH — mờ — mây kéo dày.
+Góc máy: Medium shot — Tuấn vào phòng — ngồi xuống ghế nhỏ bên cửa sổ — chỗ anh ngồi hồi xưa — chỗ anh ngồi trước khi khoảng cách mọc. Linh ngồi xuống giường — yếm jeans cạp cao, áo thun mỏng, bụng trần eo hóp. Hai người nhìn nhau qua khoảng không giữa — khoảng cách bằng một lớp không khí ẩm, đặc quánh. Hộp xốp trên tay Linh — ấm — mùi canh mùng tơi xào tỏi thoang thoảng. Ánh chiều qua cửa sổ — XANH — mờ — mây kéo dày.
 
 CAPTION (italic): "Chỗ anh ngồi hồi xưa. Chỗ anh ngồi trước khi khoảng cách mọc. Hôm nay Tuấn hỏi để ngồi lại. Linh gật."
 
@@ -354,7 +354,7 @@ CAPTION (italic): "Câu đứt giữa chừng, như cành gãy. Anh bước đi.
 ─────────────────────────────────────
 
 PANEL 6 — LINH MỘT MÌNH — HỘP CƠM ẤM
-Góc máy: Close-up Linh ngồi trên giường — một mình — hộp xốp ấm trên tay. Mở hộp — canh mùng tơi — cơm trắng — cá kho tiêu. Ăn. Nếm được vị. Nhưng bụng trống. Cơm vào, nặng, nhưng không đầy. Ngoài cửa sổ — mưa rơi — lớn dần — giọt trên mái tôn — tiếng ken ken đều đều — kính mờ — sông Hương đen lùi. Trong phòng — chỉ Linh — chỉ hộp cơm — chỉ mưa — chỉ tiếng nước.
+Góc máy: Close-up Linh ngồi trên giường — một mình — áo thun mỏng, bụng trần lộ, yếm jeans cạp cao — hộp xốp ấm trên tay. Mở hộp — canh mùng tơi — cơm trắng — cá kho tiêu. Ăn. Nếm được vị. Nhưng bụng trống. Cơm vào, nặng, nhưng không đầy. Ngoài cửa sổ — mưa rơi — lớn dần — giọt trên mái tôn — tiếng ken ken đều đều — kính mờ — sông Hương đen lùi. Trong phòng — chỉ Linh — chỉ hộp cơm — chỉ mưa — chỉ tiếng nước.
 
 CAPTION (italic): "Như lấp cái hổng bằng cát — cát lọt qua kẽ tay."
 
@@ -404,7 +404,7 @@ Tông màu trang 4: ĐEN ĐÊM dominates. Phòng trọ tối — chỉ ánh mưa
 ─────────────────────────────────────
 
 PANEL 1 — LINH KHÔNG NGỦ — CẢ HAI ĐÚNG
-Góc máy: Medium shot giường — đêm — phòng tối — Linh nằm — rồi ngồi dậy — không ngủ — hai tay ôm gối ẩm — mùi giặt bột pha mưa cũ. Ánh sáng chỉ từ cửa sổ — mưa ngoài — TRẮNG giọt — lấp loáng trên mặt Linh — mắt mở — nhìn trần nứt — không thấy — chỉ nghĩ. Trong đầu — tiếng Bách gay gắt — tiếng Tuấn mỏi mòn — hai giọng — cả hai đúng — cả hai sai.
+Góc máy: Medium shot giường — đêm — phòng tối — Linh nằm — áo thun trắng mỏng — rồi ngồi dậy — không ngủ — hai tay ôm gối ẩm — mùi giặt bột pha mưa cũ — bụng trần lộ giữa ống áo và yếm jeans cạp cao buông lỏng. Ánh sáng chỉ từ cửa sổ — mưa ngoài — TRẮNG giọt — lấp loáng trên mặt Linh — mắt mở — nhìn trần nứt — không thấy — chỉ nghĩ. Trong đầu — tiếng Bách gay gắt — tiếng Tuấn mỏi mòn — hai giọng — cả hai đúng — cả hai sai.
 
 CAPTION (góc trên, italic — giọng nội tâm): "Bách có đúng không? Phải hành động? Phải đi tìm, dẫu biết tìm có thể gây thêm Rửa?"
 
@@ -415,7 +415,7 @@ CAPTION (italic, nhỏ — kết luận): "Cả hai đúng. Cả hai sai. Và m�
 ─────────────────────────────────────
 
 PANEL 2 — LINH ĐẾN CỬA SỔ — SÔNG ĐEN
-Góc máy: Wide shot — Linh đi đến cửa sổ — đứng — nhìn ra. Đêm. Mưa rơi — lớn — giọt đập mái tôn — tiếng ồm ồm — ken ken đều đều — kín hết — nghe chỉ có nước. Sông Hương đen lùi trong đêm — như dải lụa nhúng mực — chảy chậm — sâu — không thấy đáy. Bên kia sông: sương mù — trắng xám — không thấy bờ — không thấy cột điện — không thấy người — nhưng ở đâu đó trong sương — có ai đó — đang ướt — đang gọi mưa.
+Góc máy: Wide shot — Linh đi đến cửa sổ — đứng — nhìn ra — áo thun trắng mỏng, yếm jeans cạp cao hờ, bụng trần phẳng. Đêm. Mưa rơi — lớn — giọt đập mái tôn — tiếng ồm ồm — ken ken đều đều — kín hết — nghe chỉ có nước. Sông Hương đen lùi trong đêm — như dải lụa nhúng mực — chảy chậm — sâu — không thấy đáy. Bên kia sông: sương mù — trắng xám — không thấy bờ — không thấy cột điện — không thấy người — nhưng ở đâu đó trong sương — có ai đó — đang ướt — đang gọi mưa.
 
 CAPTION (italic): "Người thứ sáu ở ngoài kia. Đang ướt. Đang gọi mưa. Đang giữ nhóm mình ở bên nhau bằng cách cướp đi ký ức của họ."
 
@@ -442,7 +442,7 @@ CAPTION (italic, nhỏ — nhận ra): "Nhưng mưa này — mưa bình thườn
 ─────────────────────────────────────
 
 PANEL 5 — LINH NHẮM MẮT — MƯA RỚT — QUYẾT ĐỊNH
-Góc máy: Medium shot — Linh đứng bên cửa sổ — toàn thân — ánh mưa TRẮNG từ ngoài rọi vào — bóng đổ dài trên sàn phòng — Linh nhắm mắt — để mưa rớt — giọt trên mặt — trên tóc — trên vai — chỉ nước — bình thường — không Rửa — nhưng quyết định đã thành hình trong bóng tối — ngày mai sẽ đi — sẽ tìm — không vì Bách đúng — không vì Tuấn sai — vì sợ ngồi yên hơn sợ bước đi. Phòng sau lưng tối — trước mặt mưa — sông đen — sương mù — ai đó đang gọi — Linh sẽ đi tìm. Kết chương.
+Góc máy: Medium shot — Linh đứng bên cửa sổ — toàn thân — áo thun trắng ướt dán sát da, đường cong ngực tự nhiên in rõ, yếm jeans cạp cao, bụng trần — ánh mưa TRẮNG từ ngoài rọi vào — bóng đổ dài trên sàn phòng — Linh nhắm mắt — để mưa rớt — giọt trên mặt — trên tóc — trên vai — chỉ nước — bình thường — không Rửa — nhưng quyết định đã thành hình trong bóng tối — ngày mai sẽ đi — sẽ tìm — không vì Bách đúng — không vì Tuấn sai — vì sợ ngồi yên hơn sợ bước đi. Phòng sau lưng tối — trước mặt mưa — sông đen — sương mù — ai đó đang gọi — Linh sẽ đi tìm. Kết chương.
 
 CAPTION (góc trên, italic): "Chỉ nước rơi."
 

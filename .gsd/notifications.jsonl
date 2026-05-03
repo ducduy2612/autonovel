@@ -84,3 +84,10 @@
 {"id":"fbfe3ec4-dabd-4aa5-9b00-348684eb0611","ts":"2026-05-03T07:39:26.455Z","severity":"info","message":"Entered worktree for M002 at /home/converter/code/autonovel/.gsd/worktrees/M002","source":"notify","read":false}
 {"id":"23d02d1f-e1c5-4846-ae3f-836d66b7fa34","ts":"2026-05-03T07:39:26.456Z","severity":"info","message":"Auto-mode resumed.","source":"notify","read":false}
 {"id":"03e3b873-0306-47b3-a48b-59f99c0af544","ts":"2026-05-03T07:39:27.283Z","severity":"info","message":"Resume: applied 2 fix(es) to state.","source":"notify","read":false}
+{"id":"4b037d91-3c9f-4311-9456-b4f5a36dd557","ts":"2026-05-03T07:47:27.839Z","severity":"info","message":"Committed: feat: Generated ch14_prompts.md with 4 trang manga prompts for Linh's s…","source":"notify","read":false}
+{"id":"91066225-2551-471e-b31f-fe3fbf2abfad","ts":"2026-05-03T07:47:27.846Z","severity":"warning","message":"[safety] file-change: manga/prompts/ch11_prompts.md — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"80508e7f-19fd-49b7-a205-7392157caf03","ts":"2026-05-03T07:47:27.846Z","severity":"warning","message":"[safety] file-change: manga/prompts/ch12_prompts.md — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"420c4d6a-a1c1-4273-88d5-52a85b73bdac","ts":"2026-05-03T07:47:27.846Z","severity":"warning","message":"[safety] file-change: results.tsv — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"5ec9bad9-629e-4f95-8107-27efe7a426b9","ts":"2026-05-03T07:47:27.846Z","severity":"warning","message":"Safety: 3 unexpected file change(s) outside task plan","source":"notify","read":false}
+{"id":"9f79a10b-4571-4048-a789-697207f88924","ts":"2026-05-03T07:47:29.048Z","severity":"info","message":"Verification gate: FAILED — pytest","source":"notify","read":false}
+{"id":"f926e2fb-4698-45a2-920d-272ace65b183","ts":"2026-05-03T07:47:29.048Z","severity":"warning","message":"Verification failed (pytest) — auto-fix attempt 1/2","source":"notify","read":false}
