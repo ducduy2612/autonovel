@@ -9,7 +9,7 @@ Hướng dẫn map ảnh: Ảnh tham chiếu dùng cho face, body type, hairstyl
 
 QUẦN ÁO: Ch19 diễn ra trong một buổi sáng — mỗi nhân vật mặc ONE outfit xuyên chương:
 
-LINH (NỮ): Áo lụa đen buộc nơ trước ngực — hai vạt kéo chéo buộc loosely ở giữa — vai trần — xương quai xanh sắc góc cạnh — quần palazzo rộng đen — cạp chun cao nhấn eo thon hóp — chân giày bata thấp — túi xách đeo vai — quai túi nắm chặt khi bước vào cổng. Tóc bob cằm — chưa chải — rối từ đêm qua — vài sối dính trán. Mắt sẫm — cảnh giác — nhưng mềm dần — từ giận sang thương trong cùng một chương. Da nổi gai ốc dọc cánh tay khi nhạy với không khí trong sân. Lúc ngồi đối diện Cảnh: lưng thẳng — vai hơi căng rồi dần chùng — tay đặt trên bàn cạnh mảnh giấy cháy — mắt nhìn thật lâu — thật kỹ — nhìn xuyên qua phẳng — tìm gì đó còn sót. Da vàng nhạt — xương quai xanh sắc — vai trần mịn — gợi cảm thanh lịch ngay trong lúc nặng lòng — lụa dính sương mỏng — bụng thoáng hiện nơi vạt buộc hở — eo hóp tôn — đẹp buồn.
+LINH (NỮ): Áo lụa đen buộc nơ trước ngực — hai vạt kéo chéo buộc loosely ở giữa — vải lụa trượt theo đường cong tự nhiên — ngực đầy nâng nhẹ — eo hóp lộ nơi vạt buộc chưa kín — da bụng mịn thoáng hiện — vai trần — lưng trần nơi vạt áo không che hết — xương quai xanh sắc góc cạnh. Quần palazzo rộng đen — cạp chun cao nhấn eo thon hóp — ống rộng rủ lướt từ hông xuống mắt cá — khi ngồi ống rộng xòe lộ đùi trần — khi đứng lụa bay tôn chân dài. Chân giày bata thấp — túi xách đeo vai — quai túi nắm chặt khi bước vào cổng. Tóc bob cằm — chưa chải — rối từ đêm qua — vài sối dính trán. Mắt sẫm — cảnh giác — nhưng mềm dần — từ giận sang thương trong cùng một chương. Da nổi gai ốc dọc cánh tay khi nhạy với không khí trong sân. Lúc ngồi đối diện Cảnh: lưng thẳng — vai hơi căng rồi dần chùng — tay đặt trên bàn cạnh mảnh giấy cháy — mắt nhìn thật lâu — thật kỹ — nhìn xuyên qua phẳng — tìm gì đó còn sót — lụa dính sương mỏng — đường cong thân thể in hờ dưới vải ẩm. Da vàng nhạt — xương quai xanh sắc — vai trần mịn — gợi cảm thanh lịch ngay trong lúc nặng lòng — lụa ẩm dán vào da — bụng thoáng hiện nơi vạt buộc hở — eo hóp tôn — đùi trần lộ khi ngồi — gợi cảm bốc lửa ngay giữa confession — đẹp buồn — gợi cảm tan vỡ — sexy thanh cao trong ngôi nhà cũ ven sông.
 
 CẢNH (NAM): Áo sơ mi cổ tròn nhuốm màu đất ẩm — xám trắng cũ — bạc màu từ nhiều lần giặt — sạch nhưng mòn. Quần dài xám bạc màu — ống quần ướt đũng vì quỳm dưới vòi rỉ. Dép tổ ong. Tóc cắt gọn — ngắn — không cần chải. Gầy — compressed — thịt rút hết để xương còn lại — vai hẹp cong xuống khi quỳm — đứng thẳng cũng không cao hơn Linh mấy. Tay chai sần — bàn tay to hơn proportion cơ thể — tay thợ — nghế nước — ngón dính rỉ đồng. Mắt nâu nhạt — không sáng không tối — khát khi nhìn Linh — rồi tắt — chậm — thầm lặng — như nến ngoài gió. Mặt phẳng — khóe miệng không cong — không đỏ khi nói về nhóm — không tái khi nói về sợ — không đổi khi nói về yêu — phẳng như mặt hồ tĩnh — hình còn mà màu đã trôi. Chỉ một lần — một nếp nhăn mờ giữa hai đầu lông mày — khi Linh gọi tên "Cảnh" lần đầu — rồi mất — nhanh — mặt nước lại phẳng. Da vàng nhạt — gầy — nhỏ — cũ — tỉ mỉ.
 
@@ -63,7 +63,7 @@ Tông màu trang 1: SƯƠNG SÁNG mở — trắng xám — nắng chưa ráo �
 ─────────────────────────────────────
 
 PANEL 1 — CỔNG NHÀ — SƯƠNG — DẠ LAN — LINH ĐỨNG TRƯỚC
-Góc máy: Wide establishing shot — cổng hai trụ gạch sơn trắng xám bong tróc — không có cửa — lối đi bằng gạch vỡ mọc rêu — sương mỏng trắng xám — nắng chưa ráo — không gian mở nhưng tĩnh — im — như ai đang ngủ trong nhà. Dạ lan sau nhà — hoa trắng ngà — mùi ngọt lợ quyện mùi bùn non kim loại rỉ — mùi sống — nuôi bằng gì không biết — quanh co trong sương. Linh đứng trước cổng — một mình — nắm chặt quai túi — vai trần — lụa đen trong sương — eo hóp — chân giày bata trên gạch rêu — da nổi gai ốc dọc cánh tay — nhạy — cảnh giác — không gian chờ — gì đó trong sân này. Cảnh nội tâm nặng: bước vào là không quay lại.
+Góc máy: Wide establishing shot — cổng hai trụ gạch sơn trắng xám bong tróc — không có cửa — lối đi bằng gạch vỡ mọc rêu — sương mỏng trắng xám — nắng chưa ráo — không gian mở nhưng tĩnh — im — như ai đang ngủ trong nhà. Dạ lan sau nhà — hoa trắng ngà — mùi ngọt lợ quyện mùi bùn non kim loại rỉ — mùi sống — nuôi bằng gì không biết — quanh co trong sương. Linh đứng trước cổng — một mình — nắm chặt quai túi — vai trần — xương quai xanh sắc — lụa đen trong sương — eo hóp — ngực đầy nâng nhẹ dưới vạt buộc — chân giày bata trên gạch rêu — da nổi gai ốc dọc cánh tay — nhạy — cảnh giác — đường cong thân thể in hờ dưới lụa mỏng ẩm sương — gợi cảm bốc lửa giữa sương sáng — sexy thanh cao — không gian chờ — gì đó trong sân này. Cảnh nội tâm nặng: bước vào là không quay lại.
 
 CAPTION (góc trên, italic): "Sương mỏng. Nắng chưa ráo. Linh đứng trước ngôi nhà lần trước."
 
@@ -96,7 +96,7 @@ CAPTION (italic, nhỏ): "Rồi ánh mắt tắt. Chậm. Thầm lặng. Như n�
 ─────────────────────────────────────
 
 PANEL 4 — "MÌNH LÀ LINH" — GIỌNG KHÔ
-Góc máy: Close-up Linh's face — nói — giọng nhỏ — khô — trong tai nghe khô — không đủ nước — hay quá nhiều nước — không biết — môi mấp máy nhẹ — mắt nhìn thẳng vào Cảnh — không né — nhưng không giận — chỉ bước vào cổng — đá rêu trơn dưới đế giày — túi nắm chặt hơn. Cảnh ở background — mờ — chỉ轮廓 — vừa ngẩng — tay vẫn trên ống đồng.
+Góc máy: Close-up Linh's face — nói — giọng nhỏ — khô — trong tai nghe khô — không đủ nước — hay quá nhiều nước — không biết — môi mấp máy nhẹ — mắt nhìn thẳng vào Cảnh — không né — nhưng không giận — chỉ bước vào cổng — đá rêu trơn dưới đế giày — túi nắm chặt hơn — vai trần — xương quai xanh sắc nổi bật trong sương — gợi cảm sắc lạnh. Cảnh ở background — mờ — chỉ轮廓 — vừa ngẩng — tay vẫn trên ống đồng.
 
 BUBBLE (Linh, nhỏ): "Mình là Linh."
 
@@ -196,7 +196,7 @@ CAPTION (italic, nhỏ): "Tay không run. Giọng không run. Mặt không đổ
 ─────────────────────────────────────
 
 PANEL 5 — LINH MUỐN GIẬN — NHƯNG GIẬN KHÔNG ĐẾN
-Góc máy: Close-up Linh's face — muốn giận — muốn nắm cổ áo Cảnh mà lắc — muốn hỏi: một năm ký ức — năm Tuấn nắm tay — năm Lịch ngồi cạnh giường — năm mình cười — cậu lấy đi — biết nó đáng giá bao nhiêu không? Nhưng giận KHÔNG ĐẾN — chỉ mệt — mỏi — cơ thể vừa nhận ra điều đầu óc đã biết từ lâu — giận người buồn dễ hơn thương người buồn — mà Linh không có sức chọn đường dễ — mắt Linh không khóc — nhưng mềm — mềm hơn khi bước vào cổng — giận tan — thương nổi — buồn — cho cả hai.
+Góc máy: Close-up Linh's face — muốn giận — muốn nắm cổ áo Cảnh mà lắc — muốn hỏi: một năm ký ức — năm Tuấn nắm tay — năm Lịch ngồi cạnh giường — năm mình cười — cậu lấy đi — biết nó đáng giá bao nhiêu không? Nhưng giận KHÔNG ĐẾN — chỉ mệt — mỏi — cơ thể vừa nhận ra điều đầu óc đã biết từ lâu — giận người buồn dễ hơn thương người buồn — mà Linh không có sức chọn đường dễ — mắt Linh không khóc — nhưng mềm — mềm hơn khi bước vào cổng — giận tan — thương nổi — buồn — cho cả hai — lụa đen buộc nơ — vai trần chùng — eo hóp — đường cong thân thể lộ dưới vải mỏng — gợi cảm buồn — gợi cảm rũ rượi trong ngôi nhà cũ — gợi cảm tan vỡ khi giận tan.
 
 CAPTION (italic, lớn): "Giận không đến. Chỉ mệt. Mỏi."
 
@@ -207,7 +207,7 @@ CAPTION (italic, nhỏ): "Muốn nắm cổ áo Cảnh mà lắc. Muốn hỏi m
 ─────────────────────────────────────
 
 PANEL 6 — LINH NGỒI XUỐNG — QUYẾT ĐỊNH NGHE
-Góc máy: Medium shot — Linh ngồi xuống ghế — ghế gỗ cứng — mỏng đệm — đối diện Cảnh — năm mảnh giấy cháy dở nằm giữa — hai người hai bên bàn — khoảng cách đủ gần để nghe — đủ xa để không chạm — ánh vàng nhạt từ cửa sổ — màn vo bay — cũ — tĩnh — nhưng Linh quyết định — sẽ nghe — sẽ biết — sẽ cho Cảnh cơ hội — không phải cơ hội níu kéo — mà cơ hội buông. Vai Linh chùng — không căng nữa — tay đặt trên bàn — cạnh mảnh giấy tên mình — mắt nhìn Cảnh — thật lâu — thật kỹ — tìm gì đó còn sót.
+Góc máy: Medium shot — Linh ngồi xuống ghế — ghế gỗ cứng — mỏng đệm — đối diện Cảnh — năm mảnh giấy cháy dở nằm giữa — hai người hai bên bàn — khoảng cách đủ gần để nghe — đủ xa để không chạm — ánh vàng nhạt từ cửa sổ — màn vo bay — cũ — tĩnh — nhưng Linh quyết định — sẽ nghe — sẽ biết — sẽ cho Cảnh cơ hội — không phải cơ hội níu kéo — mà cơ hội buông. Vai Linh chùng — không căng nữa — lụa ẩm dính da — đường cong thân thể in hờ — eo hóp — đùi trần lộ dưới ống palazzo xòe — bụng thoáng hiện — gợi cảm thanh đạm dưới ánh vàng cũ — tay đặt trên bàn — cạnh mảnh giấy tên mình — mắt nhìn Cảnh — thật lâu — thật kỹ — tìm gì đó còn sót — gợi cảm bốc lửa ngay trong lúc nặng lòng.
 
 BUBBLE (Linh, mệt — nhỏ): "Cậu viết tên rồi đốt. Mỗi đêm?"
 
@@ -278,7 +278,7 @@ CAPTION (italic, nhỏ): "Nhóm mình vẫn Rửa, vẫn mất ký ức, vẫn �
 ─────────────────────────────────────
 
 PANEL 4 — "TÔI THƯƠNG" — LINH QUAY LẠI — NÓI THẲNG
-Góc máy: Medium shot — Linh quay lại — nhìn Cảnh — ngồi xuống — đối diện — khoảng cách một bàn — năm mảnh giấy giữa — nói thẳng — không ấp úng — giọng không giận — giọng đã qua giận — tới nơi khác — nơi mệt hơn — mỏi hơn — nhưng cũng thương hơn — sâu hơn — thật hơn — "tôi thương" — hai chữ — nói nhẹ — nhưng nặng — nặng vì hiểu — hiểu người đối diện đã yêu mình mà mình không nhớ — đã sợ mà không ai biết — đã ngồi ngoài quán hai ngàn đêm — uống nước lọc — nhìn vào — không được gọi tên — yêu mà không ai nhớ yêu — sợ mà không ai biết sợ. Cảnh ngồi — lưng thẳng — mặt phẳng — nhưng tay trên bàn ngừng vuốt mép giấy — ngừng — hẳn — khi nghe "thương".
+Góc máy: Medium shot — Linh quay lại — nhìn Cảnh — ngồi xuống — đối diện — khoảng cách một bàn — năm mảnh giấy giữa — nói thẳng — không ấp úng — giọng không giận — giọng đã qua giận — tới nơi khác — nơi mệt hơn — mỏi hơn — nhưng cũng thương hơn — sâu hơn — thật hơn — "tôi thương" — hai chữ — nói nhẹ — nhưng nặng — nặng vì hiểu — hiểu người đối diện đã yêu mình mà mình không nhớ — đã sợ mà không ai biết — đã ngồi ngoài quán hai ngàn đêm — uống nước lọc — nhìn vào — không được gọi tên — yêu mà không ai nhớ yêu — sợ mà không ai biết sợ. Áo lụa trượt khi ngồi — eo hóp — đùi trần lộ — vai trần — đường cong thân thể in hờ dưới lụa mỏng — gợi cảm thanh lịch ngay giữa confession. Cảnh ngồi — lưng thẳng — mặt phẳng — nhưng tay trên bàn ngừng vuốt mép giấy — ngừng — hẳn — khi nghe "thương".
 
 BUBBLE (Linh, thật — thẳng): "Tôi thương. Cậu bị nhóm quên. Mình — cả năm mình — quên cậu."
 
@@ -352,7 +352,7 @@ CAPTION (italic, nhỏ): "Năm chữ. Chứa sáu năm. Hai ngàn đêm ngồi n
 ─────────────────────────────────────
 
 PANEL 2 — LINH — HỤT HƠI — BƯỚC HỤT CHÂN CẦU THANG
-Góc máy: Close-up Linh — nghe — tim nhói — không phải đau nhói kiểu dao đâm — mà nhói kiểu hụt hơi — kiểu bước hụt chân cầu thang — kiểu tỉnh giấc thấy tay với vào khoảng trống bên cạnh — người này yêu mình — yêu nhiều nhất — yêu đến mức gọi mưa — biết sẽ lấy ký ức — biết sẽ rỗng ruột — vẫn gọi — để giữ nhóm — để giữ Linh — và Linh không nhớ gì hết — không nhớ nắm tay — không nhớ ngồi cạnh — không nhớ nụ cười — không nhớ gì — mắt Linh sting — không khóc — chỉ sting — khóe mắt se — môi mím — nuốt — nuốt thứ không nuốt được — người yêu mình mà mình không nhớ.
+Góc máy: Close-up Linh — nghe — tim nhói — không phải đau nhói kiểu dao đâm — mà nhói kiểu hụt hơi — kiểu bước hụt chân cầu thang — kiểu tỉnh giấc thấy tay với vào khoảng trống bên cạnh — người này yêu mình — yêu nhiều nhất — yêu đến mức gọi mưa — biết sẽ lấy ký ức — biết sẽ rỗng ruột — vẫn gọi — để giữ nhóm — để giữ Linh — và Linh không nhớ gì hết — không nhớ nắm tay — không nhớ ngồi cạnh — không nhớ nụ cười — không nhớ gì — mắt Linh sting — không khóc — chỉ sting — khóe mắt se — môi mím — nuốt — nuốt thứ không nuốt được — người yêu mình mà mình không nhớ — lụa đen buộc nơ — ngực đầy phẳng lại — eo hóp — vai trần run nhẹ — gợi cảm buồn — gợi cảm tan vỡ — đẹp đau.
 
 CAPTION (italic, lớn): "Người này yêu mình. Yêu mình nhiều nhất. Yêu mình đến mức gọi mưa — biết sẽ lấy ký ức người khác, biết sẽ rỗng ruột mình — vẫn gọi."
 
@@ -374,7 +374,7 @@ CAPTION (italic, nhỏ): "Mua vì quen. Quen vì yêu. Yêu đã đi. Quen còn 
 ─────────────────────────────────────
 
 PANEL 4 — LINH CẦM LY — "CẬU KỂ ĐI" — SẼ NGHE HẾT
-Góc máy: Close-up Linh — cầm ly trà — ấm — nóng rát lòng bàn tay — hơi bốc — nước trong — lá nhỏ — đẹp — bình thường — nhưng bình thường giữa bất thường — trà ấm giữa năm mảnh giấy cháy — ấm giữa lạnh — sống giữa tro — Linh nhìn Cảnh qua khói trà — mắt chắc — quyết định — không phải quyết định giận — không phải quyết định tha — mà quyết định nghe — nghe hết — biết hết — cho Cảnh cơ hội kể — cho mình cơ hội biết — "từ đầu" — hai chữ — nhẹ — nhưng mở — mở cánh cửa hai ngàn đêm đóng — mở cho người chưa bao giờ được kể — mở cho người yêu mà bị quên.
+Góc máy: Close-up Linh — cầm ly trà — ấm — nóng rát lòng bàn tay — hơi bốc — nước trong — lá nhỏ — đẹp — bình thường — nhưng bình thường giữa bất thường — trà ấm giữa năm mảnh giấy cháy — ấm giữa lạnh — sống giữa tro — Linh nhìn Cảnh qua khói trà — mắt chắc — quyết định — không phải quyết định giận — không phải quyết định tha — mà quyết định nghe — nghe hết — biết hết — cho Cảnh cơ hội kể — cho mình cơ hội biết — "từ đầu" — hai chữ — nhẹ — nhưng mở — mở cánh cửa hai ngàn đêm đóng — mở cho người chưa bao giờ được kể — mở cho người yêu mà bị quên — vai trần — eo hóp — lụa dính sương — gợi cảm dịu dàng trong khói trà — gợi cảm thanh đạm giữa confession.
 
 BUBBLE (Linh, chắc): "Cậu kể đi. Từ đầu."
 

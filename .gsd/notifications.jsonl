@@ -73,3 +73,13 @@
 {"id":"6a87f3df-f869-4f30-98ec-8535d2861221","ts":"2026-05-03T14:48:47.495Z","severity":"info","message":"Dynamic routing: enabled — simple tasks may use cheaper models (ceiling: custom-openai/glm-5.1)","source":"notify","read":false}
 {"id":"58f7880d-d669-48e2-9dc8-2e42754a1e42","ts":"2026-05-03T14:48:47.496Z","severity":"info","message":"Pre-flight: 2 milestones queued. All have full context.","source":"notify","read":false}
 {"id":"caa2304b-ad2c-48f3-b112-3316b4745baf","ts":"2026-05-03T14:50:04.848Z","severity":"info","message":"Override(s) resolved — rewrite-docs completed.","source":"notify","read":false}
+{"id":"936b5ee9-2c85-4a77-969f-8c5b5ba872a9","ts":"2026-05-03T14:58:18.626Z","severity":"info","message":"Committed: feat: Generated ch19 manga prompts (4 trang) covering Cảnh's riverside…","source":"notify","read":false}
+{"id":"2043b53e-3f67-4a4d-8110-222583ba65f3","ts":"2026-05-03T14:58:18.630Z","severity":"warning","message":"[safety] file-change: manga/prompts/ch17_prompts.md — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"26043825-5462-439a-b817-f5e98bddc935","ts":"2026-05-03T14:58:18.630Z","severity":"warning","message":"[safety] file-change: manga/prompts/ch18_prompts.md — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"f8894a30-5e18-4b08-8dcd-442334e3cf3a","ts":"2026-05-03T14:58:18.630Z","severity":"warning","message":"Safety: 2 unexpected file change(s) outside task plan","source":"notify","read":false}
+{"id":"38b103ba-c77d-488a-846c-b82729e6aab0","ts":"2026-05-03T14:58:52.239Z","severity":"info","message":"Verification gate: FAILED — pytest","source":"notify","read":false}
+{"id":"bef1380f-accb-4456-b377-a92c95771447","ts":"2026-05-03T14:58:52.240Z","severity":"warning","message":"Verification failed (pytest) — auto-fix attempt 1/2","source":"notify","read":false}
+{"id":"30eddba1-dbe5-4144-a5be-0c35c70be706","ts":"2026-05-03T16:32:09.582Z","severity":"info","message":"Auto-mode started. Will loop until milestone complete.","source":"notify","read":false}
+{"id":"61872c08-e223-4b41-9b8e-0cd008e3402e","ts":"2026-05-03T16:32:09.583Z","severity":"info","message":"Dynamic routing: enabled — simple tasks may use cheaper models (ceiling: custom-openai/glm-5.1)","source":"notify","read":false}
+{"id":"682e3df4-4517-4c86-a00a-40dce2716826","ts":"2026-05-03T16:32:09.584Z","severity":"info","message":"Pre-flight: 2 milestones queued. All have full context.","source":"notify","read":false}
+{"id":"e4b1c6c0-eb55-4708-be03-3b4508bc5e48","ts":"2026-05-03T16:32:09.647Z","severity":"info","message":"Pre-dispatch: pre-dispatch: created gsd snapshot after 93m of uncommitted changes","source":"notify","read":false}
