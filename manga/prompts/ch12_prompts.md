@@ -1,7 +1,7 @@
 CHƯƠNG 12: NGƯỜI THỨ SÁU — 4 Trang Manga
 Upload 4 ảnh theo đúng thứ tự sau:
 
-linh_nu_sheet — LINH (nữ, tóc bob cằm, áo sơ mi tối, quần dài — xem QUẦN ÁO)
+linh_nu_sheet — LINH (nữ, tóc bob cằm, áo body đen, chân váy xẻ cao — xem QUẦN ÁO)
 
 bach_nam_sheet — BÁCH (nam, tóc cắt sát gáy, mắt đỏ dữ, gầy hơn sau Rửa — xem QUẦN ÁO)
 
@@ -15,7 +15,7 @@ Hướng dẫn map ảnh: Ảnh tham chiếu dùng cho face, body type, hairstyl
 
 QUẦN ÁO: Ch12 có một bối cảnh duy nhất trong suốt chương. Mỗi nhân vật mặc ONE outfit nhất quán xuyên chương:
 
-LINH (NỮ): Áo sơ mi tối tay dài, cài kín. Quần dài tối. Tóc bob — rối nhẹ, chiều rồi, chưa chải lại. Ngón tay thô ráp, móng cắn ngắn. Mắt mở to — cảnh giác, nặng — tròng mắt đen sâu nhìn ra sông. Da vàng nhạt dưới ánh đèn quán — ấm nhưng mắt lạnh. Quanh mắt quầng nhẹ — nhiều đêm thức.
+LINH (NỮ): Áo body (turtleneck) đen mỏng co giãn, cổ lọ ôm sát cổ và ngực, vải kéo căng theo từng đường cong — eo thon hóp, ngực đầy, hông nở — không giấu được gì. Chân váy xám than xẻ cao bên đùi, ống rộng rủ nhẹ, mỗi bước hé lộ đùi trần bên trong. Da mịn vàng nhạt dưới ánh đèn quán — ấm nhưng mắt lạnh. Tóc bob rối nhẹ — chiều rồi, chưa chải. Xương quai xanh sắc nổi trên cổ cao. Ngón tay thô ráp, móng cắn ngắn. Quanh mắt quầng nhẹ — nhiều đêm thức. Gợi cảm kiểu sang — lịch sự nhưng cơ thể tự nữ tính quá rõ trong body ôm.
 
 BÁCH (NAM): Cơ thể nam mới — gầy hơn bản nữ, vai hẹp hơn, nhưng đôi mắt giữ nguyên: đỏ rực, dữ, đập như búa. Tóc cắt sát gáy. Áo khoác tối mỏng, bên trong sơ mi xám. Quần dài. Tay RUN — cầm ly bằng cả hai bàn tay, ngón đan chặt. Run từ đêm Rửa đến giờ, không ngừng. Gò má hõm — gầy đi — nhưng ánh nhìn vẫn sắc, vẫn mỏi.
 
@@ -81,7 +81,7 @@ Tông màu trang 1: VÀNG CHIỀU dominates. Trời ửng vàng ngoài cửa s�
 PANEL 1 (trên cùng — chiếm ~15%):
 WIDE SHOT QUÁN BÀ TÂM — CHIỀU TÀN, NĂM NGƯỜI MỘT BÀN
 
-Wide establishing shot từ góc cao: quán bà Tâm — quán nhỏ bên sông Hương, mái tôn, tường vữa cũ. Bàn tròn đá xám ngoài hiên — bàn quen, nhóm ngồi đây mỗi chiều. Năm người. LINH (nữ) ngồi cạnh cửa sổ, nhìn ra sông. BÁCH (nam) ngồi đối diện, cầm ly bằng hai tay. LỊCH (nữ) ngồi cạnh Linh, sổ trên bàn. TUẤN (nam) ngồi phía trong, lưng dựa tường. Một ghế đầu bàn — trống. Sông Hương chảy ngoài cửa sổ — XANH XÁM, chậm, mang phù sa. Trời ửng vàng — mây kéo ngang, mỏng — đẹp nhưng ẩm. Trên da Linh, từng chỗ nhỏ xíu nổi gai — nơi nào từng bị giọt mưa chạm đều nhạy hơn.
+Wide establishing shot từ góc cao: quán bà Tâm — quán nhỏ bên sông Hương, mái tôn, tường vữa cũ. Bàn tròn đá xám ngoài hiên — bàn quen, nhóm ngồi đây mỗi chiều. Năm người. LINH (nữ) ngồi cạnh cửa sổ, nhìn ra sông — body đen ôm sát tôn ngực đầy và eo thon, chân váy xẻ cao hé lộ đùi trần bên trong. BÁCH (nam) ngồi đối diện, cầm ly bằng hai tay. LỊCH (nữ) ngồi cạnh Linh, sổ trên bàn. TUẤN (nam) ngồi phía trong, lưng dựa tường. Một ghế đầu bàn — trống. Sông Hương chảy ngoài cửa sổ — XANH XÁM, chậm, mang phù sa. Trời ửng vàng — mây kéo ngang, mỏng — đẹp nhưng ẩm. Trên da Linh, từng chỗ nhỏ xíu nổi gai — nơi nào từng bị giọt mưa chạm đều nhạy hơn.
 
 [VISUAL: Quán quen — bàn quen — năm người quen — nhưng một ghế trống. Ánh vàng chiều chiếu qua cửa sổ, tạo vệt dài trên mặt bàn. Im lặng. Chưa ai nói. Không gian chờ.]
 
@@ -439,7 +439,7 @@ Tông màu trang 4: ĐEN MƯA dominates — mây đen từ Bạch Mã đã kéo 
 PANEL 1 (trên cùng — chiếm ~15%):
 LINH NHÌN RA SÔNG — BÓNG NGƯỜI BÊN KIA SÔNG
 
-Medium-wide shot: LINH (nữ) nhìn ra sông qua cửa sổ quán. Trời tối hơn — mây kéo dày — XÁM → ĐEN. Sông Hương biến thành dải ĐEN — không thấy bờ bên kia — nhưng Linh nheo mắt. Ở khoảng mờ mờ giữa bóng cây và bóng nhà — một hình dáng. Người. Đứng. Nhìn về phía mình. Hay là cột điện? Hay gốc cây? Hay bóng của chính sương mù? Linh không chắc. Nhưng da trên lưng nổi gai. Cảm giác quen — từ tận tối hôm qua, từ đêm ngoài bến sông — ai đó đang nhìn. Đang chờ.
+Medium shot: LINH (nữ) nhìn ra sông qua cửa sổ quán — body đen turtleneck ôm sát, cổ cao tôn xương quai xanh, chân váy xẻ cao để lộ đùi trần khi ngồi. Trời tối hơn — mây kéo dày — XÁM → ĐEN. Sông Hương biến thành dải ĐEN — không thấy bờ bên kia — nhưng Linh nheo mắt. Ở khoảng mờ mờ giữa bóng cây và bóng nhà — một hình dáng. Người. Đứng. Nhìn về phía mình. Hay là cột điện? Hay gốc cây? Hay bóng của chính sương mù? Linh không chắc. Nhưng da trên lưng nổi gai. Cảm giác quen — từ tận tối hôm qua, từ đêm ngoài bến sông — ai đó đang nhìn. Đang chờ.
 
 [VISUAL: Linh — cửa sổ — nhìn ra — composition: foreground Linh's profile, middle-ground sông Hương đen, background sương mù — trong sương, bóng mờ mờ — hình người — đứng — nhìn. Không rõ. Nhưng có. Overlay nhẹ: cánh hoa dạ lan trắng — thoang thoảng — mùi.]
 
@@ -456,7 +456,7 @@ CAPTION (góc dưới, italic): "Có ai đó đứng bên kia sông không? Hay 
 PANEL 2 (giữa trái — chiếm ~25%):
 LINH: "MÌNH KHÔNG GIẬN" — NHÌN SÔNG
 
-Medium shot: LINH (nữ) — quay lại nhìn nhóm — giọng nhỏ, như nói với chính mình hơn là với nhóm. BÁCH nhíu mày: "Răng?" — "Mình không giận người đó." Im lặng. Bách luôn giận — giận là cách Bách sống — nhưng Linh nói: "Mình buồn." Rồi: "Buồn thay người đó." Linh nhìn lại ra sông. "Phải cô đơn đến mức nào — mới làm thế?" Câu hỏi không cần trả lời — treo trong không khí — như sương trên mặt nước.
+Medium shot: LINH (nữ) — quay lại nhìn nhóm — body đen ôm sát tôn đường cong, chân váy xẻ cao — giọng nhỏ, như nói với chính mình hơn là với nhóm. BÁCH nhíu mày: "Răng?" — "Mình không giận người đó." Im lặng. Bách luôn giận — giận là cách Bách sống — nhưng Linh nói: "Mình buồn." Rồi: "Buồn thay người đó." Linh nhìn lại ra sông. "Phải cô đơn đến mức nào — mới làm thế?" Câu hỏi không cần trả lời — treo trong không khí — như sương trên mặt nước.
 
 [VISUAL: Linh — quay lại — nói — giọng nhỏ — mắt không giận, chỉ buồn — sâu. Bách — nhíu mày — không hiểu — giận là cách Bách sống. Nhưng Linh — buồn thay người thứ sáu — compassion thay vì anger — visual shift: ánh mắt Linh mềm hơn bất kỳ lúc nào trong chương.]
 
@@ -490,7 +490,7 @@ CAPTION nhỏ (góc dưới, italic): "Giữ. Lấy. Giữ. Lấy. Vòng lặp."
 PANEL 4 (dưới trung tâm — chiếm ~25%):
 LINH CHẠM LY NƯỚC GHẾ TRỐNG — LẠNH — "NGƯỜI ĐÓ ĐANG ƯỚT"
 
-Medium shot: LINH thò tay ra — chạm vào ly nước trên bàn — ly của ghế trống — nước TRONG SUỐT — LẠNH — lạnh kiểu người vươn tay trong đêm tối và chạm vào tay ai đó — và tay đó lạnh, vì người đó đã đứng ngoài mưa quá lâu. Linh rụt tay lại. Nhìn ra sông lần nữa. Bên kia, hình dáng đó — người hay cột điện — vẫn đứng. Nhìn. Rồi di chuyển. Chậm. Quay đi. Mất vào sương. Linh nói: "Mình sẽ tìm người đó. Không phải để giận. Không phải để đòi lại. Mình tìm — vì người đó đã ngồi ghế đó. Đã uống ly nước đó. Đã thuộc về nhóm mình." Linh quay lại. Nhìn bàn. Nhìn ghế trống. Nhìn ly nước đầy. "Rồi mình đã quên."
+Medium shot: LINH thò tay ra — chạm vào ly nước trên bàn — ly của ghế trống — nước TRONG SUỐT — LẠNH — lạnh kiểu người vươn tay trong đêm tối và chạm vào tay ai đó — và tay đó lạnh, vì người đó đã đứng ngoài mưa quá lâu. Body đen ôm sát, eo thon hóp, chân váy xẻ cao để lộ đùi khi nghiêng người. Linh rụt tay lại. Nhìn ra sông lần nữa. Bên kia, hình dáng đó — người hay cột điện — vẫn đứng. Nhìn. Rồi di chuyển. Chậm. Quay đi. Mất vào sương. Linh nói: "Mình sẽ tìm người đó. Không phải để giận. Không phải để đòi lại. Mình tìm — vì người đó đã ngồi ghế đó. Đã uống ly nước đó. Đã thuộc về nhóm mình." Linh quay lại. Nhìn bàn. Nhìn ghế trống. Nhìn ly nước đầy. "Rồi mình đã quên."
 
 [VISUAL: Linh — chạm ly — lạnh — rụt lại — nhìn sông — bóng người mất vào sương — quay lại — nhìn bàn — nhìn ghế — nhìn ly — "Rồi mình đã quên." — visual: ly nước TRONG SUỐT, ghế trống, ánh đèn quán VÀNG yếu — mọi thứ tĩnh — nhưng bên ngoài, trời ĐEN — mưa sắp đến.]
 

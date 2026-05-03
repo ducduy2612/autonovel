@@ -68,3 +68,19 @@
 {"id":"d1070333-a1b1-4112-b814-8098e06b2221","ts":"2026-05-03T04:55:52.054Z","severity":"info","message":"Verification gate: FAILED — pytest","source":"notify","read":false}
 {"id":"35f13456-3f81-43b3-839a-4793861c41a0","ts":"2026-05-03T04:55:52.054Z","severity":"warning","message":"Verification failed (pytest) — auto-fix attempt 1/2","source":"notify","read":false}
 {"id":"825d9f08-3a56-4a91-8c49-5c2cfaf02e96","ts":"2026-05-03T05:41:50.500Z","severity":"info","message":"Override(s) resolved — rewrite-docs completed.","source":"notify","read":false}
+{"id":"d757b5a6-d5b4-479e-9b57-0aafd0bb010f","ts":"2026-05-03T05:49:37.378Z","severity":"info","message":"Committed: feat: Generated ch13_prompts.md with 4 trang manga prompts covering gro…","source":"notify","read":false}
+{"id":"bcaafc55-137f-4358-b76d-e67fbe673c17","ts":"2026-05-03T05:49:37.384Z","severity":"warning","message":"[safety] file-change: manga/prompts/ch10_prompts.md — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"f7733a8e-2104-4808-914e-93e0226a647e","ts":"2026-05-03T05:49:37.384Z","severity":"warning","message":"[safety] file-change: results.tsv — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"630ec495-4a42-478f-b1ac-9fab8d324e71","ts":"2026-05-03T05:49:37.384Z","severity":"warning","message":"Safety: 2 unexpected file change(s) outside task plan","source":"notify","read":false}
+{"id":"4fb8e9db-7122-406d-be32-469ef15b8844","ts":"2026-05-03T05:49:38.600Z","severity":"info","message":"Verification gate: FAILED — pytest","source":"notify","read":false}
+{"id":"416491a0-8ddf-482f-8a86-d1e63b77461a","ts":"2026-05-03T05:49:38.601Z","severity":"warning","message":"Verification failed (pytest) — auto-fix attempt 1/2","source":"notify","read":false}
+{"id":"435470aa-43da-43eb-9933-3cb0153e413f","ts":"2026-05-03T06:01:06.477Z","severity":"warning","message":"Auto-mode paused due to provider error: Request timed out.","source":"notify","read":false}
+{"id":"b016e3a4-2636-421e-97a6-7fd692eb6778","ts":"2026-05-03T06:01:06.791Z","severity":"info","message":"Auto-mode paused (Escape). Type to interact, or /gsd auto to resume.","source":"notify","read":false}
+{"id":"708fdfe9-10aa-4af5-9232-7f9f63736b4f","ts":"2026-05-03T06:12:21.970Z","severity":"info","message":"Entered worktree for M002 at /home/converter/code/autonovel/.gsd/worktrees/M002","source":"notify","read":false}
+{"id":"9c0fae96-c856-4374-82e9-43c52173b700","ts":"2026-05-03T06:12:21.970Z","severity":"info","message":"Auto-mode resumed.","source":"notify","read":false}
+{"id":"f5184d46-0efe-45da-aa0e-efe6d61abb20","ts":"2026-05-03T06:12:22.726Z","severity":"info","message":"Resume: applied 3 fix(es) to state.","source":"notify","read":false}
+{"id":"87ddc633-68fc-425d-aa7a-717e3cb08415","ts":"2026-05-03T06:22:07.250Z","severity":"warning","message":"Auto-mode paused due to provider error: Request timed out.","source":"notify","read":false}
+{"id":"5eb1a948-3f06-4ffd-aba9-f929b7fb1fa1","ts":"2026-05-03T06:22:07.569Z","severity":"info","message":"Auto-mode paused (Escape). Type to interact, or /gsd auto to resume.","source":"notify","read":false}
+{"id":"fbfe3ec4-dabd-4aa5-9b00-348684eb0611","ts":"2026-05-03T07:39:26.455Z","severity":"info","message":"Entered worktree for M002 at /home/converter/code/autonovel/.gsd/worktrees/M002","source":"notify","read":false}
+{"id":"23d02d1f-e1c5-4846-ae3f-836d66b7fa34","ts":"2026-05-03T07:39:26.456Z","severity":"info","message":"Auto-mode resumed.","source":"notify","read":false}
+{"id":"03e3b873-0306-47b3-a48b-59f99c0af544","ts":"2026-05-03T07:39:27.283Z","severity":"info","message":"Resume: applied 2 fix(es) to state.","source":"notify","read":false}

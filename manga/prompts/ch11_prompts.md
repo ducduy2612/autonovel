@@ -1,7 +1,7 @@
 CHƯƠNG 11: ĐÊM KHÔNG NGỦ — 3 Trang Manga
 Upload 3 ảnh theo đúng thứ tự sau:
 
-linh_nu_sheet — LINH (nữ, tóc bob cằm, áo tối, váy ngắn nữ sinh, tất dài — xem QUẦN ÁO)
+linh_nu_sheet — LINH (nữ, tóc bob cằm, áo crop top mỏng, quần short lụa ngắn — xem QUẦN ÁO)
 
 lich_nu_sheet — LỊCH (nữ, tóc buộc thấp, kính cận, sổ tay đen bìa da — xem QUẦN ÁO)
 
@@ -9,7 +9,7 @@ Hướng dẫn map ảnh: Ảnh tham chiếu dùng cho face, body type, hairstyl
 
 QUẦN ÁO: Ch11 có một bối cảnh duy nhất trong phần lớn chương. Mỗi nhân vật mặc ONE outfit nhất quán xuyên chương:
 
-LINH (NỮ): Áo sơ mi tối tay dài, cài kín. Quần dài tối. Dép tổ ong — vội ra ngoài giữa đêm. Tóc bob rối — thức giấc, chưa chải. Không áo khoác — vội quá. Chân trần lúc ngồi bậc thềm, dép để bên. Mắt mở to, cảnh giác nhưng mệt — quầng thâm. Ngón tay thô ráp, móng cắn ngắn. Da vàng nhạt dưới ánh đèn đường — lạnh, xanh nhẹ.
+LINH (NỮ): Áo crop top đen mỏng, cổ tròn rộng hờ, vải ôm sát ngực, lộ đoạn eo trần thon hóp giữa ống áo và thắt lưng. Quần short lụa ngắn đen, ống cắt chéo ôm sát hông nở, vải mịn rủ theo từng bước — đường cong hông-nêu rõ dưới lớp lụa mỏng. Chân trần. Dép tổ ong — vội ra ngoài giữa đêm, không kịp thay. Tóc bob rối — thức giấc, chưa chải. Da mịn vàng nhạt dưới ánh đèn đường — lạnh, xanh nhẹ. Ngón tay thô ráp, móng cắn ngắn. Gợi cảm kiểu tự nhiên — vội vàng, không cố, nhưng cơ thể nữ tính quá rõ trong đồ mỏng ngắn. Xương quai xanh sắc nổi trên cổ trần. Bụng phẳng lộ rõ.
 
 LỊCH (NỮ): Áo khoác mỏng tối — vội ra ngoài. Bên trong: áo ngủ hoặc áo trong. Tóc xõa — ít khi xõa, nhưng lúc này rủ xuống hai bên cổ, ẩm ở ngọn. Mắt hơi sưng — thức lâu hoặc khóc. Kính cận trễ mũi. Sổ tay đen bìa da cũ — luôn trong tay, ngón vuốt mép. Quần dài ngủ. Dép tổ ong. Gầy hơn bình thường — má hóp, xương quai hàm hiện rõ. Miệng mím, hai bên môi vết nứt nhỏ. Tai đỏ nhẹ khi xúc động.
 
@@ -63,9 +63,9 @@ Tông màu trang 1: ĐEN SÔNG dominates. Sương mờ từ mặt nước bốc 
 PANEL 1 (trên cùng — chiếm ~15%):
 WIDE SHOT BỜ SÔNG — 3AM, SƯƠNG MỜ, LINH MỘT MÌNH
 
-Wide establishing shot từ góc cao: bờ sông Hương — ba giờ sáng. Vắng hoe. Đèn đường cách đều — VÀNG NHẠT — chiếu những vũng sáng trên đường nhựa ẩm. Sương mờ từ mặt nước bốc lên, lơ lửng ngang gối. LINH (nữ) đi dọc bến đá — tay bỏ túi, vai thu lại, dép tổ ong cộp cộp trên đá. Nhỏ trong đêm lớn. Sông Hương chảy — đục, đen — bên dưới. Không ai ngoài Linh và tiếng nước.
+Wide establishing shot từ góc cao: bờ sông Hương — ba giờ sáng. Vắng hoe. Đèn đường cách đều — VÀNG NHẠT — chiếu những vũng sáng trên đường nhựa ẩm. Sương mờ từ mặt nước bốc lên, lơ lửng ngang gối. LINH (nữ) đi dọc bến đá — crop top đen ôm ngực, eo trần thon hóp lộ giữa ống áo và thắt lưng quần short lụa đen, chân trần dép tổ ong, đường cong hông nhấp nhô dưới vải lụa mỏng theo từng bước. Tay bỏ túi, vai thu lại. Nhỏ trong đêm lớn. Sông Hương chảy — đục, đen — bên dưới. Không ai ngoài Linh và tiếng nước.
 
-[VISUAL: Linh nhỏ — silhouette tối — trên bến đá dài. Sương bọc lấy nửa người. Đèn đường tạo dải sáng vàng đều — casi-streetlight glow. Cảm giác cô đơn nhưng không buồn — tỉnh, thức, lặng.]
+[VISUAL: Linh nhỏ — silhouette eo thon hóp, vai trần, chân dài trần — trên bến đá dài. Crop top và short lụa tôn từng đường cong dưới ánh đèn vàng. Sương bọc lấy nửa người. Cảm giác cô đơn nhưng không buồn — tỉnh, thức, lặng. Sexy kiểu tự nhiên — vội ra ngoài giữa đêm, không cố gồng.]
 
 THOẠI PANEL 1:
 
@@ -78,7 +78,7 @@ CAPTION nhỏ (góc dưới): "Linh đi dọc bến đá. Tay bỏ túi. Vai thu
 PANEL 2 (giữa trái — chiếm ~25%):
 LINH DỪNG — CẢM GIÁC AI ĐANG NHÌN
 
-Medium shot: Linh dừng lại giữa bến đá. Quay đầu — nhìn sau lưng. Không ai. Chỉ bóng tối và nước. Nhưng cơ thể Linh căng — vai hóp, mắt narrowed, tai như nghe điều gì ngoài tiếng sông. Cảm giác quen — đã mấy lần rồi từ đêm hoa quỳnh nở — ai đó đang nhìn. Không nhìn kiểu dò xét. Nhìn kiểu chờ. Như người đứng ngoài cửa sổ mưa, không gõ, không gọi.
+Medium shot: Linh dừng lại giữa bến đá. Quay đầu — nhìn sau lưng. Không ai. Chỉ bóng tối và nước. Nhưng cơ thể Linh căng — crop top ôm ngực, eo trần hóp lại, vai trần thu nhỏ. Mắt narrowed, tai như nghe điều gì ngoài tiếng sông. Cảm giác quen — đã mấy lần rồi từ đêm hoa quỳnh nở — ai đó đang nhìn. Không nhìn kiểu dò xét. Nhìn kiểu chờ. Như người đứng ngoài cửa sổ mưa, không gõ, không gọi.
 
 [VISUAL: Góc shot từ sau lưng Linh — nhìn qua vai cô ra bóng tối. Không thấy ai. Nhưng composition tạo cảm giác có ai đó ngoài frame — ở edge, gần nhưng chưa hiện.]
 
@@ -112,15 +112,15 @@ CAPTION (góc dưới, italic nhỏ): "Nhưng trong khoảnh khắc đó — Lin
 PANEL 4 (dưới trung tâm — chiếm ~25%):
 BẬC THỀM QUÁN BÀ TÂM — LINH NGỒI, PHÁT HIỆN LY NƯỚC
 
-Medium shot: Linh ngồi xuống bậc thềm quán bà Tâm — quán đã đóng, cửa cuốn kéo xuống, tối om bên trong. Nhưng bàn ngoài hiên — bàn tròn đá xám — vẫn ở đó. Bốn chiếc ghế. Linh không ngồi ghế. Ngồi bậc thềm, hai chân đưa ra trước, gần chạm nước. Sông Hương cao — mùa mưa, nước dâng ngập hai bậc dưới cùng. Chân Linh cách mặt nước một gang. Và trên bậc thềm, cạnh chân Linh — một ly nước. Thuỷ tinh trong. Nước đầy. Không ai uống. Không có đá. Không có chanh. Chỉ nước lọc, trong vắt, phản chiếu ánh đèn đường thành vệt vàng dài.
+Medium shot: Linh ngồi xuống bậc thềm quán bà Tâm — quán đã đóng, cửa cuốn kéo xuống, tối om bên trong. Nhưng bàn ngoài hiên — bàn tròn đá xám — vẫn ở đó. Bốn chiếc ghế. Linh không ngồi ghế. Ngồi bậc thềm, hai chân trần đưa ra trước, gần chạm nước — đùi dài, ống short lụa trượt lên, eo trần lộ rõ vì crop top hờ hững. Sông Hương cao — mùa mưa, nước dâng ngập hai bậc dưới cùng. Chân Linh cách mặt nước một gang. Và trên bậc thềm, cạnh đùi Linh — một ly nước. Thuỷ tinh trong. Nước đầy. Không ai uống. Không có đá. Không có chanh. Chỉ nước lọc, trong vắt, phản chiếu ánh đèn đường thành vệt vàng dài.
 
-[VISUAL: Ly nước — TRẮNG THUỶ TINH — trên bậc đá XÁM — cạnh chân Linh — là tâm điểm panel. Mọi thứ tối nhưng ly sáng — phản chiếu đèn đường. Ai để đây? Quán đóng từ 10 giờ. Bà Tâm không để ly ngoài hiên qua đêm.]
+[VISUAL: Ly nước — TRẮNG THUỲ TINH — trên bậc đá XÁM — cạnh đùi trần Linh — là tâm điểm panel. Mọi thứ tối nhưng ly sáng — phản chiếu đèn đường. Linh ngồi co, crop top hờ, bụng phẳng trần, short lụa — sexy trong vắng hoe. Ai để đây? Quán đóng từ 10 giờ. Bà Tâm không để ly ngoài hiên qua đêm.]
 
 THOẠI PANEL 4:
 
 CAPTION (góc trên): "Quán bà Tâm đóng cửa từ mười giờ. Nhưng chiếc bàn ngoài hiên vẫn ở đó."
 
-CAPTION nhỏ (giữa): "Linh ngồi bậc thềm. Chân gần chạm nước. Và trên bậc thềm, cạnh chân Linh — một ly nước."
+CAPTION nhỏ (giữa): "Linh ngồi bậc thềm. Chân gần chạm nước. Eo trần, bụng phẳng dưới crop top hờ. Và trên bậc thềm, cạnh đùi Linh — một ly nước."
 
 CAPTION (góc dưới, italic): "Thuỷ tinh trong. Nước đầy. Không ai uống. Ai để đây?"
 
@@ -129,7 +129,7 @@ CAPTION (góc dưới, italic): "Thuỷ tinh trong. Nước đầy. Không ai u�
 PANEL 5 (dưới cùng — chiếm ~15%):
 LY NƯỚC — CLOSE-UP — TRONG VẮT, PHẢN CHIẾU ĐÈN ĐƯỜNG, KHÔNG AI UỐNG
 
-Extreme close-up: ly nước thuỷ tinh — trong vắt, nước đầy đến miệng, phản chiếu ánh đèn đường VÀNG NHẠT thành vệt sáng dài trên mặt nước. Không đá. Không chanh. Chỉ nước lọc. Mặt nước tĩnh — không gợn — như chưa ai chạm. Bên cạnh: đầu ngón chân Linh — da lạnh XANH NHẠT dưới ánh đèn — cách mặt nước ly một chút. Mùi thoang thoảng — dạ lan? — nhưng bay đi quá nhanh, như ai vừa thở ra rồi nín thở.
+Extreme close-up: ly nước thuỷ tinh — trong vắt, nước đầy đến miệng, phản chiếu ánh đèn đường VÀNG NHẠT thành vệt sáng dài trên mặt nước. Không đá. Không chanh. Chỉ nước lọc. Mặt nước tĩnh — không gợn — như chưa ai chạm. Bên cạnh: đầu ngón chân Linh — da lạnh XANH NHẠT dưới ánh đèn — cách mặt nước ly một chút. Góc dưới khung: mép short lụa đen ôm sát đùi. Mùi thoang thoảng — dạ lan? — nhưng bay đi quá nhanh, như ai vừa thở ra rồi nín thở.
 
 [VISUAL: Ly nước là tâm điểm — siêu close-up, chi tiết thuỷ tinh, phản chiếu, surface tension. Cảnh tĩnh nhất chương. Một vật thể nhỏ, không thuộc về ai, không ai giải thích — nhưng ở đó, chờ.]
 
@@ -183,7 +183,7 @@ Tông màu trang 2: Vẫn ĐEN SÔNG nhưng ấm hơn — hai người thay vì 
 PANEL 1 (trên cùng — chiếm ~15%):
 TIẾNG BƯỚC CHÂN — LINH QUAY ĐẦU: LỊCH
 
-Medium shot: Linh ngồi bậc thềm, nghe tiếng bước chân trên đá. Quay đầu. LỊCH — áo khoác mỏng tối, tóc xõa (ít khi xõa, nhưng lúc này rủ xuống hai bên cổ, ẩm ở ngọn), mắt hơi sưng — thức lâu hoặc khóc hoặc cả hai. Kính cận trễ mũi. Sổ tay đen trong tay. Hai người nhìn nhau trong bóng đèn đường VÀNG NHẠT. Lịch nhỏ hơn Linh tưởng — gầy hơn, mỏng hơn — nhưng mắt Lịch trong và nặng.
+Medium shot: Linh ngồi bậc thềm, nghe tiếng bước chân trên đá. Quay đầu. Crop top đen ôm ngực, vai trần, eo hóp lộ dưới ống áo. LỊCH — áo khoác mỏng tối, tóc xõa (ít khi xõa, nhưng lúc này rủ xuống hai bên cổ, ẩm ở ngọn), mắt hơi sưng — thức lâu hoặc khóc hoặc cả hai. Kính cận trễ mũi. Sổ tay đen trong tay. Hai người nhìn nhau trong bóng đèn đường VÀNG NHẠT. Lịch nhỏ hơn Linh tưởng — gầy hơn, mỏng hơn — nhưng mắt Lịch trong và nặng.
 
 [VISUAL: Lịch — khác với bình thường: tóc xõa thay vì buộc, áo khoác mỏng thay vì blouse kín, mắt sưng. Như nhìn thấy Lịch khi Lịch không còn giữ vẻ ngoài "người ghi chép." Mỏng man.]
 
@@ -198,9 +198,9 @@ CAPTION nhỏ (góc dưới): "Linh không hỏi làm sao biết. Lịch luôn b
 PANEL 2 (giữa trái — chiếm ~25%):
 HAI NGƯỜI NGỒI BẬC THỀM — CHÂN CHẠM NƯỚC
 
-Wide-medium shot: Linh và Lịch ngồi bậc thềm — cách nhau một khoảng, không quá gần, không quá xa. Hai chân đưa ra trước. Chân Linh — cách mặt nước một gang. Chân Lịch — ngón chân cái chạm nước. Giật mình — lạnh — rồi để nguyên, không rút lại. Sông chảy qua hai đôi chân — ĐỤC, LẠNH — như rửa đi cái gì đó. Bụi, mệt, hoặc những thứ nặng hơn. Đèn đường soi hai bóng — dài trên mặt nước.
+Wide-medium shot: Linh và Lịch ngồi bậc thềm — cách nhau một khoảng, không quá gần, không quá xa. Hai chân đưa ra trước. Chân Linh — đùi trần, short lụa trượt lên, cách mặt nước một gang. Chân Lịch — ngón chân cái chạm nước. Giật mình — lạnh — rồi để nguyên, không rút lại. Sông chảy qua hai đôi chân — ĐỤC, LẠNH — như rửa đi cái gì đó. Bụi, mệt, hoặc những thứ nặng hơn. Đèn đường soi hai bóng — dài trên mặt nước. Linh ngồi co, eo trần hóp, crop top đen tương phản với da mịn — gợi cảm ngay trong khoảnh khắc yên tĩnh.
 
-[VISUAL: Hai silhouette ngồi cạnh nhau — khoảng cách đúng — nghe nhau thở nhưng không chạm. Nước chảy qua chân — visual motif: sông rửa, sông mang đi, nhưng hai người vẫn ngồi, vẫn ở.]
+[VISUAL: Hai silhouette ngồi cạnh nhau — Linh eo thon trần, vai trần, short lụa — Lịch khoác mỏng gầy mỏng — khoảng cách đúng — nghe nhau thở nhưng không chạm. Nước chảy qua chân — visual motif: sông rửa, sông mang đi, nhưng hai người vẫn ngồi, vẫn ở.]
 
 THOẠI PANEL 2:
 
@@ -354,9 +354,9 @@ CAPTION nhỏ (góc dưới): "Câu nói treo trong không khí. Không ai nhặ
 PANEL 4 (dưới trung tâm — chiếm ~25%):
 GƯƠNG PHÒNG TRỌ — LINH NHÚ BÓNG MỜ SAU LƯNG
 
-Medium shot: phòng trọ Linh — sáng sớm, ánh sáng trắng mờ qua mành rách. Linh đứng trước gương cũ — khung gỗ mòn mép, mặt hơi mờ. Nhìn vào. Phản chiếu chậm — nâng tay phải, gương nâng tay phải — trễ nửa nhịp — rồi đồng bộ. Không có bóng thứ hai. Nhưng Linh nhớ — lần trước, sau đêm Rửa, bóng mờ sau lưng. Dáng người mỏng, vai rũ, đứng quá gần. Người lạ nhưng quen — quen kiểu mà không đặt tên được, như bài hát nghe từ nhỏ mà quên lời. Người bị quên vẫn chưa đi.
+Medium shot: phòng trọ Linh — sáng sớm, ánh sáng trắng mờ qua mành rách. Linh đứng trước gương cũ — khung gỗ mòn mép, mặt hơi mờ. Crop top đen, eo trần, short lụa — đồ ngủ vội mặc, gợi cảm trong ánh sáng yếu. Nhìn vào. Phản chiếu chậm — nâng tay phải, gương nâng tay phải — trễ nửa nhịp — rồi đồng bộ. Không có bóng thứ hai. Nhưng Linh nhớ — lần trước, sau đêm Rửa, bóng mờ sau lưng. Dáng người mỏng, vai rũ, đứng quá gần. Người lạ nhưng quen — quen kiểu mà không đặt tên được, như bài hát nghe từ nhỏ mà quên lời. Người bị quên vẫn chưa đi.
 
-[VISUAL: Gương — phản chiếu Linh — nhưng composition gợi presence ngoài frame: khoảng trống sau lưng Linh trong gương — rộng, tối — nơi bóng từng đứng. Tường ẩm, mạng nhện, mành rách — phòng nghèo, phòng thật.]
+[VISUAL: Gương — phản chiếu Linh — crop top ôm, bụng phẳng trần, short lụa ngắn — nhưng composition gợi presence ngoài frame: khoảng trống sau lưng Linh trong gương — rộng, tối — nơi bóng từng đứng. Tường ẩm, mạng nhện, mành rách — phòng nghèo, phòng thật. Linh đẹp trong nghèo — da mịn, eo thon, xương quai xanh — như hoa dại giữa rác.]
 
 THOẠI PANEL 4:
 
@@ -371,7 +371,7 @@ CAPTION (góc dưới, italic): "Nhưng Linh nhớ bóng đó. Người đó đa
 PANEL 5 (dưới cùng — chiếm ~15%):
 BÌNH MINH — LINH NHẮM MẮT, THẤY SÔNG, HAI NGƯỜI, LY ĐẦY
 
-Wide shot: bình minh — mây phía đông bạc màu, HỒNG NHẠT nhạt, chưa phải bình minh, chỉ là hứa hẹn. Linh nằm trên nệm cứng — mắt nhắm. Lần đầu tiên sau nhiều đêm — không thấy mây đen. Chỉ thấy sông. Và trên sông, hai người ngồi — chân chạm nước, tay gần tay mà chưa chạm. Bên cạnh — một ly nước đầy. TRẮNG THUỶ TINH. Không ai uống. Chờ ai đó nhặt lên. Tiếng hoạ my ngoài hiên — thanh thanh — như hỏi: *răng? răng mô?*
+Wide shot: bình minh — mây phía đông bạc màu, HỒNG NHẠT nhạt, chưa phải bình minh, chỉ là hứa hẹn. Linh nằm trên nệm cứng — mắt nhắm — crop top xô lên lộ eo trần, short lụa bó hông, chân trần duỗi thẳng. Lần đầu tiên sau nhiều đêm — không thấy mây đen. Chỉ thấy sông. Và trên sông, hai người ngồi — chân chạm nước, tay gần tay mà chưa chạm. Bên cạnh — một ly nước đầy. TRẮNG THUỶ TINH. Không ai uống. Chờ ai đó nhặt lên. Tiếng hoạ my ngoài hiên — thanh thanh — như hỏi: *răng? răng mô?*
 
 [VISUAL: Bình minh — HỒNG NHẠT nhẹ — mây bạc — chuyển từ tối sang sáng. Linh nhắm mắt — nội tâm visualize: hai người trên sông, chân chạm nước — visual quiet, peace. Ly nước — vẫn đầy — kết nối về Trang 1, Trang 2 — chưa giải thích, vẫn chờ. Kết: hy vọng mỏng, tĩnh, im.]
 
