@@ -55,3 +55,8 @@ When a task description says to write a file incrementally, in sections, or piec
 
 - **Character sheet references**: Manga prompt files reference `manga/CHARACTER_SHEETS.md` for visual consistency across chapters.
 - **Prompt file structure**: Each chapter's prompts file follows a standard layout: overview → character refs → QUẦN ÁO → phong cách chung → sợi đỏ → per-trang prompts. See existing `manga/prompts/ch0X_prompts.md` files for the pattern.
+
+## Testing writer.py-based scripts
+
+- **httpx.stream, not httpx.post**: `writer.py` uses `httpx.stream()` (SSE streaming) for API calls, not `httpx.post()`. Tests that mock only `httpx.post` will not intercept the call, causing real API requests and 404 errors. Always mock BOTH `httpx.post` AND `httpx.stream` when testing any module that imports `call_writer` from `writer.py`.
+- **Mock stream pattern**: The `httpx.stream` mock must return a context manager whose `__enter__` returns an object with `iter_lines()` yielding SSE-formatted chunks (`data: {json}\n`, `data: [DONE]\n`). See `test_s05_e2e.py::TestLanguageInstructionWiring._capture_call_writer_system_prompt` for the pattern.

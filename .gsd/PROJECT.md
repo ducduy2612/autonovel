@@ -50,8 +50,8 @@ See `.gsd/REQUIREMENTS.md` for the explicit capability contract, requirement sta
   - ✅ S04: Export and metadata language support (epub lang field, LaTeX babel, state.json language)
   - ✅ S05: End-to-end Vietnamese pipeline verification (43 integration tests, seed_vi.txt, live verification script)
 
-- [ ] M002: Manga Prompts Ch09–Ch24 — Complete manga prompt set for chapters 9–24
+- [x] M002: Manga Prompts Ch09–Ch24 — Complete manga prompt set for chapters 9–24 ✅
   - ✅ S01: Ch09–Ch12 prompt files (descent arc)
   - ✅ S02: Ch13–Ch16 prompt files (journey arc)
   - ✅ S03: Ch17–Ch20 prompt files (confrontation arc: Tuấn Rửa, Cảnh reveal, group truth)
-  - ⬜ S04: Ch21–Ch24 prompt files (resolution arc)
+  - ✅ S04: Ch21–Ch24 prompt files (resolution arc: Linh-Cảnh dialogue, biggest rain, Rửa stopped, epilogue)

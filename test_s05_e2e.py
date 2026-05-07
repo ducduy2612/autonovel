@@ -334,7 +334,31 @@ class TestLanguageInstructionWiring:
             captured_payload.update(kwargs.get("json", {}))
             return self._mock_api_response("Generated content.")
 
-        with patch("httpx.post", side_effect=capture_post):
+        def capture_stream(method, url, **kwargs):
+            captured_payload.update(kwargs.get("json", {}))
+            # Return a context manager that yields a mock response
+            # that simulates SSE streaming with the generated content.
+            mock_resp = MagicMock()
+            mock_resp.status_code = 200
+            mock_resp.raise_for_status = MagicMock()
+
+            def iter_lines():
+                import json as _json
+                content = "Generated content."
+                chunk = _json.dumps({
+                    "choices": [{"delta": {"content": content}}],
+                })
+                yield f"data: {chunk}"
+                yield "data: [DONE]"
+
+            mock_resp.iter_lines = iter_lines
+            cm = MagicMock()
+            cm.__enter__ = MagicMock(return_value=mock_resp)
+            cm.__exit__ = MagicMock(return_value=False)
+            return cm
+
+        with patch("httpx.post", side_effect=capture_post), \
+             patch("httpx.stream", side_effect=capture_stream):
             mod = importlib.import_module(module_name)
             # Patch BASE_DIR in the imported module
             monkeypatch.setattr(mod, "BASE_DIR", tmp_path)

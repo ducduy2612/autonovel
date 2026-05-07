@@ -109,3 +109,11 @@
 {"id":"6e09689f-824a-4db5-9914-4a6662804cd9","ts":"2026-05-03T17:14:13.047Z","severity":"warning","message":"Safety: 4 unexpected file change(s) outside task plan","source":"notify","read":false}
 {"id":"f569e064-e9cb-49ac-b868-322c04621efc","ts":"2026-05-03T17:14:45.127Z","severity":"info","message":"Verification gate: FAILED — pytest","source":"notify","read":false}
 {"id":"9343f16a-366b-4964-b714-18482831cfd3","ts":"2026-05-03T17:14:45.127Z","severity":"warning","message":"Verification failed (pytest) — auto-fix attempt 1/2","source":"notify","read":false}
+{"id":"c19e6efd-e7ce-4a26-b651-3bd19458d2a6","ts":"2026-05-03T17:23:39.705Z","severity":"info","message":"Committed: feat: Generated ch24_prompts.md with 4 trang of manga prompts for the T…","source":"notify","read":false}
+{"id":"c3e5457c-3811-4e20-b914-9266443b74df","ts":"2026-05-03T17:23:39.709Z","severity":"warning","message":"[safety] file-change: manga/prompts/ch23_prompts.md — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"2aefd27c-1765-457f-9a5e-3f5e82b30d2c","ts":"2026-05-03T17:23:39.709Z","severity":"warning","message":"[safety] file-change: results.tsv — Modified but not in task plan's expected output","source":"workflow-logger","read":false}
+{"id":"f9c0df78-e059-45e2-8d01-7b1e98192ab7","ts":"2026-05-03T17:23:39.709Z","severity":"warning","message":"Safety: 2 unexpected file change(s) outside task plan","source":"notify","read":false}
+{"id":"4fa7a5a3-6737-4b24-8caa-367295cb5619","ts":"2026-05-03T17:24:13.168Z","severity":"info","message":"Verification gate: FAILED — pytest","source":"notify","read":false}
+{"id":"d03d48ba-71ad-49d2-a212-02c06e610a1c","ts":"2026-05-03T17:24:13.169Z","severity":"warning","message":"Verification failed (pytest) — auto-fix attempt 1/2","source":"notify","read":false}
+{"id":"d5083362-7e5d-4ef7-b84d-85b429dfb9c2","ts":"2026-05-03T17:29:15.155Z","severity":"info","message":"Auto-mode stopped — All milestones complete. Session: $0.0000 · 27.34M tokens · 25 units","source":"notify","read":false}
+{"id":"cbf701db-991d-416b-afb7-cb0a0380174b","ts":"2026-05-03T17:29:15.156Z","severity":"warning","message":"[state] DB unavailable — using filesystem state derivation (degraded mode)","source":"workflow-logger","read":false}
